@@ -72,11 +72,8 @@
 	- Multinationale Konzerne.
 	- Aktiengesellschaften.
 
-<p align="center"><img src=":/be4c4c9d844e40ce91b21cdd64a29f67" width="400" /></p>
-
 # Industrialisierung: England vs Deutschland
 ## England
-<p align="center"><img src=":/e61b347b6d2c4ae1bd4734b9800056ff" width="200" /></p>
 
 ###  Englands Vorteile:
 - Veile Kolonien als Rohstoff quelen und Absatzmärkte(Indien).
@@ -98,4 +95,4 @@
 - 1860er: Einführung des limitierten Haftungsgesetzes, erleichtert die Gründung von Aktiengesellschaften
 - 1870er Jahre: Entwicklung des Gilchrist-Thomas-Verfahrens zur Stahlerzeugung, ermöglicht die Verwendung von phosphorhaltigen Erzen.
 ## Duetschland
-<p align="center"><img src=":/2bbe4f86f7ab4722951969526b8b92a1" width="600" /></p>
+
