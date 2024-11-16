@@ -2,8 +2,9 @@
 - [Revolutionen: USA und Frankreich](#revolutionen-usa-und-frankreich)
 - [Der Prozess der Modernisierung](#der-prozess-der-modernisierung)
 - [Industrialisierung: England vs Deutschland](#industrialisierung-england-vs-deutschland)
-- [Quellenanalyse](#quellenanalyse)
 - [Bürgertum](#bürgertum)
+- [Quellenanalyse](#quellenanalyse)
+
 # Revolutionen: USA und Frankreich
 ### USA
 - England gewinnt den Siebenjährigen Krieg gegen Frankreich und erlangt die meisten französischen Kolonien in Nordamerika.
@@ -98,6 +99,7 @@
 - Zweite Hälfte des 19. Jahrhunderts: Hochindustrialisierung(Erfindungen in den Bereichen Elektrotechnik, Maschinenbau und Chemie)
 
 # Bürgertum
+
 ### Typen
 - Besitzbürgertum:
 	- Bürger mit überdurchschnittliche Menge von  materiellen Ressourcen.
@@ -114,7 +116,18 @@
 	- Unter untere soziale Schicht, arbeitnehmerähnliche Abhängigkeit und teils prekäre wirtschaftliche Lage.
 	- Kleinen Selbstständigen, Handwerkern, Kleinhändlern, mittleren und kleinen Angestellten und Beamten.
  	- Ca. 10 % der Bevölkerung in Deutschland.
+### Merkmale der bürgerlichen Kultur
+- Werte und Normen: Betonung von Besitz, Bildung, Selbstständigkeit, Leistungsrespekt Fleiß, Selbstdisziplin und Sparsamkeit.
+- Klare Rollenverteilung mit dem Mann als Ernährer und der Frau als Verantwortliche für Haushalt und Kindererziehung.
+- Kulturelle Bildung: Förderung von Kunst und Kultur, z. B. durch Hausmusik, Theater- und Konzertbesuche.
+- Soziale Regeln: Wert auf gepflegtes Aussehen, Sauberkeit, gutes Benehmen.
+- Teilnahme an Vereinen und Lesegesellschaften zur Meinungsbildung und politischen Partizipation.
+- Streben nach sozialer Anerkennung und Statussicherheit durch Bildung und moralisches Verhalten.
+- Engagement in der liberalen Nationalbewegung, Spannungsfeld zwischen liberalen Idealen und Klasseninteressen.
+- Differenzierung gegenüber Adel und Unterschichten, Unterstreichung des eigenen Führungsanspruchs.
+
 # Quellenanalyse
+
 ### Einleitung
 - Textsorte (z. B. Tagebucheintrag, Zeitungsartikel, politische Rede, etc.)
 - Autor oder Autorin
