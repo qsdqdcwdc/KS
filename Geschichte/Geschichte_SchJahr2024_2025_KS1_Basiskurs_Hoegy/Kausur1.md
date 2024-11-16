@@ -3,7 +3,7 @@
 - [Der Prozess der Modernisierung](#der-prozess-der-modernisierung)
 - [Industrialisierung: England vs Deutschland](#industrialisierung-england-vs-deutschland)
 - [Quellenanalyse](#quellenanalyse)
-
+- [Bürgertum](#bürgertum)
 # Revolutionen: USA und Frankreich
 ### USA
 - England gewinnt den Siebenjährigen Krieg gegen Frankreich und erlangt die meisten französischen Kolonien in Nordamerika.
@@ -21,7 +21,7 @@
 - Sie zwangen die Monarchen zu defensiver Modernisierung, um ihre Macht zu sichern.
 
 # Der Prozess der Modernisierung
-<p align="center"><img src="Img/k1_b1.png" width="600"  title="hover text"></p>
+<p align="center"><img src="Img/k1_b1.png" width="600"  title="Abb2"></p>
 
 ### Modernisierung
 - Kern der Modernisierung: die Doppelrevolution aus politischer und industrieller Revolution.
@@ -53,7 +53,7 @@
 
 # Industrialisierung: England vs Deutschland
 <p align="center">
-	<img src="Img/k1_b2.png" width="600"  title="hover text">
+	<img src="Img/k1_b2.png" width="600"  title="Abb1">
 	<br>
 	<em>Anteile verschiedener Länder an der Weltindustrieproduktion in %</em>
 </p>
@@ -97,6 +97,23 @@
 - 1850er: im Ruhrgebiet und in Oberschlesien entstahen Industriezentren.
 - Zweite Hälfte des 19. Jahrhunderts: Hochindustrialisierung(Erfindungen in den Bereichen Elektrotechnik, Maschinenbau und Chemie)
 
+# Bürgertum
+### Typen
+- Besitzbürgertum:
+	- Bürger mit überdurchschnittliche Menge von  materiellen Ressourcen.
+ 	- Bankiers, Großkaufleute, Kapitalbesitzer und Unternehmer
+  	- Untergruppen:
+  		- Großbürgertum(bürgerlichen Elite: Großindustrielle, Überseekaufleute,  Eisenbahnmagnaten)
+  		- Wirtschaftsbürgertum(Unternehmern in Industrie, Handel und Handwerk)
+  	- Ca. 3-4 % der Bevölkerung in Deutschland
+- Bildungsbürgertum:
+	- Bürger die höhere Bildung besaßen und sie beruflich verwendeten.
+	- Pfarrer, Ärzte, Rechtsanwälte, Gymnasiallehrer und Professoren.
+ 	- Ca. 1 % der Bevölkerung in Deutschland
+- Das Kleinbürgertum:
+	- Unter untere soziale Schicht, arbeitnehmerähnliche Abhängigkeit und teils prekäre wirtschaftliche Lage.
+	- Kleinen Selbstständigen, Handwerkern, Kleinhändlern, mittleren und kleinen Angestellten und Beamten.
+ 	- Ca. 10 % der Bevölkerung in Deutschland.
 # Quellenanalyse
 ### Einleitung
 - Textsorte (z. B. Tagebucheintrag, Zeitungsartikel, politische Rede, etc.)
