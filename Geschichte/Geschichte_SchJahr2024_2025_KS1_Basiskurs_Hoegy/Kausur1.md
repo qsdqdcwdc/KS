@@ -21,7 +21,7 @@
 - Sie zwangen die Monarchen zu defensiver Modernisierung, um ihre Macht zu sichern.
 
 # Der Prozess der Modernisierung
-<p align="center"><img src="_Img/k1_b1.png" width="600"  title="hover text"></p>
+<p align="center"><img src="Img/k1_b1.png" width="600"  title="hover text"></p>
 
 ### Modernisierung
 - Kern der Modernisierung: die Doppelrevolution aus politischer und industrieller Revolution.
@@ -53,7 +53,7 @@
 
 # Industrialisierung: England vs Deutschland
 <p align="center">
-	<img src="_Img/k1_b2.png" width="600"  title="hover text">
+	<img src="Img/k1_b2.png" width="600"  title="hover text">
 	<br>
 	<em>Anteile verschiedener Länder an der Weltindustrieproduktion in %</em>
 </p>
