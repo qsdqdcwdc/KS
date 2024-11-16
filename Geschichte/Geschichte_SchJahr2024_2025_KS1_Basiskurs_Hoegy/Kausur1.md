@@ -74,6 +74,22 @@
 - 1860er: Einführung des limitierten Haftungsgesetzes, erleichtert die Gründung von Aktiengesellschaften.
 - 1870er Jahre: Entwicklung des Gilchrist-Thomas-Verfahrens zur Stahlerzeugung, ermöglicht die Verwendung von phosphorhaltigen Erzen.
 ## Deutschland
+### Deutschlands Vorteile:
+- Ablagerungen von Kohle.
+- Friedensperiode: Deutschland war zwischen 1815 und 1913 nur vier Jahre im Krieg
+### Deutschlands Nachteile:
+- Veile Zollgrenzen: Deutschland war kein einheitlicher Herrschafts- und Wirtschaftsraum.
+- Bis 1871 kiene einheitliche Währung.
+- Agrarrevolution pasierte später als in Großbritannien.
+- Deutschland musste Kriegsentschädigungen zahlen.
+- Deutschland war kein Kolonial Land.
+### Ablauf:	
+- 1785: Erste Dampfmaschine wird in der Textilproduktion bei Düsseldorf eingesetzt.
+- 1835: Erste Bahnstrecke Deutschlands wurde  zwischen Nürnberg und Fürth.
+- 1850er: Breites Eisenbahnsystem.
+- Wegen Eisenbahn wird Eisen- und Stahlsektor zu Schrittmacherindustrie.
+- 1850er: im Ruhrgebiet und in Oberschlesien entstahen Industriezentren.
+- Zweite Hälfte des 19. Jahrhunderts: Hochindustrialisierung(Erfindungen in den Bereichen Elektrotechnik, Maschinenbau und Chemie)
 
 # Quellenanalyse
 ### Einleitung
