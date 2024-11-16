@@ -101,6 +101,7 @@
 # Bürgertum
 
 ### Typen
+Das **Bürgertum** ist die gesellschaftliche Schicht der Bürger, die durch Besitz, Bildung und städtisches Leben gekennzeichnet ist und zwischen Adel und Arbeitern steht.
 - Besitzbürgertum:
 	- Bürger mit überdurchschnittliche Menge von  materiellen Ressourcen.
  	- Bankiers, Großkaufleute, Kapitalbesitzer und Unternehmer
