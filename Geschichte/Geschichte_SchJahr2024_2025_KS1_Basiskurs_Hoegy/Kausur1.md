@@ -99,9 +99,8 @@
 - Zweite Hälfte des 19. Jahrhunderts: Hochindustrialisierung(Erfindungen in den Bereichen Elektrotechnik, Maschinenbau und Chemie)
 
 # Bürgertum
-
-### Typen
 Das **Bürgertum** ist die gesellschaftliche Schicht der Bürger, die durch Besitz, Bildung und städtisches Leben gekennzeichnet ist und zwischen Adel und Arbeitern steht.
+### Typen
 - Besitzbürgertum:
 	- Bürger mit überdurchschnittliche Menge von  materiellen Ressourcen.
  	- Bankiers, Großkaufleute, Kapitalbesitzer und Unternehmer
