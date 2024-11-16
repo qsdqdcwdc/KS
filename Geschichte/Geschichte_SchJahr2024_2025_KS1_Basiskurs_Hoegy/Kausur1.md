@@ -57,6 +57,7 @@
 	<br>
 	<em>Anteile verschiedener Länder an der Weltindustrieproduktion in %</em>
 </p>
+
 ## England
 
 ### Englands Vorteile:
