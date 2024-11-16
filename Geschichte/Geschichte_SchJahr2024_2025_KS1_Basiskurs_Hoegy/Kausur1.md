@@ -42,7 +42,7 @@
 -  musst du sowohl die damalige gesellschaftliche Lage berücksichtigen als auch deine Meinung im Bezug auf die derzeitige Situation und Lebensführung.
 
 # Der Prozess der Modernisierung
-<p align="center"><img src=":/b2d03e92ee75481a98fd30837be5fa51" width="400" /></p>
+<p align="center"><img src="/img/k1_b1.png" width="400" /></p>
 
 ### Modernisierung
 - Kern der Modernisierung: die Doppelrevolution aus politischer und industrieller Revolution.
