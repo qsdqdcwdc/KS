@@ -52,7 +52,11 @@
 	- Aktiengesellschaften.
 
 # Industrialisierung: England vs Deutschland
-<p align="center"><img src="Img/k1_b2.png" width="600"  title="hover text"></p>
+<p align="center">
+	<img src="Img/k1_b2.png" width="600"  title="hover text">
+	<br>
+	<em>Anteile verschiedener Länder an der Weltindustrieproduktion in %</em>
+</p>
 ## England
 
 ### Englands Vorteile:
