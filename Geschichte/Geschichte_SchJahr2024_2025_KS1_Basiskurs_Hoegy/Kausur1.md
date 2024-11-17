@@ -126,7 +126,7 @@
 ### Dründe
 - Frustration innerhalb Bürgertum wegen: Mangel an politischer Repräsentation, politische Repressionen und Zensur der Presse.
 - Wirtschaftlichekriese: schwere Agrarkrise, die durch Missernten verursacht wurde.
-- ebruarrevolution 1848 in Frankreich.
+- Februarrevolution 1848 in Frankreich.
 ### Ablauuf
 - Februar 1848: Februarrevolution in Paris 
 - 27. Februar 1848: Mannheimer Volksversammlung: Erste öffentliche Forderung nach liberalen Reformen in Deutschland, bekannt als die „Märzforderungen“.
@@ -140,7 +140,7 @@
  	- Gewaltenteilung zwischen Exekutive (Kaiser), Legislative (Reichstag) und Judikative (Reichsgericht).
 - Reichsgebiet:
 	- Kleindeutsche Lösung: Einigung Deutschlands ohne Österreich, unter preußischer Führung. 
-	- Großdeutsche Lösung: Einigung aller deutschsprachigen Gebiete inklusive Österreich(wurde von Nationalversammlung abgewickelt).
+	- Großdeutsche Lösung: Einigung aller deutschsprachigen Gebiete inklusive Österreich(wurde von Nationalversammlung abgelehnt).
 - Bieldung von der Vorläufer der politischen Parteien.
 ### Das Scheitern der Revolution
 
