@@ -2,6 +2,7 @@
 - [Revolutionen: USA und Frankreich](#revolutionen-usa-und-frankreich)
 - [Der Prozess der Modernisierung](#der-prozess-der-modernisierung)
 - [Industrialisierung: England vs Deutschland](#industrialisierung-england-vs-deutschland)
+- [Vor der Märzrevolution](#vor-der-märzrevolution)
 - [Bürgertum](#bürgertum)
 - [Quellenanalyse](#quellenanalyse)
 
@@ -98,9 +99,36 @@
 - 1850er: im Ruhrgebiet und in Oberschlesien entstahen Industriezentren.
 - Zweite Hälfte des 19. Jahrhunderts: Hochindustrialisierung(Erfindungen in den Bereichen Elektrotechnik, Maschinenbau und Chemie)
 
+# Vor der Märzrevolution
+
+### Wiener Kongress 1815
+- Ziele:
+	- Balance der Mächte: Das Gleichgewicht zwischen den fünf Großmächten Großbritannien, Russland, Österreich, Preußen und Frankreich wiederhergestelltelen.
+	- Restauration: Wiederherstellung der vor-napoleonischen Herrschaftsstrukturen in Europa.
+- Folgen:
+	- Restaurierte Monarchien: Wiederherstellung vieler Monarchien, die durch Napoleon abgesetzt worden waren.
+	- Heilige Allianz: Bildung einer Koalition zwischen Russland, Österreich und Preußen zur Sicherung der restaurativen Ordnung.
+### 1815-1848: Vormärz und Aufstieg des Bürgertums
+- **Gesellschaft**: Wachsende Bedeutung des Bürgertums, das in Besitz- und Bildungsbürgertum unterteilt ist, beginnt die ständische Gesellschaft zu verdrängen.
+- **Entstehung der Biedermeier-Kultur:** Rückzug ins Private, Kultur und häusliche Werte während der Restaurationszeit.
+- **Politik**: Das Bürgertum bildet eine politische Öffentlichkeit in bürgerlichen Vereinen, die zunehmend nach Einfluss strebt.
+- 1830: Julirevolution in Frankreich
+- 1832: Hambacher Fest
+	- **Ereignis**: Zusammenkunft von ca. 30.000 Menschen, die einen deutschen Nationalstaat und liberale Freiheiten fordern.
+	- **Symbolik**: Zeigen der deutschen und polnischen Flagge als Ausdruck der Solidarität mit anderen nationalen Bewegungen.
+- 1840er: Fortsetzung des Aufstiegs des Bürgertums und kulturelle Entwicklungen
+	- **Kultur**: Das Bildungsbürgertum fördert aktiv Bildung, Wissenschaft und kulturelle Belange.
+	- **Politik**: Steigende politische Aktivität und Unzufriedenheit mit politischer Stagnation und begrenzten Reformen.
+- 1848: Revolution in Europa
+	- **Februarrevolution in Frankreich**: Abdankung von Louis Philippe und Ausrufung der Zweiten Republik.
+	- **Ausbreitung**: Revolutionäre Bewegungen greifen auf Deutschland, Italien und die Habsburgermonarchie über.
+	- **Deutschland**: Einberufung von Nationalversammlungen in verschiedenen deutschen Staaten zur Beratung über nationale Einheit und liberale Verfassungen.
+
+
 # Bürgertum
 Das **Bürgertum** ist die gesellschaftliche Schicht der Bürger, die durch Besitz, Bildung und städtisches Leben gekennzeichnet ist und zwischen Adel und Arbeitern steht.
 ### Typen
+
 - Besitzbürgertum:
 	- Bürger mit überdurchschnittliche Menge von  materiellen Ressourcen.
  	- Bankiers, Großkaufleute, Kapitalbesitzer und Unternehmer
