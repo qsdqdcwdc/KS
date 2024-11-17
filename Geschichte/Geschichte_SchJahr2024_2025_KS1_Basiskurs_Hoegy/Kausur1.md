@@ -124,15 +124,17 @@
 	- **Deutschland**: Einberufung von Nationalversammlungen in verschiedenen deutschen Staaten zur Beratung über nationale Einheit und liberale Verfassungen.
 # Märzrevolution
 ### Dründe
-- Frustration innerhalb Bürgertum wegen:
-	- Mangel an politischer Repräsentation.
- 	- Zensur der Presse.
- 	- Unterdrückung der mangeläußerung.
-- Pauperismus: Wirtschaftlichekriese.
-
+- Frustration innerhalb Bürgertum wegen: Mangel an politischer Repräsentation, politische Repressionen und Zensur der Presse.
+- Wirtschaftlichekriese: schwere Agrarkrise, die durch Missernten verursacht wurde.
+- ebruarrevolution 1848 in Frankreich.
+### Ablauuf
+- Februar 1848: Februarrevolution in Paris 
+- 27. Februar 1848: Mannheimer Volksversammlung: Erste öffentliche Forderung nach liberalen Reformen in Deutschland, bekannt als die „Märzforderungen“.
+- März 1848: In Berlin, Wien und anderen deutschen Zentren kommt es zu massiven Protesten und Straßenkämpfen. König Friedrich Wilhelm IV. von Preußen sieht sich gezwungen, Zugeständnisse zu machen (u.a. eine liberale Pressefreiheit und die Einberufung einer Preußischen Nationalversammlung).
+- Mai 1848: Frankfurter Nationalversammlung.
 ### Nationalversammlung in der Paulskirche:
-- Ziel: Gründung des Deutschen Reichs
-- Verfassungsentwurf: Basierend auf liberalen und demokratischen Prinzipien.
+- Die Nationalversammlung sollte eine Verfassung für einen deutschen Bundesstaat entwerfen.
+- Verfassungsentwurf enthaltete:
 	- Grundrechte:  der Meinungs- und Pressefreiheit, Religionsfreiheit und Gleichheit vor dem Gesetz.
 	- Allgemeine (Männer-) Wahlrecht.
  	- Gewaltenteilung zwischen Exekutive (Kaiser), Legislative (Reichstag) und Judikative (Reichsgericht).
