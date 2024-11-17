@@ -34,20 +34,20 @@
 	- Liberale Demokratie.
 	- Auflösung der Ständegesellschaft.
 	- Abschaffung der Privilegien für Adel und Klerus.
-- **Wirtschaftliche Modernisierung:**
+- **Wirtschaftliche Modernisierung**
 	- **Industrialisierung:** Übergang von einer agrarischen Wirtschaft (Agraradelsgesellschaft) zu einer diversifizierteren Wirtschaftsstruktur (industrielle Gesellschaft) basierend auf: Massenproduktion, Automatisierung, Steigerung der Energieproduktion/-verbrauch, Wandel der Mehrheit der Arbeitskräfte vom primären Sektor (Landwirtschaft) in den sekundären (Industrie und Handwerk) und tertiären (Dienstleistungen) Sektor.
 	- Technologische Innovationen: Dampfmaschine, Elektrotechnik, Kommunikationstechnik.
 	- Weltwirtschaft: globale Wirtschaftsintegration.
-- **Gesellschaftliche Modernisierung:**
+- **Gesellschaftliche Modernisierung**
 	- Ideal der Chancengleichheit.
 	- Bildung und Besitz bestimmen die soziale Stellung.
 ### Phasen der Industrialisierung
-- **Frühindustrialisierung:**
+- **Frühindustrialisierung**
 	- Markiert den Übergang von manueller zu maschineller Produktion.
 	- Entwicklung der Schrittmacherindustrie (England: Textilindustrie).
 	- Erfindungen: Spinning Jenny, die Waterframe, mechanischer Webstuhl, Dampfmaschine.
 - **Take-off-Phase:** Ausbreitung auf andere Industrien.
-- **Hochindustrialisierung:**
+- **Hochindustrialisierung**
 	- Elektrotechnik, Entwicklung der chemischen Industrie.
 	- Evolution der Kommunikation.
 	- Multinationale Konzerne.
@@ -62,17 +62,17 @@
 
 ## England
 
-### Englands Vorteile:
+### Englands Vorteile
 - Viele Kolonien als Rohstoffquellen und Absatzmärkte (Indien).
 - Große und leicht zugängliche Ablagerungen von Kohle und Eisen.
 - Geografische Lage: viele Häfen, reiche Zahl von Flüssen und Kanälen.
 - Topografie: Industriegebiete lagen auf flachen Ebene, was den Transport erleichterte.
 - Erleichterter internationaler Handel und innerländischer Transport.
 - Wirtschaftsliberalismus: wenige Regelungen für Unternehmen, niedrige Steuern.
-### Englands Nachteile:
+### Englands Nachteile
 - Widerstand gegen technologische Veränderungen: Es gab sozialen Widerstand gegen die Mechanisierung.
 - Kapitalmangel: In den frühen Phasen der Industrialisierung war es oft schwierig, genügend Kapital für große industrielle Projekte zu beschaffen.
-### Ablauf:	
+### Ablauf
 - 1733: Erfindung des Fliegenden Webers (Flying Shuttle) – beschleunigt den Webprozess.
 - 1750er-1770er Jahre: Wachstum der Manufakturen in Textilien; Beginn der Verlagerung von Heim- zu Fabrikproduktion.
 - 1790er Jahre: Expansion der Dampfkraft.
@@ -82,16 +82,16 @@
 - 1860er: Einführung des limitierten Haftungsgesetzes, erleichtert die Gründung von Aktiengesellschaften.
 - 1870er Jahre: Entwicklung des Gilchrist-Thomas-Verfahrens zur Stahlerzeugung, ermöglicht die Verwendung von phosphorhaltigen Erzen.
 ## Deutschland
-### Deutschlands Vorteile:
+### Deutschlands Vorteile
 - Ablagerungen von Kohle.
 - Friedensperiode: Deutschland war zwischen 1815 und 1913 nur vier Jahre im Krieg
-### Deutschlands Nachteile:
+### Deutschlands Nachteile
 - Veile Zollgrenzen: Deutschland war kein einheitlicher Herrschafts- und Wirtschaftsraum.
 - Bis 1871 kiene einheitliche Währung.
 - Agrarrevolution pasierte später als in Großbritannien.
 - Deutschland musste Kriegsentschädigungen zahlen.
 - Deutschland war kein Kolonial Land.
-### Ablauf:	
+### Ablauf	
 - 1785: Erste Dampfmaschine wird in der Textilproduktion bei Düsseldorf eingesetzt.
 - 1835: Erste Bahnstrecke Deutschlands wurde  zwischen Nürnberg und Fürth.
 - 1850er: Breites Eisenbahnsystem.
