@@ -110,7 +110,7 @@
 	- Heilige Allianz: Bildung einer Koalition zwischen Russland, Österreich und Preußen zur Sicherung der restaurativen Ordnung.
 ### 1815-1848: Vormäz
 [Video von MrWissen2go: Deutschland im Vormärz I musstewissen Geschichte](https://www.youtube.com/watch?v=6PmGgQwwP74)
-<br>
+<br></br>
 Veränderungen innerhalb von dem Bürgertum:
 	- Entstehung der Kulturnation unter Fremdherrschaft von Napoleon: Entwicklung von einem nationalen Bewusstsein.
 	- Das Bürgertum bildet eine politische Öffentlichkeit in bürgerlichen Vereinen, die zunehmend nach Einfluss strebt.
