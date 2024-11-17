@@ -110,22 +110,28 @@
 	- Heilige Allianz: Bildung einer Koalition zwischen Russland, Österreich und Preußen zur Sicherung der restaurativen Ordnung.
 ### 1815-1848: Vormäz
 [Video von MrWissen2go: Deutschland im Vormärz I musstewissen Geschichte](https://www.youtube.com/watch?v=6PmGgQwwP74)
-- **Gesellschaft**: Wachsende Bedeutung des Bürgertums, das in Besitz- und Bildungsbürgertum unterteilt ist, beginnt die ständische Gesellschaft zu verdrängen.
-- **Entstehung der Biedermeier-Kultur:** Rückzug ins Private, Kultur und häusliche Werte während der Restaurationszeit.
-- **Politik**: Das Bürgertum bildet eine politische Öffentlichkeit in bürgerlichen Vereinen, die zunehmend nach Einfluss strebt.
-- 1830: Julirevolution in Frankreich
+<br>
+Veränderungen innerhalb von dem Bürgertum:
+	- Entstehung der Kulturnation unter Fremdherrschaft von Napoleon: Entwicklung von einem nationalen Bewusstsein.
+	- Das Bürgertum bildet eine politische Öffentlichkeit in bürgerlichen Vereinen, die zunehmend nach Einfluss strebt.
+	- Entstehung der **Biedermeier**-Kultur: Rückzug ins Private, Kultur und häusliche Werte während der Restaurationszeit.
 - 1832: Hambacher Fest
 	- **Ereignis**: Zusammenkunft von ca. 30.000 Menschen, die einen deutschen Nationalstaat und liberale Freiheiten fordern.
 	- **Symbolik**: Zeigen der deutschen und polnischen Flagge als Ausdruck der Solidarität mit anderen nationalen Bewegungen.
 - 1840er: Fortsetzung des Aufstiegs des Bürgertums und kulturelle Entwicklungen
 	- **Kultur**: Das Bildungsbürgertum fördert aktiv Bildung, Wissenschaft und kulturelle Belange.
 	- **Politik**: Steigende politische Aktivität und Unzufriedenheit mit politischer Stagnation und begrenzten Reformen.
-- 1848: Revolution in Europa
-	- **Februarrevolution in Frankreich**: Abdankung von Louis Philippe und Ausrufung der Zweiten Republik.
+- 1848: Februarrevolution in Frankreich
+	- Abdankung von Louis Philippe und Ausrufung der Zweiten Republik.
 	- **Ausbreitung**: Revolutionäre Bewegungen greifen auf Deutschland, Italien und die Habsburgermonarchie über.
 	- **Deutschland**: Einberufung von Nationalversammlungen in verschiedenen deutschen Staaten zur Beratung über nationale Einheit und liberale Verfassungen.
-
-
+# Märzrevolution
+### Gründe:
+- Frustration innerhalb Bürgertum wegen:
+	- Adel Herrschft: Mangel an politischer Repräsentation.
+ 	- Zensur der Presse.
+ 	- Unterdrückung der mangeläußerung.
+- Pauperismus: Wirtschaftlichekriese.
 # Bürgertum
 Das **Bürgertum** ist die gesellschaftliche Schicht der Bürger, die durch Besitz, Bildung und städtisches Leben gekennzeichnet ist und zwischen Adel und Arbeitern steht.
 ### Typen
@@ -156,7 +162,7 @@ Das **Bürgertum** ist die gesellschaftliche Schicht der Bürger, die durch Besi
 - Differenzierung gegenüber Adel und Unterschichten, Unterstreichung des eigenen Führungsanspruchs.
 
 # Quellenanalyse
-
+[Studyflix: Quellenanalyse Geschichte - Tipps und Beispiele](https://studyflix.de/geschichte/quellenanalyse-geschichte-5888)
 ### Einleitung
 - Textsorte (z. B. Tagebucheintrag, Zeitungsartikel, politische Rede, etc.)
 - Autor oder Autorin
