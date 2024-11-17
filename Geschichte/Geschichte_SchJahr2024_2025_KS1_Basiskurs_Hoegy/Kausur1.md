@@ -111,7 +111,6 @@
 ### 1815-1848: Vormäz
 [Video von MrWissen2go: Deutschland im Vormärz I musstewissen Geschichte](https://www.youtube.com/watch?v=6PmGgQwwP74)
 <br></br>
-
 - Veränderungen innerhalb von dem Bürgertum:
 	- Entstehung der Kulturnation unter Fremdherrschaft von Napoleon: Entwicklung von einem nationalen Bewusstsein.
 	- Das Bürgertum bildet eine politische Öffentlichkeit in bürgerlichen Vereinen, die zunehmend nach Einfluss strebt.
@@ -124,12 +123,31 @@
 	- **Ausbreitung**: Revolutionäre Bewegungen greifen auf Deutschland, Italien und die Habsburgermonarchie über.
 	- **Deutschland**: Einberufung von Nationalversammlungen in verschiedenen deutschen Staaten zur Beratung über nationale Einheit und liberale Verfassungen.
 # Märzrevolution
-### Gründe:
+### Dründe
 - Frustration innerhalb Bürgertum wegen:
-	- Adel Herrschft: Mangel an politischer Repräsentation.
+	- Mangel an politischer Repräsentation.
  	- Zensur der Presse.
  	- Unterdrückung der mangeläußerung.
 - Pauperismus: Wirtschaftlichekriese.
+
+### Nationalversammlung in der Paulskirche:
+- Ziel: Gründung des Deutschen Reichs
+- Verfassungsentwurf: Basierend auf liberalen und demokratischen Prinzipien.
+	- Grundrechte:  der Meinungs- und Pressefreiheit, Religionsfreiheit und Gleichheit vor dem Gesetz.
+	- Allgemeine (Männer-) Wahlrecht.
+ 	- Gewaltenteilung zwischen Exekutive (Kaiser), Legislative (Reichstag) und Judikative (Reichsgericht).
+- Reichsgebiet:
+	- Kleindeutsche Lösung: Einigung Deutschlands ohne Österreich, unter preußischer Führung. 
+	- Großdeutsche Lösung: Einigung aller deutschsprachigen Gebiete inklusive Österreich(wurde von Nationalversammlung abgewickelt).
+- Bieldung von der Vorläufer der politischen Parteien.
+### Das Scheitern der Revolution
+
+### Auswirkungen
+- Paulskirchenverfassung diente als Vorlage für spätere deutsche Verfassungen.
+- Die Paulskirchenverfassung stärkte die liberalen und demokratischen Bewegungen in Deutschland.
+- Die Ereignisse und Ideale der Paulskirche wurden Teil der politischen Kultur Deutschlands.
+- Zugeständnisse wie Pressefreiheit, Vereinigungsfreiheit.
+
 # Bürgertum
 Das **Bürgertum** ist die gesellschaftliche Schicht der Bürger, die durch Besitz, Bildung und städtisches Leben gekennzeichnet ist und zwischen Adel und Arbeitern steht.
 ### Typen
