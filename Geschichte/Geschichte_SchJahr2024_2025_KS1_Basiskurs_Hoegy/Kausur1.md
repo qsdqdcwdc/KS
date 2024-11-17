@@ -111,16 +111,14 @@
 ### 1815-1848: Vormäz
 [Video von MrWissen2go: Deutschland im Vormärz I musstewissen Geschichte](https://www.youtube.com/watch?v=6PmGgQwwP74)
 <br></br>
-Veränderungen innerhalb von dem Bürgertum:
+
+- Veränderungen innerhalb von dem Bürgertum:
 	- Entstehung der Kulturnation unter Fremdherrschaft von Napoleon: Entwicklung von einem nationalen Bewusstsein.
 	- Das Bürgertum bildet eine politische Öffentlichkeit in bürgerlichen Vereinen, die zunehmend nach Einfluss strebt.
 	- Entstehung der **Biedermeier**-Kultur: Rückzug ins Private, Kultur und häusliche Werte während der Restaurationszeit.
-- 1832: Hambacher Fest
+ - 1832: Hambacher Fest
 	- **Ereignis**: Zusammenkunft von ca. 30.000 Menschen, die einen deutschen Nationalstaat und liberale Freiheiten fordern.
 	- **Symbolik**: Zeigen der deutschen und polnischen Flagge als Ausdruck der Solidarität mit anderen nationalen Bewegungen.
-- 1840er: Fortsetzung des Aufstiegs des Bürgertums und kulturelle Entwicklungen
-	- **Kultur**: Das Bildungsbürgertum fördert aktiv Bildung, Wissenschaft und kulturelle Belange.
-	- **Politik**: Steigende politische Aktivität und Unzufriedenheit mit politischer Stagnation und begrenzten Reformen.
 - 1848: Februarrevolution in Frankreich
 	- Abdankung von Louis Philippe und Ausrufung der Zweiten Republik.
 	- **Ausbreitung**: Revolutionäre Bewegungen greifen auf Deutschland, Italien und die Habsburgermonarchie über.
