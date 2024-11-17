@@ -114,7 +114,7 @@
 - Veränderungen innerhalb von dem Bürgertum:
 	- Entstehung der Kulturnation unter Fremdherrschaft von Napoleon: Entwicklung von einem nationalen Bewusstsein.
 	- Das Bürgertum bildet eine politische Öffentlichkeit in bürgerlichen Vereinen, die zunehmend nach Einfluss strebt.
-	- Entstehung der **Biedermeier**-Kultur: Rückzug ins Private, Kultur und häusliche Werte während der Restaurationszeit.
+	- Entstehung der **Biedermeier**-Kultur: Apolitizitet, Rückzug ins Private, Kultur und häusliche Werte.
  - 1832: Hambacher Fest
 	- **Ereignis**: Zusammenkunft von ca. 30.000 Menschen, die einen deutschen Nationalstaat und liberale Freiheiten fordern.
 	- **Symbolik**: Zeigen der deutschen und polnischen Flagge als Ausdruck der Solidarität mit anderen nationalen Bewegungen.
@@ -133,21 +133,37 @@
 - März 1848: In Berlin, Wien und anderen deutschen Zentren kommt es zu massiven Protesten und Straßenkämpfen. König Friedrich Wilhelm IV. von Preußen sieht sich gezwungen, Zugeständnisse zu machen (u.a. eine liberale Pressefreiheit und die Einberufung einer Preußischen Nationalversammlung).
 - Mai 1848: Frankfurter Nationalversammlung.
 ### Nationalversammlung in der Paulskirche:
-- Die Nationalversammlung sollte eine Verfassung für einen deutschen Bundesstaat entwerfen.
+- Ziele
+	- Eine Verfassung für einen deutschen Bundesstaat entwerfen.
+	- Klärung der territorialen Frage
+	- Festlegung der Staatsform
+	- Regelung des Wahlrechts
 - Verfassungsentwurf enthaltete:
 	- Grundrechte:  der Meinungs- und Pressefreiheit, Religionsfreiheit und Gleichheit vor dem Gesetz.
 	- Allgemeine (Männer-) Wahlrecht.
  	- Gewaltenteilung zwischen Exekutive (Kaiser), Legislative (Reichstag) und Judikative (Reichsgericht).
+	- Staatsform: konstitutionelle Monarchie.
 - Reichsgebiet:
 	- Kleindeutsche Lösung: Einigung Deutschlands ohne Österreich, unter preußischer Führung. 
 	- Großdeutsche Lösung: Einigung aller deutschsprachigen Gebiete inklusive Österreich(wurde von Nationalversammlung abgelehnt).
 - Bieldung von der Vorläufer der politischen Parteien.
-### Das Scheitern der Revolution
+### Ablauf des Scheiterns der Revolution
+- April 1849: Ablehnung der Kaiserkrone durch Friedrich Wilhelm IV., der die Legitimität der Nationalversammlung und ihre Verfassung nicht anerkennt.
+- Mai-Juni 1849: Versuche der Durchsetzung der Verfassung durch lokale Aufstände in Sachsen, der Pfalz und Baden, die von preußischen und anderen deutschen Truppen niedergeschlagen werden.
+- Juli 1849: Auflösung des Rumpfparlaments der Nationalversammlung, endgültiges Scheitern der Revolution.
+- 1850: Wiedereinsetzung der alten Ordnung durch den Sieg der reaktionären Kräfte unter Führung Preußens, verstärkte Repressionen gegen Revolutionäre und deren Unterstützer.
+
+### Gründe für Scheitern der Revolution
+- Friedrich Wilhelm IV. lehnte die ihm deutsche Kaiserkrone ab.
+- Die revolutionären Kräfte waren ideologisch und strategisch fragmentiert.
+- Viele der revolutionären Bewegungen konnten keine breite soziale Basis gewinnen. Weil die Forderungen der Bauern(Z.b:Landreform) bereits von den Behörden erfüllt worden waren.
+- Die „Heilige Allianz“ aus Preußen, Russland und Österreich unterstützte aktiv die Unterdrückung revolutionärer Bewegungen.
+- Angst vor Eigentumsverlust und sozialem Abstieg mobilisierte konservative Schichten gegen die Revolution.
 
 ### Auswirkungen
 - Paulskirchenverfassung diente als Vorlage für spätere deutsche Verfassungen.
-- Die Paulskirchenverfassung stärkte die liberalen und demokratischen Bewegungen in Deutschland.
-- Die Ereignisse und Ideale der Paulskirche wurden Teil der politischen Kultur Deutschlands.
+- Die Paulskirchenverfassung stärkte die liberalen und demokratischen Bewegungen in Deutschland. 
+- Die Ereignisse und Ideale Märzrevolution wurden Teil der politischen Kultur Deutschlands.  
 - Zugeständnisse wie Pressefreiheit, Vereinigungsfreiheit.
 
 # Bürgertum
