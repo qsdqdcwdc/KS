@@ -3,6 +3,7 @@
 - [Der Prozess der Modernisierung](#der-prozess-der-modernisierung)
 - [Industrialisierung: England vs Deutschland](#industrialisierung-england-vs-deutschland)
 - [Vor der Märzrevolution](#vor-der-märzrevolution)
+- [Märzrevolution](#märzrevolution)
 - [Bürgertum](#bürgertum)
 - [Quellenanalyse](#quellenanalyse)
 
@@ -40,11 +41,10 @@
 - **Gesellschaftliche Modernisierung:**
 	- Ideal der Chancengleichheit.
 	- Bildung und Besitz bestimmen die soziale Stellung.
-	- Individualisierung.
 ### Phasen der Industrialisierung
 - **Frühindustrialisierung:**
 	- Markiert den Übergang von manueller zu maschineller Produktion.
-	- Entwicklung der Schrittmacherindustrien (England: Textilindustrie).
+	- Entwicklung der Schrittmacherindustrie (England: Textilindustrie).
 	- Erfindungen: Spinning Jenny, die Waterframe, mechanischer Webstuhl, Dampfmaschine.
 - **Take-off-Phase:** Ausbreitung auf andere Industrien.
 - **Hochindustrialisierung:**
@@ -66,7 +66,7 @@
 - Viele Kolonien als Rohstoffquellen und Absatzmärkte (Indien).
 - Große und leicht zugängliche Ablagerungen von Kohle und Eisen.
 - Geografische Lage: viele Häfen, reiche Zahl von Flüssen und Kanälen.
-- Topografie: Industriegebiete lagen auf flachen Ebenen, was den Transport erleichterte.
+- Topografie: Industriegebiete lagen auf flachen Ebene, was den Transport erleichterte.
 - Erleichterter internationaler Handel und innerländischer Transport.
 - Wirtschaftsliberalismus: wenige Regelungen für Unternehmen, niedrige Steuern.
 ### Englands Nachteile:
