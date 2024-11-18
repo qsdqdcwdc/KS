@@ -27,7 +27,7 @@
 
 ### Modernisierung
 - Kern der Modernisierung: die Doppelrevolution aus politischer und industrieller Revolution.
-- **Politische Modernisierung** (wegen der Revolutionen in USA und Frankreich):
+- **Politische Modernisierung**
 	- Universelle Menschen- und Bürgerrechte.
 	- Politische Mitbestimmung.
 	- Liberale Demokratie.
