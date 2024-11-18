@@ -91,7 +91,7 @@
 - Deutschland war kein Kolonialimperium.
 ### Ablauf	
 - 1785: Erste Dampfmaschine wird in der Textilproduktion bei Düsseldorf eingesetzt.
-- 1835: Erste Bahnstrecke Deutschlands wurde  zwischen Nürnberg und Fürth.
+- 1835: Erste Bahnstrecke Deutschlands wurde  zwischen Nürnberg und Fürth gebaut.
 - 1850er: Breites Eisenbahnsystem.
 - Wegen Eisenbahn wird Eisen- und Stahlsektor zu Schrittmacherindustrie.
 - 1850er: im Ruhrgebiet und in Oberschlesien entstahen Industriezentren.
