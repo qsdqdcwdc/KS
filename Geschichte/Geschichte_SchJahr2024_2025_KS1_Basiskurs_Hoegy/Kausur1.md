@@ -88,7 +88,7 @@
 - Bis 1871 kiene einheitliche Währung.
 - Agrarrevolution pasierte später als in Großbritannien.
 - Deutschland musste Kriegsentschädigungen zahlen.
-- Deutschland war kein Kolonial Land.
+- Deutschland war kein Kolonialimperium.
 ### Ablauf	
 - 1785: Erste Dampfmaschine wird in der Textilproduktion bei Düsseldorf eingesetzt.
 - 1835: Erste Bahnstrecke Deutschlands wurde  zwischen Nürnberg und Fürth.
