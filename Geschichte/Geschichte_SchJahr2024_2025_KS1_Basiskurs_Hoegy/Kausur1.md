@@ -167,7 +167,7 @@
 - Zugeständnisse wie Pressefreiheit, Vereinigungsfreiheit.
 
 # Bürgertum
-Das **Bürgertum** ist die gesellschaftliche Schicht der Bürger, die durch Besitz, Bildung und städtisches Leben gekennzeichnet ist und zwischen Adel und Arbeitern steht.
+Das **Bürgertum** bestand hauptsächlich aus der Mittelklasse(Wirtschaftsbürgertum, Bildungsbürgertum) und Oberklasse(Großbürgertum), die aus Kaufleuten, Industriellen, Professoren, Anwälten und Ärzten zusammengesetzt war.Sie besaßen Kapital und Produktionsmittel, was ihnen eine zentrale Rolle in der Wirtschaft einbrachte und sie in die Lage versetzte, Einfluss auf die wirtschaftliche Entwicklung zu nehmen. Das Bürgertum betonte Individualismus, Materialismus und das Streben nach Wohlstand und sozialem Erfolg.
 ### Typen
 
 - Besitzbürgertum:
