@@ -34,7 +34,7 @@
 	- Auflösung der Ständegesellschaft.
 	- Abschaffung der Privilegien für Adel und Klerus.
 - **Wirtschaftliche Modernisierung**
-	- **Industrialisierung:** Übergang von einer agrarischen Wirtschaft (Agraradelsgesellschaft) zu einer diversifizierteren Wirtschaftsstruktur (industrielle Gesellschaft) basierend auf: Massenproduktion, Automatisierung, Steigerung der Energieproduktion/-verbrauch, Wandel der Mehrheit der Arbeitskräfte vom primären Sektor (Landwirtschaft) in den sekundären (Industrie und Handwerk) und tertiären (Dienstleistungen) Sektor.
+	- **Industrialisierung:** Übergang von einer agrarischen Wirtschaft (Agrargesellschaft) zu einer diversifizierteren Wirtschaftsstruktur (industrielle Gesellschaft) basierend auf: Massenproduktion, Automatisierung, Steigerung der Energieproduktion/-verbrauch, Wandel der Mehrheit der Arbeitskräfte vom primären Sektor (Landwirtschaft) in den sekundären (Industrie und Handwerk) und tertiären (Dienstleistungen) Sektor.
 	- Technologische Innovationen: Dampfmaschine, Elektrotechnik, Kommunikationstechnik.
 	- Weltwirtschaft: globale Wirtschaftsintegration.
 - **Gesellschaftliche Modernisierung**
