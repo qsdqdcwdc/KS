@@ -125,7 +125,7 @@
 - Frustration innerhalb Bürgertum wegen: Mangel an politischer Repräsentation, politische Repressionen und Zensur der Presse.
 - Wirtschaftlichekriese: schwere Agrarkrise, die durch Missernten verursacht wurde.
 - Februarrevolution 1848 in Frankreich.
-### Ablauuf
+### Ablauf
 - Februar 1848: Februarrevolution in Paris 
 - 27. Februar 1848: Mannheimer Volksversammlung: Erste öffentliche Forderung nach liberalen Reformen in Deutschland, bekannt als die „Märzforderungen“.
 - März 1848: In Berlin, Wien und anderen deutschen Zentren kommt es zu massiven Protesten und Straßenkämpfen. König Friedrich Wilhelm IV. von Preußen sieht sich gezwungen, Zugeständnisse zu machen (u.a. eine liberale Pressefreiheit und die Einberufung einer Preußischen Nationalversammlung).
@@ -148,7 +148,7 @@
 ### Ablauf des Scheiterns der Revolution
 - April 1849: Ablehnung der Kaiserkrone durch Friedrich Wilhelm IV., der die Legitimität der Nationalversammlung und ihre Verfassung nicht anerkennt.
 - Mai-Juni 1849: Versuche der Durchsetzung der Verfassung durch lokale Aufstände in Sachsen, der Pfalz und Baden, die von preußischen und anderen deutschen Truppen niedergeschlagen werden.
-- Juli 1849: Auflösung des Rumpfparlaments der Nationalversammlung, endgültiges Scheitern der Revolution.
+- Juli 1849: Auflösung des Rumpfparlaments der Nationalversammlung.
 - 1850: Wiedereinsetzung der alten Ordnung durch den Sieg der reaktionären Kräfte unter Führung Preußens, verstärkte Repressionen gegen Revolutionäre und deren Unterstützer.
 
 ### Gründe für Scheitern der Revolution
