@@ -174,7 +174,7 @@ Das **Bürgertum** bestand hauptsächlich aus der Mittelklasse (Wirtschaftsbürg
 	- Bürger mit überdurchschnittliche Menge von  materiellen Ressourcen.
  	- Bankiers, Großkaufleute, Kapitalbesitzer und Unternehmer
   	- Untergruppen:
-  		- Großbürgertum(bürgerlichen Elite: Großindustrielle, Überseekaufleute,  Eisenbahnmagnaten)
+  		- Großbürgertum(bürgerliche Elite: Großindustrielle, Überseekaufleute,  Eisenbahnmagnaten)
   		- Wirtschaftsbürgertum(Unternehmern in Industrie, Handel und Handwerk)
   	- Ca. 3-4 % der Bevölkerung in Deutschland
 - Bildungsbürgertum:
@@ -182,7 +182,7 @@ Das **Bürgertum** bestand hauptsächlich aus der Mittelklasse (Wirtschaftsbürg
 	- Pfarrer, Ärzte, Rechtsanwälte, Gymnasiallehrer und Professoren.
  	- Ca. 1 % der Bevölkerung in Deutschland
 - Das Kleinbürgertum:
-	- Untere soziale Schicht, arbeitnehmerähnliche Abhängigkeit und teils prekäre wirtschaftliche Lage.
+	- Untere soziale Schicht, arbeitnehmerähnliche Abhängigkeit; teils prekäre wirtschaftliche Lage.
 	- Kleinen Selbstständigen, Handwerkern, Kleinhändlern, mittleren und kleinen Angestellten und Beamten.
  	- Ca. 10 % der Bevölkerung in Deutschland.
 ### Merkmale der bürgerlichen Kultur
