@@ -15,7 +15,7 @@
 - Unabhängigkeitserklärung der USA: 1776
 - Beeinflusst von der europäischen Aufklärung wandten sich die Verfasser der Erklärung vom Gottesgnadentum und der englischen Staatskirche ab und unterstützten die Menschenrechte.
 ### Frankreich
-- Erhöhung der Steuern und Frustration von den Monarchen führte zur Unruhe in der Bevölkerung. Deswegen, als Ludwig XIV. die Generalstände einberief, erklärten die Vertreter des dritten Standes ihre eigene Nationalversammlung (1789), das löste Aufstände in Paris und ganz Frankreich aus, in deren Folge die „alte Ordnung“ gestürzt wurde.
+- Erhöhung der Steuern und Frustration von den Monarchen führte zur Unruhe in der Bevölkerung. Deswegen, als Ludwig XVI. die Generalstände einberief, erklärten die Vertreter des dritten Standes ihre eigene Nationalversammlung (1789), das löste Aufstände in Paris und ganz Frankreich aus, in deren Folge die „alte Ordnung“ gestürzt wurde.
 - Inspiriert von der Aufklärung und der amerikanischen Revolution beschloss die Nationalversammlung die Erklärung der Menschen- und Bürgerrechte.
 - In 1791 wurde die neue Verfassung erstellt, die Frankreich zu einer konstitutionellen Monarchie machte.
 - Die Französische Revolution führte zur Etablierung der wirtschaftsliberalen Prinzipien wie Freizügigkeit, Berufs-, Gewerbe- und Vergünstigungen, Gleichheit vor dem Gesetz sowie Trennung von Kirche und Staat.
