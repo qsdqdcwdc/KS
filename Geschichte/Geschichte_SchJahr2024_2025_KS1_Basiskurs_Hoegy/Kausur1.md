@@ -64,9 +64,8 @@
 ### Englands Vorteile
 - Viele Kolonien als Rohstoffquellen und Absatzmärkte (Indien).
 - Große und leicht zugängliche Ablagerungen von Kohle und Eisen.
-- Geografische Lage: viele Häfen, reiche Zahl von Flüssen und Kanälen.
+- Geografische Lage: viele Häfen, reiche Zahl von Flüssen und Kanälen. Erleichtert internationaler Handel und innerländischer Transport.
 - Topografie: Industriegebiete lagen auf flachen Ebene, was den Transport erleichterte.
-- Erleichterter internationaler Handel und innerländischer Transport.
 - Wirtschaftsliberalismus: wenige Regelungen für Unternehmen, niedrige Steuern.
 ### Englands Nachteile
 - Widerstand gegen technologische Veränderungen: Es gab sozialen Widerstand gegen die Mechanisierung.
