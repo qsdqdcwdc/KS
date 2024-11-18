@@ -2,7 +2,7 @@
 - [Revolutionen: USA und Frankreich](#revolutionen-usa-und-frankreich)
 - [Der Prozess der Modernisierung](#der-prozess-der-modernisierung)
 - [Industrialisierung: England vs Deutschland](#industrialisierung-england-vs-deutschland)
-- [Vor der Märzrevolution](#vor-der-märzrevolution)
+- [Vormärz](#vormärz)
 - [Märzrevolution](#märzrevolution)
 - [Bürgertum](#bürgertum)
 - [Quellenanalyse](#quellenanalyse)
@@ -97,7 +97,7 @@
 - 1850er: im Ruhrgebiet und in Oberschlesien entstahen Industriezentren.
 - Zweite Hälfte des 19. Jahrhunderts: Hochindustrialisierung(Erfindungen in den Bereichen Elektrotechnik, Maschinenbau und Chemie)
 
-# Vor der Märzrevolution
+# Vormärz
 
 ### Wiener Kongress 1815
 - Ziele:
@@ -106,7 +106,7 @@
 - Folgen:
 	- Restaurierte Monarchien: Wiederherstellung vieler Monarchien, die durch Napoleon abgesetzt worden waren.
 	- Heilige Allianz: Bildung einer Koalition zwischen Russland, Österreich und Preußen zur Sicherung der restaurativen Ordnung.
-### 1815-1848: Vormäz
+### 1815-1848
 [Video von MrWissen2go: Deutschland im Vormärz I musstewissen Geschichte](https://www.youtube.com/watch?v=6PmGgQwwP74)
 <br></br>
 - Veränderungen innerhalb von dem Bürgertum:
