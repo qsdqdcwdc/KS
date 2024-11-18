@@ -21,7 +21,6 @@
 - Die Französische Revolution führte zur Etablierung der wirtschaftsliberalen Prinzipien wie Freizügigkeit, Berufs-, Gewerbe- und Vergünstigungen, Gleichheit vor dem Gesetz sowie Trennung von Kirche und Staat.
 ### Folgen
 - Diese Revolutionen etablierten Grundsätze wie Grundrechte und Rechtsstaatlichkeit als Normen in Europa.
-- Sie zwangen die Monarchen zu defensiver Modernisierung, um ihre Macht zu sichern.
 
 # Der Prozess der Modernisierung
 <p align="center"><img src="Img/k1_b1.png" width="600"  title="Abb2"></p>
