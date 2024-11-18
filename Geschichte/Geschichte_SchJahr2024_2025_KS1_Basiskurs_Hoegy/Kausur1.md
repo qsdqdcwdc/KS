@@ -167,7 +167,7 @@
 - Zugeständnisse wie Pressefreiheit, Vereinigungsfreiheit.
 
 # Bürgertum
-Das **Bürgertum** bestand hauptsächlich aus der Mittelklasse(Wirtschaftsbürgertum, Bildungsbürgertum) und Oberklasse(Großbürgertum), die aus Kaufleuten, Industriellen, Professoren, Anwälten und Ärzten zusammengesetzt war.Sie besaßen Kapital und Produktionsmittel, was ihnen eine zentrale Rolle in der Wirtschaft einbrachte und sie in die Lage versetzte, Einfluss auf die wirtschaftliche Entwicklung zu nehmen. Das Bürgertum betonte Individualismus, Materialismus und das Streben nach Wohlstand und sozialem Erfolg.
+Das **Bürgertum** bestand hauptsächlich aus der Mittelklasse (Wirtschaftsbürgertum, Bildungsbürgertum) und Oberklasse (Großbürgertum), beispielhaft vertreten durch Kaufleute, Industrielle, Professoren, Anwälte und Ärzte. Sie besaßen Kapital und Produktionsmittel, was ihnen eine zentrale Rolle in der Wirtschaft einbrachte und sie in die Lage versetzte, Einfluss auf die wirtschaftliche Entwicklung zu nehmen. Das Bürgertum betonte Individualismus, Materialismus und das Streben nach Wohlstand und sozialem Erfolg.
 ### Typen
 
 - Besitzbürgertum:
@@ -182,7 +182,7 @@ Das **Bürgertum** bestand hauptsächlich aus der Mittelklasse(Wirtschaftsbürge
 	- Pfarrer, Ärzte, Rechtsanwälte, Gymnasiallehrer und Professoren.
  	- Ca. 1 % der Bevölkerung in Deutschland
 - Das Kleinbürgertum:
-	- Unter untere soziale Schicht, arbeitnehmerähnliche Abhängigkeit und teils prekäre wirtschaftliche Lage.
+	- Untere soziale Schicht, arbeitnehmerähnliche Abhängigkeit und teils prekäre wirtschaftliche Lage.
 	- Kleinen Selbstständigen, Handwerkern, Kleinhändlern, mittleren und kleinen Angestellten und Beamten.
  	- Ca. 10 % der Bevölkerung in Deutschland.
 ### Merkmale der bürgerlichen Kultur
