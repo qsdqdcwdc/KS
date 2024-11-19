@@ -1,3 +1,6 @@
+<button onclick="window.print()">Export to PDF</button>
+
+
 # Inhalt
 - [Revolutionen: USA und Frankreich](#revolutionen-usa-und-frankreich)
 - [Der Prozess der Modernisierung](#der-prozess-der-modernisierung)
