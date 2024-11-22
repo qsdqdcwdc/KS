@@ -1,3 +1,10 @@
+# Inhalt
+
+- [Paul Cézanne](#paul-cézanne)
+- [Stillleben](#stillleben)
+- [Kunststile](#kunststile)
+- [Fachbegriffe der Malerei](#fachbegriffe-der-malerei)
+- [Bildanalyse](#bildanalyse)
 
 # Paul Cézanne 
 ### Biografie
@@ -55,3 +62,24 @@ Als Stillleben bezeichnet man die bildhaft abgeschlossene Darstellung mehrerer G
 - Fragmentierung der Bildfläche: Aufspaltung von Formen und Räumen in facettierte Flächen, die oft ineinander übergehen
 - Monochromatische Farbpalette: Verwendung gedämpfter Farben, insbesondere Grau-, Braun- und Ockertöne, um den Fokus auf Form und Struktur zu lenken.
 - Im synthetischen Kubismus: Integration von Collage-Elementen: Einführung von Materialien wie Zeitungsausschnitten und Tapeten in die Komposition.
+### Surrealismus
+- Wichtige Maler des Surrealismus: Salvador Dalí,	René Magritte
+- Verschmelzung von Traum und Wirklichkeit: Ziel war die Aufhebung der Grenzen zwischen realer Welt und Traumwelt, um eine "Überwirklichkeit" (Surrealität) zu schaffen.
+- Automatismus: Anwendung von Techniken wie automatisches Schreiben oder Malen, um unbewusste Gedanken ohne rationale Kontrolle auszudrücken.
+- Unlogische und fantastische Bildwelten: Darstellung von Szenen und Objekten in ungewöhnlichen, oft paradoxen Kombinationen, die das Unterbewusste reflektieren.
+- Einfluss der Psychoanalyse: Starke Beeinflussung durch Sigmund Freuds Theorien über das Unbewusste, Träume und freie Assoziation.
+- Verwendung von Symbolen und Archetypen: Einsatz von universellen Symbolen, um tiefere psychologische Wahrheiten zu vermitteln.
+- Provokation und Schock: Bewusste Herausforderung gesellschaftlicher Normen durch provokative und oft schockierende Inhalte.
+### Futurismus
+- Ablehnung der Vergangenheit: Radikale Abkehr von traditionellen Werten und kulturellen Institutionen.
+- Verherrlichung von Geschwindigkeit und Technologie: Feier der Dynamik, Schnelligkeit und Kraft moderner Maschinen, insbesondere von Automobilen und Flugzeugen, als Symbole des Fortschritts.
+- Darstellung von Bewegung und Dynamik: Künstlerische Techniken zur Darstellung von Bewegung, oft durch Überlagerung von Formen und Linien, um den Eindruck von Geschwindigkeit und Energie zu erzeugen.
+- Faszination für Urbanität und Industrie: Fokus auf das moderne Stadtleben und industrielle Landschaften als zentrale Themen.
+- Publikation von Manifesten: Verbreitung der futuristischen Ideologie durch zahlreiche Manifeste, die die Prinzipien und Ziele der Bewegung darlegten.
+### Dadaismus
+-
+
+# Fachbegriffe der Malerei
+-
+# Bildanalyse
+-
