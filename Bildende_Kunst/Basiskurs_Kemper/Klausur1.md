@@ -7,14 +7,10 @@
 - 1863(alter: 23): Seine Werke werden an „Salon“ systematisch abgelent. Beteiligt sich an der Ausstellung „Salon des refusés“, Gegenstück zur konservativen Ausstellung „Salon“.
 - 1869(alter: 29): Hat seine zukünftige Frau Buchbinderassistentin Hortense Fiquet kennengelernt.
 - 1870(alter: 30): Während des Deutsch-Französischen Krieges von 1870/71 versteckte er sich mit Zola vor der Wehrpflicht im Fischerdorf L’Estaque in der Nähe von Marseille.
+- 1878: Erfuhr Cézannes Vater von seiner Familie, woraufhin er die finanzielle Unterstützung halbierte.
 - 1870 – 1874(alter: 30-34): Intensive Zusammenarbeit mit Camille Pissarro sowie die Beteiligung an der ersten Ausstellung der Impressionisten.
-- 1886(alter: 46): Bricht mit Zola, nachdem er sich in dessen Werk verunglimpft sah. Cézannes Vater stirbt. Nun ist Cézanne durch die Erbschaft finanziell gut gestellt.
+- 1886(alter: 46): Bricht mit Zola, nachdem er sich in dessen Werk verunglimpft sah. Cézannes Vater stirbt. Nun ist Cézanne durch die Erbschaft von 400,000 Franc finanziell gut gestellt.
 - 1890(alter: 49):Erkrankt an Diabetes und sein Umgang mit anderen Menschen wird schwieriger. Gleichzeitig findet seine Kunst mehr Anerkennung.
 - 1897(alter: 56): Cézannes Mutter stirbt und er zieht sich ganz nach Aix zurück.
 - 1899+(alter: 59): Werk findet international Anerkennung. Er wird zum Menschenscheu; allein die Malerei erfüllt ihn.
 - **Oktober 1906 (alter: 67)**: gestorben in Aix-en-Provence.
-### Wichtige Personen
-- Vater: Louis-Auguste Cézanne, Bankier
-- Mutter: Anne-Elisabeth-Honorine
-- Émile Zola: 
-- Cézanne Hortense:
