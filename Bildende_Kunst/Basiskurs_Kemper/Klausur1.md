@@ -21,8 +21,11 @@ Paul Cézanne betrachtete die Naturverbundenheit als Basis seiner Kunst, betonte
  - Aufbau der Bilder aus unmittelbaren Farbwahrnehmungen ("sensations colorantes"). Konzentration auf das Sehen. Er malte nicht das, was er wusste, sondern das, was er tatsächlich sah.
  - Duktus: Entwicklung eines rhythmischen Geflechts aus Pinselstrichen, die horizontal, vertikal oder diagonal gesetzt sind. Stellt oft das gesamte Objekt in einem Ductus dar. Homogenisierung der Pinselstriche im Spätwerk zu nahezu gleich großen Farbflecken.
  - Betonung geometrischer Grundformen: Analyse der Struktur des Motivs durch geometrische Vereinfachung. Reduktion natürlicher Formen auf Zylinder, Kugeln und Kegel.
- - Raum- und Flächengestaltung: Aufhebung der traditionellen Zentralperspektive zugunsten einer flächigen Komposition. Kombinierte Perspektiven aus mehreren verschiedenen Punkten in einem Bild.
- - Licht: Seine Bilder haben meistens keine erkennbare Lichtquelle(Diffuses Licht). Er wollte die wahre Natur der Welt zeigen nicht die flüchtige Schatten.
+ - Raum- und Flächengestaltung:
+   - Aufhebung der traditionellen Zentralperspektive zugunsten einer flächigen Komposition.
+   - Kombinierte Perspektiven aus mehreren verschiedenen Punkten in einem Bild.
+   - unscharfe/verwaschene Konturen.
+   - Licht: Seine Bilder haben meistens keine erkennbare Lichtquelle(Diffuses Licht). Er wollte die wahre Natur der Welt zeigen nicht die flüchtige Schatten.
  - Farbe:
    - Verwendung von Farben wie Blau, Grün und Ocker in Schattenbereichen.
    - Begrenzte Farbpalette.
@@ -32,3 +35,6 @@ Paul Cézanne betrachtete die Naturverbundenheit als Basis seiner Kunst, betonte
 
 # Stillleben
 Als Stillleben bezeichnet man die bildhaft abgeschlossene Darstellung mehrerer Gegenstände, deren Auswahl, Gruppierung, Arrangement oder Inszenierung nach inhaltlichen (oft symbolischen) und ästhetischen Gesichtspunkten erfolgte. Es dreht sich dabei um die Wiedergabe von stillstehenden Dingen und Lebewesen nach Naturvorbildern.
+
+# Kunststile
+### mpressionismus
