@@ -7,6 +7,7 @@
 - [Bildanalyse](#bildanalyse)
 
 # Paul Cézanne 
+Hauptquelle: [gute Video über Paul Cézanne](https://www.youtube.com/watch?v=8agD9o37cAk), [Wikipedia](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
 ### Biografie
 - **Januar 1839**: Geburt im in Aix-en-Provence.
 - 1852–1858 (alter: 13-19): Besuch des Collège Bourbon. Entsteht Freundschaft mit Émile Zola. 
@@ -44,6 +45,7 @@ Paul Cézanne betrachtete die Naturverbundenheit als Basis seiner Kunst, betonte
 Als Stillleben bezeichnet man die bildhaft abgeschlossene Darstellung mehrerer Gegenstände, deren Auswahl, Gruppierung, Arrangement oder Inszenierung nach inhaltlichen (oft symbolischen) und ästhetischen Gesichtspunkten erfolgte. Es dreht sich dabei um die Wiedergabe von stillstehenden Dingen und Lebewesen nach Naturvorbildern.
 
 # Kunststile
+Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt)
 ### Impressionismus
 -  Kurze breite Striche in leuchtenden Farben.
 -  Keine Verwendung von Schwarz: Der reine Impressionismus vermeidet die Verwendung von schwarzer Farbe. Grautöne und dunkle Farben werden durch das Mischen kontrastreicher Farben erzielt.
@@ -77,7 +79,10 @@ Als Stillleben bezeichnet man die bildhaft abgeschlossene Darstellung mehrerer G
 - Faszination für Urbanität und Industrie: Fokus auf das moderne Stadtleben und industrielle Landschaften als zentrale Themen.
 - Publikation von Manifesten: Verbreitung der futuristischen Ideologie durch zahlreiche Manifeste, die die Prinzipien und Ziele der Bewegung darlegten.
 ### Dadaismus
--
+- Anti-Kunst-Haltung/Anti-alles: Der Dadaismus lehnte traditionelle Kunstformen und ästhetische Normen ab, indem er etablierte Konzepte von Kunst und Kultur infrage stellte.
+- Verwendung von Zufallstechniken: Dadaisten nutzten Methoden wie Zufallscollagen und das Ausschneiden von Wörtern aus Zeitungen, um die Bedeutung des Zufalls in der Kunst hervorzuheben.
+- Interdisziplinarität: Die Bewegung umfasste verschiedene Kunstformen, darunter visuelle Kunst, Literatur, Poesie, Theater und Grafikdesign, und förderte die Verschmelzung dieser Disziplinen.
+- Fotomontage/Fotocollage: Künstler wie Hannah Höch entwickelten Techniken der Fotomontage, indem sie Fotografien und Druckmaterialien kombinierten, um neue Bedeutungen zu erzeugen.
 
 # Fachbegriffe der Malerei
 -
