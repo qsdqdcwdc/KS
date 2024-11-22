@@ -1,3 +1,4 @@
+
 # Paul Cézanne 
 ### Biografie
 - **Januar 1839**: Geburt im in Aix-en-Provence.
@@ -16,6 +17,7 @@
 - **Oktober 1906 (alter: 67)**: gestorben in Aix-en-Provence.
 
 ### Einstellung zur Kunst
-Paul Cézanne betrachtete die Naturverbundenheit als Basis seiner Kunst, betonte direkte Beobachtung und warnte vor ablenkenden Theorien. Er strebte nach authentischem Ausdruck, unabhängig von Kritik, und lehnte oberflächliche Perfektion ab, suchte stattdessen innere Wahrheit. Trotz Selbstzweifeln arbeitete er stetig und sah die Arbeit selbst als Lohn. Er respektierte wenige Zeitgenossen, kritisierte den Neoimpressionismus und wollte der Vergangenheit Neues hinzufügen.
+Paul Cézanne betrachtete die Naturverbundenheit als Basis seiner Kunst, betonte direkte Beobachtung und warnte vor ablenkenden Theorien. Er strebte nach authentischem Ausdruck, unabhängig von Kritik, und lehnte oberflächliche Perfektion ab, suchte stattdessen innere Wahrheit. Trotz Selbstzweifeln arbeitete er stetig und sah die Arbeit selbst als Lohn. Er respektierte wenige Zeitgenossen.
 
-### 
+# Stillleben
+Als Stillleben bezeichnet man die bildhaft abgeschlossene Darstellung mehrerer Gegenstände, deren Auswahl, Gruppierung, Arrangement oder Inszenierung nach inhaltlichen (oft symbolischen) und ästhetischen Gesichtspunkten erfolgte. Es dreht sich dabei um die Wiedergabe von stillstehenden Dingen und Lebewesen nach Naturvorbildern.
