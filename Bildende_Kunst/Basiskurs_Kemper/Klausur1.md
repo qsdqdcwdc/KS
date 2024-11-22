@@ -57,15 +57,15 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 ### Kubismus [Video](https://www.youtube.com/watch?v=IF-nmwm7-Bg&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=5)
 - Entwickelt von Pablo Picasso und Georges Braque.
 - Perspektive:
- - Simultane Darstellung eines Objekts aus verschiedenen Blickwinkeln. Verwendung mehreren Blickwinkeln in einem Bild.
- - Verzicht auf lineare Perspektive zugunsten einer flächigen Darstellung ohne klaren Vorder- und Hintergrund.
- - Fokus auf die zweidimensionale Bildfläche, wobei die Illusion von Tiefe zugunsten einer flächigen Komposition reduziert wird. 
+    - Simultane Darstellung eines Objekts aus verschiedenen Blickwinkeln. Verwendung mehreren Blickwinkeln in einem Bild.
+    - Verzicht auf lineare Perspektive zugunsten einer flächigen Darstellung ohne klaren Vorder- und Hintergrund.
+    - Fokus auf die zweidimensionale Bildfläche, wobei die Illusion von Tiefe zugunsten einer flächigen Komposition reduziert wird. 
 - Geometrisierung der Formen: Reduktion natürlicher Objekte auf grundlegende geometrische Strukturen wie Würfel, Kegel und Zylinder.
 - Fragmentierung der Bildfläche: Aufspaltung von Formen und Räumen in facettierte Flächen, die oft ineinander übergehen
 - Monochromatische Farbpalette: Verwendung gedämpfter Farben, insbesondere Grau-, Braun- und Ockertöne, um den Fokus auf Form und Struktur zu lenken.
 - Im synthetischen Kubismus: Integration von Collage-Elementen: Einführung von Materialien wie Zeitungsausschnitten und Tapeten in die Komposition.
 ### Surrealismus [Video](https://www.youtube.com/watch?v=bP2JS4vDvNc&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=1)
-- Wichtige Maler des Surrealismus: Salvador Dalí,	René Magritte
+- Wichtige Maler des Surrealismus: Salvador Dalí,René Magritte
 - Verschmelzung von Traum und Wirklichkeit: Ziel war die Aufhebung der Grenzen zwischen realer Welt und Traumwelt, um eine "Überwirklichkeit" (Surrealität) zu schaffen.
 - Automatismus: Anwendung von Techniken wie automatisches Schreiben oder Malen, um unbewusste Gedanken ohne rationale Kontrolle auszudrücken.
 - Unlogische und fantastische Bildwelten: Darstellung von Szenen und Objekten in ungewöhnlichen, oft paradoxen Kombinationen, die das Unterbewusste reflektieren.
