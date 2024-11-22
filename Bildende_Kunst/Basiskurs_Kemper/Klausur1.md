@@ -15,9 +15,20 @@
 - 1897(alter: 56): Cézannes Mutter stirbt und er zieht sich ganz nach Aix zurück.
 - 1899+(alter: 59): Werk findet international Anerkennung. Er wird zum Menschenscheu; allein die Malerei erfüllt ihn.
 - **Oktober 1906 (alter: 67)**: gestorben in Aix-en-Provence.
-
 ### Einstellung zur Kunst
 Paul Cézanne betrachtete die Naturverbundenheit als Basis seiner Kunst, betonte direkte Beobachtung und warnte vor ablenkenden Theorien. Er strebte nach authentischem Ausdruck, unabhängig von Kritik, und lehnte oberflächliche Perfektion ab, suchte stattdessen innere Wahrheit. Trotz Selbstzweifeln arbeitete er stetig und sah die Arbeit selbst als Lohn. Er respektierte wenige Zeitgenossen.
+ ### Stil
+ - Aufbau der Bilder aus unmittelbaren Farbwahrnehmungen ("sensations colorantes"). Konzentration auf das Sehen. Er malte nicht das, was er wusste, sondern das, was er tatsächlich sah.
+ - Duktus: Entwicklung eines rhythmischen Geflechts aus Pinselstrichen, die horizontal, vertikal oder diagonal gesetzt sind. Stellt oft das gesamte Objekt in einem Ductus dar. Homogenisierung der Pinselstriche im Spätwerk zu nahezu gleich großen Farbflecken.
+ - Betonung geometrischer Grundformen: Analyse der Struktur des Motivs durch geometrische Vereinfachung. Reduktion natürlicher Formen auf Zylinder, Kugeln und Kegel.
+ - Raum- und Flächengestaltung: Aufhebung der traditionellen Zentralperspektive zugunsten einer flächigen Komposition. Kombinierte Perspektiven aus mehreren verschiedenen Punkten in einem Bild.
+ - Licht: Seine Bilder haben meistens keine erkennbare Lichtquelle(Diffuses Licht). Er wollte die wahre Natur der Welt zeigen nicht die flüchtige Schatten.
+ - Farbe:
+   - Verwendung von Farben wie Blau, Grün und Ocker in Schattenbereichen.
+   - Begrenzte Farbpalette.
+### Einfluss auf die Moderne
+- Wegbereiter für Kunstbewegungen wie Kubismus und Moderne Kunst.
+- Inspiration für Künstler wie Pablo Picasso, Henri Matisse und Georges Braque.
 
 # Stillleben
 Als Stillleben bezeichnet man die bildhaft abgeschlossene Darstellung mehrerer Gegenstände, deren Auswahl, Gruppierung, Arrangement oder Inszenierung nach inhaltlichen (oft symbolischen) und ästhetischen Gesichtspunkten erfolgte. Es dreht sich dabei um die Wiedergabe von stillstehenden Dingen und Lebewesen nach Naturvorbildern.
