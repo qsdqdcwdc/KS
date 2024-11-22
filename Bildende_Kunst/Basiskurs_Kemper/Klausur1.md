@@ -25,8 +25,8 @@ Paul Cézanne betrachtete die Naturverbundenheit als Basis seiner Kunst, betonte
    - Aufhebung der traditionellen Zentralperspektive zugunsten einer flächigen Komposition.
    - Kombinierte Perspektiven aus mehreren verschiedenen Punkten in einem Bild.
    - unscharfe/verwaschene Konturen.
-   - Licht: Seine Bilder haben meistens keine erkennbare Lichtquelle(Diffuses Licht). Er wollte die wahre Natur der Welt zeigen nicht die flüchtige Schatten.
- - Farbe:
+- Licht: Seine Bilder haben meistens keine erkennbare Lichtquelle(Diffuses Licht). Er wollte die wahre Natur der Welt zeigen nicht die flüchtige Schatten.
+- Farbe:
    - Verwendung von Farben wie Blau, Grün und Ocker in Schattenbereichen.
    - Begrenzte Farbpalette.
 ### Einfluss auf die Moderne
@@ -37,4 +37,21 @@ Paul Cézanne betrachtete die Naturverbundenheit als Basis seiner Kunst, betonte
 Als Stillleben bezeichnet man die bildhaft abgeschlossene Darstellung mehrerer Gegenstände, deren Auswahl, Gruppierung, Arrangement oder Inszenierung nach inhaltlichen (oft symbolischen) und ästhetischen Gesichtspunkten erfolgte. Es dreht sich dabei um die Wiedergabe von stillstehenden Dingen und Lebewesen nach Naturvorbildern.
 
 # Kunststile
-### mpressionismus
+### Impressionismus
+-  Kurze breite Striche in leuchtenden Farben.
+-  Keine Verwendung von Schwarz: Der reine Impressionismus vermeidet die Verwendung von schwarzer Farbe. Grautöne und dunkle Farben werden durch das Mischen kontrastreicher Farben erzielt.
+-  Die Farben werden nebeneinander aufgetragen und so wenig wie möglich vermischt.
+-  Mehrere impressionistische Maler widmeten einem einzigen Gegenstand, der zu verschiedenen Tageszeiten beobachtet wurde, ganze Bildserien.
+-  Malen draußen: Dank der neuen Verfügbarkeit von vorgemischten Farben konnten die Maler nach draußen gehen(en plein air).
+-  Gemälde alltäglichen des Lebens
+-  Objekte wurdenin dem Licht dargestellt, das zu bestimmten Tageszeiten oder in bestimmten Umgebungen herrschte. Z.B: Spiel von dem sonnenlicht auf dem Wasser.
+### Kubismus
+- Entwickelt von Pablo Picasso und Georges Braque.
+- Perspektive:
+ - Simultane Darstellung eines Objekts aus verschiedenen Blickwinkeln. Verwendung mehreren Blickwinkeln in einem Bild.
+ - Verzicht auf lineare Perspektive zugunsten einer flächigen Darstellung ohne klaren Vorder- und Hintergrund.
+ - Fokus auf die zweidimensionale Bildfläche, wobei die Illusion von Tiefe zugunsten einer flächigen Komposition reduziert wird. 
+- Geometrisierung der Formen: Reduktion natürlicher Objekte auf grundlegende geometrische Strukturen wie Würfel, Kegel und Zylinder.
+- Fragmentierung der Bildfläche: Aufspaltung von Formen und Räumen in facettierte Flächen, die oft ineinander übergehen
+- Monochromatische Farbpalette: Verwendung gedämpfter Farben, insbesondere Grau-, Braun- und Ockertöne, um den Fokus auf Form und Struktur zu lenken.
+- Im synthetischen Kubismus: Integration von Collage-Elementen: Einführung von Materialien wie Zeitungsausschnitten und Tapeten in die Komposition.
