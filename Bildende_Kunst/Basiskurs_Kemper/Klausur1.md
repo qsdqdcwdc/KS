@@ -104,6 +104,17 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 - Fokus auf Klarheit, Präzision und Rationalität.
 - Bevorzugte Genres: Stillleben, Porträts, Stadtansichten und Interieurs, oft mit Fokus auf technischen und industriellen Motiven.
 # Fachbegriffe der Malerei
--
+- **Reinbunte Farben**: Farben ohne Beimischung von Weiß, Grau oder Schwarz, Weisen maximale Farbsättigung auf.
+- **Getrübte oder abgemischte Farben**: Entstehen durch Hinzufügen von Weiß, Grau oder Schwarz zu reinbunten Farben. Führen zu einer Verringerung der Farbsättigung.
+- **Chromatische Gesamtfarbigkeit** beschreibt Farbgebungen, bei denen die Farbtöne getrübt und gemischt sind, statt klar und leuchtend. Sie zeichnet sich durch eine Dominanz weniger gesättigter, nahe an Neutralgrau liegender Farben aus und kommt vor allem in realistischen Bildern vor.
+- **Duktus** Der Begriff stammt aus dem Lateinischen „ducere“, was „führen“ bedeutet. Er bezieht sich auf die Führung des Pinsels beim Malen. In der Malerei bezieht sich "Duktus" auf die Art und Weise, wie Pinselstriche auf einer Leinwand geführt werden. Ein erkennbarer Duktus bedeutet, dass die individuellen Pinselstriche des Künstlers sichtbar sind und eine bestimmte Richtung und Qualität aufweisen. In realistischen Gemälden wird der Duktus oft minimiert oder verborgen, um eine glatte, detailgetreue Darstellung zu erreichen, die die Illusion der Realität unterstützt. In expressiveren Stilen wie dem Impressionismus ist ein deutlicher Duktus oft erwünscht, da er zur Dynamik und emotionalen Wirkung des Bildes beiträgt.
+- **Körperschatten** (Eigenschatten): Bezeichnet die unbeleuchteten Bereiche auf der Oberfläche eines Objekts, die durch dessen eigene Form und Struktur entstehen. Resultiert aus der Abschattung von Licht auf dem Objekt selbst. Verleiht dem Objekt Plastizität und betont seine dreidimensionale Form. Beispiel: Die Schattenseite eines Würfels, die von der Lichtquelle abgewandt ist.
+- **Schlagschatten**: Bezeichnet den Schatten, den ein Objekt auf eine benachbarte Fläche oder ein anderes Objekt wirft. Entsteht durch die Blockierung des Lichts durch das Objekt, wodurch ein Schatten auf der Umgebung projiziert wird. Die Form und Richtung des Schlagschattens hängen von der Position und Art der Lichtquelle ab. Beispiel: Der Schatten eines Baumes, der auf den Boden fällt.
+- **Komposition** ist die gezielte Anordnung von Bildelementen nach bestimmten Prinzipien(z.B: Drittel-Regel, Goldene Schnitt, Erstellung von führenden Linien), die die Wirkung eines Kunstwerks bestimmen.
+- **Lasierend**: Ein lasierender Farbauftrag entsteht durch starke Verdünnung der Farbe mit Lösungsmitteln, sodass eine transparente Schicht aufgetragen wird. Diese Schicht lässt darunterliegende Farbschichten sichtbar, was zu einer erhöhten Tiefenwirkung führt.
+- **Lokalfarbe**: Definiert als die objektive, charakteristische Farbe eines Gegenstands unter neutralen Lichtbedingungen. Häufig in naturalistischer Malerei, insbesondere während der Renaissance und des Barock. Beispiel: Ein Apfel wird in seiner natürlichen roten Farbe dargestellt.
+- **Symbolfarbe**: Farbe, die über ihre physische Erscheinung hinaus eine festgelegte, oft kulturell bedingte Bedeutung trägt. Beispie: Rot symbolisiert in westlichen Kulturen häufig Liebe oder Leidenschaft.
+- **Ausdrucksfarbe**: Farbe, die subjektive Empfindungen oder emotionale Zustände des Künstlers ausdrückt, unabhängig von der realen Farbgebung des Objekts. Charakteristisch für den Expressionismus, wo die emotionale Wirkung der Farbe im Vordergrund steht. Beispiel: Ein Gesicht wird in intensiven Blau- oder Grüntönen gemalt, um Traurigkeit oder Melancholie darzustellen.
+
 # Bildanalyse
 -
