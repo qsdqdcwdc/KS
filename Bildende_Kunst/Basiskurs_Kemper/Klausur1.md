@@ -7,7 +7,7 @@
 - [TODO: Bildanalyse](#bildanalyse)
 
 # Paul Cézanne 
-Hauptquelle: [gute Video über Paul Cézanne](https://www.youtube.com/watch?v=8agD9o37cAk), [Wikipedia](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
+Hauptquellen: [gute Video über Paul Cézanne](https://www.youtube.com/watch?v=8agD9o37cAk), [Wikipedia](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
 ### Biografie
 - **Januar 1839**: Geburt im in Aix-en-Provence.
 - 1852–1858 (alter: 13-19): Besuch des Collège Bourbon. Entsteht Freundschaft mit Émile Zola. 
@@ -46,6 +46,12 @@ Als Stillleben bezeichnet man die bildhaft abgeschlossene Darstellung mehrerer G
 
 # Kunststile
 Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt)
+### Moderne
+- Abkehr von traditionellen Darstellungsweisen
+- Experimentation mit neuen Techniken und Materialien: Einsatz neuen Maltechniken/Materialien zur Erweiterung des künstlerischen Ausdrucks.
+- Betonung individueller Perspektiven und emotionaler Ausdrucksformen, oft unter Vernachlässigung objektiver Realität.
+- Entwicklung abstrakter und nicht-figurativer Kunst: Übergang von gegenständlicher Darstellung zu abstrakten Formen und Konzepten.
+
 ### Impressionismus [Video](https://www.youtube.com/watch?v=3jhHX_tpy70&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=3)
 -  Breite Striche in leuchtenden Farben.
 -  Keine Verwendung von Schwarz: Der reine Impressionismus vermeidet die Verwendung von schwarzer Farbe. Grautöne und dunkle Farben werden durch das Mischen kontrastreicher Farben erzielt.
@@ -57,9 +63,8 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 ### Kubismus [Video](https://www.youtube.com/watch?v=IF-nmwm7-Bg&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=5)
 - Entwickelt von Pablo Picasso und Georges Braque.
 - Perspektive:
-    - Simultane Darstellung eines Objekts aus verschiedenen Blickwinkeln. Verwendung mehreren Blickwinkeln in einem Bild.
-    - Verzicht auf lineare Perspektive zugunsten einer flächigen Darstellung ohne klaren Vorder- und Hintergrund.
-    - Fokus auf die zweidimensionale Bildfläche, wobei die Illusion von Tiefe zugunsten einer flächigen Komposition reduziert wird. 
+    - Simultane Darstellung eines Objekts aus verschiedenen Blickwinkeln.
+    - Fokus auf die zweidimensionale Bildfläche, einer flächigen Darstellung ohne klaren Vorder- und Hintergrund.
 - Geometrisierung der Formen: Reduktion natürlicher Objekte auf grundlegende geometrische Strukturen wie Würfel, Kegel und Zylinder.
 - Fragmentierung der Bildfläche: Aufspaltung von Formen und Räumen in facettierte Flächen, die oft ineinander übergehen
 - Monochromatische Farbpalette: Verwendung gedämpfter Farben, insbesondere Grau-, Braun- und Ockertöne, um den Fokus auf Form und Struktur zu lenken.
