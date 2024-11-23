@@ -3,7 +3,7 @@
 - [Paul Cézanne](#paul-cézanne)
 - [Stillleben](#stillleben)
 - [Kunststile](#kunststile)
-- [TODO: Fachbegriffe der Malerei](#fachbegriffe-der-malerei)
+- [Fachbegriffe der Malerei](#fachbegriffe-der-malerei)
 - [TODO: Bildanalyse](#bildanalyse)
 
 # Paul Cézanne 
@@ -110,6 +110,8 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 - **Getrübte oder abgemischte Farben**: Entstehen durch Hinzufügen von Weiß, Grau oder Schwarz zu reinbunten Farben. Führen zu einer Verringerung der Farbsättigung.
 - **Chromatische Gesamtfarbigkeit** beschreibt Farbgebungen, bei denen die Farbtöne getrübt und gemischt sind, statt klar und leuchtend. Sie zeichnet sich durch eine Dominanz weniger gesättigter, nahe an Neutralgrau liegender Farben aus und kommt vor allem in realistischen Bildern vor.
 - **Duktus** Der Begriff stammt aus dem Lateinischen „ducere“, was „führen“ bedeutet. Er bezieht sich auf die Führung des Pinsels beim Malen. In der Malerei bezieht sich "Duktus" auf die Art und Weise, wie Pinselstriche auf einer Leinwand geführt werden. Ein erkennbarer Duktus bedeutet, dass die individuellen Pinselstriche des Künstlers sichtbar sind und eine bestimmte Richtung und Qualität aufweisen. In realistischen Gemälden wird der Duktus oft minimiert oder verborgen, um eine glatte, detailgetreue Darstellung zu erreichen, die die Illusion der Realität unterstützt. In expressiveren Stilen wie dem Impressionismus ist ein deutlicher Duktus oft erwünscht, da er zur Dynamik und emotionalen Wirkung des Bildes beiträgt.
+
+[Video Schatentupen](https://youtu.be/ljzaqOpQglg?si=0-oL7lohtcaSuN1q&t=77)
 - **Körperschatten** (Eigenschatten): Bezeichnet die unbeleuchteten Bereiche auf der Oberfläche eines Objekts, die durch dessen eigene Form und Struktur entstehen. Resultiert aus der Abschattung von Licht auf dem Objekt selbst. Verleiht dem Objekt Plastizität und betont seine dreidimensionale Form. Beispiel: Die Schattenseite eines Würfels, die von der Lichtquelle abgewandt ist.
 - **Schlagschatten**: Bezeichnet den Schatten, den ein Objekt auf eine benachbarte Fläche oder ein anderes Objekt wirft. Entsteht durch die Blockierung des Lichts durch das Objekt, wodurch ein Schatten auf der Umgebung projiziert wird. Die Form und Richtung des Schlagschattens hängen von der Position und Art der Lichtquelle ab. Beispiel: Der Schatten eines Baumes, der auf den Boden fällt.
 - **Komposition** ist die gezielte Anordnung von Bildelementen nach bestimmten Prinzipien(z.B: Drittel-Regel, Goldene Schnitt, Erstellung von führenden Linien), die die Wirkung eines Kunstwerks bestimmen.
@@ -122,5 +124,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 - **Naturalismus**: Beschreibt die physikalische Charakteristiken/visuelle Darstellungen des Kunstwerk wie Formen Farben, Scharten des Kunstwerks, ist das Gegenteil von abstrakt und stilisiert. Fokussiert sich auf die Darstellung der natürlichen Umwelt und der Menschen in ihr, oft in einer idealisierten Form, die aber dennoch eine realistische Wiedergabe anstrebt. Es zeigt die Schönheit und Unmittelbarkeit der Natur, ohne kulturelle oder soziale Kontexte stark zu betonen
 - **Realismus**: Beschreibt den Narrativ/Inhalt des Kunstwerks, das Gegenteil von Idealismus. Bezieht sich oft auf die realistische Darstellung sozialer Themen und menschlicher Interaktionen. Die Kunstwerke adressieren häufig gesellschaftliche Missstände und das Leben der unteren Gesellschaftsschichten, was eine kritische Perspektive auf die damalige Gesellschaft ermöglicht.
 
+
+- **Plastizität** in der Kunst bezieht sich auf die Darstellung von Dreidimensionalität durch gezielten Einsatz von Licht und Schatten, wodurch Objekte eine körperhafte Anmutung erhalten. 
 # Bildanalyse
 -
