@@ -146,10 +146,16 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 - sowie Entstehungsprozess, Reihenfolge der einzelnen Arbeitsschritte
 
 <details>
-  <summary><span style="color:blue">Definition von Grundierung und Vorzeichnung</span></summary>
+  <summary>Klicken für Definition von Grundierung, Grattage, Decalcomanie, Dripping und Vorzeichnung</summary>
   
   **Grundierung** ist das Auftragen einer ersten Schicht auf eine Oberfläche, um die Haftung der Farbe zu verbessern und die Textur des Untergrunds zu modifizieren. Sie dient auch dazu, die Farben des endgültigen Kunstwerks zum Leuchten zu bringen und ihre Haltbarkeit zu erhöhen.
   
   **Vorzeichnung** bezieht sich auf das Anfertigen einer skizzierten Darstellung des endgültigen Kunstwerks auf dem Malgrund, oft mit einem Bleistift oder einer dünnen Farblinie. Diese vorläufigen Linien dienen als Führung für die weiteren Schichten und helfen bei der präzisen Umsetzung der künstlerischen Vision.
+
+  **Grattage** ist eine Technik, bei der Farbschichten von einem Gemälde abgekratzt werden, um darunter liegende Schichten freizulegen oder strukturierte Effekte zu erzielen. Diese Methode wird oft in Kombination mit anderen Maltechniken verwendet, um tiefere Texturen und Komplexität im Kunstwerk zu schaffen.
+  
+  **Decalcomanie** ist ein Verfahren, bei dem Farbe auf eine Oberfläche aufgetragen und dann durch Drücken eines anderen Materials darauf übertragen wird, bevor die Farbe trocknet. Diese Technik erzeugt ein charakteristisches Muster oder Textur, die durch das zufällige Verteilen und Entfernen der Farbe entsteht.
+  
+  **Dripping** bezieht sich auf das Auftragen von flüssiger Farbe auf eine Oberfläche durch Tropfenlassen oder Fließenlassen aus einem Behälter, wodurch dynamische Spritzer und Linien entstehen. Diese Technik ist bekannt für ihre Verwendung in der abstrakten Expressionismusbewegung und führt zu spontanen und energetischen Werken.
 </details>
 
