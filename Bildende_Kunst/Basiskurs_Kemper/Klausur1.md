@@ -203,24 +203,103 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 **C. Hell-Dunkel / Licht**
 - Nennung der Lichtquelle (z.B. links oben), Beschreibung der Beleuchtungssituation
 - Übergang des Hell-Dunkels (fließend, hart, stufenartig)
-- Beschreibung der Stofflichkeit, Volumen, Körperhaftigkeit, Plastizität der Körper durch Körperschatten und Schlagschatten
+- <details>
+  <summary> Hell-Dunkel / Licht: Beschreibung der Stofflichkeit, Volumen, Körperhaftigkeit, Plastizität der Körper durch Körperschatten und Schlagschatten </summary>
+  
+  **Stofflichkeit** beschreibt die Darstellung von Materialbeschaffenheit in einem Kunstwerk, etwa die Wiedergabe der Textur von Stoffen oder Oberflächen, die durch spezifische Maltechniken wie feine Pinselstriche oder bestimmte Farbaufträge erreicht wird.
+  
+  **Volumen** bezieht sich auf die räumliche Wirkung, die Objekte in einem Gemälde erzielen, oft durch die Verwendung von Licht und Schatten, um dreidimensionale Körper zu suggerieren.
+  
+  **Körperhaftigkeit** und **Plastizität** betonen die Dreidimensionalität und die physische Präsenz der dargestellten Formen. Dies wird häufig durch den geschickten Einsatz von Hell-Dunkel-Kontrasten erreicht, wobei Lichtquellen und Schattenwürfe so gesetzt sind, dass sie die Formen hervorheben und vertiefen.
+  
+  **Körperschatten** und **Schlagschatten** sind wichtige Elemente in der Darstellung von Licht und Schatten. Körperschatten fallen auf das Objekt selbst und modellieren seine Form, während Schlagschatten die Schatten sind, die ein Objekt auf seine Umgebung oder andere Objekte wirft. Diese Schatten tragen wesentlich zur Illusion von Tiefe und zur räumlichen Anordnung der Elemente im Bild bei.
+</details>
 
 **D. Form / Figur**
-- Beschreibung der abgebildeten Formen (z.B. organisch, amorph, tektonisch, geometrisch)
+- <details>
+  <summary> Beschreibung der abgebildeten Formen (z.B. organisch, amorph, tektonisch, geometrisch)</summary>
+  
+  **Organisch** beschreibt Formen, die fließende, natürliche Linien aufweisen und häufig in der Natur vorkommen, wie beispielsweise Pflanzen, Tiere oder menschliche Figuren. Diese Formen sind oft asymmetrisch und wirken lebendig.
+  
+  **Amorph** meint Formen ohne klar definierte Grenzen oder feste geometrische Struktur, die fließend und oft unregelmäßig sind. Diese Formen können vielfältige Interpretationen zulassen und wirken oft weich und fließend.
+  
+  **Tektonisch** bezieht sich auf Formen, die strukturiert, fest und oft durch klare Linien definiert sind, ähnlich den strukturellen Elementen in der Architektur. Diese Formen vermitteln Stabilität und Dauerhaftigkeit.
+  
+  **Geometrisch** beschreibt Formen, die auf mathematischen Prinzipien basieren, wie Kreise, Quadrate, Dreiecke und andere regelmäßige Formen. Sie sind oft symmetrisch und in ihrer Erscheinung sehr geordnet.
+</details>
+
 - in ihrem Zusammenhang auch: Abstraktionsgrad der Figur
 - Figur-Grund-Verhältnis
 - Proportionen, Verkürzung der Proportionen im Raum
 - Körperhaltung/-stellung
 
 **E. Farbe**
-- **Farbauftrag:** lasierend, deckend, pastos
+- <details>
+  <summary>Farbauftrag: lasierend, deckend, pastos (Klicken für Definitionen)</summary>
+  
+  **Lasierend** bezeichnet eine Maltechnik, bei der dünne, transparente Farbschichten aufgetragen werden, die den darunterliegenden Malgrund oder bereits aufgetragene Farbschichten durchscheinen lassen. Diese Technik wird verwendet, um Tiefe und Leuchtkraft zu erhöhen und feine Farbübergänge zu schaffen.
+  
+  **Deckend** bezieht sich auf die Anwendung von Farbe in einer Weise, die den Malgrund vollständig abdeckt. Deckender Farbauftrag ist nicht durchscheinend und wird oft verwendet, um starke, klare Farben und Formen zu betonen.
+  
+  **Pastos** beschreibt eine Maltechnik, bei der die Farbe dick und texturiert aufgetragen wird, oft mit einem Spachtel oder direkt aus der Tube. Diese Technik verleiht dem Werk eine greifbare Textur und kann die Dynamik und den expressiven Charakter des Gemäldes steigern.
+</details>
+
 - **Farbwahl:** unbunte Farben, Nennung der verwendeten Farben
-- **Gesamtfarbigkeit:** koloristisch (vorwiegend Buntfarben), vorwiegend getrübte Farben, veristisch (vorwiegend Farben aus einem Farbbereich), monochrom (Hell-Dunkel-Abstufung einer Farbe), unbunt (nur Weiß, Grautöne und Schwarz), Tonigkeit
-- **Farbkontraste (nach J. Itten):** Hell-Dunkel-Kontrast, Qualitätskontrast (reine vs. getrübte Farben), Quantitätskontrast (größere Farbanteile gegenüber kleineren), Kalt-Warm-Kontrast, Komplementärkontrast, Farbe-an-sich-Kontrast
-- **Beziehung von Farbe und Gegenstand:** Symbol-, Lokal-, Erscheinungs- und Ausdrucksfarbe
+- <details>
+  <summary> Gesamtfarbigkeit: koloristisch, vorwiegend getrübte Farben, veristisch, monochrom, unbunt, Tonigkeit(Klicken für Definitionen)</summary>
+  
+  **Koloristisch** (von lat. coloratus = farbig): Die Kunstströmung Kolorismus setzt auf lebhafte, intensive Farben und Kontraste, um eine starke visuelle Wirkung zu erzielen. Die Farbigkeit steht im Vordergrund und dominiert oft das gesamte Bild.
+  
+  **Vorwiegend getrübte Farben**: In der Kunst werden getrübte Farben genutzt, um eine subtile, gedämpfte Atmosphäre zu schaffen, die oft in realistischeren oder naturnahen Darstellungen verwendet wird.
+  
+  **Veristisch** (von lat. verus = wahr): Diese Farbgebung strebt eine naturgetreue Wiedergabe der Wirklichkeit an. Die Farben sind aus einem natürlichen Spektrum gewählt und orientieren sich stark an der realen Erscheinung der Motive.
+  
+  **Monochrom** (von griech. monos = allein und chroma = Farbe): Eine monochrome Farbgestaltung verwendet Variationen einer einzigen Farbe in verschiedenen Helligkeitsstufen und Sättigungsgraden. Dieses Konzept wird oft in der abstrakten Kunst verwendet und kann sehr ausdrucksstark sein.
+  
+  **Tonigkeit**: Bezieht sich auf die Verwendung von Tonwerten innerhalb einer bestimmten Farbe oder eines Farbspektrums, um Tiefe, Schattierung und Volumen im Kunstwerk zu schaffen.
+</details>
+
+- <details>
+  <summary> Farbkontraste nach J. Itten: Hell-Dunkel-Kontrast, Qualitätskontrast, Quantitätskontrast, Kalt-Warm-Kontrast, Komplementärkontrast, Farbe-an-sich-Kontrast</summary>
+  
+  **Qualitätskontrast** unterscheidet zwischen reinen und getrübten Farben. Reine Farben sind leuchtend und intensiv, während getrübte Farben durch die Beimischung von Grau oder Komplementärfarben gedämpft sind.
+  
+  **Quantitätskontrast** beschreibt die Menge, also die zahlenmäßige Flächengröße, der verwendeten Farben. Der Quantitätskontrast beschreibt also die Flächengröße von zwei oder mehreren Farbflächen zueinander.
+  
+  **Kalt-Warm-Kontrast** basiert auf der Wahrnehmung von Farben als warm oder kalt. Warme Farben (z.B. Rot, Orange) treten optisch in den Vordergrund, während kalte Farben (z.B. Blau, Grün) in den Hintergrund treten.
+  
+  **Komplementärkontrast** entsteht durch die Verwendung von Farben, die im Farbkreis gegenüberliegen. Dieser Kontrast ist besonders stark und lebendig, da Komplementärfarben sich gegenseitig in ihrer Intensität steigern.
+  
+  Der **Farbe-an-sich-Kontrast**, auch Buntkontrast genannt, beschreibt die Kombination von mindestens drei reinen Farben, die auf dem Farbkreis möglichst weit auseinander liegen
+</details>
+
+- <details>
+  <summary>Beziehung von Farbe und Gegenstand: Symbol-, Lokal-, Erscheinungs- und Ausdrucksfarbe (Klicken für Definitionen)</summary>
+  
+  **Symbolfarbe** bezieht sich auf die Verwendung von Farbe in einem Kunstwerk, um symbolische oder kulturelle Bedeutungen zu vermitteln. Diese Farben sind nicht wörtlich zu nehmen, sondern stehen für abstraktere Konzepte oder Emotionen.
+  
+  **Lokalfarbe** beschreibt die natürliche Farbe eines Objekts oder einer Fläche, wie sie unter normalen Lichtbedingungen erscheint. Diese wird oft in realistischen Darstellungen verwendet, um die natürliche Wahrnehmung des Objekts zu betonen.
+  
+  **Erscheinungsfarbe** kann die Farben beschreiben, die durch atmosphärische oder Lichtverhältnisse verändert werden. Diese Art der Farbgebung betont, wie Objekte unter spezifischen Beleuchtungsbedingungen gesehen werden, einschließlich der Effekte von Licht und Schatten.
+  
+  **Ausdrucksfarbe** verwendet Farbe, um emotionale oder dramatische Effekte zu erzeugen. Diese Farben entsprechen oft nicht der realen Erscheinung, sondern dienen dazu, eine emotionale Reaktion beim Betrachter hervorzurufen oder die Stimmung des Kunstwerks zu verstärken.
+</details>
 
 **F. Raumdarstellung (Illusion)**
-- **Erzeugung vom Räumlichkeit:** Gegenstandsposition im Bild (unten/oben), Überschneidung, Größenzunahme in der Tiefe, diagonale/flüchtende Linien, Anschnitt eines Bildgegenstands, Schrägbild, Linearperspektive mit einem oder mehreren Fluchtpunkten, Farbperspektive, Luftperspektive, Sfumato, Zentralperspektive
+- <details>
+  <summary>Erzeugung vom Räumlichkeit: Gegenstandsposition im Bild (unten/oben), Überschneidung, Größenzunahme in der Tiefe, diagonale/flüchtende Linien, Anschnitt eines Bildgegenstands, Schrägbild, Linearperspektive mit einem oder mehreren Fluchtpunkten, Farbperspektive, Luftperspektive, Sfumato, Zentralperspektive (Klicken für Definitionen)</summary>
+ 
+  **Flüchtende Linien** führen den Blick des Betrachters in die Tiefe des Bildes und verstärken die räumliche Wirkung durch ihre Ausrichtung und Neigung.
+
+  **Farbperspektive** nutzt die Veränderung von Farbintensität und -sättigung, um die Illusion von Tiefe zu erzeugen, wobei entfernte Objekte in der Regel blasser und weniger gesättigt dargestellt werden.
+
+  **Luftperspektive** bezieht sich auf die Darstellung der atmosphärischen Effekte auf die Sichtbarkeit von Objekten in der Ferne, die durch Dunst oder Nebel unschärfer und blauer erscheinen.
+
+  **Sfumato** ist eine Maltechnik, die weiche Übergänge zwischen Farben und Konturen verwendet, um eine unscharfe und realistischere Darstellung von Licht und Raum zu erzielen.
+
+  **Zentralperspektive** ist eine Darstellungsform, bei der alle perspektivischen Linien auf einen zentralen Fluchtpunkt im Bild ausgerichtet sind, der als Hauptfokus dient und die räumliche Tiefe maximiert.
+</details>
+
 - **Figur-Grund-Verhältnis, Verhältnis Vordergrund zu Hintergrund**
 
 **G. Komposition** (Anordnung der Bildelemente und der Farben auf der Bildfläche)
