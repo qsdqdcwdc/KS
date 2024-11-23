@@ -152,3 +152,4 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
   
   **Vorzeichnung** bezieht sich auf das Anfertigen einer skizzierten Darstellung des endgültigen Kunstwerks auf dem Malgrund, oft mit einem Bleistift oder einer dünnen Farblinie. Diese vorläufigen Linien dienen als Führung für die weiteren Schichten und helfen bei der präzisen Umsetzung der künstlerischen Vision.
 </details>
+
