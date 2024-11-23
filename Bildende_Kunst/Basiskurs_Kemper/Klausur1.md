@@ -114,7 +114,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 [Video Schatentupen](https://youtu.be/ljzaqOpQglg?si=0-oL7lohtcaSuN1q&t=77)
 - **Körperschatten** (Eigenschatten): Bezeichnet die unbeleuchteten Bereiche auf der Oberfläche eines Objekts, die durch dessen eigene Form und Struktur entstehen. Resultiert aus der Abschattung von Licht auf dem Objekt selbst. Verleiht dem Objekt Plastizität und betont seine dreidimensionale Form. Beispiel: Die Schattenseite eines Würfels, die von der Lichtquelle abgewandt ist.
 - **Schlagschatten**: Bezeichnet den Schatten, den ein Objekt auf eine benachbarte Fläche oder ein anderes Objekt wirft. Entsteht durch die Blockierung des Lichts durch das Objekt, wodurch ein Schatten auf der Umgebung projiziert wird. Die Form und Richtung des Schlagschattens hängen von der Position und Art der Lichtquelle ab. Beispiel: Der Schatten eines Baumes, der auf den Boden fällt.
-<dr>
+<br></br>
 - **Komposition** ist die gezielte Anordnung von Bildelementen nach bestimmten Prinzipien(z.B: Drittel-Regel, Goldene Schnitt, Erstellung von führenden Linien), die die Wirkung eines Kunstwerks bestimmen.
 - **Lasierend**: Ein lasierender Farbauftrag entsteht durch starke Verdünnung der Farbe mit Lösungsmitteln, sodass eine transparente Schicht aufgetragen wird. Diese Schicht lässt darunterliegende Farbschichten sichtbar, was zu einer erhöhten Tiefenwirkung führt.
 - **Lokalfarbe**: Definiert als die objektive, charakteristische Farbe eines Gegenstands unter neutralen Lichtbedingungen. Häufig in naturalistischer Malerei, insbesondere während der Renaissance und des Barock. Beispiel: Ein Apfel wird in seiner natürlichen roten Farbe dargestellt.
@@ -124,8 +124,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 [Video Naturalismus vs Realismus](https://www.youtube.com/watch?v=ofxkDCSxDMU)
 - **Naturalismus**: Beschreibt die physikalische Charakteristiken/visuelle Darstellungen des Kunstwerk wie Formen Farben, Scharten des Kunstwerks, ist das Gegenteil von abstrakt und stilisiert. Fokussiert sich auf die Darstellung der natürlichen Umwelt und der Menschen in ihr, oft in einer idealisierten Form, die aber dennoch eine realistische Wiedergabe anstrebt. Es zeigt die Schönheit und Unmittelbarkeit der Natur, ohne kulturelle oder soziale Kontexte stark zu betonen
 - **Realismus**: Beschreibt den Narrativ/Inhalt des Kunstwerks, das Gegenteil von Idealismus. Bezieht sich oft auf die realistische Darstellung sozialer Themen und menschlicher Interaktionen. Die Kunstwerke adressieren häufig gesellschaftliche Missstände und das Leben der unteren Gesellschaftsschichten, was eine kritische Perspektive auf die damalige Gesellschaft ermöglicht.
-
-
+<br></br>
 - **Plastizität** in der Kunst bezieht sich auf die Darstellung von Dreidimensionalität durch gezielten Einsatz von Licht und Schatten, wodurch Objekte eine körperhafte Anmutung erhalten. 
 # Bildanalyse
 -
