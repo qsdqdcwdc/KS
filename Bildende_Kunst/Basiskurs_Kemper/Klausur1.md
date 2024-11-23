@@ -48,64 +48,60 @@ Als Stillleben bezeichnet man die bildhaft abgeschlossene Darstellung mehrerer G
 Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt)
 ### Moderne
 - Abkehr von traditionellen Darstellungsweisen
-- Experimentation mit neuen Techniken und Materialien: Einsatz neuen Maltechniken/Materialien zur Erweiterung des künstlerischen Ausdrucks.
+- Experimentation mit neuen Techniken und Materialien zur Erweiterung des künstlerischen Ausdrucks.
 - Betonung individueller Perspektiven und emotionaler Ausdrucksformen, oft unter Vernachlässigung objektiver Realität.
-- Entwicklung abstrakter und nicht-figurativer Kunst: Übergang von gegenständlicher Darstellung zu abstrakten Formen und Konzepten.
+- Übergang von gegenständlicher Darstellung zu abstrakten Formen und Konzepten.
 
 ### Impressionismus [Video](https://www.youtube.com/watch?v=3jhHX_tpy70&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=3)
 -  Breite Striche in leuchtenden Farben.
--  Keine Verwendung von Schwarz: Der reine Impressionismus vermeidet die Verwendung von schwarzer Farbe. Grautöne und dunkle Farben werden durch das Mischen kontrastreicher Farben erzielt.
+-  Der reine Impressionismus vermeidet die Verwendung von schwarzer Farbe. Grautöne und dunkle Farben werden durch das Mischen kontrastreicher Farben erzielt.
 -  Die Farben werden nebeneinander aufgetragen und so wenig wie möglich vermischt.
 -  Mehrere impressionistische Maler widmeten einem einzigen Gegenstand, der zu verschiedenen Tageszeiten beobachtet wurde, ganze Bildserien.
--  Malen draußen: Dank der neuen Verfügbarkeit von vorgemischten Farben konnten die Maler nach draußen gehen(en plein air).
--  Gemälde alltäglichen des Lebens
--  Objekte wurdenin dem Licht dargestellt, das zu bestimmten Tageszeiten oder in bestimmten Umgebungen herrschte. Z.B: Spiel von dem sonnenlicht auf dem Wasser.
+-  Dank der neuen Verfügbarkeit von vorgemischten Farben konnten die Maler nach draußen gehen(en plein air).
+-  Darstellung alltäglicher Szenen, Landschaften und Momentaufnahmen des Stadtlebens.
+-  Darstellung flüchtiger Lichteffekte und atmosphärischer Bedingungen. Z.B: Spiel von dem sonnenlicht auf dem Wasser.
 ### Kubismus [Video](https://www.youtube.com/watch?v=IF-nmwm7-Bg&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=5)
 - Entwickelt von Pablo Picasso und Georges Braque.
 - Perspektive:
     - Simultane Darstellung eines Objekts aus verschiedenen Blickwinkeln.
     - Fokus auf die zweidimensionale Bildfläche, einer flächigen Darstellung ohne klaren Vorder- und Hintergrund.
-- Geometrisierung der Formen: Reduktion natürlicher Objekte auf grundlegende geometrischen Grundformen.
-- Fragmentierung der Bildfläche: Aufspaltung von Formen und Räumen in facettierte Flächen.
-- Monochromatische Farbpalette: Verwendung gedämpfter Farben, insbesondere Grau-, Brauntöne, um den Fokus auf Form und Struktur zu lenken.
-- Integration von Collage-Elementen(Im synthetischen Kubismus): Einführung von Materialien wie Zeitungsausschnitten und Tapeten in die Komposition.
+- Reduktion natürlicher Objekte auf grundlegende geometrischen Grundformen.
+- Fragmentierung der Bildfläche in facettierte Flächen.
+- Hofr verwendung gedämpfter Farben, insbesondere Grau-, Brauntöne, um den Fokus auf Form und Struktur zu lenken.
+- Integration von Collage-Elementen(Im synthetischen Kubismus). Einführung von Materialien wie Zeitungsausschnitten und Tapeten in die Komposition.
 ### Surrealismus [Video](https://www.youtube.com/watch?v=bP2JS4vDvNc&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=1)
 - Wichtige Maler des Surrealismus: Salvador Dalí, René Magritte
 - Vereinigung von Bewusstsein und Unterbewusstsein: Ziel war die Aufhebung der Grenzen zwischen realer Welt und Traumwelt, um eine "Überwirklichkeit" zu schaffen.
 - Automatismus: Anwendung von Techniken wie automatisches Schreiben oder Malen, um unbewusste Gedanken ohne rationale Kontrolle auszudrücken.
-- Unlogische und fantastische Bildwelten: Darstellung von Szenen und Objekten in ungewöhnlichen, oft paradoxen Kombinationen.
-- Beeinflussung durch Sigmund Freuds Theorien über das Unbewusste, Träume und freie Assoziation.
-- Einsatz von Symbolen, um tiefere psychologische Wahrheiten zu vermitteln.
+- Darstellung von Szenen und Objekten in unlogischen, ungewöhnlichen, oft paradoxen Kombinationen.
+- Einsatz von Symbolen und visuellen Metaphern.
 ### Expressionismus [Video](https://www.youtube.com/watch?v=YnsRLQ4A0hc)
-- Emotionalität: Fokus auf die Darstellung innerer Gefühle und persönlicher Perspektiven.
-- Verzerrung und Abstraktion: Bewusste Deformation von Formen und Figuren zur Betonung emotionaler Inhalte.
-- Intensive Farbgebung: Einsatz kräftiger, oft ungemischter Farben zur Steigerung des Ausdrucks; häufige Verwendung von Komplementärkontrasten.
-- Thematische Fokussierung: Häufige Auseinandersetzung mit existenziellen Themen wie Angst, Isolation und gesellschaftlicher Kritik.
-- Einfluss außereuropäischer Kunst: Inspiration durch "primitive" und afrikanische Kunst, erkennbar in stilisierten Formen und Mustern.
-- Experimentelle Techniken: Nutzung unkonventioneller Materialien und Methoden, einschließlich Holzschnitt und Druckgrafik.
+- Fokus auf die Darstellung Gefühle/Emotionen und persönlicher Perspektiven.
+- Bewusste Deformation, Verzerrung und Abstraktion von Formen und Figuren zur Betonung emotionaler Inhalte.
+- Einsatz kräftiger, oft ungemischter Farben zur Steigerung des Ausdrucks; häufige Verwendung von Komplementärkontrasten.
+- Häufige Auseinandersetzung mit existenziellen Themen wie Angst, Isolation und gesellschaftlicher Kritik.
+- Nutzung unkonventioneller Materialien und Methoden, einschließlich Holzschnitt und Druckgrafik.
 ### Futurismus [Video](https://www.youtube.com/watch?v=YFPIP9NxU30&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=7)
-- Ablehnung der Vergangenheit: Radikale Abkehr von traditionellen Werten und kulturellen Institutionen.
-- Verherrlichung der Dynamik, Schnelligkeit und Kraft moderner Maschinen,  von Automobilen und Flugzeugen, als Symbole des Fortschritts.
+- Ablehnung der Vergangenheit, von traditionellen Werten und kulturellen Institutionen.
+- Verherrlichung der Dynamik, Schnelligkeit und Kraft moderner Maschinen.
 - Darstellung von Bewegung und Dynamik: Künstlerische Techniken zur Darstellung von Bewegung/Geschwindigkeit, oft durch Überlagerung/Duplizierung von Objekten und Formen.
-- Fokus auf Technologie, industrielle Landschaften, Arbeiterschaft, Automobilen und Flugzeugen.
-- Publikation von Manifesten: Verbreitung der futuristischen Ideologie durch zahlreiche Manifeste.
+- Fokus auf Technologie, industrielle Landschaften, Arbeiterschaft, Automobilen und Flugzeugen, als Symbole des Fortschritts.
 ### Dadaismus [Video](https://youtu.be/U4WlTijUNc0?si=_tnMdopHZi2ueMQk)
 - Anti-Kunst-Haltung/Anti-alles: Dadaistus stellte infrage etablierte Konzepte von Kunst und Kultur.
-- Verwendung von Zufallstechniken: Dadaisten nutzten Methoden wie Zufallscollagen und das Ausschneiden von Wörtern aus Zeitungen.
+- Nutztzung von Zufallstechniken wie Zufallscollagen und das Ausschneiden von Wörtern aus Zeitungen.
 - Interdisziplinarität: Die Bewegung umfasste verschiedene Kunstformen, darunter visuelle Kunst, Literatur, Poesie, Theater und Grafikdesign, und förderte die Verschmelzung dieser Disziplinen.
 - Entwickelten Techniken der Fotomontage/Fotocollage.
 ### Abstrakte Kunst [Video](https://www.youtube.com/watch?v=wSEtfqGWlN8)
-- Abkehr von der Gegenständlichkeit: Verzicht auf die Darstellung realer Objekte zugunsten nicht-repräsentativer Formen.
-- Subjektive Interpretation: Ermöglichung individueller Deutungen durch den Betrachter ohne festgelegte Bedeutung.
-- Emotionale und intuitive Ausdrucksweise: Nutzung von Farbe und Form zur Vermittlung von Gefühlen und Stimmungen.
-- Experimentelle Techniken: Einsatz unkonventioneller Methoden wie Dripping und Squeegee.
+- Verzicht auf die Darstellung realer Objekte zugunsten nicht-repräsentativer Formen.
+- Ermöglichung individueller Deutungen durch den Betrachter ohne festgelegte Bedeutung.
+- Nutzung von reine Farbe und Form zur Vermittlung von Gefühlen.
+- Einsatz unkonventioneller Methoden wie Dripping und Squeegee.
 - Manchmal gaben Künstler ihren Werken keine Titel.
 ### Neue Sachlichkeit [Video](https://www.youtube.com/watch?v=ZVxkLRr3BS0)
-- Realistische Darstellung: Präzise, Rationalale und detailgetreue Abbildung der sichtbaren Welt, oft mit fotografischer Genauigkeit.
-- Farbpalette: Verwendung gedämpfter, oft erdiger Farben zur Unterstützung der nüchternen Darstellung.
-- Sachliche und nüchterne Bildsprache: Verzicht auf emotionale Übersteigerung zugunsten einer objektiven, distanzierten Darstellung.
-- Sozialkritische Themen: Häufige Auseinandersetzung mit gesellschaftlichen Missständen, politischen Ereignissen und den Folgen des Ersten Weltkriegs.
-- Porträtierung des Alltags: Darstellung von Alltagsszenen, urbanen Landschaften und typischen Charakteren der Weimarer Republik. 
+- Präzise, Rationalale und detailgetreue Abbildung der sichtbaren Welt, oft mit fotografischer Genauigkeit.
+- Verwendung gedämpfter, oft erdiger Farben zur Unterstützung der nüchternen Darstellung.
+- Verzicht auf Abstraction zugunsten einer objektiven, distanzierten Darstellung.
+- Häufige Auseinandersetzung mit gesellschaftlichen Missständen, politischen Ereignissen und den Folgen des Ersten Weltkriegs.
 - Fokus auf Klarheit, Präzision und Rationalität.
 - Bevorzugte Genres: Stillleben, Porträts, Stadtansichten und Interieurs, oft mit Fokus auf technischen und industriellen Motiven.
 # Fachbegriffe der Malerei
