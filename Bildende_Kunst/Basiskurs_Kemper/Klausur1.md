@@ -54,7 +54,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 
 ### Impressionismus [Video](https://www.youtube.com/watch?v=3jhHX_tpy70&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=3)
 -  Breite Striche in leuchtenden Farben.
--  Der reine Impressionismus vermeidet die Verwendung von schwarzer Farbe. Grautöne und dunkle Farben werden durch das Mischen kontrastreicher Farben erzielt.
+-  Der reine Impressionismus vermeidet die Verwendung von schwarzer Farbe.
 -  Die Farben werden nebeneinander aufgetragen und so wenig wie möglich vermischt.
 -  Mehrere impressionistische Maler widmeten einem einzigen Gegenstand, der zu verschiedenen Tageszeiten beobachtet wurde, ganze Bildserien.
 -  Dank der neuen Verfügbarkeit von vorgemischten Farben konnten die Maler nach draußen gehen(en plein air).
