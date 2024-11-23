@@ -63,11 +63,11 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 - Entwickelt von Pablo Picasso und Georges Braque.
 - Perspektive:
     - Simultane Darstellung eines Objekts aus verschiedenen Blickwinkeln.
-    - Fokus auf die zweidimensionale Bildfläche, einer flächigen Darstellung ohne klaren Vorder- und Hintergrund.
+    - Fokus auf die zweidimensionale Bildfläche, flächigen Darstellung ohne klaren Vorder- und Hintergrund.
 - Reduktion natürlicher Objekte auf grundlegende geometrischen Grundformen.
 - Fragmentierung der Bildfläche in facettierte Flächen.
-- Hoft verwendung gedämpfter Farben, insbesondere Grau-, Brauntöne.
-- Integration von Collage-Elementen(Im synthetischen Kubismus). Einführung von Materialien wie Zeitungsausschnitten und Tapeten in die Komposition.
+- Oft verwendung gedämpfter Farben, insbesondere Grau-, Brauntöne.
+- Integration von Collage-Elementen(Im synthetischen Kubismus). Einführung von Materialien wie Zeitungsausschnitten.
 ### Surrealismus [Video](https://www.youtube.com/watch?v=bP2JS4vDvNc&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=1)
 - Wichtige Maler des Surrealismus: Salvador Dalí, René Magritte
 - Vereinigung von Bewusstsein und Unterbewusstsein: Ziel war die Aufhebung der Grenzen zwischen realer Welt und Traumwelt, um eine "Überwirklichkeit" zu schaffen.
