@@ -65,41 +65,40 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 - Perspektive:
     - Simultane Darstellung eines Objekts aus verschiedenen Blickwinkeln.
     - Fokus auf die zweidimensionale Bildfläche, einer flächigen Darstellung ohne klaren Vorder- und Hintergrund.
-- Geometrisierung der Formen: Reduktion natürlicher Objekte auf grundlegende geometrische Strukturen wie Würfel, Kegel und Zylinder.
-- Fragmentierung der Bildfläche: Aufspaltung von Formen und Räumen in facettierte Flächen, die oft ineinander übergehen
-- Monochromatische Farbpalette: Verwendung gedämpfter Farben, insbesondere Grau-, Braun- und Ockertöne, um den Fokus auf Form und Struktur zu lenken.
-- Im synthetischen Kubismus: Integration von Collage-Elementen: Einführung von Materialien wie Zeitungsausschnitten und Tapeten in die Komposition.
+- Geometrisierung der Formen: Reduktion natürlicher Objekte auf grundlegende geometrischen Grundformen.
+- Fragmentierung der Bildfläche: Aufspaltung von Formen und Räumen in facettierte Flächen.
+- Monochromatische Farbpalette: Verwendung gedämpfter Farben, insbesondere Grau-, Brauntöne, um den Fokus auf Form und Struktur zu lenken.
+- Integration von Collage-Elementen(Im synthetischen Kubismus): Einführung von Materialien wie Zeitungsausschnitten und Tapeten in die Komposition.
 ### Surrealismus [Video](https://www.youtube.com/watch?v=bP2JS4vDvNc&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=1)
-- Wichtige Maler des Surrealismus: Salvador Dalí,René Magritte
-- Verschmelzung von Traum und Wirklichkeit: Ziel war die Aufhebung der Grenzen zwischen realer Welt und Traumwelt, um eine "Überwirklichkeit" (Surrealität) zu schaffen.
+- Wichtige Maler des Surrealismus: Salvador Dalí, René Magritte
+- Vereinigung von Bewusstsein und Unterbewusstsein: Ziel war die Aufhebung der Grenzen zwischen realer Welt und Traumwelt, um eine "Überwirklichkeit" zu schaffen.
 - Automatismus: Anwendung von Techniken wie automatisches Schreiben oder Malen, um unbewusste Gedanken ohne rationale Kontrolle auszudrücken.
-- Unlogische und fantastische Bildwelten: Darstellung von Szenen und Objekten in ungewöhnlichen, oft paradoxen Kombinationen, die das Unterbewusste reflektieren.
-- Einfluss der Psychoanalyse: Starke Beeinflussung durch Sigmund Freuds Theorien über das Unbewusste, Träume und freie Assoziation.
-- Verwendung von Symbolen und Archetypen: Einsatz von universellen Symbolen, um tiefere psychologische Wahrheiten zu vermitteln.
-- Provokation und Schock: Bewusste Herausforderung gesellschaftlicher Normen durch provokative und oft schockierende Inhalte.
+- Unlogische und fantastische Bildwelten: Darstellung von Szenen und Objekten in ungewöhnlichen, oft paradoxen Kombinationen.
+- Beeinflussung durch Sigmund Freuds Theorien über das Unbewusste, Träume und freie Assoziation.
+- Einsatz von Symbolen, um tiefere psychologische Wahrheiten zu vermitteln.
 ### Expressionismus [Video](https://www.youtube.com/watch?v=YnsRLQ4A0hc)
 - Emotionalität: Fokus auf die Darstellung innerer Gefühle und persönlicher Perspektiven.
 - Verzerrung und Abstraktion: Bewusste Deformation von Formen und Figuren zur Betonung emotionaler Inhalte.
 - Intensive Farbgebung: Einsatz kräftiger, oft ungemischter Farben zur Steigerung des Ausdrucks; häufige Verwendung von Komplementärkontrasten.
 - Thematische Fokussierung: Häufige Auseinandersetzung mit existenziellen Themen wie Angst, Isolation und gesellschaftlicher Kritik.
 - Einfluss außereuropäischer Kunst: Inspiration durch "primitive" und afrikanische Kunst, erkennbar in stilisierten Formen und Mustern.
-- Experimentelle Techniken: Nutzung unkonventioneller Materialien und Methoden, einschließlich Holzschnitt, Druckgrafik und Lithografie.
+- Experimentelle Techniken: Nutzung unkonventioneller Materialien und Methoden, einschließlich Holzschnitt und Druckgrafik.
 ### Futurismus [Video](https://www.youtube.com/watch?v=YFPIP9NxU30&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=7)
 - Ablehnung der Vergangenheit: Radikale Abkehr von traditionellen Werten und kulturellen Institutionen.
-- Verherrlichung von Geschwindigkeit und Technologie: Feier der Dynamik, Schnelligkeit und Kraft moderner Maschinen, insbesondere von Automobilen und Flugzeugen, als Symbole des Fortschritts.
-- Darstellung von Bewegung und Dynamik: Künstlerische Techniken zur Darstellung von Bewegung, oft durch Überlagerung von Formen und Linien, um den Eindruck von Geschwindigkeit und Energie zu erzeugen.
-- Faszination für Urbanität und Industrie: Fokus auf das moderne Stadtleben und industrielle Landschaften als zentrale Themen.
-- Publikation von Manifesten: Verbreitung der futuristischen Ideologie durch zahlreiche Manifeste, die die Prinzipien und Ziele der Bewegung darlegten.
+- Verherrlichung der Dynamik, Schnelligkeit und Kraft moderner Maschinen,  von Automobilen und Flugzeugen, als Symbole des Fortschritts.
+- Darstellung von Bewegung und Dynamik: Künstlerische Techniken zur Darstellung von Bewegung/Geschwindigkeit, oft durch Überlagerung/Duplizierung von Objekten und Formen.
+- Fokus auf Technologie, industrielle Landschaften, Arbeiterschaft, Automobilen und Flugzeugen.
+- Publikation von Manifesten: Verbreitung der futuristischen Ideologie durch zahlreiche Manifeste.
 ### Dadaismus [Video](https://youtu.be/U4WlTijUNc0?si=_tnMdopHZi2ueMQk)
-- Anti-Kunst-Haltung/Anti-alles: Der Dadaismus lehnte traditionelle Kunstformen und ästhetische Normen ab, indem er etablierte Konzepte von Kunst und Kultur infrage stellte.
-- Verwendung von Zufallstechniken: Dadaisten nutzten Methoden wie Zufallscollagen und das Ausschneiden von Wörtern aus Zeitungen, um die Bedeutung des Zufalls in der Kunst hervorzuheben.
+- Anti-Kunst-Haltung/Anti-alles: Dadaistus stellte infrage etablierte Konzepte von Kunst und Kultur.
+- Verwendung von Zufallstechniken: Dadaisten nutzten Methoden wie Zufallscollagen und das Ausschneiden von Wörtern aus Zeitungen.
 - Interdisziplinarität: Die Bewegung umfasste verschiedene Kunstformen, darunter visuelle Kunst, Literatur, Poesie, Theater und Grafikdesign, und förderte die Verschmelzung dieser Disziplinen.
-- Fotomontage/Fotocollage: Künstler wie Hannah Höch entwickelten Techniken der Fotomontage, indem sie Fotografien und Druckmaterialien kombinierten, um neue Bedeutungen zu erzeugen.
+- Entwickelten Techniken der Fotomontage/Fotocollage.
 ### Abstrakte Kunst [Video](https://www.youtube.com/watch?v=wSEtfqGWlN8)
 - Abkehr von der Gegenständlichkeit: Verzicht auf die Darstellung realer Objekte zugunsten nicht-repräsentativer Formen.
 - Subjektive Interpretation: Ermöglichung individueller Deutungen durch den Betrachter ohne festgelegte Bedeutung.
 - Emotionale und intuitive Ausdrucksweise: Nutzung von Farbe und Form zur Vermittlung von Gefühlen und Stimmungen.
-- Experimentelle Techniken: Einsatz unkonventioneller Methoden wie Dripping und Squeegee zur Erzeugung neuer visueller Effekte.
+- Experimentelle Techniken: Einsatz unkonventioneller Methoden wie Dripping und Squeegee.
 - Manchmal gaben Künstler ihren Werken keine Titel.
 ### Neue Sachlichkeit [Video](https://www.youtube.com/watch?v=ZVxkLRr3BS0)
 - Realistische Darstellung: Präzise, Rationalale und detailgetreue Abbildung der sichtbaren Welt, oft mit fotografischer Genauigkeit.
