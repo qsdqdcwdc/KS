@@ -43,6 +43,7 @@ Paul Cézanne betrachtete die Naturverbundenheit als Basis seiner Kunst, betonte
 
 # Stillleben
 [Video](https://www.youtube.com/watch?v=GXOPIoGWntk)
+
 Als Stillleben bezeichnet man die bildhaft abgeschlossene Darstellung mehrerer Gegenstände, deren Auswahl, Gruppierung, Arrangement oder Inszenierung nach inhaltlichen (oft symbolischen) und ästhetischen Gesichtspunkten erfolgte. Es dreht sich dabei um die Wiedergabe von stillstehenden Dingen und Lebewesen nach Naturvorbildern.
 
 # Kunststile
