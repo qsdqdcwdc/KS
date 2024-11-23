@@ -100,7 +100,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 - Präzise, Rationalale und detailgetreue Abbildung der sichtbaren Welt, oft mit fotografischer Genauigkeit.
 - Verwendung gedämpfter, oft erdiger Farben zur Unterstützung der nüchternen Darstellung.
 - Verzicht auf Abstraction zugunsten einer objektiven, distanzierten Darstellung.
-- Häufige Auseinandersetzung mit gesellschaftlichen Missständen, politischen Ereignissen und den Folgen des Ersten Weltkriegs.
+- Auseinandersetzung mit gesellschaftlichen Missständen, politischen Ereignissen und den Folgen des Ersten Weltkriegs.
 - Fokus auf Klarheit, Präzision und Rationalität.
 - Bevorzugte Genres: Stillleben, Porträts, Stadtansichten und Interieurs, oft mit Fokus auf technischen und industriellen Motiven.
 # Fachbegriffe der Malerei
