@@ -64,7 +64,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 - Perspektive:
     - Simultane Darstellung eines Objekts aus verschiedenen Blickwinkeln.
     - Fokus auf die zweidimensionale Bildfläche, flächigen Darstellung ohne klaren Vorder- und Hintergrund.
-- Reduktion natürlicher Objekte auf grundlegende geometrischen Grundformen.
+- Reduktion vov Objekten auf grundlegende geometrischen Formen.
 - Fragmentierung der Bildfläche in facettierte Flächen.
 - Oft verwendung gedämpfter Farben, insbesondere Grau-, Brauntöne.
 - Integration von Collage-Elementen(Im synthetischen Kubismus). Einführung von Materialien wie Zeitungsausschnitten.
