@@ -67,7 +67,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
     - Fokus auf die zweidimensionale Bildfläche, einer flächigen Darstellung ohne klaren Vorder- und Hintergrund.
 - Reduktion natürlicher Objekte auf grundlegende geometrischen Grundformen.
 - Fragmentierung der Bildfläche in facettierte Flächen.
-- Hofr verwendung gedämpfter Farben, insbesondere Grau-, Brauntöne, um den Fokus auf Form und Struktur zu lenken.
+- Hoft verwendung gedämpfter Farben, insbesondere Grau-, Brauntöne.
 - Integration von Collage-Elementen(Im synthetischen Kubismus). Einführung von Materialien wie Zeitungsausschnitten und Tapeten in die Komposition.
 ### Surrealismus [Video](https://www.youtube.com/watch?v=bP2JS4vDvNc&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=1)
 - Wichtige Maler des Surrealismus: Salvador Dalí, René Magritte
