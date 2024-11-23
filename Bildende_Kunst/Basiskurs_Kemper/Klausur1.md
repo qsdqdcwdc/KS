@@ -177,7 +177,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 </details>
 
 - <details>
-  <summary>Linie: Geordneter Verlauf: senkrecht, waagrecht, schräg/diagonal; durchgehend, unterbrochen; gerade, gekrümmt, parallel, kreuzend; mediale Linie als formbildendes Element (Umriss, Kontur, Gestalt); passive Linie als optische Linienbildung im Kontrastbereich unterschiedlicher Flächen (Helligkeit, Farbe, Struktur); Schraffurart (Klicken für Definitionen)</summary>
+  <summary>Linie: Geordneter Verlauf:(senkrecht, unterbrochen, parallel); mediale Linie; passive Linie; Schraffurart (Klicken für Definitionen)</summary>
   
   **Mediale Linie als formbildendes Element** (Umriss, Kontur, Gestalt) zeigt sich als dominante visuelle Führung innerhalb des Kunstwerks, die die Form und Struktur der dargestellten Objekte definiert.
   
@@ -187,7 +187,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 </details>
 
 - <details>
-  <summary>Aktiv wirkend oder passiv als Wahrnehmungserscheinung (Figur-Grund-Problem), große-kleine Formen (Verhältnis zueinander, Kontraste, Einheitlichkeit), linearer oder malerischer Stil (Übergänge zwischen den einzelnen Formen)(Klicken für Definitionen)</summary>
+  <summary>Fläche: Aktiv wirkend oder passiv, große-kleine Formen, linearer oder malerischer Stil (Klicken für Definitionen)</summary>
   
   **Aktiv wirkende Fläche** bezeichnet eine Gestaltung, bei der die Fläche durch dynamische, markante Formen oder kräftige Farbkontraste dominierend und bestimmend im Kunstwerk erscheint.
   
@@ -200,4 +200,34 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
   **Malerischer Stil** zeichnet sich durch weiche, fließende Übergänge zwischen den Formen aus, die weniger über Linien definiert sind und mehr durch Farbverläufe und Schattierungen eine visuelle Einheit bilden.
 </details>
 
+**C. Hell-Dunkel / Licht**
+- Nennung der Lichtquelle (z.B. links oben), Beschreibung der Beleuchtungssituation
+- Übergang des Hell-Dunkels (fließend, hart, stufenartig)
+- Beschreibung der Stofflichkeit, Volumen, Körperhaftigkeit, Plastizität der Körper durch Körperschatten und Schlagschatten
 
+**D. Form / Figur**
+- Beschreibung der abgebildeten Formen (z.B. organisch, amorph, tektonisch, geometrisch)
+- in ihrem Zusammenhang auch: Abstraktionsgrad der Figur
+- Figur-Grund-Verhältnis
+- Proportionen, Verkürzung der Proportionen im Raum
+- Körperhaltung/-stellung
+
+**E. Farbe**
+- **Farbauftrag:** lasierend, deckend, pastos
+- **Farbwahl:** unbunte Farben, Nennung der verwendeten Farben
+- **Gesamtfarbigkeit:** koloristisch (vorwiegend Buntfarben), vorwiegend getrübte Farben, veristisch (vorwiegend Farben aus einem Farbbereich), monochrom (Hell-Dunkel-Abstufung einer Farbe), unbunt (nur Weiß, Grautöne und Schwarz), Tonigkeit
+- **Farbkontraste (nach J. Itten):** Hell-Dunkel-Kontrast, Qualitätskontrast (reine vs. getrübte Farben), Quantitätskontrast (größere Farbanteile gegenüber kleineren), Kalt-Warm-Kontrast, Komplementärkontrast, Farbe-an-sich-Kontrast
+- **Beziehung von Farbe und Gegenstand:** Symbol-, Lokal-, Erscheinungs- und Ausdrucksfarbe
+
+**F. Raumdarstellung (Illusion)**
+- **Erzeugung vom Räumlichkeit:** Gegenstandsposition im Bild (unten/oben), Überschneidung, Größenzunahme in der Tiefe, diagonale/flüchtende Linien, Anschnitt eines Bildgegenstands, Schrägbild, Linearperspektive mit einem oder mehreren Fluchtpunkten, Farbperspektive, Luftperspektive, Sfumato, Zentralperspektive
+- **Figur-Grund-Verhältnis, Verhältnis Vordergrund zu Hintergrund**
+
+**G. Komposition** (Anordnung der Bildelemente und der Farben auf der Bildfläche)
+- **Gesamtgestalt**
+- **Dominierende Bildrichtungen:** z.B. Bildachse, Horizontale, Bildmittelsenkrechte
+- **Ordnungsprinzipien:** Streuung, Reihung, Ballung, Verdichtung, Gruppierung, Symmetrie, Asymmetrie, geometrische Struktur
+- **Proportion (goldener Schnitt):** Maßverhältnisse der Formelemente zu einander, ausgewogen, ungleichgewichtig
+- **Kompositionsstruktur:** Kontraste, Entsprechungen, Schwerpunkte, statisch, dynamisch
+- **Blickführung**
+- **Nennung eines Kompositionsschemas:** z.B. Dreieckskomposition, figurale Ordnung, Kreiskomposition, Streifenkomposition
