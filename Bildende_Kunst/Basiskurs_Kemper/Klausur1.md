@@ -244,11 +244,11 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 - <details>
   <summary>Nennung eines Kompositionsschemas: z.B. Dreieckskomposition, figurale Ordnung, Kreiskomposition, Streifenkomposition(Klicken für Definitionen)</summary>
   
-  **Dreieckskomposition** ist eine stabile und ausgewogene Anordnung, bei der die Bildelemente entlang der Seiten eines imaginären Dreiecks angeordnet sind. Dieses Schema leitet das Auge des Betrachters entlang der Dreieckslinien und betont die Hauptelemente innerhalb des Dreiecks&#8203;:contentReference[oaicite:0]{index=0}.
+  **Dreieckskomposition** ist eine stabile und ausgewogene Anordnung, bei der die Bildelemente entlang der Seiten eines imaginären Dreiecks angeordnet sind. Dieses Schema leitet das Auge des Betrachters entlang der Dreieckslinien und betont die Hauptelemente innerhalb des Dreiecks
   
-  **Figurale Ordnung** bezieht sich auf die Anordnung von Figuren oder Objekten in einer Weise, die eine Geschichte erzählt oder eine visuelle Hierarchie schafft. Diese Komposition ordnet die Elemente so an, dass sie eine klare Richtung oder Handlung innerhalb des Kunstwerks verdeutlichen&#8203;:contentReference[oaicite:1]{index=1}.
+  **Figurale Ordnung** bezieht sich auf die Anordnung von Figuren oder Objekten in einer Weise, die eine Geschichte erzählt oder eine visuelle Hierarchie schafft. Diese Komposition ordnet die Elemente so an, dass sie eine klare Richtung oder Handlung innerhalb des Kunstwerks verdeutlichen
   
-  **Kreiskomposition** verwendet kreisförmige Anordnungen, um eine Bewegung zu schaffen, die das Auge des Betrachters um das Zentrum des Kreises und oft zurück zum Fokuspunkt führt. Diese Art der Komposition wird oft verwendet, um Einheit und Ewigkeit zu symbolisieren&#8203;:contentReference[oaicite:2]{index=2}.
+  **Kreiskomposition** verwendet kreisförmige Anordnungen, um eine Bewegung zu schaffen, die das Auge des Betrachters um das Zentrum des Kreises und oft zurück zum Fokuspunkt führt. Diese Art der Komposition wird oft verwendet, um Einheit und Ewigkeit zu symbolisieren
   
   **Streifenkomposition** ordnet die Elemente in horizontalen, vertikalen oder diagonalen Streifen an. Dies kann dem Betrachter helfen, das Bild in einer geordneten Weise zu erfassen, und verleiht dem Kunstwerk eine strukturelle Klarheit&#8203;:contentReference[oaicite:3]{index=3}.
 </details>
