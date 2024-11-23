@@ -81,7 +81,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 - Häufige Auseinandersetzung mit existenziellen Themen wie Angst, Isolation und gesellschaftlicher Kritik.
 - Nutzung unkonventioneller Materialien und Methoden, einschließlich Holzschnitt und Druckgrafik.
 ### Futurismus [Video](https://www.youtube.com/watch?v=YFPIP9NxU30&list=PLjDCoo1KQxczgpJHvvL_NyhH5Btzk6yCt&index=7)
-- Ablehnung der Vergangenheit, von traditionellen Werten und kulturellen Institutionen.
+- Ablehnung der Vergangenheit, von traditionellen Werten/Institutionen.
 - Verherrlichung der Dynamik, Schnelligkeit und Kraft moderner Maschinen.
 - Darstellung von Bewegung und Dynamik: Künstlerische Techniken zur Darstellung von Bewegung/Geschwindigkeit, oft durch Überlagerung/Duplizierung von Objekten und Formen.
 - Fokus auf Technologie, industrielle Landschaften, Arbeiterschaft, Automobilen und Flugzeugen, als Symbole des Fortschritts.
