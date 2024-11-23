@@ -56,7 +56,6 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 -  Kurze, sichtbare Pinselstriche.
 -  Der reine Impressionismus vermeidet die Verwendung von schwarzer Farbe.
 -  Die Farben werden nebeneinander aufgetragen und so wenig wie möglich vermischt.
-
 -  Dank der neuen Verfügbarkeit von vorgemischten Farben konnten die Maler nach draußen gehen(en plein air).
 -  Darstellung alltäglicher Szenen, Landschaften und Momentaufnahmen des Stadtlebens.
 -  Darstellung flüchtiger Lichteffekte und atmosphärischer Bedingungen. Z.B: Spiel von dem sonnenlicht auf dem Wasser.
