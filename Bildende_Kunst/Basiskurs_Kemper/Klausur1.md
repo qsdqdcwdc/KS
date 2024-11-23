@@ -160,7 +160,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 </details>
 
 **B. Bildnerische Elemente (malerische / zeichnerische Formen = genauere Durchführung der Technik)**
-<details>
+- <details>
   <summary> Punkt: Geordnet: Reihung, Raster, Muster; frei: Streuung, Ballung, Verdichtung, Häufung(Klicken für Definitionen)</summary>
   
   **Reihung** bezeichnet die Anordnung von Elementen in einer kontinuierlichen Abfolge oder Sequenz, die oft Wiederholung oder eine geordnete Struktur in einem Kunstwerk schafft.
@@ -176,10 +176,8 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
   **Häufung** meint die Mehrfachplatzierung ähnlicher Objekte oder Elemente in naher Nähe zueinander, was eine visuelle oder thematische Wiederholung und Betonung innerhalb des Kunstwerks schafft.
 </details>
 
-<details>
+- <details>
   <summary>Linie: Geordneter Verlauf: senkrecht, waagrecht, schräg/diagonal; durchgehend, unterbrochen; gerade, gekrümmt, parallel, kreuzend; mediale Linie als formbildendes Element (Umriss, Kontur, Gestalt); passive Linie als optische Linienbildung im Kontrastbereich unterschiedlicher Flächen (Helligkeit, Farbe, Struktur); Schraffurart (Klicken für Definitionen)</summary>
-  
-  **Durchgehend, unterbrochen** kennzeichnet Linien, die entweder ununterbrochen über eine Distanz verlaufen oder in Abschnitten auftreten, was rhythmische oder fragmentierte visuelle Effekte schafft.
   
   **Mediale Linie als formbildendes Element** (Umriss, Kontur, Gestalt) zeigt sich als dominante visuelle Führung innerhalb des Kunstwerks, die die Form und Struktur der dargestellten Objekte definiert.
   
@@ -188,36 +186,18 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
   **Schraffurart** bezieht sich auf die Methode des Schraffierens, um Tonwerte, Texturen oder Schattierungen durch wiederholte Linienführung zu erzeugen, was der Darstellung Tiefe und Volumen verleihen kann.
 </details>
 
-- **Fläche:** Aktiv wirkend oder passiv als Wahrnehmungserscheinung (Figur-Grund-Problem), große-kleine Formen (Verhältnis zueinander, Kontraste, Einheitlichkeit), linearer oder malerischer Stil (Übergänge zwischen den einzelnen Formen)
+- <details>
+  <summary>Aktiv wirkend oder passiv als Wahrnehmungserscheinung (Figur-Grund-Problem), große-kleine Formen (Verhältnis zueinander, Kontraste, Einheitlichkeit), linearer oder malerischer Stil (Übergänge zwischen den einzelnen Formen)(Klicken für Definitionen)</summary>
+  
+  **Aktiv wirkende Fläche** bezeichnet eine Gestaltung, bei der die Fläche durch dynamische, markante Formen oder kräftige Farbkontraste dominierend und bestimmend im Kunstwerk erscheint.
+  
+  **Passive Wahrnehmungserscheinung** bedeutet, dass die Fläche zurückhaltend gestaltet ist und durch subtile Farben oder sanfte Übergänge weniger Aufmerksamkeit auf sich zieht, oft zur Hervorhebung anderer Elemente des Kunstwerks.
+  
+  **Große und kleine Formen** diskutieren das Verhältnis und die Kontraste zwischen verschiedenen Größenordnungen in einem Kunstwerk, was die Wahrnehmung von Tiefe, Fokus und Hierarchie beeinflusst.
+  
+  **Linearer Stil** kennzeichnet sich durch klare, definierende Linien, die oft die Formen abgrenzen und eine strukturierte, kontrollierte Ästhetik erzeugen.
+  
+  **Malerischer Stil** zeichnet sich durch weiche, fließende Übergänge zwischen den Formen aus, die weniger über Linien definiert sind und mehr durch Farbverläufe und Schattierungen eine visuelle Einheit bilden.
+</details>
 
-**C. Hell-Dunkel / Licht**
-- Nennung der Lichtquelle (z.B. links oben), Beschreibung der Beleuchtungssituation
-- Übergang des Hell-Dunkels (fließend, hart, stufenartig)
-- Beschreibung der Stofflichkeit, Volumen, Körperhaftigkeit, Plastizität der Körper durch Körperschatten und Schlagschatten
 
-**D. Form / Figur**
-- Beschreibung der abgebildeten Formen (z.B. organisch, amorph, tektonisch, geometrisch)
-- in ihrem Zusammenhang auch: Abstraktionsgrad der Figur
-- Figur-Grund-Verhältnis
-- Proportionen, Verkürzung der Proportionen im Raum
-- Körperhaltung/-stellung
-
-**E. Farbe**
-- **Farbauftrag:** lasierend, deckend, pastos
-- **Farbwahl:** unbunte Farben, Nennung der verwendeten Farben
-- **Gesamtfarbigkeit:** koloristisch (vorwiegend Buntfarben), vorwiegend getrübte Farben, veristisch (vorwiegend Farben aus einem Farbbereich), monochrom (Hell-Dunkel-Abstufung einer Farbe), unbunt (nur Weiß, Grautöne und Schwarz), Tonigkeit
-- **Farbkontraste (nach J. Itten):** Hell-Dunkel-Kontrast, Qualitätskontrast (reine vs. getrübte Farben), Quantitätskontrast (größere Farbanteile gegenüber kleineren), Kalt-Warm-Kontrast, Komplementärkontrast, Farbe-an-sich-Kontrast
-- **Beziehung von Farbe und Gegenstand:** Symbol-, Lokal-, Erscheinungs- und Ausdrucksfarbe
-
-**F. Raumdarstellung (Illusion)**
-- **Erzeugung vom Räumlichkeit:** Gegenstandsposition im Bild (unten/oben), Überschneidung, Größenzunahme in der Tiefe, diagonale/flüchtende Linien, Anschnitt eines Bildgegenstands, Schrägbild, Linearperspektive mit einem oder mehreren Fluchtpunkten, Farbperspektive, Luftperspektive, Sfumato, Zentralperspektive
-- **Figur-Grund-Verhältnis, Verhältnis Vordergrund zu Hintergrund**
-
-**G. Komposition** (Anordnung der Bildelemente und der Farben auf der Bildfläche)
-- **Gesamtgestalt**
-- **Dominierende Bildrichtungen:** z.B. Bildachse, Horizontale, Bildmittelsenkrechte
-- **Ordnungsprinzipien:** Streuung, Reihung, Ballung, Verdichtung, Gruppierung, Symmetrie, Asymmetrie, geometrische Struktur
-- **Proportion (goldener Schnitt):** Maßverhältnisse der Formelemente zu einander, ausgewogen, ungleichgewichtig
-- **Kompositionsstruktur:** Kontraste, Entsprechungen, Schwerpunkte, statisch, dynamisch
-- **Blickführung**
-- **Nennung eines Kompositionsschemas:** z.B. Dreieckskomposition, figurale Ordnung, Kreiskomposition, Streifenkomposition
