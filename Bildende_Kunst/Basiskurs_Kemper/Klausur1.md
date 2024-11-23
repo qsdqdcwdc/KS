@@ -4,7 +4,7 @@
 - [Stillleben](#stillleben)
 - [Kunststile](#kunststile)
 - [Fachbegriffe der Malerei](#fachbegriffe-der-malerei)
-- [TODO: Bildanalyse](#bildanalyse)
+- [Bildanalyse](#bildanalyse)
 
 # Paul Cézanne 
 Hauptquellen: [gute Video über Paul Cézanne](https://www.youtube.com/watch?v=8agD9o37cAk), [Wikipedia](https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne)
@@ -126,5 +126,64 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 - **Realismus**: Beschreibt den Narrativ/Inhalt des Kunstwerks, das Gegenteil von Idealismus. Bezieht sich oft auf die realistische Darstellung sozialer Themen und menschlicher Interaktionen. Die Kunstwerke adressieren häufig gesellschaftliche Missstände und das Leben der unteren Gesellschaftsschichten, was eine kritische Perspektive auf die damalige Gesellschaft ermöglicht.
 <br></br>
 - **Plastizität** in der Kunst bezieht sich auf die Darstellung von Dreidimensionalität durch gezielten Einsatz von Licht und Schatten, wodurch Objekte eine körperhafte Anmutung erhalten. 
+
+
+
 # Bildanalyse
--
+## Einführung in die Bildanalyse - Kriterien einer Werkbetrachtung (aus Kemper Blat)
+### Malerei / Fotografie / Grafik
+
+#### I. Bestandsaufnahme: Basisatz und Beschreibung (Leitfrage: Was ist dargestellt?)
+- **Erster Eindruck:** Spontane, emotionale Reaktionen; subjektives Urteil; Was fällt besonders auf? Welche Stimmung geht vom Bild aus?
+- **Basissatz / Daten:** Künstler/in, Titel, Entstehungszeit, Technik, Material, Format, Standort, Gesamteindruck, ggf. ursprüngliche Funktion, besondere Umstände der Entstehung, Auftraggeber, Einordnung ins Frühwerk bzw. Spätwerk des Künstlers, Einordnung in die Geschichte des Sujets
+- **Elemente der Beschreibung**
+        - **Bildaufassung:** Gegenständlich oder ungegenständlich (abstrakt)
+        -  **Genre / Themtik / Sujet:** Bezogen auf den Inhalt des Werks, z. B. fantastisches Landschaftsbild, Familienporträt, Historienbild, Interieur, Jagd-Stillleben, Selbstbildnis
+
+Die Beschreibung nennt die wesentlichen Bildteile in angemessener Reihenfolge und anschaulicher Sprache (Partizipien, Adjektive). Verknüpft mit jeder Beschreibung ist die Nennung der Wirkung dieser Bildteile. Weiterhin sollten Positionen im Bild (z.B. rechter Bildvordergrund) und Größenverhältnisse der Teile zum Bild (z.B. Figur nimmt zwei Drittel der Bildhöhe ein) oder der Bildteile zueinander (z.B. Figur ist doppelt so groß wie eine andere), sofern bedeutsam, genannt werden.
+
+#### II. Formale Analyse: Leitfrage: Wie ist etwas dargestellt?
+**A. Technik/ Verfahren (verwendetes Material)**
+- Maltechnik, Drucktechnik, Zeichentechnik,
+- Zufallsverfahren (Frottage, Grattage, Decalcomanie, Dripping), Collage, Fotografie
+- Malspuren, Pinselduktus (sichtbar, unsichtbar)
+- Bildrealisation (Grundierung, Vorzeichnung,...)
+- sowie Entstehungsprozess, Reihenfolge der einzelnen Arbeitsschritte
+
+**B. Bildnerische Elemente (malerische / zeichnerische Formen = genauere Durchführung der Technik)**
+- **Punkt:** Geordnet: Reihung, Raster, Muster; frei: Streuung, Ballung, Verdichtung, Häufung
+- **Linie:** Geordneter Verlauf: senkrecht, waagrecht, schräg/diagonal; durchgehend, unterbrochen; gerade, gekrümmt, parallel, kreuzend; mediale Linie als formbildendes Element (Umriss, Kontur, Gestalt); passive Linie als optische Linienbildung im Kontrastbereich unterschiedlicher Flächen (Helligkeit, Farbe, Struktur); Schraffurart
+- **Fläche:** Aktiv wirkend oder passiv als Wahrnehmungserscheinung (Figur-Grund-Problem), große-kleine Formen (Verhältnis zueinander, Kontraste, Einheitlichkeit), linearer oder malerischer Stil (Übergänge zwischen den einzelnen Formen)
+
+**C. Hell-Dunkel / Licht**
+- Nennung der Lichtquelle (z.B. links oben), Beschreibung der Beleuchtungssituation
+- Übergang des Hell-Dunkels (fließend, hart, stufenartig)
+- Beschreibung der Stofflichkeit, Volumen, Körperhaftigkeit, Plastizität der Körper durch Körperschatten und Schlagschatten
+
+**D. Form / Figur**
+- Beschreibung der abgebildeten Formen (z.B. organisch, amorph, tektonisch, geometrisch)
+- in ihrem Zusammenhang auch: Abstraktionsgrad der Figur
+- Figur-Grund-Verhältnis
+- Proportionen, Verkürzung der Proportionen im Raum
+- Körperhaltung/-stellung
+
+**E. Farbe**
+- **Farbauftrag:** lasierend, deckend, pastos
+- **Farbwahl:** unbunte Farben, Nennung der verwendeten Farben
+- **Gesamtfarbigkeit:** koloristisch (vorwiegend Buntfarben), vorwiegend getrübte Farben, veristisch (vorwiegend Farben aus einem Farbbereich), monochrom (Hell-Dunkel-Abstufung einer Farbe), unbunt (nur Weiß, Grautöne und Schwarz), Tonigkeit
+- **Farbkontraste (nach J. Itten):** Hell-Dunkel-Kontrast, Qualitätskontrast (reine vs. getrübte Farben), Quantitätskontrast (größere Farbanteile gegenüber kleineren), Kalt-Warm-Kontrast, Komplementärkontrast, Farbe-an-sich-Kontrast
+- **Beziehung von Farbe und Gegenstand:** Symbol-, Lokal-, Erscheinungs- und Ausdrucksfarbe
+
+**F. Raumdarstellung (Illusion)**
+- **Erzeugung vom Räumlichkeit:** Gegenstandsposition im Bild (unten/oben), Überschneidung, Größenzunahme in der Tiefe, diagonale/flüchtende Linien, Anschnitt eines Bildgegenstands, Schrägbild, Linearperspektive mit einem oder mehreren Fluchtpunkten, Farbperspektive, Luftperspektive, Sfumato, Zentralperspektive
+- **Figur-Grund-Verhältnis, Verhältnis Vordergrund zu Hintergrund**
+
+**G. Komposition** (Anordnung der Bildelemente und der Farben auf der Bildfläche)
+- **Gesamtgestalt**
+- **Dominierende Bildrichtungen:** z.B. Bildachse, Horizontale, Bildmittelsenkrechte
+- **Ordnungsprinzipien:** Streuung, Reihung, Ballung, Verdichtung, Gruppierung, Symmetrie, Asymmetrie, geometrische Struktur
+- **Proportion (goldener Schnitt):** Maßverhältnisse der Formelemente zu einander, ausgewogen, ungleichgewichtig
+- **Kompositionsstruktur:** Kontraste, Entsprechungen, Schwerpunkte, statisch, dynamisch
+- **Blickführung**
+- **Nennung eines Kompositionsschemas:** z.B. Dreieckskomposition, figurale Ordnung, Kreiskomposition, Streifenkomposition
+
