@@ -130,17 +130,13 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 
 
 # Bildanalyse
-## Einführung in die Bildanalyse - Kriterien einer Werkbetrachtung (aus Kemper Blat)
-### Malerei / Fotografie / Grafik
-
 #### I. Bestandsaufnahme: Basisatz und Beschreibung (Leitfrage: Was ist dargestellt?)
-- **Erster Eindruck:** Spontane, emotionale Reaktionen; subjektives Urteil; Was fällt besonders auf? Welche Stimmung geht vom Bild aus?
-- **Basissatz / Daten:** Künstler/in, Titel, Entstehungszeit, Technik, Material, Format, Standort, Gesamteindruck, ggf. ursprüngliche Funktion, besondere Umstände der Entstehung, Auftraggeber, Einordnung ins Frühwerk bzw. Spätwerk des Künstlers, Einordnung in die Geschichte des Sujets
-- **Elemente der Beschreibung**
-        - **Bildaufassung:** Gegenständlich oder ungegenständlich (abstrakt)
-        -  **Genre / Themtik / Sujet:** Bezogen auf den Inhalt des Werks, z. B. fantastisches Landschaftsbild, Familienporträt, Historienbild, Interieur, Jagd-Stillleben, Selbstbildnis
-
-Die Beschreibung nennt die wesentlichen Bildteile in angemessener Reihenfolge und anschaulicher Sprache (Partizipien, Adjektive). Verknüpft mit jeder Beschreibung ist die Nennung der Wirkung dieser Bildteile. Weiterhin sollten Positionen im Bild (z.B. rechter Bildvordergrund) und Größenverhältnisse der Teile zum Bild (z.B. Figur nimmt zwei Drittel der Bildhöhe ein) oder der Bildteile zueinander (z.B. Figur ist doppelt so groß wie eine andere), sofern bedeutsam, genannt werden.
+- **Basissatz**: Künstler/in, Titel, Entstehungszeit, Standort, Auftraggeber, besondere Umstände der Entstehung, Einordnung ins Frühwerk bzw. Spätwerk des Künstlers, Einordnung in die Geschichte des Themas oder Gegenstandes.
+- **Erster Eindruck:** Was fällt besonders auf? Welche Stimmung geht vom Bild aus?
+- **Beschreibung**: Technik, Material, Format, Genre/Themtik (z. B. Familienporträt, Stillleben)
+    - Beschreibung der Bildteile in einer logischen und nachvollziehbaren Reihenfolge.
+    - Wirkung der Bildteile.
+    - Angaben zu Positionen im Bild und zu den Größenverhältnissen der Bildteile zueinander.
 
 #### II. Formale Analyse: Leitfrage: Wie ist etwas dargestellt?
 **A. Technik/ Verfahren (verwendetes Material)**
