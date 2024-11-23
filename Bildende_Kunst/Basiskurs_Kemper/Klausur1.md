@@ -159,3 +159,65 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
   **Dripping** bezieht sich auf das Auftragen von flüssiger Farbe auf eine Oberfläche durch Tropfenlassen oder Fließenlassen aus einem Behälter, wodurch dynamische Spritzer und Linien entstehen. Diese Technik ist bekannt für ihre Verwendung in der abstrakten Expressionismusbewegung und führt zu spontanen und energetischen Werken.
 </details>
 
+**B. Bildnerische Elemente (malerische / zeichnerische Formen = genauere Durchführung der Technik)**
+<details>
+  <summary> Punkt: Geordnet: Reihung, Raster, Muster; frei: Streuung, Ballung, Verdichtung, Häufung(Klicken für Definitionen)</summary>
+  
+  **Reihung** bezeichnet die Anordnung von Elementen in einer kontinuierlichen Abfolge oder Sequenz, die oft Wiederholung oder eine geordnete Struktur in einem Kunstwerk schafft.
+  
+  **Raster** ist ein strukturelles Netz oder eine Matrix, die als organisatorisches oder visuelles Strukturierungselement in der Darstellung verwendet wird, um die Komponenten gleichmäßig zu verteilen oder zu systematisieren.
+  
+  **Streuung** beschreibt die Verteilung von Elementen in einer unregelmäßigen, oft zufälligen Weise über die Fläche eines Kunstwerks, was zu einer dynamischen und unstrukturierten Erscheinung führt.
+  
+  **Ballung** bezieht sich auf eine Ansammlung oder Konzentration von Elementen in einem begrenzten Bereich eines Kunstwerks, die oft einen visuellen oder thematischen Schwerpunkt bildet.
+  
+  **Verdichtung** ist das Zusammenführen von Elementen in einem Kunstwerk zu einer dichteren, oft intensiveren Konfiguration, die die visuelle oder thematische Intensität erhöht.
+  
+  **Häufung** meint die Mehrfachplatzierung ähnlicher Objekte oder Elemente in naher Nähe zueinander, was eine visuelle oder thematische Wiederholung und Betonung innerhalb des Kunstwerks schafft.
+</details>
+
+<details>
+  <summary>Linie: Geordneter Verlauf: senkrecht, waagrecht, schräg/diagonal; durchgehend, unterbrochen; gerade, gekrümmt, parallel, kreuzend; mediale Linie als formbildendes Element (Umriss, Kontur, Gestalt); passive Linie als optische Linienbildung im Kontrastbereich unterschiedlicher Flächen (Helligkeit, Farbe, Struktur); Schraffurart (Klicken für Definitionen)</summary>
+  
+  **Durchgehend, unterbrochen** kennzeichnet Linien, die entweder ununterbrochen über eine Distanz verlaufen oder in Abschnitten auftreten, was rhythmische oder fragmentierte visuelle Effekte schafft.
+  
+  **Mediale Linie als formbildendes Element** (Umriss, Kontur, Gestalt) zeigt sich als dominante visuelle Führung innerhalb des Kunstwerks, die die Form und Struktur der dargestellten Objekte definiert.
+  
+  **Passive Linie als optische Linienbildung im Kontrastbereich unterschiedlicher Flächen** (Helligkeit, Farbe, Struktur) entsteht, wenn angrenzende Flächen durch ihre Kontraste eine implizite Linienführung erzeugen, die nicht physisch gezeichnet ist, sondern durch den Betrachter visuell wahrgenommen wird.
+  
+  **Schraffurart** bezieht sich auf die Methode des Schraffierens, um Tonwerte, Texturen oder Schattierungen durch wiederholte Linienführung zu erzeugen, was der Darstellung Tiefe und Volumen verleihen kann.
+</details>
+
+- **Fläche:** Aktiv wirkend oder passiv als Wahrnehmungserscheinung (Figur-Grund-Problem), große-kleine Formen (Verhältnis zueinander, Kontraste, Einheitlichkeit), linearer oder malerischer Stil (Übergänge zwischen den einzelnen Formen)
+
+**C. Hell-Dunkel / Licht**
+- Nennung der Lichtquelle (z.B. links oben), Beschreibung der Beleuchtungssituation
+- Übergang des Hell-Dunkels (fließend, hart, stufenartig)
+- Beschreibung der Stofflichkeit, Volumen, Körperhaftigkeit, Plastizität der Körper durch Körperschatten und Schlagschatten
+
+**D. Form / Figur**
+- Beschreibung der abgebildeten Formen (z.B. organisch, amorph, tektonisch, geometrisch)
+- in ihrem Zusammenhang auch: Abstraktionsgrad der Figur
+- Figur-Grund-Verhältnis
+- Proportionen, Verkürzung der Proportionen im Raum
+- Körperhaltung/-stellung
+
+**E. Farbe**
+- **Farbauftrag:** lasierend, deckend, pastos
+- **Farbwahl:** unbunte Farben, Nennung der verwendeten Farben
+- **Gesamtfarbigkeit:** koloristisch (vorwiegend Buntfarben), vorwiegend getrübte Farben, veristisch (vorwiegend Farben aus einem Farbbereich), monochrom (Hell-Dunkel-Abstufung einer Farbe), unbunt (nur Weiß, Grautöne und Schwarz), Tonigkeit
+- **Farbkontraste (nach J. Itten):** Hell-Dunkel-Kontrast, Qualitätskontrast (reine vs. getrübte Farben), Quantitätskontrast (größere Farbanteile gegenüber kleineren), Kalt-Warm-Kontrast, Komplementärkontrast, Farbe-an-sich-Kontrast
+- **Beziehung von Farbe und Gegenstand:** Symbol-, Lokal-, Erscheinungs- und Ausdrucksfarbe
+
+**F. Raumdarstellung (Illusion)**
+- **Erzeugung vom Räumlichkeit:** Gegenstandsposition im Bild (unten/oben), Überschneidung, Größenzunahme in der Tiefe, diagonale/flüchtende Linien, Anschnitt eines Bildgegenstands, Schrägbild, Linearperspektive mit einem oder mehreren Fluchtpunkten, Farbperspektive, Luftperspektive, Sfumato, Zentralperspektive
+- **Figur-Grund-Verhältnis, Verhältnis Vordergrund zu Hintergrund**
+
+**G. Komposition** (Anordnung der Bildelemente und der Farben auf der Bildfläche)
+- **Gesamtgestalt**
+- **Dominierende Bildrichtungen:** z.B. Bildachse, Horizontale, Bildmittelsenkrechte
+- **Ordnungsprinzipien:** Streuung, Reihung, Ballung, Verdichtung, Gruppierung, Symmetrie, Asymmetrie, geometrische Struktur
+- **Proportion (goldener Schnitt):** Maßverhältnisse der Formelemente zu einander, ausgewogen, ungleichgewichtig
+- **Kompositionsstruktur:** Kontraste, Entsprechungen, Schwerpunkte, statisch, dynamisch
+- **Blickführung**
+- **Nennung eines Kompositionsschemas:** z.B. Dreieckskomposition, figurale Ordnung, Kreiskomposition, Streifenkomposition
