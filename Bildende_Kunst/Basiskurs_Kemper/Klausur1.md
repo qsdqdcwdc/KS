@@ -252,7 +252,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
   
   **Vorwiegend getrübte Farben**: In der Kunst werden getrübte Farben genutzt, um eine subtile, gedämpfte Atmosphäre zu schaffen, die oft in realistischeren oder naturnahen Darstellungen verwendet wird.
   
-  **Veristisch** (von lat. verus = wahr): Diese Farbgebung strebt eine naturgetreue Wiedergabe der Wirklichkeit an. Die Farben sind aus einem natürlichen Spektrum gewählt und orientieren sich stark an der realen Erscheinung der Motive.
+  **Veristisch**: Diese Farbgebung strebt eine naturgetreue Wiedergabe der Wirklichkeit an. Die Farben sind aus einem natürlichen Spektrum gewählt und orientieren sich stark an der realen Erscheinung der Motive. Tatsächlich wird dieser Begriff in diesem Zusammenhang im Internet nur zweimal erwähnt. Und beide Male beschreibt eine sehr realistische Darstellung der Realität. Ich habe keine Ahnung, was sie meinte, als sie ihre Definition schrieb.
   
   **Monochrom** (von griech. monos = allein und chroma = Farbe): Eine monochrome Farbgestaltung verwendet Variationen einer einzigen Farbe in verschiedenen Helligkeitsstufen und Sättigungsgraden. Dieses Konzept wird oft in der abstrakten Kunst verwendet und kann sehr ausdrucksstark sein.
   
