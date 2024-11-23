@@ -228,6 +228,28 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
 - **Dominierende Bildrichtungen:** z.B. Bildachse, Horizontale, Bildmittelsenkrechte
 - **Ordnungsprinzipien:** Streuung, Reihung, Ballung, Verdichtung, Gruppierung, Symmetrie, Asymmetrie, geometrische Struktur
 - **Proportion (goldener Schnitt):** Maßverhältnisse der Formelemente zu einander, ausgewogen, ungleichgewichtig
-- **Kompositionsstruktur:** Kontraste, Entsprechungen, Schwerpunkte, statisch, dynamisch
+- <details>
+  <summary>Kompositionsstruktur: Kontraste, Entsprechungen, Schwerpunkte, statisch, dynamisch (Klicken für Definitionen)</summary>
+  
+  **Entsprechungen** beziehen sich auf die visuelle oder thematische Harmonie zwischen Elementen, die durch wiederkehrende Muster, Formen, Farben oder Texturen erzeugt wird, was zu einem ausgewogenen und kohärenten Gesamtbild führt.
+  
+  **Schwerpunkte** sind die Bereiche in einem Kunstwerk, die die meiste Aufmerksamkeit auf sich ziehen, oft durch den Einsatz von Helligkeitskontrasten, intensiven Farben oder durch ihre zentrale Positionierung im Bild.
+  
+  **Statisch** bedeutet, dass die Komposition ruhig und ausbalanciert ist, ohne viel Bewegung oder Dynamik, was oft durch symmetrische Anordnungen oder ruhige Farbpaletten erreicht wird.
+  
+  **Dynamisch** beschreibt eine Komposition, die Bewegung und Energie ausstrahlt, oft durch schräge Linien, ungleiche Proportionen oder die Verwendung von kräftigen Farben und starken Kontrasten.
+</details>
+
 - **Blickführung**
-- **Nennung eines Kompositionsschemas:** z.B. Dreieckskomposition, figurale Ordnung, Kreiskomposition, Streifenkomposition
+- <details>
+  <summary>Nennung eines Kompositionsschemas: z.B. Dreieckskomposition, figurale Ordnung, Kreiskomposition, Streifenkomposition(Klicken für Definitionen)</summary>
+  
+  **Dreieckskomposition** ist eine stabile und ausgewogene Anordnung, bei der die Bildelemente entlang der Seiten eines imaginären Dreiecks angeordnet sind. Dieses Schema leitet das Auge des Betrachters entlang der Dreieckslinien und betont die Hauptelemente innerhalb des Dreiecks&#8203;:contentReference[oaicite:0]{index=0}.
+  
+  **Figurale Ordnung** bezieht sich auf die Anordnung von Figuren oder Objekten in einer Weise, die eine Geschichte erzählt oder eine visuelle Hierarchie schafft. Diese Komposition ordnet die Elemente so an, dass sie eine klare Richtung oder Handlung innerhalb des Kunstwerks verdeutlichen&#8203;:contentReference[oaicite:1]{index=1}.
+  
+  **Kreiskomposition** verwendet kreisförmige Anordnungen, um eine Bewegung zu schaffen, die das Auge des Betrachters um das Zentrum des Kreises und oft zurück zum Fokuspunkt führt. Diese Art der Komposition wird oft verwendet, um Einheit und Ewigkeit zu symbolisieren&#8203;:contentReference[oaicite:2]{index=2}.
+  
+  **Streifenkomposition** ordnet die Elemente in horizontalen, vertikalen oder diagonalen Streifen an. Dies kann dem Betrachter helfen, das Bild in einer geordneten Weise zu erfassen, und verleiht dem Kunstwerk eine strukturelle Klarheit&#8203;:contentReference[oaicite:3]{index=3}.
+</details>
+
