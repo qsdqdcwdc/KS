@@ -137,3 +137,18 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
     - Beschreibung der Bildteile in einer logischen und nachvollziehbaren Reihenfolge.
     - Wirkung der Bildteile.
     - Angaben zu Positionen im Bild und zu den Größenverhältnissen der Bildteile zueinander.
+### II. Formale Analyse: Leitfrage: Wie ist etwas dargestellt?
+**A. Technik/ Verfahren (verwendetes Material)**
+- Maltechnik, Drucktechnik, Zeichentechnik,
+- [Zufallsverfahren](https://en.wikipedia.org/wiki/Randomization#Art:~:text=Some%20artists%20in,or%20replicate%20manually.) (Frottage, Grattage, Decalcomanie, Dripping), Collage, Fotografie
+- Malspuren, Pinselduktus (sichtbar, unsichtbar)
+- Bildrealisation (Grundierung, Vorzeichnung,...)
+- sowie Entstehungsprozess, Reihenfolge der einzelnen Arbeitsschritte
+
+<details>
+  <summary><span style="color:blue">Definition von Grundierung und Vorzeichnung</span></summary>
+  
+  **Grundierung** ist das Auftragen einer ersten Schicht auf eine Oberfläche, um die Haftung der Farbe zu verbessern und die Textur des Untergrunds zu modifizieren. Sie dient auch dazu, die Farben des endgültigen Kunstwerks zum Leuchten zu bringen und ihre Haltbarkeit zu erhöhen.
+  
+  **Vorzeichnung** bezieht sich auf das Anfertigen einer skizzierten Darstellung des endgültigen Kunstwerks auf dem Malgrund, oft mit einem Bleistift oder einer dünnen Farblinie. Diese vorläufigen Linien dienen als Führung für die weiteren Schichten und helfen bei der präzisen Umsetzung der künstlerischen Vision.
+</details>
