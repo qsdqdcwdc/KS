@@ -3,7 +3,7 @@
 -
 # Grundbegriffe der Ethik
 - **Ethik** bezeichnet ein philosophisches Studium moralischer Phänomene, das sich z.B mit den Konzepten von moralisch richtig und falsch sowie moralisch gut und schlecht auseinandersetzt.
-- **Werte** sind deskriptive die Überzeugungen darüber, was gut oder schlecht ist. [Quelle](https://ethicsunwrapped.utexas.edu/glossary/values)
+- **Werte** sind die Überzeugungen darüber, was gut oder schlecht ist. [Quelle](https://ethicsunwrapped.utexas.edu/glossary/values)
 - **Normen** bezeichnen präskriptive Regeln, die vorschreiben, wie sich Individuen verhalten sollten. Sie sind nicht deskriptiv, das heißt, sie zielen nicht darauf ab, Zustände der Realität zu beschreiben, sondern darauf, richtiges Verhalten zu definieren.  [Quelle](https://www.encyclopedia.com/social-sciences-and-law/sociology-and-social-reform/sociology-general-terms-and-concepts/norms). 
 - **Moral** bezeichnet die Gesamtheit von ethischen Normen und Werten, die das Handeln und Verhalten von Individuen in einer Gesellschaft regulieren. [Quelle](https://www.lernen.net/artikel/moral-ethik-16726/)
 - **Normative Ethik** befasst sich mit der Festlegung ethischer Standards und der Bewertung moralischer Handlungen, indem sie vorschreibt, wie man handeln sollte. Diese Disziplin entwickelt Theorien über richtiges und falsches Handeln und zielt darauf ab, ethisches Verhalten zu leiten. 
