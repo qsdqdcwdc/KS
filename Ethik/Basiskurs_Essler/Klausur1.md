@@ -11,4 +11,4 @@
 - **Metaethik** konzentriert sich auf die Untersuchung der Strukturen und Bedeutungen moralischer Urteile. Sie erforscht insbesondere die Semantik moralischer Aussagen, die objektive Existenz moralischer Fakten und die Rechtfertigung moralischer Überzeugungen.
 
 # Utilitarismus
-Utilitarismus ist eine ethische Theorie innerhalb der normativen Ethik, die Handlungen auf der Grundlage ihrer Konsequenzen bewertet, speziell in Bezug darauf, ob sie das Glück oder das Wohlbefinden der Betroffenen maximieren.
+**Prinzip der Nützlichkeit** besagt, dass Handlungen oder Handlungsregeln moralisch richtig sind, wenn ihre Konsequenzen die Summe von Wohlergehen aller Betroffenen maximieren.
