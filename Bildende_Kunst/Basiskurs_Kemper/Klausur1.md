@@ -1,3 +1,4 @@
+<code>Kritik, Feedback, Korrektionen und Ergänzungen von diesem Dokument sind willkommen. Dafür mich entweder direkt durch soziale Medien kontaktieren kontaktieren oder durch Github.</code>
 # Inhalt
 
 - [Paul Cézanne](#paul-cézanne)
