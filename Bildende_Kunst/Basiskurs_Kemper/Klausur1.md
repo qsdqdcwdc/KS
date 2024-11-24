@@ -181,7 +181,7 @@ Hauptquelle: [playlist über Kunststile](https://www.youtube.com/playlist?list=P
   
   **Mediale Linie als formbildendes Element** (Umriss, Kontur, Gestalt) zeigt sich als dominante visuelle Führung innerhalb des Kunstwerks, die die Form und Struktur der dargestellten Objekte definiert.
   
-  **Passive Linie als optische Linienbildung im Kontrastbereich unterschiedlicher Flächen** (Helligkeit, Farbe, Struktur) entsteht, wenn angrenzende Flächen durch ihre Kontraste eine implizite Linienführung erzeugen, die nicht physisch gezeichnet ist, sondern durch den Betrachter visuell wahrgenommen wird.
+  Die **passive Linie** ist nicht selbstständig und dient nicht einmal einer Form als Kontur, sie bildet in der Vereinigung mit vielen anderen Linien eine Fläche, als Schraffur. 
   
   **Schraffurart** bezieht sich auf die Methode des Schraffierens, um Tonwerte, Texturen oder Schattierungen durch wiederholte Linienführung zu erzeugen, was der Darstellung Tiefe und Volumen verleihen kann.
 </details>
