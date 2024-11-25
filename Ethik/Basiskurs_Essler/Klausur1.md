@@ -26,7 +26,7 @@ Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watc
 - **Hedonistisches Prinzip** - definiert, dass das Einzige, was an sich für den Individuum gut ist, Freude ist und das Einzige, was an sich für den Individuum schlecht ist, Leid ist[^8].
 [^8]: https://studyflix.de/allgemeinwissen/hedonismus-6679
 - **Universalisierungsprinzip / Sozialprinzip** - definiert, dass das Wert einer Handlung oder Handlungsregel ist das Wohlergehen allen von den Handlung Betroffenen. 
-- **Aggregationsprinzip** - definiert, dass das Wert einer Handlung größer ist, wenn die Summe dessen, was für jede betroffene Person gut ist, abzüglich dessen, was für jede betroffene Person schlecht ist, größer ist. Aggregationsprinzip ist eine Subvariante von dem Sozialprinzip. Unterschied zu dem Sozialprinzip ist das Aggregationsprinzip definiert konkret wie man den Wert einer Handlung ausrechnet.[^9]
+- **Aggregationsprinzip** - definiert, dass das Wert einer Handlung größer ist, wenn die Summe dessen, was für jede Person gut ist, abzüglich dessen, was für jede Person schlecht ist, größer ist. Aggregationsprinzip ist eine Subvariante von dem Sozialprinzip. Unterschied zu dem Sozialprinzip ist das Aggregationsprinzip definiert konkret wie man den Wert einer Handlung ausrechnet.[^9]
 [^9]: https://utilitarismus.net/arten-des-utilitarismus/#aggregationismus
 - **Konsequenzprinzip** - definiert, dass wir moralisch verpflichtet sind, die Handlung mit dem größten Wert zu wählen.
 
