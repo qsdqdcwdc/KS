@@ -20,13 +20,14 @@
 [^7]: https://studyflix.de/allgemeinwissen/metaphysik-7427
 
 # Utilitarismus
-Empfehle gutes Video: [Utilitarismus](https://www.youtube.com/watch?v=03ESwNlyG8k&list=PL7YPshZMeLIazts4sq6UQ2kpjsUxhHaBd&index=1)
-
-- **Prinzip der Nützlichkeit**(im Video: Principle of utility) besagt, dass Handlungen oder Handlungsregeln moralisch richtig sind, wenn ihre Konsequenzen das Wohlergehen aller Betroffenen maximieren.
+Hauptquelle empfehle gutes Video: [Utilitarismus](https://www.youtube.com/watch?v=03ESwNlyG8k&list=PL7YPshZMeLIazts4sq6UQ2kpjsUxhHaBd&index=1)
 
 ### Untertheorien/Bestandtiele von Utilitarismus
-- **Hedonistisches Prinzip**(Hedonismus) - definiert, dass das Einzige, was an sich für den Individuum gut ist, Freude ist und das Einzige, was für den Individuum schlecht ist, Schmerz ist.[^8]
+- **Hedonistisches Prinzip** - definiert, dass das Einzige, was an sich für den Individuum gut ist, Freude ist und das Einzige, was an sich für den Individuum schlecht ist, Leid ist[^8].
 [^8]: https://studyflix.de/allgemeinwissen/hedonismus-6679
-- 
+- **Universalisierungsprinzip / Sozialprinzip** - definiert, dass das Wert einer Handlung oder Handlungsregel ist das Wohlergehen allen von den Handlung Betroffenen. 
+- **Aggregationsprinzip** - definiert, dass das Wert einer Handlung größer ist, wenn die Summe dessen, was für jede betroffene Person gut ist, abzüglich dessen, was für jede betroffene Person schlecht ist, größer ist. Aggregationsprinzip ist eine Subvariante von dem Sozialprinzip. Unterschied zu dem Sozialprinzip ist das Aggregationsprinzip definiert konkret wie man den Wert einer Handlung ausrechnet.[^9]
+[^9]: https://utilitarismus.net/arten-des-utilitarismus/#aggregationismus
+- **Konsequenzprinzip** - definiert, dass wir moralisch verpflichtet sind, die Handlung mit dem größten Wert zu wählen.
 
-
+- **Prinzip der Nützlichkeit**- definiert welche Handlungen moralisch richtig sind. Er besagt, dass eine Handlung moralisch richtig ist, wenn sie den größten Wert hat(Konsequenzprinzip), der durch optimierung von Wohlergehen (Hedonistisches Prinzip)aller betroffenen Individuen bestimmt wird (Sozialprinzip).
