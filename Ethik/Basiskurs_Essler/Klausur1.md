@@ -30,4 +30,4 @@ Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watc
 [^9]: https://utilitarismus.net/arten-des-utilitarismus/#aggregationismus
 - **Konsequenzprinzip** - definiert, dass wir moralisch verpflichtet sind, die Handlung mit dem größten Wert zu wählen.
 
-- **Prinzip der Nützlichkeit**- definiert welche Handlungen moralisch richtig sind. Er besagt, dass eine Handlung moralisch richtig ist, wenn sie den größten Wert hat(Konsequenzprinzip), der durch optimierung von Wohlergehen (Hedonistisches Prinzip)aller betroffenen Individuen bestimmt wird (Sozialprinzip). <code>-- [WHAT?](https://www.youtube.com/watch?v=AjezlmZs3aw)</code>
+- **Prinzip der Nützlichkeit**- definiert welche Handlungen moralisch richtig sind. Er besagt, dass eine Handlung moralisch richtig ist, wenn sie den größten Wert hat(Konsequenzprinzip), der durch optimierung von Wohlergehen (Hedonistisches Prinzip)aller betroffenen Individuen bestimmt wird (Sozialprinzip).             <code> -- [WHAT?](https://www.youtube.com/watch?v=AjezlmZs3aw)</code>
