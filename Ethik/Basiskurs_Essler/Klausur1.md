@@ -8,7 +8,9 @@
 2. <code>Die kleine Ziffern am Ende von dem Definitionen (z.B: [^1] ) sind Quellen die muss man nicht anschauen die sind nur für Vollständigkeit halber da.</code>
 [^1]: https://studyflix.de/allgemeinwissen/ethik-3749
 # Inhalt
--
+- [Grundbegriffe der Ethik](#grundbegriffe-der-ethik)
+- [Utilitarismus](#utilitarismus)
+	- [Bestandtiele von Utilitarismus](###bestandtiele-von-utilitarismus)
 # Grundbegriffe der Ethik
 
 - **Ethik**, ist eine Wissenschaft, die sich mit dem menschlichen Handeln, Werten und moralischen Systemen beschäftigt.[^2]
@@ -28,7 +30,7 @@
 # Utilitarismus
 Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watch?v=03ESwNlyG8k&list=PL7YPshZMeLIazts4sq6UQ2kpjsUxhHaBd&index=1)
 
-### Untertheorien/Bestandtiele von Utilitarismus
+### Bestandtiele von Utilitarismus
 - **Hedonistisches Prinzip** - definiert, dass das Einzige, was an sich für den Individuum gut ist, Freude ist und das Einzige, was an sich für den Individuum schlecht ist, Leid ist[^8].
 [^8]: https://studyflix.de/allgemeinwissen/hedonismus-6679
 - **Universalisierungsprinzip / Sozialprinzip** - definiert, dass das Wert einer Handlung oder Handlungsregel ist das Wohlergehen allen von den Handlung Betroffenen. 
