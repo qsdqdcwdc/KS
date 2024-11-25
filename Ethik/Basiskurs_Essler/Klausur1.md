@@ -5,7 +5,9 @@
 </p>
 
 1. <code>Kritik, Feedback, Korrektionen und Ergänzungen von diesem Dokument sind willkommen. Dafür mich entweder direkt durch soziale Medien kontaktieren kontaktieren oder durch Github.</code>
-2. <code>Die kleine Ziffern am Ende von dem Definitionen (z.B: [^1] ) sind Quellen die muss man nicht anschauen die sind nur für Vollständigkeit halber da.</code>
+2. <code>Die kleine Ziffern am Ende von dem Definitionen (z.B: Text[^1]) sind Quellen die muss man nicht anschauen die sind nur für Vollständigkeit halber da.</code>
+3. <code>Dieses Dokument wird am Dienstag den 26 Nov gegen 21:00/22:00 Uhr vollständig fertiggestellt sein. </code>
+
 [^1]: https://studyflix.de/allgemeinwissen/ethik-3749
 # Inhalt
 - [Grundbegriffe der Ethik](#grundbegriffe-der-ethik)
@@ -39,3 +41,8 @@ Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watc
 - **Konsequenzprinzip** - definiert, dass wir moralisch verpflichtet sind, die Handlung mit dem größten Wert zu wählen.
 
 - **Prinzip der Nützlichkeit**- definiert welche Handlungen moralisch richtig sind. Er besagt, dass eine Handlung moralisch richtig ist, wenn sie den größten Wert hat(Konsequenzprinzip), der durch optimierung von Wohlergehen (Hedonistisches Prinzip)aller betroffenen Individuen bestimmt wird (Universalisierungsprinzip). <code>             -- [WHAT?](https://www.youtube.com/watch?v=AjezlmZs3aw)</code>
+### Utilitarismus nach Bentham
+-
+### Utilitarismus nach Mill
+-
+### Utilitarismus Singer
