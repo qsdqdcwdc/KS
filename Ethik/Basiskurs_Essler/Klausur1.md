@@ -10,7 +10,7 @@
 # Inhalt
 - [Grundbegriffe der Ethik](#grundbegriffe-der-ethik)
 - [Utilitarismus](#utilitarismus)
-	- [Bestandtiele von Utilitarismus](###bestandtiele-von-utilitarismus)
+	- [Bestandtiele von Utilitarismus](#bestandtiele-von-utilitarismus)
 # Grundbegriffe der Ethik
 
 - **Ethik**, ist eine Wissenschaft, die sich mit dem menschlichen Handeln, Werten und moralischen Systemen beschäftigt.[^2]
