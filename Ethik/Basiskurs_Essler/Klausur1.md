@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="Img/qr_bk_klas1.png" width="300"  title="qr code">
 	<br>
-	<em>QR-Code scannen um das dieses Dokument auf dem IPad zu öffnen</em>
+	<em>QR-Code scannen um dieses Dokument auf dem IPad zu öffnen</em>
 </p>
 
 1. <code>Kritik, Feedback, Korrektionen und Ergänzungen von diesem Dokument sind willkommen. Dafür mich entweder direkt durch soziale Medien kontaktieren kontaktieren oder durch Github.</code>
