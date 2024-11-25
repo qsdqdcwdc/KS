@@ -20,7 +20,7 @@
 [^7]: https://studyflix.de/allgemeinwissen/metaphysik-7427
 
 # Utilitarismus
-Hauptquelle empfehle gutes Video: [Utilitarismus](https://www.youtube.com/watch?v=03ESwNlyG8k&list=PL7YPshZMeLIazts4sq6UQ2kpjsUxhHaBd&index=1)
+Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watch?v=03ESwNlyG8k&list=PL7YPshZMeLIazts4sq6UQ2kpjsUxhHaBd&index=1)
 
 ### Untertheorien/Bestandtiele von Utilitarismus
 - **Hedonistisches Prinzip** - definiert, dass das Einzige, was an sich für den Individuum gut ist, Freude ist und das Einzige, was an sich für den Individuum schlecht ist, Leid ist[^8].
