@@ -13,7 +13,7 @@ Hauptquellen: [gute Video über Paul Cézanne](https://www.youtube.com/watch?v=8
 - **Januar 1839**: Geburt im in Aix-en-Provence.
 - 1852–1858 (alter: 13-19): Besuch des Collège Bourbon. Entsteht Freundschaft mit [Émile Zola](https://en.wikipedia.org/wiki/%C3%89mile_Zola). 
 - 1858 – 1861 (alter: 19-21): 2 Jahre studiert auf Wunsch des Vaters Jura, vernachlässigte es jedoch.
-- 1861(alter: 21): Vater erlaubt ihm, nach Paris zu ziehen, wo Zola bereits auf ihn wartet. Er wird abgelehnt an École des Beaux-Arts und besucht die freie Académie Suisse. Dort lernt er den Maler Camille Pissarro kennen und kopiert Meisterwerke im Louvre. Kehrt, enttäuscht, zurück und arbeitete in der Bank seines Vaters. Sein Vater sicherte ihm mit einem monatlichen Wechsel von über 150 Franc(≈500-900€) ab.
+- 1861(alter: 21): Vater erlaubt ihm, nach Paris zu ziehen, wo Zola bereits auf ihn wartet. Er wird abgelehnt an École de Beaux-Arts und besucht die freie Académie Suisse. Dort lernt er den Maler Camille Pissarro kennen und kopiert Meisterwerke im Louvre. Kehrt, enttäuscht, zurück und arbeitete in der Bank seines Vaters. Sein Vater sicherte ihm mit einem monatlichen Wechsel von über 150 Franc(≈500-900€) ab.
 - 1863(alter: 23): Seine Werke werden an „Salon“ systematisch abgelent. Beteiligt sich an der Ausstellung „Salon des refusés“, Gegenstück zur konservativen Ausstellung [„Salon“](https://en.wikipedia.org/wiki/Salon_(Paris)).
 - 1869(alter: 29): Hat seine zukünftige Frau Buchbinderassistentin Hortense Fiquet kennengelernt.
 - 1870(alter: 30): Während des [Deutsch-Französischen Krieges](https://en.wikipedia.org/wiki/Franco-Prussian_War) von 1870/71 versteckte er sich mit Zola vor der Wehrpflicht im Fischerdorf L’Estaque in der Nähe von Marseille.
