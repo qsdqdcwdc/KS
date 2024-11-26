@@ -16,6 +16,7 @@
  	- [Utilitarismus nach Bentham](#utilitarismus-nach-bentham)
   	- [Utilitarismus nach Mill](#utilitarismus-nach-mill)
   	- [Utilitarismus nach Singer](#utilitarismus-nach-singer)
+- [Analyse von einem philosophischen Text](#analyse-von-einem-philosophischen-text)
 # Grundbegriffe der Ethik
 
 - **Ethik**, ist eine Wissenschaft, die sich mit dem menschlichen Handeln, Werten und moralischen Systemen beschäftigt.[^2]
@@ -65,3 +66,21 @@ Utilitarismus  nach  Bentham ist[^11]:
 -
 ### Utilitarismus nach Singer
 - 
+
+# Analyse von einem philosophischen Text
+[Quelle](https://www.carolinum.net/files/CaroNet/Redaktion/ROD/Ethik/Analyse%20und%20Interpretation%20philosophischer%20Texte.pdf)
+### Einleitung:
+- **Basissatz**: Textsorte, Autor oder Autorin, Titel, Datum und Ort der Veröffentlichung, Adressat
+- **Deutungshypothese**: Vorstellung der vorläufigen These oder Interpretation des Textes.
+
+### Hauptteil:
+- **Inhaltszusammenfassung**: Detaillierte Zusammenfassung des Textinhalts in eigenen Worten.
+- **Argumentative Struktur**: Analyse der logischen Struktur und der Argumentationslinien des Textes.
+- **Zusammenfassung der Textaussage**: Herausarbeitung der zentralen Botschaft oder These des Textes.
+- **Beurteilung des Gesamttextes**: Kritische Bewertung des Textes im Hinblick auf dessen Aussagekraft und Wirkung.
+
+### Schluss:
+- **Persönliche Reflexion**: Eigene Gedanken und Reaktionen zum Text.
+- **Offene Fragen**: Aufwerfen von Fragen, die der Text offen lässt oder aufwirft.
+- **Parallelen zu anderen Theorien**: Vergleich oder Verbindung des Textinhalts mit anderen philosophischen oder theoretischen Ansätzen.
+- **Bezug zur Einleitung**: Rückbindung der Analyseergebnisse an die in der Einleitung formulierten Punkte.
