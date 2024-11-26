@@ -38,7 +38,7 @@ Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watc
 
 - **Nutzenprinzip** sagt, dass die Handlung mit besten Folgen ist die Handlung, die am meisten zu dem beiträgt, was an sich gut ist.
 
-- **Universalisierungsprinzip**, sagt dass man muss alle Betroffenen von der Handlung gleich berücksichtigen[^9].
+- **Universalisierungsprinzip**, sagt dass man muss alle Betroffenen von der Handlung gleich berücksichtigen soll[^9].
 [^9]: https://de.wikipedia.org/wiki/Universalismus_(Philosophie)
 
 - **Hedonistisches Prinzip** - sagt, dass das Einzige, was an sich für den Individuum gut ist, Freude ist und das Einzige, was an sich für den Individuum schlecht ist, Leid ist (an sich gut/schlecht sein - bedeutet das es ist gut/schlecht bei Definition)[^8]. 
