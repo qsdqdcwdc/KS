@@ -33,17 +33,17 @@
 Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watch?v=03ESwNlyG8k&list=PL7YPshZMeLIazts4sq6UQ2kpjsUxhHaBd&index=1)
 
 ### Bestandtiele von Utilitarismus
-- **Hedonistisches Prinzip** - definiert, dass das Einzige, was an sich für den Individuum gut ist, Freude ist und das Einzige, was an sich für den Individuum schlecht ist, Leid ist[^8].
+- **Hedonistisches Prinzip** - definiert, dass das Einzige, was an sich für den Individuum gut ist, Freude ist und das Einzige, was an sich für den Individuum schlecht ist, Leid ist (an sich gut/schlecht sein - bedeutet das es ist gut/schlecht bei Definition)[^8]. 
 [^8]: https://studyflix.de/allgemeinwissen/hedonismus-6679
-- **Universalisierungsprinzip** besagt, dass Werte, Idealien, Rechte und Pflichte sich auf alle Personen ausbreiten sollen[^10]. In diesen konkreten Fall bedeutet, dass der Wert einer Handlung dadurch bestimmt werden soll, indem man alle von dieser Handlung betroffenen Personen berücksichtigt.
+- **Universalisierungsprinzip** besagt, dass Werte, Idealien, Rechte und Pflichte sich auf alle Personen ausbreiten sollen[^10]. In diesen konkreten Fall bedeutet, dass der Wert der Folgen einer Handlung dadurch bestimmt werden soll, indem man alle von dieser Handlung betroffenen Personen gleich berücksichtigt.
 [^10]: https://de.wikipedia.org/wiki/Universalismus_(Philosophie)
-- **Aggregationsprinzip** - definiert, dass das Wert einer Handlung größer ist, wenn die Summe dessen, was für jede Person gut ist, abzüglich dessen, was für jede Person schlecht ist, größer ist. [^9]
+- **Aggregationsprinzip** - definiert, dass der Wert der Folgen einer Handlung größer ist, wenn die Summe dessen, was für jede Person gut ist, abzüglich dessen, was für jede Person schlecht ist, größer ist[^9]. 
 [^9]: https://utilitarismus.net/arten-des-utilitarismus/#aggregationismus
-- **Konsequenzprinzip** - definiert, dass wir moralisch verpflichtet sind, die Handlung mit dem größten Wert zu wählen.
-
-- **Prinzip der Nützlichkeit**- definiert welche Handlungen moralisch richtig sind. Er besagt, dass eine Handlung moralisch richtig ist, wenn sie den größten Wert hat(Konsequenzprinzip), der durch optimierung von Wohlergehen (Hedonistisches Prinzip)aller betroffenen Individuen bestimmt wird (Universalisierungsprinzip). <code>             -- [WHAT?](https://www.youtube.com/watch?v=AjezlmZs3aw)</code>
+- **Konsequenzprinzip** - definiert, dass wir moralisch verpflichtet sind, die Handlung mit dem größten Wert der Folgen zu wählen.
+- **Prinzip der Nützlichkeit**- definiert welche Handlungen moralisch richtig sind. Er besagt, dass eine Handlung moralisch richtig ist, wenn sie den größten Wert der Folgen hat, der durch optimierung von Wohlergehen aller betroffenen Individuen bestimmt wird.
 ### Utilitarismus nach Bentham
 -
 ### Utilitarismus nach Mill
 -
-### Utilitarismus Singer
+### Utilitarismus nach Singer
+- 
