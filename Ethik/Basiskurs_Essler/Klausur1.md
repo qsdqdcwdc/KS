@@ -55,23 +55,23 @@ Jeremy Bentham (1748–1832) war ein englischer Philosoph, Jurist und Sozialrefo
 
 Utilitarismus  nach  Bentham ist[^11]:
 [^11]: https://books.openedition.org/obp/4419?lang=en#anchor-toc-1-5:~:text=act%20morally.-,5.%20The%20Structure%20of%20Bentham%E2%80%99s%20Utilitarianism,-15
-- **Hedonistisch**
-- **Konsequentialistisch**: Bentham definiert die moralische Wertigkeit einer Handlung ausschließlich durch deren Konsequenzen.
+- **Hedonistisch**: Freude ist das einzige wahre Gut.
+- **Konsequentialistisch**(Teleologisch): definiert die moralische Wertigkeit einer Handlung ausschließlich durch deren Konsequenzen.
 
-- **Relativistisch**: Bentham vertritt eine relativistische Moralansicht, die Handlungen nicht als absolut richtig oder falsch betrachtet, sondern deren Moralität in Abhängigkeit vom jeweiligen Kontext bewertet. Selbst in schwierigen Fällen, wie z.B. Folter, kann eine Handlung gerechtfertigt sein, wenn sie insgesamt mehr Glück fördert.
+- **Relativistisch**: vertritt eine relativistische Moralansicht, die Handlungen nicht als absolut richtig oder falsch betrachtet, sondern deren Moralität in Abhängigkeit vom jeweiligen Kontext bewertet. Selbst in schwierigen Fällen, wie z.B. Folter, kann eine Handlung gerechtfertigt sein, wenn sie insgesamt mehr Gut fördert.
 
-- **Maximierend**: Benthams Utilitarismus fordert nicht nur die Förderung von Freude, sondern strebt das größte Glück der größten Zahl an. Handlungen, die Freude bereiten, können moralisch falsch sein, wenn eine alternative Handlung mehr Freude oder weniger Leid erzeugt hätte.
+- **Maximierend**: strebt das größte Gut der größten Zahl an. Handlungen, die Gut bereiten, können moralisch falsch sein, wenn eine alternative Handlung mehr Gut erzeugt hätte.
 
-- **Impartial**: Die Theorie misst allen Personen gleiche Bedeutung bei; es zählt ausschließlich, das Gesamtglück der meisten Menschen zu maximieren. Die individuelle Stellung oder persönliche Beziehungen zu den Betroffenen haben keinen Einfluss auf die moralische Bewertung einer Handlung.
+- **Impartial**: Die Theorie misst allen Personen gleiche Bedeutung bei; es zählt ausschließlich, das Gesamtgut der meisten Menschen zu maximieren. Die individuelle Stellung oder persönliche Beziehungen zu den Betroffenen haben keinen Einfluss auf die moralische Bewertung einer Handlung.
 
-**Hedonischer Kalkül**: Bentham entwickelte diesen Kalkül, um zu bestimmen, welche Handlungen das größte Glück erzeugen. Er berücksichtigt Intensität, Dauer, Gewissheit, zeitliche Nähe, Wahrscheinlichkeit weiteren Glücks, Reinheit und den Umfang der betroffenen Personen.
+**Hedonischer Kalkül**: Bentham entwickelte diesen Kalkül, um zu bestimmen, welche Handlungen das größte Freude(Gut) erzeugen. Er berücksichtigt Intensität, Dauer, Gewissheit, zeitliche Nähe, Wahrscheinlichkeit weiteren Glücks, Reinheit und den Umfang der betroffenen Personen.
 
 ### Mill
 John Stuart Mill (1806–1873) war ein englischer Philosoph und politischer Ökonom, der zur Entwicklung der liberalen Theorie und des Utilitarismus beitrug. Mill war bekannt für seine Verteidigung der individuellen Freiheit, insbesondere in seinem Werk „On Liberty“, in dem er für Schadensprinzip argumentiert. Er setzte sich für das Frauenwahlrecht und soziale Reformen ein[^13].
 [^13]: https://en.wikipedia.org/wiki/John_Stuart_Mill
 
 Utilitarismus nach Mill ist:
-- **Hedonistisch**
+- **Hedonistisch**: *(siehe oben)*
 - **Qualitativ:**: Mill betont die Qualität des Vergnügens. Er argumentiert, dass Höheren Freuden, die geistige und ästhetische Erfahrungen betreffen(wie Literatur oder Theater) höherwertiger sind als basale, "niederen" oder sinnliche Freuden, die auf physische und sofortige Befriedigungen abzielen(wie Essen und Trinken).
 - **Regelbasiert**: Mill argumentiert für den Regelutilitarismus.
 
@@ -79,7 +79,15 @@ Utilitarismus nach Mill ist:
 
 **Schadensprinzip**: Mill formuliert das Schadensprinzip, welches besagt, dass Eingriffe in die Freiheit eines Individuums nur gerechtfertigt sind, um Schaden von anderen abzuwenden.
 ### Singer
-- 
+Utilitarismus nach Singer ist[^14]:
+[^14]: https://books.openedition.org/obp/4419?lang=en#anchor-toc-1-13:~:text=Singer%20advocates%20a%20non%2Dhedonistic%20version%20of%20Utilitarianism.%20His%20utilitarian%20theory%20is%20teleological%2C%20maximising%2C%20impartial%20and%20relativistic
+- **Nicht-hedonistisch**: Gutes wird nicht durch das Erleben von Freude definiert, sondern durch die Erfüllung von individueller Präferenzen.
+- **Konsequentialistisch**: *(siehe oben)*
+- **Relativistisch**: *(siehe oben)*
+- **Maximierend**: *(siehe oben)*
+- **Impartial**: *(siehe oben)*
+
+Singer vertritt eine nicht-hedonistische Version des Utilitarismus. Er behauptet nicht, dass das größte Gut für die größte Zahl auf Vergnügen in roher oder höherer Form reduziert werden kann. Stattdessen glaubt Singer, dass das, was das Leben eines Menschen verbessert, ausschließlich durch die Befriedigung seiner Präferenzen bestimmt wird.
 
 # Analyse von einem philosophischen Text
 [Quelle](https://www.carolinum.net/files/CaroNet/Redaktion/ROD/Ethik/Analyse%20und%20Interpretation%20philosophischer%20Texte.pdf)
