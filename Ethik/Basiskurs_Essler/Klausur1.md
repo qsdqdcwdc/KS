@@ -79,6 +79,8 @@ Utilitarismus nach Mill ist:
 
 **Schadensprinzip**: Mill formuliert das Schadensprinzip, welches besagt, dass Eingriffe in die Freiheit eines Individuums nur gerechtfertigt sind, um Schaden von anderen abzuwenden.
 ### Singer
+Peter Albert David Singer, geboren im Jahr 1946 *(noch am Leben stand Nov 2024)*, ist ein einflussreicher australischer Ethikphilosoph. Singer ist besonders bekannt für seine Arbeiten im Bereich der Bioethik und seine Ansichten zur Gleichstellung von Menschen- und Tierinteressen. Zusätzlich befürwortet Singer eine Pflicht der wohlhabenden Nationen, erhebliche Ressourcen zur Linderung von Not und Leid weltweit bereitzustellen​.
+
 Utilitarismus nach Singer ist[^14]:
 [^14]: https://books.openedition.org/obp/4419?lang=en#anchor-toc-1-13:~:text=Singer%20advocates%20a%20non%2Dhedonistic%20version%20of%20Utilitarianism.%20His%20utilitarian%20theory%20is%20teleological%2C%20maximising%2C%20impartial%20and%20relativistic
 - **Nicht-hedonistisch**: Gutes wird nicht durch das Erleben von Freude definiert, sondern durch die Erfüllung von individueller Präferenzen.
@@ -87,7 +89,10 @@ Utilitarismus nach Singer ist[^14]:
 - **Maximierend**: *(siehe oben)*
 - **Impartial**: *(siehe oben)*
 
-Singer vertritt eine nicht-hedonistische Version des Utilitarismus. Er behauptet nicht, dass das größte Gut für die größte Zahl auf Vergnügen in roher oder höherer Form reduziert werden kann. Stattdessen glaubt Singer, dass das, was das Leben eines Menschen verbessert, ausschließlich durch die Befriedigung seiner Präferenzen bestimmt wird.
+Singer vertriet **Präferenzutilitarismus**, erbehauptet nicht, dass das größte Gut für die größte Zahl auf Vergnügen in niedriger oder höherer Form reduziert werden kann. Stattdessen glaubt Singer, dass das, was das Leben eines Menschen verbessert, ausschließlich durch die Befriedigung seiner Präferenzen bestimmt wird.
+Es gilt eine Handlung, die gegen die Präferenzen eines Wesens verstößt, ohne durch gegenteilige Präferenzen gerechtfertigt zu sein, als moralisch falsch. Das Töten einer zukunftsorientierten Person, die leben möchte, stellt eine schwerwiegendere Verletzung dar, da es mehrere ihrer Präferenzen beeinträchtigt. Ein Wesen ohne Zukunftspräferenzen erleidet durch seine Tötung kleinere Präferenzverletzung.
+
+Singer unterscheidet zwischen **Mensch**, dem Mitgelieg der Art Homosapiens, und **Person** einem denkenden, intelligenten Wesen mit Präferenzen.
 
 # Analyse von einem philosophischen Text
 [Quelle](https://www.carolinum.net/files/CaroNet/Redaktion/ROD/Ethik/Analyse%20und%20Interpretation%20philosophischer%20Texte.pdf)
