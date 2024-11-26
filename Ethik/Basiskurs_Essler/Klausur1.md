@@ -38,15 +38,26 @@ Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watc
 
 - **Nutzenprinzip** sagt, dass die Handlung mit besten Folgen ist die Handlung, die am meisten zu dem beiträgt, was an sich gut ist.
 
-- **Universalisierungsprinzip**, sagt dass man muss alle Betroffenen von der Handlung gleich berücksichtigen soll[^9].
+- **Universalisierungsprinzip**, sagt dass man muss alle Betroffenen von der Handlung gleich berücksichtigen soll[^9]. *(im generellen Fall dass Werte, Idealien, Rechte und Pflichte sich auf alle Personen ausbreiten sollen)*
 [^9]: https://de.wikipedia.org/wiki/Universalismus_(Philosophie)
 
-- **Hedonistisches Prinzip** - sagt, dass das Einzige, was an sich für den Individuum gut ist, Freude ist und das Einzige, was an sich für den Individuum schlecht ist, Leid ist (an sich gut/schlecht sein - bedeutet das es ist gut/schlecht bei Definition)[^8]. 
+- **Hedonistisches Prinzip** - sagt, dass das Einzige, was an sich für den Individuum gut ist, Freude ist und das Einzige, was an sich für den Individuum schlecht ist, Leid ist *(an sich gut/schlecht sein - bedeutet das es ist gut/schlecht bei Definition)*[^8]. 
 [^8]: https://studyflix.de/allgemeinwissen/hedonismus-6679
 
-- **Prinzip der Nützlichkeit** sagt, dass eine Handlung moralisch richtig ist, wenn sie Folgen die besste hat, die durch optimierung von Wohlergehen aller betroffenen Individuen bestimmt wirden.
+- **Prinzip der Nützlichkeit** sagt, dass eine Handlung moralisch richtig ist, wenn sie die besten Folgen hat, die *(Folgen)* durch optimierung von Wohlergehen aller betroffenen Individuen bestimmt werden.
 ### Utilitarismus nach Bentham
--
+Utilitarismus  nach  Bentham ist[^11]:
+[^11]: https://books.openedition.org/obp/4419?lang=en#anchor-toc-1-5:~:text=act%20morally.-,5.%20The%20Structure%20of%20Bentham%E2%80%99s%20Utilitarianism,-15
+- **Konsequentialistisch**: Bentham definiert die moralische Wertigkeit einer Handlung ausschließlich durch deren Konsequenzen.
+
+- **Relativistisch**: Bentham vertritt eine relativistische Moralansicht, die Handlungen nicht als absolut richtig oder falsch betrachtet, sondern deren Moralität in Abhängigkeit vom jeweiligen Kontext bewertet. Selbst in schwierigen Fällen, wie z.B. Folter, kann eine Handlung gerechtfertigt sein, wenn sie insgesamt mehr Glück fördert.
+
+- **Maximierend**: Benthams Utilitarismus fordert nicht nur die Förderung von Freude, sondern strebt das größte Glück der größten Zahl an. Handlungen, die Freude bereiten, können moralisch falsch sein, wenn eine alternative Handlung mehr Freude oder weniger Leid erzeugt hätte.
+
+- **Impartial**: Die Theorie misst allen Personen gleiche Bedeutung bei; es zählt ausschließlich, das Gesamtglück der meisten Menschen zu maximieren. Die individuelle Stellung oder persönliche Beziehungen zu den Betroffenen haben keinen Einfluss auf die moralische Bewertung einer Handlung.
+
+- **Hedonischer Kalkül**: Bentham entwickelte diesen Kalkül, um zu bestimmen, welche Handlungen das größte Glück erzeugen. Er berücksichtigt Intensität, Dauer, Gewissheit, zeitliche Nähe, Wahrscheinlichkeit weiteren Glücks, Reinheit und den Umfang der betroffenen Personen.
+
 ### Utilitarismus nach Mill
 -
 ### Utilitarismus nach Singer
