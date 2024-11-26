@@ -55,6 +55,7 @@ Jeremy Bentham (1748–1832) war ein englischer Philosoph, Jurist und Sozialrefo
 
 Utilitarismus  nach  Bentham ist[^11]:
 [^11]: https://books.openedition.org/obp/4419?lang=en#anchor-toc-1-5:~:text=act%20morally.-,5.%20The%20Structure%20of%20Bentham%E2%80%99s%20Utilitarianism,-15
+- **Hedonistisch**
 - **Konsequentialistisch**: Bentham definiert die moralische Wertigkeit einer Handlung ausschließlich durch deren Konsequenzen.
 
 - **Relativistisch**: Bentham vertritt eine relativistische Moralansicht, die Handlungen nicht als absolut richtig oder falsch betrachtet, sondern deren Moralität in Abhängigkeit vom jeweiligen Kontext bewertet. Selbst in schwierigen Fällen, wie z.B. Folter, kann eine Handlung gerechtfertigt sein, wenn sie insgesamt mehr Glück fördert.
@@ -66,8 +67,17 @@ Utilitarismus  nach  Bentham ist[^11]:
 **Hedonischer Kalkül**: Bentham entwickelte diesen Kalkül, um zu bestimmen, welche Handlungen das größte Glück erzeugen. Er berücksichtigt Intensität, Dauer, Gewissheit, zeitliche Nähe, Wahrscheinlichkeit weiteren Glücks, Reinheit und den Umfang der betroffenen Personen.
 
 ### Mill
-John Stuart Mill (1806–1873) war ein englischer Philosoph und politischer Ökonom, der zur Entwicklung der liberalen Theorie und des Utilitarismus beitrug. Mill war bekannt für seine Verteidigung der individuellen Freiheit, insbesondere in seinem Werk „On Liberty“, in dem er argumentiert, dass die Freiheit des Einzelnen nur dann vom Staat eingeschränkt werden sollte, wenn sie die Freiheit anderer beeinträchtigt. Er setzte sich für das Frauenwahlrecht und soziale Reformen ein[^13].
+John Stuart Mill (1806–1873) war ein englischer Philosoph und politischer Ökonom, der zur Entwicklung der liberalen Theorie und des Utilitarismus beitrug. Mill war bekannt für seine Verteidigung der individuellen Freiheit, insbesondere in seinem Werk „On Liberty“, in dem er für Schadensprinzip argumentiert. Er setzte sich für das Frauenwahlrecht und soziale Reformen ein[^13].
 [^13]: https://en.wikipedia.org/wiki/John_Stuart_Mill
+
+Utilitarismus nach Mill ist:
+- **Hedonistisch**
+- **Qualitativ:**: Mill betont die Qualität des Vergnügens. Er argumentiert, dass Höheren Freuden, die geistige und ästhetische Erfahrungen betreffen(wie Literatur oder Theater) höherwertiger sind als basale, "niederen" oder sinnliche Freuden, die auf physische und sofortige Befriedigungen abzielen(wie Essen und Trinken).
+- **Regelbasiert**: Mill argumentiert für den Regelutilitarismus.
+
+**Kompetente Richter**: Mill argumentiert, dass Personen, die beide Arten von Freuden erfahren haben, besser qualifiziert sind, die Wertigkeit der Freuden zu beurteilen. Diese so genannten kompetenten Richter bevorzugen typischerweise die höheren Freuden.
+
+**Schadensprinzip**: Mill formuliert das Schadensprinzip, welches besagt, dass Eingriffe in die Freiheit eines Individuums nur gerechtfertigt sind, um Schaden von anderen abzuwenden.
 ### Singer
 - 
 
