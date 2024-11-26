@@ -44,7 +44,7 @@ Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watc
 - **Hedonistisches Prinzip** - sagt, dass das Einzige, was an sich für den Individuum gut ist, Freude ist und das Einzige, was an sich für den Individuum schlecht ist, Leid ist (an sich gut/schlecht sein - bedeutet das es ist gut/schlecht bei Definition)[^8]. 
 [^8]: https://studyflix.de/allgemeinwissen/hedonismus-6679
 
-
+- **Prinzip der Nützlichkeit** sagt, dass eine Handlung moralisch richtig ist, wenn sie Folgen die besste hat, die durch optimierung von Wohlergehen aller betroffenen Individuen bestimmt wirden.
 ### Utilitarismus nach Bentham
 -
 ### Utilitarismus nach Mill
