@@ -50,7 +50,8 @@ Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watc
 
 - **Prinzip der Nützlichkeit** sagt, dass eine Handlung moralisch richtig ist, wenn sie die besten Folgen hat, die *(Folgen)* durch optimierung von Wohlergehen aller betroffenen Individuen bestimmt werden.
 ### Bentham
-Jeremy Bentham (1748–1832) war ein englischer Philosoph, Jurist und Sozialreformer, der als Begründer des Utilitarismus gilt. Er war auch ein Kritiker der bestehenden Rechts- und Gesellschaftssysteme und setzte sich für umfassende Reformen ein, darunter die Reform des Gefängnissystems und die Kodifizierung von Gesetzen
+Jeremy Bentham (1748–1832) war ein englischer Philosoph, Jurist und Sozialreformer, der als Begründer des Utilitarismus gilt. Er war auch ein Kritiker der bestehenden Rechts- und Gesellschaftssysteme und setzte sich für umfassende Reformen ein, darunter die Reform des Gefängnissystems und die Kodifizierung von Gesetzen[^12].
+[^12]: https://www.britannica.com/money/Jeremy-Bentham
 
 Utilitarismus  nach  Bentham ist[^11]:
 [^11]: https://books.openedition.org/obp/4419?lang=en#anchor-toc-1-5:~:text=act%20morally.-,5.%20The%20Structure%20of%20Bentham%E2%80%99s%20Utilitarianism,-15
@@ -65,7 +66,8 @@ Utilitarismus  nach  Bentham ist[^11]:
 **Hedonischer Kalkül**: Bentham entwickelte diesen Kalkül, um zu bestimmen, welche Handlungen das größte Glück erzeugen. Er berücksichtigt Intensität, Dauer, Gewissheit, zeitliche Nähe, Wahrscheinlichkeit weiteren Glücks, Reinheit und den Umfang der betroffenen Personen.
 
 ### Mill
-John Stuart Mill (1806–1873) war ein englischer Philosoph und politischer Ökonom, der zur Entwicklung der liberalen Theorie und des Utilitarismus beitrug. Mill war bekannt für seine Verteidigung der individuellen Freiheit, insbesondere in seinem Werk „On Liberty“, in dem er argumentiert, dass die Freiheit des Einzelnen nur dann vom Staat eingeschränkt werden sollte, wenn sie die Freiheit anderer beeinträchtigt. Er setzte sich für das Frauenwahlrecht und soziale Reformen ein.
+John Stuart Mill (1806–1873) war ein englischer Philosoph und politischer Ökonom, der zur Entwicklung der liberalen Theorie und des Utilitarismus beitrug. Mill war bekannt für seine Verteidigung der individuellen Freiheit, insbesondere in seinem Werk „On Liberty“, in dem er argumentiert, dass die Freiheit des Einzelnen nur dann vom Staat eingeschränkt werden sollte, wenn sie die Freiheit anderer beeinträchtigt. Er setzte sich für das Frauenwahlrecht und soziale Reformen ein[^13].
+[^13]: https://en.wikipedia.org/wiki/John_Stuart_Mill
 ### Singer
 - 
 
