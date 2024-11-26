@@ -13,9 +13,9 @@
 - [Grundbegriffe der Ethik](#grundbegriffe-der-ethik)
 - [Utilitarismus](#utilitarismus)
 	- [Bestandtiele von Utilitarismus](#bestandtiele-von-utilitarismus)
- 	- [Utilitarismus nach Bentham](#utilitarismus-nach-bentham)
-  	- [Utilitarismus nach Mill](#utilitarismus-nach-mill)
-  	- [Utilitarismus nach Singer](#utilitarismus-nach-singer)
+ 	- [Bentham](#bentham)
+  	- [Mill](#mill)
+  	- [Singer](#singer)
 - [Analyse von einem philosophischen Text](#analyse-von-einem-philosophischen-text)
 # Grundbegriffe der Ethik
 
@@ -49,7 +49,7 @@ Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watc
 [^8]: https://studyflix.de/allgemeinwissen/hedonismus-6679
 
 - **Prinzip der Nützlichkeit** sagt, dass eine Handlung moralisch richtig ist, wenn sie die besten Folgen hat, die *(Folgen)* durch optimierung von Wohlergehen aller betroffenen Individuen bestimmt werden.
-### Utilitarismus nach Bentham
+### Bentham
 Jeremy Bentham (1748–1832) war ein englischer Philosoph, Jurist und Sozialreformer, der als Begründer des Utilitarismus gilt. Er war auch ein Kritiker der bestehenden Rechts- und Gesellschaftssysteme und setzte sich für umfassende Reformen ein, darunter die Reform des Gefängnissystems und die Kodifizierung von Gesetzen
 
 Utilitarismus  nach  Bentham ist[^11]:
@@ -64,9 +64,9 @@ Utilitarismus  nach  Bentham ist[^11]:
 
 - **Hedonischer Kalkül**: Bentham entwickelte diesen Kalkül, um zu bestimmen, welche Handlungen das größte Glück erzeugen. Er berücksichtigt Intensität, Dauer, Gewissheit, zeitliche Nähe, Wahrscheinlichkeit weiteren Glücks, Reinheit und den Umfang der betroffenen Personen.
 
-### Utilitarismus nach Mill
+### Mill
 -
-### Utilitarismus nach Singer
+### Singer
 - 
 
 # Analyse von einem philosophischen Text
