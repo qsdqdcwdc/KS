@@ -85,4 +85,4 @@ Utilitarismus  nach  Bentham ist[^11]:
 - **Persönliche Reflexion**: Eigene Gedanken und Reaktionen zum Text.
 - **Offene Fragen**: Aufwerfen von Fragen, die der Text offen lässt oder aufwirft.
 - **Parallelen zu anderen Theorien**: Vergleich oder Verbindung des Textinhalts mit anderen philosophischen oder theoretischen Ansätzen.
-- **Bezug zur Einleitung**: Rückbindung der Analyseergebnisse an die in der Einleitung formulierten Punkte.
+
