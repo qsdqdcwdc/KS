@@ -62,7 +62,7 @@ Utilitarismus  nach  Bentham ist[^11]:
 
 - **Impartial**: Die Theorie misst allen Personen gleiche Bedeutung bei; es zählt ausschließlich, das Gesamtglück der meisten Menschen zu maximieren. Die individuelle Stellung oder persönliche Beziehungen zu den Betroffenen haben keinen Einfluss auf die moralische Bewertung einer Handlung.
 
-- **Hedonischer Kalkül**: Bentham entwickelte diesen Kalkül, um zu bestimmen, welche Handlungen das größte Glück erzeugen. Er berücksichtigt Intensität, Dauer, Gewissheit, zeitliche Nähe, Wahrscheinlichkeit weiteren Glücks, Reinheit und den Umfang der betroffenen Personen.
+**Hedonischer Kalkül**: Bentham entwickelte diesen Kalkül, um zu bestimmen, welche Handlungen das größte Glück erzeugen. Er berücksichtigt Intensität, Dauer, Gewissheit, zeitliche Nähe, Wahrscheinlichkeit weiteren Glücks, Reinheit und den Umfang der betroffenen Personen.
 
 ### Mill
 -
