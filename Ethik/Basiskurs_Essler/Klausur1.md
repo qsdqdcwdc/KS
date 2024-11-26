@@ -42,7 +42,7 @@ Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watc
 
 - **Nutzenprinzip** sagt, dass die Handlung mit besten Folgen ist die Handlung, die am meisten zu dem beiträgt, was an sich gut ist.
 
-- **Universalisierungsprinzip**, sagt dass man muss alle Betroffenen von der Handlung gleich berücksichtigen soll[^9]. *(im generellen Fall dass Werte, Idealien, Rechte und Pflichte sich auf alle Personen ausbreiten sollen)*
+- **Universalisierungsprinzip**, sagt dass man alle Betroffenen von der Handlung gleich berücksichtigen soll[^9]. *(im generellen Fall dass Werte, Idealien, Rechte und Pflichte sich auf alle Personen ausbreiten sollen)*
 [^9]: https://de.wikipedia.org/wiki/Universalismus_(Philosophie)
 
 - **Hedonistisches Prinzip** - sagt, dass das Einzige, was an sich für den Individuum gut ist, Freude ist und das Einzige, was an sich für den Individuum schlecht ist, Leid ist *(an sich gut/schlecht sein - bedeutet das es ist gut/schlecht bei Definition)*[^8]. 
@@ -50,7 +50,7 @@ Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watc
 
 - **Prinzip der Nützlichkeit** sagt, dass eine Handlung moralisch richtig ist, wenn sie die besten Folgen hat, die *(Folgen)* durch optimierung von Wohlergehen aller betroffenen Individuen bestimmt werden.
 ### Bentham
-Jeremy Bentham (1748–1832) war ein englischer Philosoph, Jurist und Sozialreformer, der als Gründer des Utilitarismus gilt. Er war auch ein Kritiker der bestehenden Rechts- und Gesellschaftssysteme und setzte sich für umfassende Reformen ein, darunter die Reform des Gefängnissystems und die Kodifizierung von Gesetzen[^12].
+Jeremy Bentham (1748–1832) war ein englischer Philosoph, Jurist und Sozialreformer, der als Gründer des Utilitarismus gilt. Er war auch ein Kritiker der bestehenden Rechts- und Gesellschaftssysteme und setzte sich für umfassende Reformen ein, darunter die Reform des Gefängnissystems[^12].
 [^12]: https://www.britannica.com/money/Jeremy-Bentham
 
 Utilitarismus  nach  Bentham ist[^11]:
