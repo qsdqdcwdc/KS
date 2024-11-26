@@ -50,6 +50,8 @@ Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watc
 
 - **Prinzip der Nützlichkeit** sagt, dass eine Handlung moralisch richtig ist, wenn sie die besten Folgen hat, die *(Folgen)* durch optimierung von Wohlergehen aller betroffenen Individuen bestimmt werden.
 ### Utilitarismus nach Bentham
+Jeremy Bentham (1748–1832) war ein englischer Philosoph, Jurist und Sozialreformer, der als Begründer des Utilitarismus gilt. Er war auch ein Kritiker der bestehenden Rechts- und Gesellschaftssysteme und setzte sich für umfassende Reformen ein, darunter die Reform des Gefängnissystems und die Kodifizierung von Gesetzen
+
 Utilitarismus  nach  Bentham ist[^11]:
 [^11]: https://books.openedition.org/obp/4419?lang=en#anchor-toc-1-5:~:text=act%20morally.-,5.%20The%20Structure%20of%20Bentham%E2%80%99s%20Utilitarianism,-15
 - **Konsequentialistisch**: Bentham definiert die moralische Wertigkeit einer Handlung ausschließlich durch deren Konsequenzen.
