@@ -12,7 +12,7 @@
 # Inhalt
 - [Grundbegriffe der Ethik](#grundbegriffe-der-ethik)
 - [Utilitarismus](#utilitarismus)
-	- [Bestandtiele von Utilitarismus](#bestandtiele-von-utilitarismus)
+	- [Bestandteile von Utilitarismus](#bestandteile-von-utilitarismus)
  	- [Bentham](#bentham)
   	- [Mill](#mill)
   	- [Singer](#singer)
@@ -36,7 +36,7 @@
 # Utilitarismus
 Hauptquelle, empfehle, gutes Video: [Utilitarismus](https://www.youtube.com/watch?v=03ESwNlyG8k&list=PL7YPshZMeLIazts4sq6UQ2kpjsUxhHaBd&index=1)
 
-### Bestandtiele von Utilitarismus
+### Bestandteile von Utilitarismus
 
 - **Konsequenzprinzip** sagt, dass man moralisch verpflichtet ist die Handlung mit besten Folgen zu wählen.
 
