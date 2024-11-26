@@ -6,7 +6,6 @@
 
 1. <code>Kritik, Feedback, Korrektionen und Ergänzungen von diesem Dokument sind willkommen. Dafür mich entweder direkt durch soziale Medien kontaktieren oder durch Github.</code>
 2. <code>Die kleine Ziffern am Ende von dem Definitionen (z.B: Text[^1]) sind Quellen die muss man nicht anschauen die sind nur für Vollständigkeit halber da.</code>
-3. <code>Dieses Dokument wird am Dienstag den 26 Nov gegen 21:00/22:00 Uhr vollständig fertiggestellt. </code>
 
 [^1]: https://studyflix.de/allgemeinwissen/ethik-3749
 # Inhalt
