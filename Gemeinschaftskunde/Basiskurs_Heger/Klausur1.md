@@ -14,8 +14,6 @@
 
 # Internationale Politik
 ### Nationale Politik vs internationale Politik
-[^1]
-[^1]: https://userpage.fu-berlin.de
 
 - **Anarchie** beschreibt einen Zustand, in dem keine übergeordnete Autorität existiert, die in der Lage ist, zwischen Agenten zu schlichten, ihre Streitigkeiten zu regulieren oder Recht durchzusetzen *(Ursprünglich vom griechischen Wort anarchos abgeleitet, was "ohne Herrscher" bedeutet)*.[^2]
 [^2]: https://www.britannica.com/topic/anarchy
