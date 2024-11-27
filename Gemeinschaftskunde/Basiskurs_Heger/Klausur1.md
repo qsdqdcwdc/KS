@@ -13,12 +13,12 @@
 -
 
 # Internationale Politik
-### Nationale Politik vs internationale Politik
-
 - **Anarchie** beschreibt einen Zustand, in dem keine übergeordnete Autorität existiert, die in der Lage ist, zwischen Agenten zu schlichten, ihre Streitigkeiten zu regulieren oder Recht durchzusetzen *(Ursprünglich vom griechischen Wort anarchos abgeleitet, was "ohne Herrscher" bedeutet)*.[^2]
 [^2]: https://www.britannica.com/topic/anarchy
 - Das **Sicherheitsdilemma** beschreibt eine Situation, in der die Sicherheitsmaßnahmen (z.B:Aufrüstung) eines Staates, die dessen Sicherheit erhöhen sollen, bei anderen Staaten Reaktionen auslösen (z.B: auch Aufrüstung), die wiederum zu einer Verringerung statt zu einer Erhöhung der Sicherheit des ursprünglichen Staates führen. Daher ergibt sich für den Staat ein [Dilemma](https://en.wikipedia.org/wiki/Dilemma): Ergreift er Sicherheitsmaßnahmen, ist dies problematisch, doch das nicht Ergreifen solcher Maßnahmen könnte die Situation noch problematischer machen. [^3]
 [^3]: https://www.britannica.com/topic/security-dilemma
+
+### Nationale Politik vs internationale Politik
 
 **Internationale Politik:**
 - **Akteure:** Beinhaltet staatliche sowie nicht-staatliche Akteure (z.B. internationale Organisationen, NGOs, multinationale Konzerne).
