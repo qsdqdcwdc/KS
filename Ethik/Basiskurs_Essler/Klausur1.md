@@ -90,6 +90,7 @@ Utilitarismus nach Singer ist[^14]:
 - **Impartial**: *(siehe oben)*
 
 **Präferenzen nach Singer**: Individuelle Wünsche, Interessen oder Bevorzugungen eines Wesens.
+
 Singer vertriet **Präferenzutilitarismus**, erbehauptet nicht, dass das größte Gut für die größte Zahl auf Vergnügen in niedriger oder höherer Form reduziert werden kann. Stattdessen glaubt Singer, dass das, was das Leben eines Menschen verbessert, ausschließlich durch die Befriedigung seiner Präferenzen bestimmt wird.
 Es gilt eine Handlung, die gegen die Präferenzen eines Wesens verstößt, ohne durch gegenteilige Präferenzen gerechtfertigt zu sein, als moralisch falsch. Das Töten einer zukunftsorientierten Person, die leben möchte, stellt eine schwerwiegendere Verletzung dar, da es mehrere ihrer Präferenzen beeinträchtigt. Ein Wesen ohne Zukunftspräferenzen erleidet durch seine Tötung kleinere Präferenzverletzung.
 
