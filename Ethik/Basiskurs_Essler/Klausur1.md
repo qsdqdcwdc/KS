@@ -95,9 +95,9 @@ Es gilt eine Handlung, die gegen die Präferenzen eines Wesens verstößt, ohne 
 Singer unterscheidet zwischen **Mensch**, dem Mitgelieg der Art Homosapiens, und **Person** einem denkenden, intelligenten Wesen mit Präferenzen.
 
 ### Utilitarismen
-- Handlungsutilitarismus: Definiert Freude als das Gute. Bewertet eine Handlung einzeln nach ihren Konsequenzen
+- Handlungsutilitarismus: Bewertet eine Handlung einzeln nach ihren Konsequenzen.
 - Regelutilitarismus: Bewertet Handlung je nachdem, ob sie einer Regel entsprechen, die insgesamt das beste Ergebnis fördert.
-- Präferenzutilitarismus: Definiert das Gute in Bezug auf die Erfüllung individueller Präferenzen, nicht auf das Erleben von Freude.
+- Präferenzutilitarismus: Definiert das Gute in Bezug auf die Erfüllung individueller Präferenzen.
 # Analyse von einem philosophischen Text
 [Quelle](https://www.carolinum.net/files/CaroNet/Redaktion/ROD/Ethik/Analyse%20und%20Interpretation%20philosophischer%20Texte.pdf)
 ### Einleitung:
