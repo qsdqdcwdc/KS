@@ -8,6 +8,10 @@
 2. <code>Die kleine Ziffern am Ende von dem Definitionen (z.B: Text[^999]) sind Quellen die muss man nicht anschauen die sind nur für Vollständigkeit halber da.</code>
 [^999]: https://www.youtube.com/watch?v=xvFZjo5PgG0
 
+# Inhalt
+-
+-
+
 # Internationale Politik
 ### Nationale Politik vs internationale Politik
 [^1]
