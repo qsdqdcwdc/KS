@@ -64,7 +64,7 @@ Utilitarismus  nach  Bentham ist[^11]:
 
 - **Impartial**: Die Theorie misst allen Personen gleiche Bedeutung bei; es zählt ausschließlich, das Gesamtgut der meisten Menschen zu maximieren. Die individuelle Stellung oder persönliche Beziehungen zu den Betroffenen haben keinen Einfluss auf die moralische Bewertung einer Handlung.
 
-**Hedonischer Kalkül**: Bentham entwickelte diesen Kalkül, um zu bestimmen, welche Handlungen das größte Freude(Gut) erzeugen. Er berücksichtigt Intensität, Dauer, Gewissheit, zeitliche Nähe, Wahrscheinlichkeit weiteren Glücks, Reinheit und den Umfang der betroffenen Personen.
+**Hedonischer Kalkül**: Bentham entwickelte diesen Kalkül, um zu bestimmen, welche Handlungen das größte Freude erzeugen. Er berücksichtigt Intensität, Dauer, Gewissheit, zeitliche Nähe, Wahrscheinlichkeit weiteren Glücks, Reinheit und den Umfang der betroffenen Personen.
 
 ### Mill
 John Stuart Mill (1806–1873) war ein englischer Philosoph und politischer Ökonom, der zur Entwicklung der liberalen Theorie und des Utilitarismus beitrug. Mill war bekannt für seine Verteidigung der individuellen Freiheit, insbesondere in seinem Werk „On Liberty“, in dem er für Schadensprinzip argumentiert. Er setzte sich für das Frauenwahlrecht und soziale Reformen ein[^13].
@@ -95,9 +95,9 @@ Es gilt eine Handlung, die gegen die Präferenzen eines Wesens verstößt, ohne 
 Singer unterscheidet zwischen **Mensch**, dem Mitgelieg der Art Homosapiens, und **Person** einem denkenden, intelligenten Wesen mit Präferenzen.
 
 ### Utilitarismen
-- Handlungsutilitarismus: Bewertet eine Handlung einzeln ausschließlich nach ihren Konsequenzen
+- Handlungsutilitarismus: Bewertet eine Handlung einzeln nach ihren Konsequenzen
 - Regelutilitarismus: Bewertet Handlung je nachdem, ob sie einer Regel entsprechen, die insgesamt das beste Ergebnis fördert.
-- Präferenzutilitarismus: Definiert das Gute in Bezug auf die Erfüllung individueller Präferenzen, nicht auf das Erleben von Freude. Bewertet eine Handlung einzeln ausschließlich nach ihren Konsequenzen.
+- Präferenzutilitarismus: Definiert das Gute in Bezug auf die Erfüllung individueller Präferenzen, nicht auf das Erleben von Freude. Bewertet eine Handlung einzeln nach ihren Konsequenzen.
 # Analyse von einem philosophischen Text
 [Quelle](https://www.carolinum.net/files/CaroNet/Redaktion/ROD/Ethik/Analyse%20und%20Interpretation%20philosophischer%20Texte.pdf)
 ### Einleitung:
