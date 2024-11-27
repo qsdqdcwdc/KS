@@ -17,6 +17,11 @@
 [^1]
 [^1]: https://userpage.fu-berlin.de
 
+- **Anarchie** beschreibt einen Zustand, in dem keine übergeordnete Autorität existiert, die in der Lage ist, zwischen Agenten zu schlichten, ihre Streitigkeiten zu regulieren oder Recht durchzusetzen *(Ursprünglich vom griechischen Wort anarchos abgeleitet, was "ohne Herrscher" bedeutet)*.[^2]
+[^2]: https://www.britannica.com/topic/anarchy
+- Das **Sicherheitsdilemma** beschreibt eine Situation, in der die Sicherheitsmaßnahmen eines Staates, die dessen Sicherheit erhöhen sollen, bei anderen Staaten Reaktionen auslösen, die wiederum zu einer Verringerung statt zu einer Erhöhung der Sicherheit des ursprünglichen Staates führen. Daher ergibt sich für den Staat ein Dilemma: Ergreift er keine Sicherheitsmaßnahmen, ist dies problematisch, doch das Ergreifen solcher Maßnahmen könnte die Situation noch problematischer machen. [^3]
+[^3]: https://www.britannica.com/topic/security-dilemma
+
 **Internationale Politik:**
 - **Akteure:** Beinhaltet staatliche sowie nicht-staatliche Akteure (z.B. internationale Organisationen, NGOs, multinationale Konzerne).
 - **Strukturen:** Charakterisiert durch Anarchie – keine zentrale weltweite Autorität, jedoch existieren internationale Normen und Institutionen.
@@ -30,6 +35,13 @@
 - **Entscheidungsfindung:** Entscheidungen werden meist durch demokratisch gewählte Vertreter und Institutionen getroffen.
 - **Legitimation:** Politische Entscheidungen sind durch Wahlen legitimiert, wobei Bürger direkt oder indirekt ihre Vertreter wählen.
 - **Zusammenarbeit:** Innerhalb eines rechtlich und institutionell geregelten Rahmens, der gesetzlich definiert ist.
+
+---
+
+
+ 
+
+
 
 
 # Sicherheit
