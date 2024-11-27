@@ -9,7 +9,7 @@
 [^999]: https://www.youtube.com/watch?v=xvFZjo5PgG0
 
 # Internationale Politik
-### Innenpolitik vs internationale Politik
+### Nationale Politik vs internationale Politik
 [^1]
 [^1]: https://userpage.fu-berlin.de
 
@@ -20,7 +20,7 @@
 - **Legitimation:** Staatliche Souveränität und gegenseitige Anerkennung bilden die Grundlage der Legitimität, im Gegensatz zur direkten demokratischen Legitimation.
 - **Zusammenarbeit:** Basierend auf internationalen Abkommen, die oft durch strategische Interessen und Machtverhältnisse beeinflusst werden.
 
-**Innenpolitik:**
+**Nationale Politik:**
 - **Akteure:** Nationale Regierung, Parlament und lokale Behörden, Bürger.
 - **Strukturen:** Existenz einer übergeordneten Regierung, klare hierarchische politische Struktur.
 - **Entscheidungsfindung:** Entscheidungen werden meist durch demokratisch gewählte Vertreter und Institutionen getroffen.
