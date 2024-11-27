@@ -67,7 +67,7 @@ Utilitarismus  nach  Bentham ist[^11]:
 **Hedonischer Kalkül**: Bentham entwickelte diesen Kalkül, um zu bestimmen, welche Handlungen das größte Freude erzeugen. Er berücksichtigt Intensität, Dauer, Gewissheit, zeitliche Nähe, Wahrscheinlichkeit weiteren Glücks, Reinheit und den Umfang der betroffenen Personen.
 
 ### Mill
-John Stuart Mill (1806–1873) war ein englischer Philosoph und politischer Ökonom, der zur Entwicklung der liberalen Theorie und des Utilitarismus beitrug. Mill war bekannt für seine Verteidigung der individuellen Freiheit, insbesondere in seinem Werk „On Liberty“, in dem er für Schadensprinzip argumentiert. Er setzte sich für das Frauenwahlrecht und soziale Reformen ein[^13].
+John Stuart Mill (1806–1873) war ein englischer Philosoph und politischer Ökonom, der zur Entwicklung der liberalen Theorie und des Utilitarismus beitrug. Mill war bekannt für seine Verteidigung der individuellen Freiheit, insbesondere in seinem Werk „On Liberty“, in dem er für Schadensprinzip argumentiert. Er setzte sich für das Frauenwahlrecht ein[^13].
 [^13]: https://en.wikipedia.org/wiki/John_Stuart_Mill
 
 Utilitarismus nach Mill ist:
