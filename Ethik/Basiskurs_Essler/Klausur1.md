@@ -73,7 +73,7 @@ John Stuart Mill (1806–1873) war ein englischer Philosoph und politischer Öko
 Utilitarismus nach Mill ist:
 - **Hedonistisch**: *(siehe oben)*
 - **Qualitativ:**: Mill betont die Qualität des Vergnügens. Er argumentiert, dass Höheren Freuden, die geistige und ästhetische Erfahrungen betreffen(wie Literatur oder Theater) höherwertiger sind als basale, "niederen" oder sinnliche Freuden, die auf physische und sofortige Befriedigungen abzielen(wie Essen und Trinken).
-- **Regelbasiert**: Mill argumentiert für den Regelutilitarismus.
+- **Regelbasiert**: besagt, dass eine Menge von Regeln erstellt werden sollte, deren Befolgung insgesamt das größte Glück erzeugt.
 
 **Kompetente Richter**: Mill argumentiert, dass Personen, die beide Arten von Freuden erfahren haben, besser qualifiziert sind, die Wertigkeit der Freuden zu beurteilen. Diese so genannten kompetenten Richter bevorzugen typischerweise die höheren Freuden.
 
