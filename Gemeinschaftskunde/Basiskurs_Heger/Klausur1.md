@@ -16,16 +16,16 @@
 **Internationale Politik:**
 - **Akteure:** Beinhaltet staatliche sowie nicht-staatliche Akteure (z.B. internationale Organisationen, NGOs, multinationale Konzerne).
 - **Strukturen:** Charakterisiert durch Anarchie – keine zentrale weltweite Autorität, jedoch existieren internationale Normen und Institutionen.
-- **Entscheidungsfindung:** Entscheidungen werden oft durch Diplomatie, internationale Verträge oder in globalen Foren getroffen, nicht durch global gewählte Vertreter.
+- **Entscheidungsfindung:** Entscheidungen werden oft durch Diplomatie, internationale Verträge getroffen, nicht durch global gewählte Vertreter.
 - **Legitimation:** Staatliche Souveränität und gegenseitige Anerkennung bilden die Grundlage der Legitimität, im Gegensatz zur direkten demokratischen Legitimation.
 - **Zusammenarbeit:** Basierend auf internationalen Abkommen, die oft durch strategische Interessen und Machtverhältnisse beeinflusst werden.
 
 **Innenpolitik:**
-- **Akteure:** Primär nationale Regierungen, Parlamente und lokale Behörden.
+- **Akteure:** Nationale Regierung, Parlament und lokale Behörden, Bürger.
 - **Strukturen:** Existenz einer übergeordneten Regierung, klare hierarchische politische Struktur.
 - **Entscheidungsfindung:** Entscheidungen werden meist durch demokratisch gewählte Vertreter und Institutionen getroffen.
 - **Legitimation:** Politische Entscheidungen sind durch Wahlen legitimiert, wobei Bürger direkt oder indirekt ihre Vertreter wählen.
-- **Zusammenarbeit:** Arbeitet innerhalb eines rechtlich und institutionell geregelten Rahmens, der gesetzlich definiert ist.
+- **Zusammenarbeit:** Innerhalb eines rechtlich und institutionell geregelten Rahmens, der gesetzlich definiert ist.
 
 
 # Sicherheit
