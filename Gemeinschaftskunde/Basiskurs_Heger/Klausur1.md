@@ -20,6 +20,10 @@
 - Das **Sicherheitsdilemma** beschreibt eine Situation, in der die Sicherheitsmaßnahmen (z.B:Aufrüstung) eines Staates, die dessen Sicherheit erhöhen sollen, bei anderen Staaten Reaktionen auslösen (z.B: auch Aufrüstung), die wiederum zu einer Verringerung statt zu einer Erhöhung der Sicherheit des ursprünglichen Staates führen. Daher ergibt sich für den Staat ein [Dilemma](https://en.wikipedia.org/wiki/Dilemma): Ergreift er Sicherheitsmaßnahmen, ist dies problematisch, doch das nicht Ergreifen solcher Maßnahmen könnte die Situation noch problematischer machen. [^3]
 [^3]: https://www.britannica.com/topic/security-dilemma
 
+- **Spieltheorie** ist eine Abteilung der angewandten Mathematik die Interaktionen *(Spiele)* zwischen interdependenten Agenten untersucht.
+- **Interdependenz** zwischen Agenten bedeutet, dass die Entscheidungen eines Agenten Ergebnis/Situation eines anderen beeinflussen und umgekehrt.
+-  
+
 ### Nationale Politik vs internationale Politik
 
 **Internationale Politik:**
