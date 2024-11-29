@@ -60,7 +60,7 @@ Gutes Video: [Spieltheorie](https://www.youtube.com/watch?v=IYlWEuI3l0s&list=PLB
 
 ### Weltordnungen
 Video: [Unipolar, Bipolar, And Multipolar](https://www.youtube.com/watch?v=9FLBSJmty0c)
-- **Hegemony**: Dominanz einer Gruppe(Staates) über eine andere, die oft durch legitimierende Normen und Ideen gestützt wird[^4].
+- **Hegemonie**: Dominanz einer Gruppe(Staates) über eine andere, die oft durch legitimierende Normen und Ideen gestützt wird[^4].
 - **Machtprojektion**: Fähigkeit eines Staates, durch die Androhung oder Anwendung von militärischer Gewalt seine Interessen außerhalb seines Territoriums durchzusetzen.
 - **Bipolare Weltordnung**: internationales System mit zwei dominierenden Supermächten, die die globale Politik wesentlich beeinflussen, charakteristisch für den Kalten Krieg zwischen den USA und der Sowjetunion(1945-1991).
 - **Unipolare Weltordnung**: Zustand, in dem eine Supermacht die globalen Angelegenheiten unangefochten dominiert, exemplarisch für die USA nach dem Ende des Kalten Krieges(1991-2001).
