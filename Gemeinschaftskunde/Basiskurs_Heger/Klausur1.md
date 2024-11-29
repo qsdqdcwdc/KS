@@ -17,13 +17,18 @@
 # Internationale Politik
 - **Anarchie** beschreibt einen Zustand, in dem keine übergeordnete Autorität existiert, die in der Lage ist, zwischen Agenten zu schlichten, ihre Streitigkeiten zu regulieren oder Recht durchzusetzen *(Ursprünglich vom griechischen Wort anarchos abgeleitet, was "ohne Herrscher" bedeutet)*.[^2]
 [^2]: https://www.britannica.com/topic/anarchy
-- Das **Sicherheitsdilemma** beschreibt eine Situation, in der die Sicherheitsmaßnahmen (z.B:Aufrüstung) eines Staates, die dessen Sicherheit erhöhen sollen, bei anderen Staaten Reaktionen auslösen (z.B: auch Aufrüstung), die wiederum zu einer Verringerung statt zu einer Erhöhung der Sicherheit des ursprünglichen Staates führen. Daher ergibt sich für den Staat ein [Dilemma](https://en.wikipedia.org/wiki/Dilemma): Ergreift er Sicherheitsmaßnahmen, ist dies problematisch, doch das nicht Ergreifen solcher Maßnahmen könnte die Situation noch problematischer machen. [^3]
+- **Sicherheitsdilemma** beschreibt eine Situation, in der die Sicherheitsmaßnahmen (z.B:Aufrüstung) eines Staates, die dessen Sicherheit erhöhen sollen, bei anderen Staaten Reaktionen auslösen (z.B: auch Aufrüstung), die wiederum zu einer Verringerung statt zu einer Erhöhung der Sicherheit des ursprünglichen Staates führen. Daher ergibt sich für den Staat ein [Dilemma](https://en.wikipedia.org/wiki/Dilemma): Ergreift er Sicherheitsmaßnahmen, ist dies problematisch, doch das nicht Ergreifen solcher Maßnahmen könnte die Situation noch problematischer machen. [^3]
 [^3]: https://www.britannica.com/topic/security-dilemma
 
-- **Spieltheorie** ist eine Abteilung der angewandten Mathematik die Interaktionen *(Spiele)* zwischen interdependenten Agenten untersucht.
-- **Interdependenz** zwischen Agenten bedeutet, dass die Entscheidungen eines Agenten Ergebnis/Situation eines anderen beeinflussen und umgekehrt.
--  
+### Spieltheorie
+Gutes Video, Weitergehende Informationen: [Spieltheorie](https://www.youtube.com/watch?v=MHS-htjGgSY)
 
+- **Spieltheorie** ist eine Abteilung der angewandten Mathematik die Spiele zwischen interdependenten Agenten untersucht.
+- **Interdependenz** zwischen Agenten bedeutet, dass die Entscheidungen eines Agenten Ergebnis/Auszahlungen eines anderen beeinflussen und umgekehrt (was bedeutet, dass jeder Agenten die möglichen Entscheidungen der anderen Agenten in seine Strategieüberlegungen einbeziehen muss).
+-  **Agent**(Spieler) ist ein rationaler handelnder Entscheidungsträger, der strategische Interaktionen innerhalb eines definierten Spiels durchführt.
+-  **Spiel** ist eine Reihe von Umständen, bei denen das Ergebnis von den Handlungen zweier oder mehrerer Agenten abhängt.
+-  **Gefangenendilemma**: Gefangenendilemma ist ein Spiel, das die Interaktion zwischen zwei Spielern beschreibt, die jeweils zwischen Kooperation und Defektion wählen können. Typischerweise wird das Dilemma so dargestellt, dass beide Spieler eine geringere Strafe erhalten, wenn beide kooperieren, im Vergleich zu dem Fall, dass einer kooperiert und der andere defektiert. Defektion wird generell als die dominante Strategie angesehen, weil sie dem Einzelnen unabhängig von der Entscheidung des anderen Spielers den höchsten individuellen Nutzen bringt. Jedoch führt beidseitige Defektion zu einem suboptimalen kollektiven Ergebnis, was das Dilemma illustriert: trotz der Möglichkeit eines besseren gemeinsamen Ergebnisses durch Kooperation, verleitet die individuelle Nutzenmaximierung oft zu einer für beide Spieler schlechteren Situation. gutes Video: [dem Gefangenendilemma entkommen](https://www.youtube.com/watch?v=emyi4z-O0ls)
+  
 ### Nationale Politik vs internationale Politik
 
 **Internationale Politik:**
