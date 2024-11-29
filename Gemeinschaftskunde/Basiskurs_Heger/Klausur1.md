@@ -25,7 +25,7 @@ Video: [Internationale Kooperation](https://www.youtube.com/watch?v=4aj87Q2JhdM&
 ### Spieltheorie
 Gutes Video: [Spieltheorie](https://www.youtube.com/watch?v=IYlWEuI3l0s&list=PLB5965C13F4B0B2DA&index=5)
 
-- **Spieltheorie** ist eine Abteilung der angewandten Mathematik die Spiele zwischen interdependenten Spielern untersucht.
+- **Spieltheorie** ist eine Abteilung der angewandten Mathematik die Spiele zwischen interdependenten Agenten/(Spielern) untersucht.
 - **Interdependenz** zwischen Spielern bedeutet, dass die Entscheidungen eines Spieler Ergebnis/Auszahlungen eines anderen beeinflussen und umgekehrt _(was heißt, dass jeder Spieler die möglichen Entscheidungen der anderen Spieler in seine Strategieüberlegungen einbeziehen muss)_.
 -  **Spieler** ist ein rationaler handelnder Entscheidungsträger, der strategische Interaktionen innerhalb eines definierten Spiels durchführt.
 -  **Spiel**:  Reihe von Umständen, deren Ergebnis von den Handlungen zweier oder mehrerer Spielern abhängt.
