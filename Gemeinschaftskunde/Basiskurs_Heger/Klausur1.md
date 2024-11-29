@@ -24,33 +24,33 @@
 Gutes Video, Weitergehende Informationen: [Spieltheorie](https://www.youtube.com/watch?v=MHS-htjGgSY)
 
 - **Spieltheorie** ist eine Abteilung der angewandten Mathematik die Spiele zwischen interdependenten Agenten untersucht.
-- **Interdependenz** zwischen Agenten bedeutet, dass die Entscheidungen eines Agenten Ergebnis/Auszahlungen eines anderen beeinflussen und umgekehrt (was bedeutet, dass jeder Agenten die möglichen Entscheidungen der anderen Agenten in seine Strategieüberlegungen einbeziehen muss).
+- **Interdependenz** zwischen Agenten bedeutet, dass die Entscheidungen eines Agenten Ergebnis/Auszahlungen eines anderen beeinflussen und umgekehrt _(was heißt, dass jeder Agenten die möglichen Entscheidungen der anderen Agenten in seine Strategieüberlegungen einbeziehen muss)_.
 -  **Agent**(Spieler) ist ein rationaler handelnder Entscheidungsträger, der strategische Interaktionen innerhalb eines definierten Spiels durchführt.
--  **Spiel** ist eine Reihe von Umständen, bei denen das Ergebnis von den Handlungen zweier oder mehrerer Agenten abhängt.
--  **Gefangenendilemma**: Gefangenendilemma ist ein Spiel, das die Interaktion zwischen zwei Spielern beschreibt, die jeweils zwischen Kooperation und Defektion wählen können. Typischerweise wird das Dilemma so dargestellt, dass beide Spieler eine geringere Strafe erhalten, wenn beide kooperieren, im Vergleich zu dem Fall, dass einer kooperiert und der andere defektiert. Defektion wird generell als die dominante Strategie angesehen, weil sie dem Einzelnen unabhängig von der Entscheidung des anderen Spielers den höchsten individuellen Nutzen bringt. Jedoch führt beidseitige Defektion zu einem suboptimalen kollektiven Ergebnis, was das Dilemma illustriert: trotz der Möglichkeit eines besseren gemeinsamen Ergebnisses durch Kooperation, verleitet die individuelle Nutzenmaximierung oft zu einer für beide Spieler schlechteren Situation. gutes Video: [dem Gefangenendilemma entkommen](https://www.youtube.com/watch?v=emyi4z-O0ls)
+-  **Spiel**:  Reihe von Umständen, deren Ergebnis von den Handlungen zweier oder mehrerer Agenten abhängt.
+-  **Gefangenendilemma**: Gefangenendilemma ist ein Spiel, das die Interaktion zwischen zwei Spielern beschreibt, die jeweils zwischen Kooperation und Defektion wählen können. Typischerweise wird das Dilemma so dargestellt, dass beide Spieler eine geringere Strafe erhalten, wenn beide kooperieren, im Vergleich zu dem Fall, dass einer kooperiert und der andere defektiert. Defektion wird generell als die dominante Strategie angesehen, weil sie dem Einzelnen unabhängig von der Entscheidung des anderen Spielers den höchsten individuellen Nutzen bringt. Jedoch führt beidseitige Defektion zu einem suboptimalen kollektiven Ergebnis, was das Dilemma illustriert: trotz der Möglichkeit eines besseren gemeinsamen Ergebnisses durch Kooperation, verleitet die individuelle Nutzenmaximierung oft zu einer für beide Spieler schlechteren Situation. gutes Video, Weitergehende Informationen: [dem Gefangenendilemma entkommen](https://www.youtube.com/watch?v=emyi4z-O0ls)
   
 ### Nationale Politik vs internationale Politik
 
 **Internationale Politik:**
+- **Strukturen:** Charakterisiert durch Anarchie, jedoch existieren internationale Organisationen die Kooperation zwischen Staaten erleichtern.
 - **Akteure:** Beinhaltet staatliche sowie nicht-staatliche Akteure (z.B. internationale Organisationen, NGOs, multinationale Konzerne).
-- **Strukturen:** Charakterisiert durch Anarchie – keine zentrale weltweite Autorität, jedoch existieren internationale Normen und Institutionen.
 - **Entscheidungsfindung:** Entscheidungen werden oft durch Diplomatie, internationale Verträge getroffen, nicht durch global gewählte Vertreter.
-- **Legitimation:** Staatliche Souveränität und gegenseitige Anerkennung bilden die Grundlage der Legitimität, im Gegensatz zur direkten demokratischen Legitimation.
+- **Durchsetzung von Entscheidungen**: Erfolgt meist über internationale Druckmittel wie Sanktionen, oder die Staaten bekennen sich selbst zur Einhaltung ihrer Verpflichtungen, unterstützt durch Organisationen wie die WHO und internationale Einsatzkräfte wie die UN-Friedenstruppen (Blauhelme).
+- **Legitimation:** Staatliche Souveränität und gegenseitige Anerkennung bilden die Grundlage der Legitimität.
 - **Zusammenarbeit:** Basierend auf internationalen Abkommen, die oft durch strategische Interessen und Machtverhältnisse beeinflusst werden.
 
 **Nationale Politik:**
-- **Akteure:** Nationale Regierung, Parlament und lokale Behörden, Bürger.
+- **Akteure:** Nationale Regierung, Parlament, lokale Behörden und Bürger(oder Bürgersgruppen).
 - **Strukturen:** Existenz einer übergeordneten Regierung, klare hierarchische politische Struktur.
+- **Durchsetzung von Entscheidungen**: Entscheidungen werden durch Exekutive Staats­gewalt durchgesetzt wie z.B Polizei Zäune Behörden.
 - **Entscheidungsfindung:** Entscheidungen werden meist durch demokratisch gewählte Vertreter und Institutionen getroffen.
 - **Legitimation:** Politische Entscheidungen sind durch Wahlen legitimiert, wobei Bürger direkt oder indirekt ihre Vertreter wählen.
 - **Zusammenarbeit:** Innerhalb eines rechtlich und institutionell geregelten Rahmens, der gesetzlich definiert ist.
 
----
-
-
+### Kooperation
+- **Horizontale Kooperation**: Zusammenarbeit zwischen Akteuren auf gleicher Machtebene, wie z.B. zwischen Staaten, ohne übergeordnete Autorität. Beispiele sind gemeinsame Sicherheitsvereinbarungen oder Umweltschutzinitiativen
+- **Vertikale Kooperation**: Kooperation zwischen Akteuren auf unterschiedlichen Machtebenen, z.B. zwischen Bürger und dem Staat.
  
-
-
 
 
 # Sicherheit
