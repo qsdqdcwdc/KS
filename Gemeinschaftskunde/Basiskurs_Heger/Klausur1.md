@@ -69,7 +69,8 @@ Video: [Unipolar, Bipolar, And Multipolar](https://www.youtube.com/watch?v=9FLBS
 
 ### Theorien der internationalen Politik
 - **Realismus** betrachtet Staaten als eigeninteressierte Akteure in einem anarchischen System, die Macht anstreben, um ihre Existenz zu sichern, wobei die Machtkonkurrenz ihre Interaktionen bestimmt.
-- **Institutionalismus** sieht Staaten auch als selbstinteressierte Akteure in einem anarchischen System, betont aber, dass Interdependenz und gemeinsame Interessen der Staaten Kooperation fördert, wass zu Bildung internationalen Regelwerken und festlegung von Kooperationsregeln führt.
+- **Institutionalismus** sieht Staaten auch als selbstinteressierte Akteure in einem anarchischen System, betont aber, dass Interdependenz und gemeinsame Interessen der Staaten Kooperation fördert, wass zu Bildung internationalen Regelwerken und Institutionen führt.
+- **Konstruktivismus** sieht die aus einer gemeinsamen Kultur hervorgegangenen Normen und Werte als Grundlage für die Entstehung von internationalen Gemeinschaften. Auf dieser Basis wird Kooperation innerhalb der Gemeinschaft wahrscheinlich. Außerhalb von und zwischen gegnerischen internationalen Gemeinschaften regieren Wertekonflikte und Feindschaften.
 
 # Sicherheit
 -
