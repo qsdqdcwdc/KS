@@ -83,20 +83,20 @@ Gutes Video, Hauptquelle: [Sicherheit](https://www.youtube.com/watch?v=WYKuDX3TP
 [^5]: https://www.bpb.de/themen/innere-sicherheit/dossier-innere-sicherheit/76634/die-dimensionen-des-sicherheitsbegriffs/#:~:text=Seit%20Mitte%20des,%5B22%5D
 
 ### Dimensionen den erweiterten Sicherheitsbegriff
-- **Referenzdimension**: bezieht sich darauf, wen Sicherheitsmaßnahmen schutzen. 
-	- Staat: (Klassischer Sicherheitsbegriff)
+- **Referenzdimension**: Definiert, wer durch Sicherheitspolitik geschützt wird 
+	- Staat: fokussiert auf territoriale Integrität. (Klassischer Sicherheitsbegriff)
 	- Gesellschaft: schutz der gesellschaftlichen Ordnung, sozialen Frieden und wirtschaftlichen Wohlstands.
 	- Individuum: schutz persönlicher Freiheiten und Grundbedürfnisse, Gesundheit des Einzelnen.
- - **Raumdimension**: definiert den geografischen Umfang.
+ - **Raumdimension**: definiert Geografischer Umfang der Sicherheitsmaßnahmen.
 	- National: Sicherheit innerhalb der eigenen Staatsgrenzen. (Klassischer Sicherheitsbegriff)
 	- Regional: Sicherheitsmaßnahmen, die auf eine spezifische geografische Region begrenzt sind, wie z.B. die EU.
  	- International: Sicherheitsmaßnahmen, die zwischen zwei oder mehreren Staaten stattfinden, jedoch nicht unbedingt eine weltweite Abdeckung haben.
   	- Global: z.B. Schutz vor weltweiten Bedrohungen wie Klimawandel, Pandemien
- - **Gefahrendimension**: beschreibt die Art der Gefahren.
- 	- Bedrohung: unmittelbare und spezifische Gefahren, die direkt angegangen werden müssen, wie militärische Konflikte. (Klassischer Sicherheitsbegriff)
-	- Verwundbarkeit: bezieht sich auf die Anfälligkeit gegenüber nicht-militärischen Bedrohungen, die aufgrund von Abhängigkeiten entstehen, wie wirtschaftliche Instabilität oder soziale Ungleichheiten.
-	- Risiko: potenzielle oder unspezifische Gefahren, die sich nicht unmittelbar manifestieren, aber langfristige Sicherheitsprobleme darstellen können, wie Kriminalität oder Umweltveränderungen.
- - Sachedimension
+ - **Gefahrendimension**: Art der wahrgenommenen Gefahren.
+ 	- Bedrohung: Direkte Gefahren wie militärische Konflikte. (Klassischer Sicherheitsbegriff)
+	- Verwundbarkeit: Anfälligkeit gegenüber indirekten Gefahren durch ökonomische oder soziale Abhängigkeiten.
+	- Risiko: Langfristige, potenzielle Gefahren, die noch nicht manifest sind, z. B. Kriminalität oder Umweltveränderungen.
+ - **Sachedimension**:  Bestimmt den Bereich den Problembereich
 	- Militärisch: Abwehr und Prävention von militärischen Bedrohungen. (Klassischer Sicherheitsbegriff)
 	- Wirtschaftlich: die Absicherung gegen wirtschaftliche Krisen und die Förderung von Wohlstand.
 	- Ökologisch: Maßnahmen zum Schutz der Umwelt und zur Verringerung der Verwundbarkeit durch ökologische Krisen wie Klimawandel.
