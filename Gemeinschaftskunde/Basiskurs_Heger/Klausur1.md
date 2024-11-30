@@ -75,7 +75,12 @@ Video: [Unipolar, Bipolar, And Multipolar](https://www.youtube.com/watch?v=9FLBS
 Gutes Video, Hauptquelle: [Sicherheit](https://www.youtube.com/watch?v=WYKuDX3TP7g)
 
 - **Klassische Sicherheitsbegriff** bezieht sich auf die militärische Sicherheit eines Staates und betont die Bedeutung der Verteidigung gegen externe Bedrohungen. Dieser Begriff stammt aus der Zeit des Kalten Krieges, in der die Sicherheit eines Staates hauptsächlich durch die militärische Stärke und die Fähigkeit, sich gegen feindliche Aktionen zu verteidigen, definiert wurde.
-- **Erweiterte Sicherheitsbegriff** geht über die militärische Sicherheit hinaus und gleichrangig zivile Mittel einbezieht. Dieser Ansatz erkennt an, dass Sicherheit nicht allein durch militärische Stärke erreicht wird, sondern dass auch andere Sphären wie Wirtschaft und Gesellschaft stabil und sicher sein müssen, um langfristigen Frieden und Wohlstand zu sichern. Er betont die Notwendigkeit einer internationalen Kooperation und eines multilateralen Ansatzes, der die Sicherheit von Staaten, Gesellschaften und Individuen gleichermaßen berücksichtigt.
+- **Erweiterte Sicherheitsbegriff** ist eine moderne Ausweitung des traditionellen Sicherheitsverständnisses und macht einen Fokus auf:
+	- Multidimensionalität: Sicherheit geht über militärische Aspekte hinaus und schließt wirtschaftliche, humanitäre und gesellschaftliche Stabilität ein.
+	- Internationalität: Betont die Bedeutung internationaler Kooperation.
+	- Prävention: Konzentriert sich auf der Prävention und proaktiven Strategien, um potenzielle Bedrohungen frühzeitig zu erkennen und zu adressieren, bevor sie sich ausbreiten[^5].
+
+[^5]: https://www.bpb.de/themen/innere-sicherheit/dossier-innere-sicherheit/76634/die-dimensionen-des-sicherheitsbegriffs/#:~:text=Seit%20Mitte%20des,%5B22%5D
 
 ### Dimensionen den erweiterten Sicherheitsbegriff
 - **Referenzdimension**: bezieht sich darauf, wen Sicherheitsmaßnahmen schutzen. 
