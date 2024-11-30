@@ -72,7 +72,7 @@ Video: [Unipolar, Bipolar, And Multipolar](https://www.youtube.com/watch?v=9FLBS
 - **Konstruktivismus** sieht die aus einer gemeinsamen Kultur hervorgegangenen Normen und Werte als Grundlage für die Entstehung von internationalen Gemeinschaften. Auf dieser Basis wird Kooperation innerhalb der Gemeinschaft wahrscheinlich. Außerhalb von und zwischen gegnerischen internationalen Gemeinschaften regieren Wertekonflikte und Feindschaften.
 
 # Sicherheit
-Gutes Video, Hauptquelle: [Sicherheit](https://www.youtube.com/watch?v=WYKuDX3TP7g)
+Gutes Video, Hauptquelle: [Sicherheit: Sicherheitsbegriff, Dimensionen](https://www.youtube.com/watch?v=WYKuDX3TP7g)
 
 - **Klassische Sicherheitsbegriff** bezieht sich auf die militärische Sicherheit eines Staates und betont die Bedeutung der Verteidigung gegen externe Bedrohungen. Dieser Begriff stammt aus der Zeit des Kalten Krieges, in der die Sicherheit eines Staates hauptsächlich durch die militärische Stärke und die Fähigkeit, sich gegen feindliche Aktionen zu verteidigen, definiert wurde.
 - **Erweiterte Sicherheitsbegriff** ist eine moderne Ausweitung des traditionellen Sicherheitsverständnisses und macht einen Fokus auf:
@@ -82,7 +82,8 @@ Gutes Video, Hauptquelle: [Sicherheit](https://www.youtube.com/watch?v=WYKuDX3TP
 
 [^5]: https://www.bpb.de/themen/innere-sicherheit/dossier-innere-sicherheit/76634/die-dimensionen-des-sicherheitsbegriffs/#:~:text=Seit%20Mitte%20des,%5B22%5D
 
-### Dimensionen den erweiterten Sicherheitsbegriff
+### Dimensionen den erweiterten Sicherheitsbegriff 
+[Quelle](https://www.transcript-open.de/pdf_chapter/bis%201699/9783839414354/transcript.9783839414354.139.pdf)
 - **Referenzdimension**: Definiert, wer durch Sicherheitspolitik geschützt wird 
 	- Staat: fokussiert auf territoriale Integrität. (Klassischer Sicherheitsbegriff)
 	- Gesellschaft: schutz der gesellschaftlichen Ordnung, sozialen Frieden und wirtschaftlichen Wohlstands.
@@ -96,7 +97,7 @@ Gutes Video, Hauptquelle: [Sicherheit](https://www.youtube.com/watch?v=WYKuDX3TP
  	- Bedrohung: Direkte Gefahren wie militärische Konflikte. (Klassischer Sicherheitsbegriff)
 	- Verwundbarkeit: Anfälligkeit gegenüber indirekten Gefahren durch ökonomische oder soziale Abhängigkeiten.
 	- Risiko: Langfristige, potenzielle Gefahren, die noch nicht manifest sind, z. B. Kriminalität oder Umweltveränderungen.
- - **Sachedimension**:  Bestimmt den Bereich den Problembereich
+ - **Sachdimension**:  Bestimmt den Bereich den Problembereich
 	- Militärisch: Abwehr und Prävention von militärischen Bedrohungen. (Klassischer Sicherheitsbegriff)
 	- Wirtschaftlich: die Absicherung gegen wirtschaftliche Krisen und die Förderung von Wohlstand.
 	- Ökologisch: Maßnahmen zum Schutz der Umwelt und zur Verringerung der Verwundbarkeit durch ökologische Krisen wie Klimawandel.
