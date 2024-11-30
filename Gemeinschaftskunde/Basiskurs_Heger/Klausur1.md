@@ -81,10 +81,10 @@ Gutes Video, Hauptquelle: [Sicherheit](https://www.youtube.com/watch?v=WYKuDX3TP
 - **Referenzdimension**: bezieht sich darauf, wen Sicherheitsmaßnahmen schutzen. 
 	- Staat: (Klassischer Sicherheitsbegriff)
 	- Gesellschaft: schutz der gesellschaftlichen Ordnung, sozialen Frieden und wirtschaftlichen Wohlstands.
-	- Individuum: schutz persönlicher Freiheiten und Grundbedürfnisse, und Gesundheit des Einzelnen.
+	- Individuum: schutz persönlicher Freiheiten und Grundbedürfnisse, Gesundheit des Einzelnen.
  - **Raumdimension**: definiert den geografischen Umfang.
 	- National: Sicherheit innerhalb der eigenen Staatsgrenzen. (Klassischer Sicherheitsbegriff)
-	- Regional: Sicherheitsmaßnahmen, die auf eine spezifische geografische Region begrenzt, wie z.B. die EU.
+	- Regional: Sicherheitsmaßnahmen, die auf eine spezifische geografische Region begrenzt sind, wie z.B. die EU.
  	- International: Sicherheitsmaßnahmen, die zwischen zwei oder mehreren Staaten stattfinden, jedoch nicht unbedingt eine weltweite Abdeckung haben.
   	- Global: z.B. Schutz vor weltweiten Bedrohungen wie Klimawandel, Pandemien
  - **Gefahrendimension**: beschreibt die Art der Gefahren.
