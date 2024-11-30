@@ -72,7 +72,30 @@ Video: [Unipolar, Bipolar, And Multipolar](https://www.youtube.com/watch?v=9FLBS
 - **Konstruktivismus** sieht die aus einer gemeinsamen Kultur hervorgegangenen Normen und Werte als Grundlage für die Entstehung von internationalen Gemeinschaften. Auf dieser Basis wird Kooperation innerhalb der Gemeinschaft wahrscheinlich. Außerhalb von und zwischen gegnerischen internationalen Gemeinschaften regieren Wertekonflikte und Feindschaften.
 
 # Sicherheit
--
+Gutes Video, Hauptquelle: [Sicherheit](https://www.youtube.com/watch?v=WYKuDX3TP7g)
+
+- **Klassische Sicherheitsbegriff** bezieht sich primär auf die militärische Sicherheit eines Staates und betont die Bedeutung der Verteidigung gegen externe Bedrohungen. Dieser Begriff stammt aus der Zeit des Kalten Krieges, in der die Sicherheit eines Staates hauptsächlich durch die militärische Stärke und die Fähigkeit, sich gegen feindliche Aktionen zu verteidigen, definiert wurde.
+- **Erweiterte Sicherheitsbegriff** geht über die militärische Sicherheit hinaus und gleichrangig zivile Mittel einbezieht. Dieser Ansatz erkennt an, dass Sicherheit nicht allein durch militärische Stärke erreicht wird, sondern dass auch andere Sphären wie Wirtschaft und Gesellschaft stabil und sicher sein müssen, um langfristigen Frieden und Wohlstand zu sichern. Er betont die Notwendigkeit einer internationalen Kooperation und eines multilateralen Ansatzes, der die Sicherheit von Staaten, Gesellschaften und Individuen gleichermaßen berücksichtigt.
+
+### Dimensionen den erweiterten Sicherheitsbegriff
+- **Referenzdimension**: bezieht sich darauf, wen Sicherheitsmaßnahmen schutzen. 
+	- Staat: (Klassischer Sicherheitsbegriff)
+	- Gesellschaft: schutz der gesellschaftlichen Ordnung, sozialen Frieden und wirtschaftlichen Wohlstands.
+	- Individuum: schutz persönlicher Freiheiten und Grundbedürfnisse, und Gesundheit des Einzelnen.
+ - **Raumdimension**: definiert den geografischen Umfang.
+	- National: Sicherheit innerhalb der eigenen Staatsgrenzen. (Klassischer Sicherheitsbegriff)
+	- Regional: Sicherheitsmaßnahmen, die auf eine spezifische geografische Region begrenzt, wie z.B. die EU.
+ 	- International: Sicherheitsmaßnahmen, die zwischen zwei oder mehreren Staaten stattfinden, jedoch nicht unbedingt eine weltweite Abdeckung haben.
+  	- Global: z.B. Schutz vor weltweiten Bedrohungen wie Klimawandel, Pandemien
+ - **Gefahrendimension**: beschreibt die Art der Gefahren.
+ 	- Bedrohung: unmittelbare und spezifische Gefahren, die direkt angegangen werden müssen, wie militärische Konflikte. (Klassischer Sicherheitsbegriff)
+	- Verwundbarkeit: bezieht sich auf die Anfälligkeit gegenüber nicht-militärischen Bedrohungen, die aufgrund von Abhängigkeiten entstehen, wie wirtschaftliche Instabilität oder soziale Ungleichheiten.
+	- Risiko: potenzielle oder unspezifische Gefahren, die sich nicht unmittelbar manifestieren, aber langfristige Sicherheitsprobleme darstellen können, wie Kriminalität oder Umweltveränderungen.
+ - Sachedimension
+	- Militärisch: Abwehr und Prävention von militärischen Bedrohungen. (Klassischer Sicherheitsbegriff)
+	- Wirtschaftlich: die Absicherung gegen wirtschaftliche Krisen und die Förderung von Wohlstand.
+	- Ökologisch: Maßnahmen zum Schutz der Umwelt und zur Verringerung der Verwundbarkeit durch ökologische Krisen wie Klimawandel.
+	- Humanitär: Schutz der Menschen vor humanitären Krisen, Gewährleistung der Grundrechte und Unterstützung in Notlagen.
 # UNO
 -
 # NATO
