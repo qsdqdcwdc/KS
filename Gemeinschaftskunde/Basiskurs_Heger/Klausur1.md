@@ -19,7 +19,7 @@ Video: [Internationale Kooperation](https://www.youtube.com/watch?v=4aj87Q2JhdM&
 
 - **Anarchie** beschreibt einen Zustand, in dem keine übergeordnete Autorität existiert, die in der Lage ist, zwischen Agenten zu schlichten, ihre Streitigkeiten zu regulieren oder Recht durchzusetzen *(Ursprünglich vom griechischen Wort anarchos abgeleitet, was "ohne Herrscher" bedeutet)*[^2].
 [^2]: https://www.britannica.com/topic/anarchy
-- **Sicherheitsdilemma** beschreibt eine Situation, in der die Sicherheitsmaßnahmen (z.B:Aufrüstung) eines Staates, die dessen Sicherheit erhöhen sollen, bei anderen Staaten Reaktionen auslösen (z.B: auch Aufrüstung), die wiederum zu einer Verringerung statt zu einer Erhöhung der Sicherheit des ursprünglichen Staates führen. Daher ergibt sich für den Staat ein [Dilemma](https://en.wikipedia.org/wiki/Dilemma): Ergreift er Sicherheitsmaßnahmen, ist dies problematisch, doch das nicht Ergreifen solcher Maßnahmen könnte die Situation noch problematischer machen. [^3]
+- **Sicherheitsdilemma** beschreibt eine Situation, in der die Sicherheitsmaßnahmen (z.B:Aufrüstung) eines Staates, die dessen Sicherheit erhöhen sollen, bei anderen Staaten Reaktionen auslösen (z.B: auch Aufrüstung), die wiederum zu einer Verringerung statt zu einer Erhöhung der Sicherheit des ursprünglichen Staates führen. Daher ergibt sich für den Staat ein [Dilemma](https://en.wikipedia.org/wiki/Dilemma): Ergreift er Sicherheitsmaßnahmen, ist dies problematisch, doch das nicht Ergreifen solcher Maßnahmen könnte die Situation noch problematischer machen [^3]. Video: [Sicherheitsdilemma](https://www.youtube.com/watch?v=vCkaovcNIm0&list=PLLHJHMm0TIXUKf--FPqWpRhrWM3XcAIDv&index=1)
 [^3]: https://www.britannica.com/topic/security-dilemma
 
 ### Spieltheorie
@@ -54,21 +54,20 @@ Gutes Video: [Spieltheorie](https://www.youtube.com/watch?v=IYlWEuI3l0s&list=PLB
 - **Vertikale Kooperation**: Kooperation zwischen Akteuren auf unterschiedlichen Machtebenen, z.B. zwischen Bürger und dem Staat.
 
 ### Sachbereichen internationaler Politik
-- **Sicherheit**: befasst sich mit allen Aspekten, die die physische Existenz der Staaten betreffen. Kooperative Maßnahmen umfassen Rüstungskontrollen und internationale Friedensmissionen.
-- **Wohlfahrt**: konzentriert sich auf die materielle Prosperität und wirtschaftliche Entwicklung der Staaten und deren Bürger. Kooperationsansätze in diesem Bereich umfassen Handelsabkommen und wirtschaftliche Integration, wie die Schaffung von Freihandelszonen.
-- **Freiheit**: betrifft die Menschenrechte und demokratischen Freiheiten innerhalb der Staaten. Die internationale Gemeinschaft bemüht sich, Standards für Menschenrechte zu setzen und deren Einhaltung zu fördern. Beispiele für internationale Bemühungen sind die Aktivitäten der UN-Menschenrechtskommission und regionale Organisationen wie der Europarat.
-
+- **Sicherheit**: Betrifft die physische Existenzsicherung von Staaten, oft dominiert durch das Sicherheitsdilemma, bei dem Staaten zur Gewährleistung ihrer Sicherheit auf Selbsthilfe wie Aufrüstung und Allianzbildung angewiesen sind. Die Unterscheidung zwischen offensiven und defensiven Maßnahmen ist oft schwierig, was Kooperation erschwert.
+- **Wohlfahrt**: bezieht sich auf die materielle Lebensqualität und wirtschaftliche Chancen der Menschen in verschiedenen Staaten. Hier sind die Unterscheidungen zwischen aggressiven und defensiven Maßnahmen klarer. Kooperationschancen sind in diesem Bereich höher.
+- **Freiheit**: befasst sich mit den Menschenrechten und Partizipationschancen der Individuen. Staaten handeln hier weitgehend unabhängig. Universelle moralische Verpflichtungen durch globale Menschenrechtsnormen führen oft zu Herausforderungen/Spannungen in der internationalen Kooperation.
 ### Weltordnungen
 Video: [Unipolar, Bipolar, And Multipolar](https://www.youtube.com/watch?v=9FLBSJmty0c)
 - **Hegemonie**: Dominanz einer Gruppe(Staates) über eine andere, die oft durch legitimierende Normen und Ideen gestützt wird[^4].
 - **Machtprojektion**: Fähigkeit eines Staates, durch die Androhung oder Anwendung von militärischer Gewalt seine Interessen außerhalb seines Territoriums durchzusetzen.
 - **Bipolare Weltordnung**: internationales System mit zwei dominierenden Supermächten, die die globale Politik wesentlich beeinflussen, charakteristisch für den Kalten Krieg zwischen den USA und der Sowjetunion(1945-1991).
-- **Unipolare Weltordnung**: Zustand, in dem eine Supermacht die globalen Angelegenheiten unangefochten dominiert, exemplarisch für die USA nach dem Ende des Kalten Krieges(1991-2001).
+- **Unipolare Weltordnung**: Zustand, in dem eine Supermacht die globalen Angelegenheiten unangefochten dominiert, exemplarisch für die USA nach dem Ende des Kalten Krieges(1991-2000s).
 - **Multipolare Weltordnung**: System, in dem mehrere Großmächte konkurrierend agieren, beispielhaft für die heutige globale Struktur mit Akteuren wie USA, China und der EU.
 [^4]: https://www.britannica.com/topic/hegemony
 
 ### Theorien der internationalen Politik
-- **Realismus** betrachtet Staaten als eigeninteressierte Akteure in einem anarchischen System, die Macht anstreben, um ihre Existenz zu sichern, wobei die Machtkonkurrenz ihre Interaktionen bestimmt.
+- **Realismus** betrachtet Staaten als eigeninteressierte Akteure in einem anarchischen System, die Macht anstreben, um ihre Existenz zu sichern, wobei die Machtkonkurrenz ihre Interaktionen bestimmt. Video: [Realismus](https://www.youtube.com/watch?v=x3dFnYyZrus&list=PLLHJHMm0TIXUKf--FPqWpRhrWM3XcAIDv&index=2)
 - **Institutionalismus** sieht Staaten auch als selbstinteressierte Akteure in einem anarchischen System, betont aber, dass Interdependenz und gemeinsame Interessen der Staaten Kooperation fördert, wass zu Bildung internationalen Regelwerken und Institutionen führt.
 - **Konstruktivismus** sieht die aus einer gemeinsamen Kultur hervorgegangenen Normen und Werte als Grundlage für die Entstehung von internationalen Gemeinschaften. Auf dieser Basis wird Kooperation innerhalb der Gemeinschaft wahrscheinlich. Außerhalb von und zwischen gegnerischen internationalen Gemeinschaften regieren Wertekonflikte und Feindschaften.
 
