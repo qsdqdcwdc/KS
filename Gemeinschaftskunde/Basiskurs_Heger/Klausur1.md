@@ -37,8 +37,8 @@ Gutes Video: [Spieltheorie](https://www.youtube.com/watch?v=IYlWEuI3l0s&list=PLB
 - **Strukturen:** Charakterisiert durch Anarchie, jedoch existieren internationale Organisationen die Kooperation zwischen Staaten erleichtern. Video: [Anarchie](https://www.youtube.com/watch?v=JceYMndej3Q&list=PLB5965C13F4B0B2DA&index=3) 
 - **Akteure:** Beinhaltet staatliche sowie nicht-staatliche Akteure (z.B. internationale Organisationen, NGOs, multinationale Konzerne).
 - **Entscheidungsfindung:** Entscheidungen werden oft durch Diplomatie, internationale Verträge getroffen, nicht durch global gewählte Vertreter.
-- **Durchsetzung von Entscheidungen**: Erfolgt meist über internationale Druckmittel wie Sanktionen, oder die Staaten bekennen sich selbst zur Einhaltung ihrer Verpflichtungen, unterstützt durch Organisationen wie die WHO und internationale Einsatzkräfte wie die UN-Friedenstruppen (Blauhelme).
-- **Legitimation:** Staatliche Souveränität und gegenseitige Anerkennung bilden die Grundlage der Legitimität.
+- **Durchsetzung von Entscheidungen**: Erfolgt über internationale Druckmittel wie Sanktionen oder durch internationale Einsatzkräfte wie die UN-Friedenstruppen (Blauhelme). Aber meistens verpflichten Die Staaten sich selbst zur Einhaltung dieser Entscheidungen.
+- **Legitimation:** Staatliche Souveränität und gegenseitige Anerkennung bilden die Grundlage der Legitimität. Video: [Souveränität](https://www.youtube.com/watch?v=XwoA8CpdGuk&list=PLB5965C13F4B0B2DA&index=2)
 - **Zusammenarbeit:** Basierend auf internationalen Abkommen, die oft durch strategische Interessen und Machtverhältnisse beeinflusst werden.
 
 **Nationale Politik:**
