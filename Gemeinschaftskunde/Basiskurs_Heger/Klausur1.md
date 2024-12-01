@@ -166,7 +166,7 @@ Video: [Artikel 5](https://www.youtube.com/watch?v=2cdRbO0MIzo)
 Artikel 5 des Nordatlantikvertrags bildet das Fundament der NATO, indem er festlegt, dass, wenn ein NATO-Mitglied Opfer eines bewaffneten Angriffs wird, jedes andere Mitglied des Bündnisses diesen Gewaltakt als einen bewaffneten Angriff gegen alle Mitglieder betrachtet und die Maßnahmen ergreift, die es für notwendig hält, um dem angegriffenen Bündnispartner zu helfen. Dieses Artikel wurde ersten und einzigen Mal nach den Terroranschlägen vom 11. September 2001 aktiviert.[^6]
 [^6]: https://www.nato.int/cps/en/natohq/topics_110496.htm
 
-### Aktuelle NATO-Strategie im Kontext der Sicherheitslage 2024
+### Aktuelle NATO-Strategie (2024)
 
 Angesichts der veränderten globalen Sicherheitslandschaft, insbesondere durch Russlands anhaltende Aggression in der Ukraine, hat die NATO ihre strategische Ausrichtung angepasst. Im Strategischen Konzept von 2022 wird Russland als die bedeutendste und unmittelbarste Bedrohung für die Sicherheit der Allianz identifiziert. Auf dem Washingtoner Gipfel 2024 bekräftigten die Mitgliedstaaten ihre Verpflichtung zur kollektiven Verteidigung und beschlossen die Verstärkung der Ostflanke durch die Stationierung zusätzlicher Truppen und die Verbesserung der Infrastruktur. Zudem wurde die Zusammenarbeit mit Partnern im Indopazifik intensiviert.
 
