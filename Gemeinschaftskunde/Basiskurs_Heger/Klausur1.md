@@ -126,6 +126,16 @@ Die NATO (North Atlantic Treaty Organization) ist ein militärisches Bündnis, d
 - Kollektive Verteidigung: Artikel 5 des Vertrags verpflichtet die Mitglieder, einen bewaffneten Angriff auf einen Mitgliedstaat als Angriff auf alle zu betrachten.
 - Krisenmanagement: Einsatz militärischer und ziviler Mittel zur Stabilisierung von Krisengebieten (z. B. Balkan-Einsätze).
 - Kooperative Sicherheit: Partnerschaften mit Nicht-Mitgliedsstaaten, z. B. durch Programme wie „[Partnerschaft für den Frieden](https://de.wikipedia.org/wiki/Partnerschaft_f%C3%BCr_den_Frieden)“.
+### Struktur
+Video: [Srtuktur der NATO](https://www.youtube.com/watch?v=yylsDFuvIJc)
+
+- **Nordatlantikrat**(NAC) Das oberste politische Entscheidungsgremium der NATO, bestehend aus ständigen Vertretern der Mitgliedstaaten. Trifft sich einmal die Woche in Brüssel(Belgien).
+- **NATO-Militärkomitee** setzt sich aus den Verteidigungschefs der Mitgliedstaaten zusammen, berät den Nordatlantikrat in militärischen Angelegenheiten.
+- **Allied Command Operations** (ACO) Hauptquartier in Mons, Belgien, zuständig für die Koordination der militärischen Operationen. Unterstehen:
+	- Luft-, See- und Landkommandos
+	- Drei Joint Force Commands in Europa und eines in den USA
+ 	- NATO Response Force: Schnelle Eingreiftruppe.
+- **Allied Command Transformation** (ACT) Fokus auf Modernisierung der NATO-Fähigkeiten, mit Zentren für Kriegsführung, Analysen und Ausbildung in Norwegen, Portugal und Polen.
 ### Mitglieder
 Die NATO wurde am 4. April 1949 mit Gründungsstaaten ins Leben gerufen. Seitdem hat sie sich in mehreren Erweiterungsrunden auf insgesamt 32 Mitgliedstaaten vergrößert.[^7]  Bei der letzten Erweiterung wurde Schweden am 7. März 2024 das 32. Mitglied der NATO [^8] _(laut offizieller NATO Website: nato.int)_.
 
@@ -159,6 +169,11 @@ Artikel 5 des Nordatlantikvertrags bildet das Fundament der NATO, indem er festl
 ### Aktuelle NATO-Strategie im Kontext der Sicherheitslage 2024
 
 Angesichts der veränderten globalen Sicherheitslandschaft, insbesondere durch Russlands anhaltende Aggression in der Ukraine, hat die NATO ihre strategische Ausrichtung angepasst. Im Strategischen Konzept von 2022 wird Russland als die bedeutendste und unmittelbarste Bedrohung für die Sicherheit der Allianz identifiziert. Auf dem Washingtoner Gipfel 2024 bekräftigten die Mitgliedstaaten ihre Verpflichtung zur kollektiven Verteidigung und beschlossen die Verstärkung der Ostflanke durch die Stationierung zusätzlicher Truppen und die Verbesserung der Infrastruktur. Zudem wurde die Zusammenarbeit mit Partnern im Indopazifik intensiviert.
+
+### Kritik an der NATO
+- **Relevanz seit 1991**: Nach dem Kalten Krieg wird die NATO als überholt betrachtet, mit Forderungen nach strategischer Neuorientierung.
+- **2%-Ziel**: Trumps Kritik an Mitgliedern, die ihre Verteidigungsausgaben nicht auf 2% des BIP erhöhen, belastete das Bündnis.
+- **Out-of-Area-Einsätze**, wie im Kosovo 1999, wurde als humanitäre Intervention deklariert, jedoch ohne UN-Mandat durchgeführt.
 
 # Kriteriengestütztes Urteil
 -
