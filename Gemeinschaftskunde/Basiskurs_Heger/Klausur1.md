@@ -22,7 +22,7 @@ Video: [Internationale Kooperation](https://www.youtube.com/watch?v=4aj87Q2JhdM&
 - **Sicherheitsdilemma** beschreibt eine Situation, in der die Sicherheitsmaßnahmen (z.B:Aufrüstung) eines Staates, die dessen Sicherheit erhöhen sollen, bei anderen Staaten Reaktionen auslösen (z.B: auch Aufrüstung), die wiederum zu einer Verringerung statt zu einer Erhöhung der Sicherheit des ursprünglichen Staates führen. Daher ergibt sich für den Staat ein [Dilemma](https://en.wikipedia.org/wiki/Dilemma): Ergreift er Sicherheitsmaßnahmen, ist dies problematisch, doch das nicht Ergreifen solcher Maßnahmen könnte die Situation noch problematischer machen [^3]. Video: [Sicherheitsdilemma](https://www.youtube.com/watch?v=vCkaovcNIm0&list=PLLHJHMm0TIXUKf--FPqWpRhrWM3XcAIDv&index=1)
 [^3]: https://www.britannica.com/topic/security-dilemma
 
-### Internationalen Beziehungen - Akteure
+### Akteure
 - **Staaten** sind souveräne Einheiten mit klar definierten geographischen Grenzen und einer zentralen Regierung. Ihre Handlungen werden durch nationale Interessen, Sicherheitsbedürfnisse und wirtschaftliche Ziele geleitet.
 - **Internationale Organisationen** werden durch zwischenstaatliche Vereinbarungen gegründet und haben das Ziel, die Zusammenarbeit zu fördern. Beispiele sind UN, EU und Welthandelsorganisation (WTO).
 - **Transnationale Akteure** sind: 
