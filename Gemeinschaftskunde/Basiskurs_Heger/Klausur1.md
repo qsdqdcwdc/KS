@@ -59,11 +59,11 @@ Gutes Video: [Spieltheorie](https://www.youtube.com/watch?v=IYlWEuI3l0s&list=PLB
 - **Freiheit**: befasst sich mit den Menschenrechten und Partizipationschancen der Individuen. Staaten handeln hier weitgehend unabhängig. Universelle moralische Verpflichtungen durch globale Menschenrechtsnormen führen oft zu Herausforderungen/Spannungen in der internationalen Kooperation.
 ### Weltordnungen
 Video: [Unipolar, Bipolar, And Multipolar](https://www.youtube.com/watch?v=9FLBSJmty0c)
-- **Hegemonie**: Dominanz einer Gruppe(Staates) über eine andere, die oft durch legitimierende Normen und Ideen gestützt wird[^4].
+- **Hegemoniale Herrschaft** bezeichnet die Dominanz einer sozialen Gruppe oder eines Staates über andere, wobei diese Vormachtstellung nicht allein durch Zwang, sondern maßgeblich durch die Zustimmung der Beherrschten aufrechterhalten wird. [^4].
 - **Machtprojektion**: Fähigkeit eines Staates, durch die Androhung oder Anwendung von militärischer Gewalt seine Interessen außerhalb seines Territoriums durchzusetzen.
 - **Bipolare Weltordnung**: internationales System mit zwei dominierenden Supermächten, die die globale Politik wesentlich beeinflussen, charakteristisch für den Kalten Krieg zwischen den USA und der Sowjetunion(1945-1991).
-- **Unipolare Weltordnung**: Zustand, in dem eine Supermacht die globalen Angelegenheiten unangefochten dominiert, exemplarisch für die USA nach dem Ende des Kalten Krieges(1991-2000s).
-- **Multipolare Weltordnung**: System, in dem mehrere Großmächte konkurrierend agieren, beispielhaft für die heutige globale Struktur mit Akteuren wie USA, China und der EU.
+- **Unipolare Weltordnung**: Zustand, in dem eine Großmacht die globalen Angelegenheiten unangefochten dominiert, exemplarisch für die USA nach dem Ende des Kalten Krieges(1991-2000s).
+- **Multipolare Weltordnung**: System, in dem mehrere Großmächte konkurrierend agieren, beispielhaft für die heutige Welt mit Akteuren wie USA, China und der EU.
 [^4]: https://www.britannica.com/topic/hegemony
 
 ### Theorien der internationalen Politik
@@ -98,13 +98,21 @@ Gutes Video, Hauptquelle: [Sicherheit: Sicherheitsbegriff, Dimensionen](https://
  	- Bedrohung: Direkte Gefahren wie militärische Konflikte. (Klassischer Sicherheitsbegriff)
 	- Verwundbarkeit: Anfälligkeit gegenüber indirekten Gefahren durch ökonomische oder soziale Abhängigkeiten.
 	- Risiko: Langfristige, potenzielle Gefahren, die noch nicht manifest sind, z. B. Kriminalität oder Umweltveränderungen.
- - **Sachdimension**:  Bestimmt den Bereich den Problembereich
+ - **Sachdimension**:  Bestimmt den Problembereich
 	- Militärisch: Abwehr und Prävention von militärischen Bedrohungen. (Klassischer Sicherheitsbegriff)
 	- Wirtschaftlich: die Absicherung gegen wirtschaftliche Krisen und die Förderung von Wohlstand.
 	- Ökologisch: Maßnahmen zum Schutz der Umwelt und zur Verringerung der Verwundbarkeit durch ökologische Krisen wie Klimawandel.
 	- Humanitär: Schutz der Menschen vor humanitären Krisen, Gewährleistung der Grundrechte und Unterstützung in Notlagen.
-# UNO
--
+
+### Bedrohungen für die internationale Sicherheit
+- **Staatszerfall**: Der Zusammenbruch staatlicher Strukturen führt zu unregierbaren Gebieten, die als Rückzugsorte für terroristische Organisationen und kriminelle Netzwerke dienen können. Beispielsweise bot Somalia nach dem Staatskollaps in den 1990er Jahren einen Nährboden für Piraterie und extremistische Gruppen.
+- **Terrorismus**:  stellt eine Bedrohung dar, insbesondere durch die Fähigkeit nichtstaatlicher Akteure, asymmetrische Gewalt gegen Zivilbevölkerungen und staatliche Strukturen auszuüben. Ein prägnantes Beispiel hierfür sind die Anschläge vom 11. September 2001, bei denen die Terrororganisation al-Qaida mehrere Passagierflugzeuge entführte und gezielt in bedeutende US-amerikanische Gebäude steuerte, was zum Tod von fast 3.000 Menschen führte.
+- **Verbreitung von Massenvernichtungswaffen**: Die Proliferation nuklearer, biologischer und chemischer Waffen erhöht das Risiko ihres Einsatzes durch Staaten oder nichtstaatliche Akteure.
+- **Territorialkonflikte**: Streitigkeiten um Gebietsansprüche können zu militärischen Auseinandersetzungen eskalieren. Ein aktuelles Beispiel ist der Konflikt zwischen Russland und der Ukraine um Krim/Donbass.
+- **Ressourcenkonflikte**: Die Konkurrenz um knappe Ressourcen wie Wasser und fossile Brennstoffe kann Spannungen zwischen Staaten oder innerhalb von Gesellschaften verschärfen. Der Nilwasserstreit zwischen Ägypten, Äthiopien und Sudan illustriert die geopolitischen Herausforderungen solcher Ressourcenkonflikte.
+- **Klimawandel**: führt zu Naturkatastrophen, Migration und Ressourcenknappheit, was bestehende Konflikte verschärfen oder neue hervorrufen kann. Die Dürre in Syrien vor dem Bürgerkrieg wird als ein Faktor betrachtet, der zur Destabilisierung beigetragen hat.
+- **Cyber-Angriffe**: zielen auf kritische Infrastrukturen, staatliche Institutionen und wirtschaftliche Systeme ab.. Beispielsweise legte der Stuxnet-Wurm Teile des iranischen Atomprogramms lahm und demonstrierte die Verwundbarkeit durch Cyber-Angriffe.
+
 # NATO
 -
 # Kriteriengestütztes Urteil
