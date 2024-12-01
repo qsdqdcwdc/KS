@@ -127,11 +127,8 @@ Die NATO (North Atlantic Treaty Organization) ist ein militärisches Bündnis, d
 - Krisenmanagement: Einsatz militärischer und ziviler Mittel zur Stabilisierung von Krisengebieten (z. B. Balkan-Einsätze).
 - Kooperative Sicherheit: Partnerschaften mit Nicht-Mitgliedsstaaten, z. B. durch Programme wie „[Partnerschaft für den Frieden](https://de.wikipedia.org/wiki/Partnerschaft_f%C3%BCr_den_Frieden)“.
 ### Mitglieder
-Die NATO wurde am 4. April 1949 von zwölf Gründungsmitgliedern ins Leben gerufen. Seitdem hat sie sich in mehreren Erweiterungsrunden auf insgesamt 32 Mitgliedstaaten vergrößert.[^7]  Bei der letzten Erweiterung wurde Schweden am 7. März 2024 das 32. Mitglied der NATO [^8] _(laut offizieller NATO Website: nato.int)_.
+Die NATO wurde am 4. April 1949 mit Gründungsstaaten ins Leben gerufen. Seitdem hat sie sich in mehreren Erweiterungsrunden auf insgesamt 32 Mitgliedstaaten vergrößert.[^7]  Bei der letzten Erweiterung wurde Schweden am 7. März 2024 das 32. Mitglied der NATO [^8] _(laut offizieller NATO Website: nato.int)_.
 
-# Chronologie der NATO-Beitritte
-
-Die NATO begann am 4. April 1949 mit **12 Gründungsmitgliedern** und hat sich seitdem in mehreren Erweiterungsrunden auf insgesamt 32 Mitgliedstaaten vergrößert.
 
 | Jahr | Mitglieder insgesamt | Beitrittsländer                                                                                 |
 |------|-----------------------|-------------------------------------------------------------------------------------------------|
