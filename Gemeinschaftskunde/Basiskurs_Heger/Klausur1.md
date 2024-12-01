@@ -83,9 +83,6 @@ Gutes Video, Hauptquelle: [Sicherheit: Sicherheitsbegriff, Dimensionen](https://
 [^5]: https://www.bpb.de/themen/innere-sicherheit/dossier-innere-sicherheit/76634/die-dimensionen-des-sicherheitsbegriffs/#:~:text=Seit%20Mitte%20des,%5B22%5D
 
 ### Dimensionen den erweiterten Sicherheitsbegriff 
-<p align="center">
-	<img src="Img/abb1.png" width="500"  title="qr code">
-</p>
 
 [Quelle](https://www.transcript-open.de/pdf_chapter/bis%201699/9783839414354/transcript.9783839414354.139.pdf)
 - **Referenzdimension**: Definiert, wer durch Sicherheitspolitik geschützt wird 
