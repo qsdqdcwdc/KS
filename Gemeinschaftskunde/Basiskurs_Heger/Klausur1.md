@@ -127,21 +127,28 @@ Die NATO (North Atlantic Treaty Organization) ist ein militärisches Bündnis, d
 - Krisenmanagement: Einsatz militärischer und ziviler Mittel zur Stabilisierung von Krisengebieten (z. B. Balkan-Einsätze).
 - Kooperative Sicherheit: Partnerschaften mit Nicht-Mitgliedsstaaten, z. B. durch Programme wie „[Partnerschaft für den Frieden](https://de.wikipedia.org/wiki/Partnerschaft_f%C3%BCr_den_Frieden)“.
 ### Mitglieder
-Die NATO wurde am 4. April 1949 von zwölf Gründungsmitgliedern ins Leben gerufen. Seitdem hat sie sich in mehreren Erweiterungsrunden auf insgesamt 32 Mitgliedstaaten vergrößert.[^7]  Bei der letzten Erweiterung wurde Schweden am 7. März 2024 das 32. Mitglied der NATO (laut offizieller NATO Website).[^8]
+Die NATO wurde am 4. April 1949 von zwölf Gründungsmitgliedern ins Leben gerufen. Seitdem hat sie sich in mehreren Erweiterungsrunden auf insgesamt 32 Mitgliedstaaten vergrößert.[^7]  Bei der letzten Erweiterung wurde Schweden am 7. März 2024 das 32. Mitglied der NATO [^8] _(laut offizieller NATO Website: nato.int)_.
 
-| Jahr  | Beitrittsländer                                                                                   |
-|-------|---------------------------------------------------------------------------------------------------|
-| 1949  | Belgien, Dänemark, Frankreich, Island, Italien, Kanada, Luxemburg, Niederlande, Norwegen, Portugal, Vereinigtes Königreich, Vereinigte Staaten |
-| 1952  | Griechenland, Türkei                                                                              |
-| 1955  | Deutschland                                                                                       |
-| 1982  | Spanien                                                                                           |
-| 1999  | Polen, Tschechische Republik, Ungarn                                                              |
-| 2004  | Bulgarien, Estland, Lettland, Litauen, Rumänien, Slowakei, Slowenien                              |
-| 2009  | Albanien, Kroatien                                                                                |
-| 2017  | Montenegro                                                                                        |
-| 2020  | Nordmazedonien                                                                                    |
-| 2023  | Finnland                                                                                          |
-| 2024  | Schweden                                                                                          |
+# Chronologie der NATO-Beitritte
+
+Die NATO begann am 4. April 1949 mit **12 Gründungsmitgliedern** und hat sich seitdem in mehreren Erweiterungsrunden auf insgesamt 32 Mitgliedstaaten vergrößert.
+
+| Jahr | Mitglieder insgesamt | Beitrittsländer                                                                                 |
+|------|-----------------------|-------------------------------------------------------------------------------------------------|
+| 1949 | 12                    | Belgien, Dänemark, Frankreich, Island, Italien, Kanada, Luxemburg, Niederlande, Norwegen, Portugal, Vereinigtes Königreich, Vereinigte Staaten |
+| 1952 | 14                    | Griechenland, Türkei                                                                            |
+| 1955 | 15                    | Deutschland                                                                                     |
+| 1982 | 16                    | Spanien                                                                                         |
+| 1999 | 19                    | Polen, Tschechische Republik, Ungarn                                                            |
+| 2004 | 26                    | Bulgarien, Estland, Lettland, Litauen, Rumänien, Slowakei, Slowenien                            |
+| 2009 | 28                    | Albanien, Kroatien                                                                              |
+| 2017 | 29                    | Montenegro                                                                                      |
+| 2020 | 30                    | Nordmazedonien                                                                                  |
+| 2023 | 31                    | Finnland                                                                                        |
+| 2024 | 32                    | Schweden                                                                                        |
+
+Die Erweiterungen erfolgten gemäß Artikel 10 des Nordatlantikvertrags, der europäischen Staaten den Beitritt ermöglicht, wenn sie die Prinzipien des Vertrags fördern und zur Sicherheit des nordatlantischen Gebiets beitragen können.
+
 
 
 [^7]: https://www.nato.int/nato-welcome/index.html
