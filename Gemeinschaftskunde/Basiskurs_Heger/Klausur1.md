@@ -11,8 +11,31 @@
 [^999]: https://en.wikipedia.org/wiki/Help:Footnotes
 
 # Inhalt
--
--
+# Inhaltsangabe
+
+1. [Internationale Politik](#internationale-politik)  
+   - [Akteure](#akteure)  
+   - [Spieltheorie](#spieltheorie)  
+   - [Nationale Politik vs. internationale Politik](#nationale-politik-vs-internationale-politik)  
+   - [Kooperation](#kooperation)  
+   - [Weltordnungen](#weltordnungen)  
+   - [Theorien der internationalen Politik](#theorien-der-internationalen-politik)  
+
+2. [Sicherheit](#sicherheit)   
+   - [Dimensionen den erweiterten Sicherheitsbegriffs](#dimensionen-den-erweiterten-sicherheitsbegriffs)  
+   - [Bedrohungen für die internationale Sicherheit](#bedrohungen-für-die-internationale-sicherheit)  
+
+3. [NATO](#nato)  
+   - [Hauptaufgaben](#hauptaufgaben)  
+   - [Struktur](#struktur)  
+   - [Mitglieder](#mitglieder)  
+   - [Artikel 5](#artikel-5)  
+   - [Aktuelle NATO-Strategie (2024)](#aktuelle-nato-strategie-2024)  
+   - [Rolle Deutschlands](#rolle-deutschlands)  
+   - [Kritik](#kritik)  
+
+4. [Kriteriengestütztes Urteil](#kriteriengestütztes-urteil) 
+
 
 # Internationale Politik
 Video: [Internationale Kooperation](https://www.youtube.com/watch?v=4aj87Q2JhdM&list=PLB5965C13F4B0B2DA&index=6)
@@ -89,7 +112,7 @@ Gutes Video, Hauptquelle: [Sicherheit: Sicherheitsbegriff, Dimensionen](https://
 
 [^5]: https://www.bpb.de/themen/innere-sicherheit/dossier-innere-sicherheit/76634/die-dimensionen-des-sicherheitsbegriffs/#:~:text=Seit%20Mitte%20des,%5B22%5D
 
-### Dimensionen den erweiterten Sicherheitsbegriff 
+### Dimensionen den erweiterten Sicherheitsbegriffs
 
 [Quelle](https://www.transcript-open.de/pdf_chapter/bis%201699/9783839414354/transcript.9783839414354.139.pdf)
 - **Referenzdimension**: Definiert, wer durch Sicherheitspolitik geschützt wird 
@@ -181,4 +204,40 @@ Angesichts der veränderten globalen Sicherheitslandschaft, insbesondere durch R
 - **Out-of-Area-Einsätze**, wie im Kosovo 1999, wurde als humanitäre Intervention deklariert, jedoch ohne UN-Mandat durchgeführt.
 
 # Kriteriengestütztes Urteil
--
+Quelle: [lehrerfortbildung-bw.de](https://lehrerfortbildung-bw.de/u_gewi/gk/gym/bp2016/fb5/2_komp/6_vorlagen/2_urteil/3_urteil_vorlage/)
+
+### 1. Klärung der Aufgabenstellung
+- **Fragestellung identifizieren:** Bestimme das Problem oder die zentrale Frage.  
+- **Definition relevanter Begriffe:** Präzise Klärung der Schlüsselbegriffe zur Vorbereitung der Analyse.
+
+### 2. Vorüberlegungen
+- **Kriterienauswahl:**  
+  Wähle geeignete Kriterien wie:
+  - **Effektivität:** Erreicht die Lösung das Ziel?
+  - **Effizienz:** Ist das Ziel mit geringeren Mitteln erreichbar?
+  - **Legalität:** Ist die Lösung rechtskonform?
+  - **Gerechtigkeit:** Betrachtung von Leistungs-, Bedarfs-, oder Chancengerechtigkeit.
+  - **Nachhaltigkeit:** Gewährleistet die Lösung dauerhafte soziale, wirtschaftliche und ökologische Stabilität?
+- **Spannungsverhältnisse:** Analysiere mögliche Konflikte zwischen Kriterien (z. B. Effizienz vs. Nachhaltigkeit).  
+- **Perspektiven berücksichtigen:**  
+  - Individuelle Perspektive: Auswirkungen auf persönliche Interessen.  
+  - Öffentliche Perspektive: Berücksichtigung gesellschaftlicher Akteure.  
+  - Systemische Perspektive: Effekte auf das Gesamtsystem (Politik, Wirtschaft, Gesellschaft).  
+- **Bereichsübergreifende Wirkung:**  
+  Beurteile politische, gesellschaftliche und wirtschaftliche Konsequenzen.
+
+### 3. Formulierung von Teilurteilen
+- **Kriterien anwenden:** Analysiere die Fragestellung für jedes gewählte Kriterium.  
+- **Zwischenfazit:** Ziehe pro Kriterium ein Teilurteil (z. B. „leistungsgerecht“ oder „nicht gerecht“).  
+- **Argumentationsstruktur:** Nutze den Dreischritt:  
+  1. Behauptung  
+  2. Begründung  
+  3. Beleg/Beispiel  
+
+### 4. Formulierung eines Gesamturteils
+- **Zusammenfassung der Teilurteile:** Ordne sie nach Zustimmung, Ablehnung oder Neutralität.  
+- **Gewichtung:** Bestimme die Relevanz der Kriterien und dokumentiere diese.  
+- **Schlussfolgerung:** Begründe das Gesamturteil basierend auf der Gewichtung und formuliere eine abschließende Bewertung.
+
+Das Ergebnis sollte eine transparente und logische Argumentation liefern, die auf den gewählten Kriterien basiert.
+
