@@ -170,7 +170,12 @@ Artikel 5 des Nordatlantikvertrags bildet das Fundament der NATO, indem er festl
 
 Angesichts der veränderten globalen Sicherheitslandschaft, insbesondere durch Russlands anhaltende Aggression in der Ukraine, hat die NATO ihre strategische Ausrichtung angepasst. Im Strategischen Konzept von 2022 wird Russland als die bedeutendste und unmittelbarste Bedrohung für die Sicherheit der Allianz identifiziert. Auf dem Washingtoner Gipfel 2024 bekräftigten die Mitgliedstaaten ihre Verpflichtung zur kollektiven Verteidigung und beschlossen die Verstärkung der Ostflanke durch die Stationierung zusätzlicher Truppen und die Verbesserung der Infrastruktur. Zudem wurde die Zusammenarbeit mit Partnern im Indopazifik intensiviert.
 
-### Kritik an der NATO
+### Rolle Deutschlands
+- **Mitgliedschaft**: Die Bundesrepublik Deutschland trat der NATO am 6. Mai 1955 bei. Dieser Beitritt erfolgte nach der Unterzeichnung der Pariser Verträge, die Deutschland teilweise seine Souveränität zurückgaben und die Wiederbewaffnung ermöglichten.
+- **Militärische Beiträge und Fähigkeiten**: Deutschland stellt signifikante militärische Ressourcen für die NATO bereit. Im Rahmen des NATO Force Models ab 2025 plant Deutschland, rund 35.000 Soldatinnen und Soldaten sowie über 200 Flugzeuge und Schiffe zur Verfügung zu stellen.
+- **Verteidigungsausgaben und Investitionen**: Historisch wurde Deutschland für Verteidigungsausgaben unterhalb des NATO-Ziels von 2 % des BIP kritisiert. Im Jahr 2024 erreichte Deutschland erstmals dieses Ziel, mit Verteidigungsausgaben von 2,12 % des BIP. Zusätzlich wurde ein Sondervermögen von 100 Milliarden Euro zur Modernisierung der Bundeswehr bereitgestellt.
+- **Politische Verantwortung und Führungsrolle** Als größte Volkswirtschaft Europas trägt Deutschland eine besondere Verantwortung innerhalb der NATO. Verteidigungsminister betonte Deutschlands Bereitschaft, eine führende Rolle zu übernehmen.
+### Kritik
 - **Relevanz seit 1991**: Nach dem Kalten Krieg wird die NATO als überholt betrachtet, mit Forderungen nach strategischer Neuorientierung.
 - **2%-Ziel**: Trumps Kritik an Mitgliedern, die ihre Verteidigungsausgaben nicht auf 2% des BIP erhöhen, belastete das Bündnis.
 - **Out-of-Area-Einsätze**, wie im Kosovo 1999, wurde als humanitäre Intervention deklariert, jedoch ohne UN-Mandat durchgeführt.
