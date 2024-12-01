@@ -121,7 +121,31 @@ Gutes Video, Hauptquelle: [Sicherheit: Sicherheitsbegriff, Dimensionen](https://
 - **Cyber-Angriffe**: zielen auf kritische Infrastrukturen, staatliche Institutionen und wirtschaftliche Systeme ab. Beispielsweise legte der [Stuxnet-Wurm](https://en.wikipedia.org/wiki/Stuxnet) Teile des iranischen Atomprogramms lahm.
 
 # NATO
+Die NATO (North Atlantic Treaty Organization) ist ein militärisches Bündnis, das 1949 durch den Nordatlantikvertrag gegründet wurde. 
+### Hauptaufgaben: 
+- Kollektive Verteidigung: Artikel 5 des Vertrags verpflichtet die Mitglieder, einen bewaffneten Angriff auf einen Mitgliedstaat als Angriff auf alle zu betrachten.
+- Krisenmanagement: Einsatz militärischer und ziviler Mittel zur Stabilisierung von Krisengebieten (z. B. Balkan-Einsätze).
+- Kooperative Sicherheit: Partnerschaften mit Nicht-Mitgliedsstaaten, z. B. durch Programme wie „[Partnerschaft für den Frieden](https://de.wikipedia.org/wiki/Partnerschaft_f%C3%BCr_den_Frieden)“.
+### Mitglieder
+Die NATO wurde am 4. April 1949 von zwölf Gründungsmitgliedern ins Leben gerufen. Seitdem hat sie sich in mehreren Erweiterungsrunden auf insgesamt 32 Mitgliedstaaten vergrößert.[^7]  Bei der letzten Erweiterung wurde Schweden am 7. März 2024 das 32. Mitglied der NATO (laut offizieller NATO Website).[^8]
 
+| Jahr  | Beitrittsländer                                                                                   |
+|-------|---------------------------------------------------------------------------------------------------|
+| 1949  | Belgien, Dänemark, Frankreich, Island, Italien, Kanada, Luxemburg, Niederlande, Norwegen, Portugal, Vereinigtes Königreich, Vereinigte Staaten |
+| 1952  | Griechenland, Türkei                                                                              |
+| 1955  | Deutschland                                                                                       |
+| 1982  | Spanien                                                                                           |
+| 1999  | Polen, Tschechische Republik, Ungarn                                                              |
+| 2004  | Bulgarien, Estland, Lettland, Litauen, Rumänien, Slowakei, Slowenien                              |
+| 2009  | Albanien, Kroatien                                                                                |
+| 2017  | Montenegro                                                                                        |
+| 2020  | Nordmazedonien                                                                                    |
+| 2023  | Finnland                                                                                          |
+| 2024  | Schweden                                                                                          |
+
+
+[^7]: https://www.nato.int/nato-welcome/index.html
+[^8]: https://www.nato.int/cps/en/natohq/topics_52044.htm#:~:text=Over%20the%20following%20months%2C%20all%20NATO%20Allies%20ratified%20Sweden%E2%80%99s%20Accession%20Protocol%20according%20to%20their%20national%20procedures.%20Sweden%20deposited%20its%20Instrument%20of%20Accession%20to%20the%20North%20Atlantic%20Treaty%20on%207%20March%202024%2C%20becoming%20NATO%27s%2032nd%20member%20country.%C2%A0
 ### Artikel 5
 Video: [Artikel 5](https://www.youtube.com/watch?v=2cdRbO0MIzo)
 
