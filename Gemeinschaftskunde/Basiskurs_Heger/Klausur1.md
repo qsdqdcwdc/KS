@@ -160,7 +160,7 @@ Video: [Srtuktur der NATO](https://www.youtube.com/watch?v=yylsDFuvIJc)
  	- NATO Response Force: Schnelle Eingreiftruppe.
 - **Allied Command Transformation** (ACT) Fokus auf Modernisierung der NATO-Fähigkeiten, mit Zentren für Kriegsführung, Analysen und Ausbildung in Norwegen, Portugal und Polen.
 ### Mitglieder
-Die NATO wurde am 4. April 1949 mit Gründungsstaaten ins Leben gerufen. Seitdem hat sie sich in mehreren Erweiterungsrunden auf insgesamt 32 Mitgliedstaaten vergrößert.[^7]  Bei der letzten Erweiterung wurde Schweden am 7. März 2024 das 32. Mitglied der NATO [^8] _(laut offizieller NATO Website: nato.int)_.
+Die NATO wurde am 4. April 1949 mit 12 Gründungsstaaten ins Leben gerufen. Seitdem hat sie sich in mehreren Erweiterungsrunden auf insgesamt 32 Mitgliedstaaten vergrößert.[^7]  Bei der letzten Erweiterung wurde Schweden am 7. März 2024 das 32. Mitglied der NATO [^8] _(laut offizieller NATO Website: nato.int)_.
 
 
 | Jahr | Mitglieder insgesamt | Beitrittsländer                                                                                 |
