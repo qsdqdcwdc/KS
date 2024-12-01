@@ -125,7 +125,7 @@ Gutes Video, Hauptquelle: [Sicherheit: Sicherheitsbegriff, Dimensionen](https://
 ### Artikel 5
 Video: [Artikel 5](https://www.youtube.com/watch?v=2cdRbO0MIzo)
 
-Artikel 5 des Nordatlantikvertrags bildet das Fundament der NATO, indem er festlegt, dass, wenn ein NATO-Mitglied Opfer eines bewaffneten Angriffs wird, jedes andere Mitglied des Bündnisses diesen Gewaltakt als einen bewaffneten Angriff gegen alle Mitglieder betrachtet und die Maßnahmen ergreift, die es für notwendig hält, um dem angegriffenen Bündnispartner zu helfen. Dieses Artikel wurde ersten und einzigen Mal nach den Terroranschlägen vom 11. September 2001 aktiviert. Mit der Berufung auf Artikel 5 können die Bündnispartner jede Form von Unterstützung leisten, die sie als notwendig erachten, um auf die Situation zu reagieren. Dies ist eine individuelle Verpflichtung jedes Mitglieds, wobei jedes selbst entscheidet, welche Maßnahmen im jeweiligen Kontext angemessen sind. Die Unterstützung erfolgt in Abstimmung mit den anderen Partnern. Sie muss nicht zwingend militärisch sein und hängt von den verfügbaren Ressourcen des Landes ab.[^6]
+Artikel 5 des Nordatlantikvertrags bildet das Fundament der NATO, indem er festlegt, dass, wenn ein NATO-Mitglied Opfer eines bewaffneten Angriffs wird, jedes andere Mitglied des Bündnisses diesen Gewaltakt als einen bewaffneten Angriff gegen alle Mitglieder betrachtet und die Maßnahmen ergreift, die es für notwendig hält, um dem angegriffenen Bündnispartner zu helfen. Dieses Artikel wurde ersten und einzigen Mal nach den Terroranschlägen vom 11. September 2001 aktiviert.[^6]
 [^6]: https://www.nato.int/cps/en/natohq/topics_110496.htm
 
 ### Aktuelle NATO-Strategie im Kontext der Sicherheitslage 2024
