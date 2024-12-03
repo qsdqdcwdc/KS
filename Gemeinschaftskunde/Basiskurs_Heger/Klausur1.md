@@ -246,11 +246,11 @@ Das Ergebnis sollte eine transparente und logische Argumentation liefern, die au
 [Quelle](https://www.bundesregierung.de/breg-de/aktuelles/was-ist-die-vertrauenfrage-2319328)
 
 ### Allgemeine Definition
-- **Vertrauensfrage**: Ein verfassungsrechtliches Instrument, das es dem Bundeskanzler ermöglicht, die Unterstützung des Bundestages für seine Politik und Regierung zu überprüfen.
+- **Vertrauensfrage**: Ein verfassungsrechtliches Instrument, das es dem Bundeskanzler ermöglicht, die Unterstützung des Bundestages für seine Politik und Regierung zu überprüfen. Kann mit einer Sachfrage verknüpft werden, z.B. einer Gesetzesvorlage, um die Regierungsfraktionen zu disziplinieren und politische Unterstützung zu sichern​.
 - **Rechtliche Grundlage**: Artikel 68 des Grundgesetzes.
 
 ### Zweck der Vertrauensfrage
-- **Regierungsstabilisierung**: Sicherstellung, dass die Regierung die Unterstützung der Mehrheit des Parlaments besitzt.
+- Stabilisierung der Regierung oder Initiierung von Neuwahlen, falls das Vertrauen fehlt
 - **Weg zu Neuwahlen**: Möglichkeit zur Auflösung des Bundestags und Auslösung von Neuwahlen, falls das Vertrauen fehlt.
 
 ### Typen der Vertrauensfrage
@@ -264,8 +264,7 @@ Das Ergebnis sollte eine transparente und logische Argumentation liefern, die au
 
 ### Verfahren
 - **Antrag durch den Bundeskanzler**: Der Kanzler stellt im Bundestag die Frage nach dem Vertrauen.
-- **Abstimmung**: Erfolgt im Bundestag ohne Aussprache unmittelbar nach dem Antrag.
-- **Frist**: Zwischen Antrag und Abstimmung müssen 48 Stunden liegen, um den Abgeordneten Beratungszeit zu gewähren.
+- Zwischen dem Antrag und der Abstimmung müssen 48 Stunden liegen, um den Abgeordneten Beratungszeit zu gewähren​
 
 ### Konsequenzen des Abstimmungsergebnisses
 - **Positive Antwort**: Die Regierung fährt fort ohne Änderungen.
