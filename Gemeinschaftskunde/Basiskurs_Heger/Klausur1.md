@@ -34,8 +34,8 @@
    - [Rolle Deutschlands](#rolle-deutschlands)  
    - [Kritik](#kritik)  
 
-4. [Kriteriengestütztes Urteil](#kriteriengestütztes-urteil) 
-
+4. [Kriteriengestütztes Urteil](#kriteriengestütztes-urteil)
+5. [Vertrauensfrage](vertrauensfrage)
 
 # Internationale Politik
 Video: [Internationale Kooperation](https://www.youtube.com/watch?v=4aj87Q2JhdM&list=PLB5965C13F4B0B2DA&index=6)
@@ -240,4 +240,38 @@ Quelle: [lehrerfortbildung-bw.de](https://lehrerfortbildung-bw.de/u_gewi/gk/gym/
 - **Schlussfolgerung:** Begründe das Gesamturteil basierend auf der Gewichtung und formuliere eine abschließende Bewertung.
 
 Das Ergebnis sollte eine transparente und logische Argumentation liefern, die auf den gewählten Kriterien basiert.
+
+
+# Vertrauensfrage
+[Quelle](https://www.bundesregierung.de/breg-de/aktuelles/was-ist-die-vertrauenfrage-2319328)
+
+### Allgemeine Definition
+- **Vertrauensfrage**: Ein verfassungsrechtliches Instrument, das es dem Bundeskanzler ermöglicht, die Unterstützung des Bundestages für seine Politik und Regierung zu überprüfen.
+- **Rechtliche Grundlage**: Artikel 68 des Grundgesetzes.
+
+### Zweck der Vertrauensfrage
+- **Regierungsstabilisierung**: Sicherstellung, dass die Regierung die Unterstützung der Mehrheit des Parlaments besitzt.
+- **Weg zu Neuwahlen**: Möglichkeit zur Auflösung des Bundestags und Auslösung von Neuwahlen, falls das Vertrauen fehlt.
+
+### Typen der Vertrauensfrage
+1. **Echte Vertrauensfrage**
+   - **Ziel**: Tatsächliche Überprüfung des Vertrauens in die Regierung.
+   - **Beispiel**: Gerhard Schröder stellte 2001 die Vertrauensfrage im Kontext der Beteiligung der Bundeswehr in Afghanistan, um die Unterstützung seiner Koalition für seine Außenpolitik zu sichern.
+  
+2. **Unechte Vertrauensfrage**
+   - **Ziel**: Einleitung von Neuwahlen durch bewusstes Herbeiführen einer Niederlage in der Abstimmung. [Quelle](https://jura-online.de/lernen/problem-unechte-vertrauensfrage-art-68-gg/225/excursus/)
+   - **Beispiel**: Helmut Kohl nutzte 1982 die Vertrauensfrage nach dem erfolgreichen Misstrauensvotum gegen Helmut Schmidt, um Neuwahlen zu forcieren und seine Position als Bundeskanzler durch die Wähler bestätigen zu lassen.
+
+### Verfahren
+- **Antrag durch den Bundeskanzler**: Der Kanzler stellt im Bundestag die Frage nach dem Vertrauen.
+- **Abstimmung**: Erfolgt im Bundestag ohne Aussprache unmittelbar nach dem Antrag.
+- **Frist**: Zwischen Antrag und Abstimmung müssen 48 Stunden liegen, um den Abgeordneten Beratungszeit zu gewähren.
+
+### Konsequenzen des Abstimmungsergebnisses
+- **Positive Antwort**: Die Regierung fährt fort ohne Änderungen.
+- **Negative Antwort**: Optionen für den Bundeskanzler:
+  - Weiterarbeiten als Minderheitsregierung oder durch Bildung einer neuen Koalition.
+  - Rücktritt oder Antrag beim Bundespräsidenten zur Auflösung des Bundestages und Einleitung von Neuwahlen(diese Option wurde ich historisch jedes Mal gewählt).
+
+
 
