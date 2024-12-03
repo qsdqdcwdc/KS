@@ -251,8 +251,7 @@ Das Ergebnis sollte eine transparente und logische Argumentation liefern, die au
 
 ### Zweck der Vertrauensfrage
 - Stabilisierung der Regierung oder Initiierung von Neuwahlen, falls das Vertrauen fehlt
-- **Weg zu Neuwahlen**: Möglichkeit zur Auflösung des Bundestags und Auslösung von Neuwahlen, falls das Vertrauen fehlt.
-
+- Kann mit einer Sachfrage verknüpft werden, z.B. einer Gesetzesvorlage, um die Regierungsfraktionen zu disziplinieren und politische Unterstützung zu sichern
 ### Typen der Vertrauensfrage
 1. **Echte Vertrauensfrage**
    - **Ziel**: Tatsächliche Überprüfung des Vertrauens in die Regierung.
