@@ -35,7 +35,7 @@
    - [Kritik](#kritik)  
 
 4. [Kriteriengestütztes Urteil](#kriteriengestütztes-urteil)
-5. [Vertrauensfrage](vertrauensfrage)
+5. [Vertrauensfrage](#vertrauensfrage)
 
 # Internationale Politik
 Video: [Internationale Kooperation](https://www.youtube.com/watch?v=4aj87Q2JhdM&list=PLB5965C13F4B0B2DA&index=6)
