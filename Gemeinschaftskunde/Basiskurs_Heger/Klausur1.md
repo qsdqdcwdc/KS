@@ -246,7 +246,7 @@ Das Ergebnis sollte eine transparente und logische Argumentation liefern, die au
 [Quelle](https://www.bundesregierung.de/breg-de/aktuelles/was-ist-die-vertrauenfrage-2319328)
 
 ### Allgemeine Definition
-- **Vertrauensfrage**: Ein verfassungsrechtliches Instrument, das es dem Bundeskanzler ermöglicht, die Unterstützung des Bundestages für seine Politik und Regierung zu überprüfen. Kann mit einer Sachfrage verknüpft werden, z.B. einer Gesetzesvorlage, um die Regierungsfraktionen zu disziplinieren und politische Unterstützung zu sichern​.
+- **Vertrauensfrage**: Ein verfassungsrechtliches Instrument, das es dem Bundeskanzler ermöglicht, die Unterstützung des Bundestages für seine Politik und Regierung zu überprüfen.
 - **Rechtliche Grundlage**: Artikel 68 des Grundgesetzes.
 
 ### Zweck der Vertrauensfrage
