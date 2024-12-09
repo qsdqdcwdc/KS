@@ -1,6 +1,6 @@
 
-- **Fakt** ist eine Aussage, die auf realen Ereignissen oder Existenz basiert und objektiv wahr ist.
-- **Wissenschaftlicher Fakt** ist eine objektive und verifizierbare Aussage, die durch wiederholbare Messungen/Beobachtungen/Experimente bestätigt wurde.
+- **Fakt** ist eine Aussage, die auf realen Ereignissen oder Existenz basiert und wahr ist.
+- **Wissenschaftlicher Fakt** ist eine verifizierbare Aussage, die durch wiederholbare Messungen/Beobachtungen/Experimente bestätigt wurde.
 - **Argument** ist eine logisch verbundene Struktur aus Aussagen, enthaltend einer oder mehreren Prämissen, die darauf abzielt, die Glaubwürdigkeit der Konklusion zu erhöhen oder eine vollständige Überzeugung beim Zuhörer/Leser in der Wahrheit der Konklusion zu erreichen. 
 - **Prämissen** sind Behauptungen, die im Kontext des Arguments als wahr angenommen werden. Sie können faktische Behauptungen, Werturteile, theoretische Annahmen oder Konklusionen früherer Argumente sein. Prämissen bilden die Grundlage der logischen Struktur des Arguments.  Prämissen können explizit *(direkt in dem Text erwähnt)* sein oder implizint *(benutzt ohne Erwähnung)*.
 - **Deduktion** ist ein Prozess, bei dem die Konklusion allein durch logische Schlussfolgerungen aus Prämissen abgeleitet wird.
