@@ -1,9 +1,9 @@
 
-- **Fakt** ist eine Aussage, die auf realen Ereignissen oder Existenz basiert und wahr ist.
+- **Fakt** ist eine Aussage, die sich auf reale Ereignisse stützt und als wahr betrachtet wird.
 - **Wissenschaftlicher Fakt** ist eine durch wiederholbare Messungen, Beobachtungen oder Experimente verifizierte Aussage.
 - **Argument** ist eine logisch verbundene Struktur aus Aussagen, die eine oder mehrere Prämissen enthält, um die Glaubwürdigkeit einer Konklusion zu erhöhen oder eine vollständige Überzeugung beim Zuhörer oder Leser in der Wahrheit der Konklusion zu erreichen.
 - **Prämissen** sind Behauptungen, die im Kontext des Arguments als wahr angenommen werden. Sie können faktische Behauptungen, Werturteile, theoretische Annahmen oder Konklusionen früherer Argumente sein. Prämissen bilden die Grundlage der logischen Struktur des Arguments.  Prämissen können explizit *(direkt in dem Text erwähnt)* sein oder implizint *(benutzt ohne Erwähnung)*.
-- **Deduktion** ist ein Prozess, bei dem die Konklusion allein durch logische Schlussfolgerungen aus Prämissen abgeleitet wird.
+- **Deduktion** ist ein Prozess, bei dem die Konklusion allein durch logische Schlussfolgerung aus Annahmen abgeleitet wird.
 - **Induktion** ist ein Prozess, bei dem allgemeine Konklusion aus spezifischen Beobachtungen gezogen wird.
 - **Deduktives Argument** zieht darauf ab durch Deduktion die Konklusion aus Prämissen abzuleiten. Ein **gültiges deduktives Argument** garantiert dass die Konklusion wahr ist wenn Prämissen wahr sind. Wenn ein deduktives Argument die logische Notwendigkeit der Schlussfolgerung aus den Prämissen nicht gewährleistet, wird es als **ungültiges deduktives Argument** bezeichnet.
 - **Induktives Argument** leitet Konklusion durch Induktion ab. Ein induktives Argument garantiert nicht dass die Konklusion wahr ist wenn die Prämissen wahr sind, er macht es nur wahrscheinlich. 
@@ -12,4 +12,5 @@
 - **Autoritätsargument** stützt die Konklusion durch eine Ausage einer Autorität. Es beruht auf der oft impliziter Prämisse, dass es unwahrscheinlich ist, dass die Autorität falsch liegt.
 - **Analogieargument** ist eine Argumentationsform, bei der die Ähnlichkeit zwischen zwei oder mehreren Situationen/Dingen herangezogen wird, um eine Konklusion zu unterstützen. Er basiert auf einer  Prämisse, dass wenn zwei Dinge in manchen Aspekten ähnlich sind, sie wahrscheinlich auch in anderen Aspekten ähnlich sind.
 - **Normatives Argument** nutzt ein oder mehreren Normen als Prämissen um den Leser in Wahrheit der Konklusion zu überzeugen.
-- Argumentum ad populum ist eine Argumentationsform, die die Gültigkeit der Konklusion unterstützt, durch die Annahme dass, dass viele oder die Mehrheit der Menschen diese als wahr betrachten. Er basiert auf einer Prämisse, dass es unwahrscheinlich ist, dass eine große Gruppe von Menschen irrt.
+- **Argumentum ad populum** ist eine Argumentationsform, die die Gültigkeit der Konklusion unterstützt, durch die Annahme dass, dass viele oder die Mehrheit der Menschen diese als wahr betrachten. Er basiert auf einer Prämisse, dass es unwahrscheinlich ist, dass eine große Gruppe von Menschen irrt.
+- **These** ist eine Behauptung oder Stellungnahme, die ein Autor in einem Text aufstellt und durch Argumente stützt. Sie dient als  Idee oder Kernaussage , um die herum der Text oder Textabschnitt aufgebaut wird.
