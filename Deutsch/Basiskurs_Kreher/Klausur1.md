@@ -4,7 +4,7 @@
 - **Argument** ist eine logisch verbundene Struktur aus Aussagen, enthaltend einer oder mehreren Prämissen, die darauf abzielt, die Glaubwürdigkeit der Konklusion zu erhöhen oder eine vollständige Überzeugung beim Zuhörer/Leser in der Wahrheit der Konklusion zu erreichen. 
 - **Prämissen** sind Behauptungen, die im Kontext des Arguments als wahr angenommen werden. Sie können faktische Behauptungen, Werturteile, theoretische Annahmen oder Konklusionen früherer Argumente sein. Prämissen bilden die Grundlage der logischen Struktur des Arguments.  Prämissen können explizit *(direkt in dem Text erwähnt)* sein oder implizint *(benutzt ohne Erwähnung)*.
 - **Deduktion** ist ein Prozess, bei dem die Konklusion allein durch logische Schlussfolgerungen aus Prämissen abgeleitet wird.
-- **Induktion** ist ein Prozess, bei dem allgemeine Konklusion aus spezifischen Beobachtungen gezogen werd.
+- **Induktion** ist ein Prozess, bei dem allgemeine Konklusion aus spezifischen Beobachtungen gezogen wird.
 - **Deduktives Argument** zieht darauf ab durch Deduktion die Konklusion aus Prämissen abzuleiten. Ein **gültiges deduktives Argument** garantiert dass die Konklusion wahr ist wenn Prämissen wahr sind. Wenn ein deduktives Argument die logische Notwendigkeit der Schlussfolgerung aus den Prämissen nicht gewährleistet, wird es als **ungültiges deduktives Argument** bezeichnet.
 - **Induktives Argument** leitet Konklusion durch Induktion ab. eine induktives Argument garantiert nicht dass die Konklusion wahr ist wenn die Prämissen wahr sind, er macht es nur wahrscheinlich. 
 - **Facktenargument** nutzt ein oder mehreren Fakten als Prämissen um den Leser in Wahrheit der Konklusion zu überzeugen oder die Glaubwürdigkeit von Konklusion zu erhöhen.
