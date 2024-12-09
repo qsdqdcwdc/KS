@@ -1,25 +1,15 @@
 
 - **Fakt** ist eine Aussage, die auf realen Ereignissen oder Existenz basiert und objektiv wahr ist.
 - **Wissenschaftlicher Fakt** ist eine objektive und verifizierbare Aussage, die durch wiederholbare Messungen/Beobachtungen/Experimente bestätigt wurde.
-- **Argument** ist eine logisch verbundene Struktur aus Aussagen, enthaltend einer oder mehreren Prämissen, die darauf abzielt, die Glaubwürdigkeit der Konklusion zu erhöhen oder eine vollständige Überzeugung beim Zuhörer/Leser in der Wahrheit der Konklusion zu erreichen. *(Unterschiedliche Arten von Argumenten (deduktiv, induktiv, abduktiv) bestimmen die Stärke der logischen Verbindung und den Grad der Überzeugungskraft.)*
-- **Prämissen** sind implizite oder explizite Aussagen, die im Kontext des Arguments als wahr angenommen werden *(obwohl sie nicht notwendigerweise objektiv wahr sein müssen)*. Sie können faktische Behauptungen, Werturteile, theoretische Annahmen oder Konklusionen früherer Argumente sein. Prämissen bilden die Grundlage der logischen Struktur des Arguments.
-
-
----
----
----
-
-
-
-
-
-
-
-
-
-- **Facktenargument**: Das Faktenargument ist auf wissenschaftliche Fakten gestützt. Fakten umfassen oft konkrete Zahlen, die z. B. aus Studien, Versuchen oder Statistiken stammen.
-- Indirektesargument: Das indirekte Argument erkennst du daran, dass eine Gegenbehauptung widerlegt wird. Die eigene Behauptung wird also dadurch gestärkt, dass die abweichende Position direkt entkräftet wird. Beispiel: indirektes Argument Laut Impfgegnern und Impfgegnerinnen sind Impfungen schädlich und helfen nicht dabei, eine Pandemie zu bekämpfen. Das ist allerdings falsch, da Impfungen nachweislich dazu beitragen, Herdenimmunität zu erreichen und die Ausbreitung einer Pandemie zu beschränken.
-- Autoritätsargument: Das Autoritätsargument beruht auf den Aussagen von Experten und Expertinnen. Das können z. B. Einzelpersonen wie Wissenschaftler/-innen oder Institutionen wie die Weltgesundheitsorganisation (WHO) sein. Dieser Argumenttyp ist wegen des Expertenwissens besonders überzeugend.
-- Analogieargument: Das analogisierende Argument basiert auf einem Vergleich mit einer Sache, die dem Diskussionsthema ähnelt, z. B. der Vergleich einer Pandemie mit einem Waldbrand. Andere Personen können die aufgestellte Behauptung so besser verstehen. Beispiel: analogisierendes Argument Eine Pandemie ist wie ein Waldbrand: Es muss schnell gehandelt werden, um die Ausbreitung des Virus einzudämmen. Anderenfalls gerät das Virus wie das Feuer bei einem Waldbrand außer Kontrolle.
-- Normatives Argument: Das normative Argument zeichnet sich durch Normen und Werte aus, die in einer Gesellschaft vorherrschen. Dieser Argumenttyp hat daher schon eine gewisse Akzeptanz, wenn die Normen und Werte von mehreren Menschen geteilt werden.
-- Argumentum ad populum: Beim Argumentum ad populum (= Beweisrede für das Volk) wird darauf hingewiesen, dass eine Mehrheit, z. B. in der Gesellschaft, die gleiche Meinung teilt. Der Verweis auf eine überwiegende Mehrheit dient dazu, eine Behauptung als besonders überzeugend darzustellen.  Beispiel: Argumentum ad populum Die breite Mehrheit der Bevölkerung ist für Impfungen. Es sollte daher im Interesse aller gehandelt werden.
+- **Argument** ist eine logisch verbundene Struktur aus Aussagen, enthaltend einer oder mehreren Prämissen, die darauf abzielt, die Glaubwürdigkeit der Konklusion zu erhöhen oder eine vollständige Überzeugung beim Zuhörer/Leser in der Wahrheit der Konklusion zu erreichen. 
+- **Prämissen** sind Behauptungen, die im Kontext des Arguments als wahr angenommen werden. Sie können faktische Behauptungen, Werturteile, theoretische Annahmen oder Konklusionen früherer Argumente sein. Prämissen bilden die Grundlage der logischen Struktur des Arguments.  Prämissen können explizit *(direkt in dem Text erwähnt)* sein oder implizint *(benutzt ohne Erwähnung)*.
+- **Deduktion** ist ein Prozess, bei dem die Konklusion allein durch logische Schlussfolgerungen aus Prämissen abgeleitet wird.
+- **Induktion** ist ein Prozess, bei dem allgemeine Konklusion aus spezifischen Beobachtungen gezogen werd.
+- **Deduktives Argument** zieht darauf ab durch Deduktion die Konklusion aus Prämissen abzuleiten. Ein **gültiges deduktives Argument** garantiert dass die Konklusion wahr ist wenn Prämissen wahr sind. Wenn ein deduktives Argument die logische Notwendigkeit der Schlussfolgerung aus den Prämissen nicht gewährleistet, wird es als **ungültiges deduktives Argument** bezeichnet.
+- **Induktives Argument** leitet Konklusion durch Induktion ab. eine induktives Argument garantiert nicht dass die Konklusion wahr ist wenn die Prämissen wahr sind, er macht es nur wahrscheinlich. 
+- **Facktenargument** nutzt ein oder mehreren Fakten als Prämissen um den Leser in Wahrheit der Konklusion zu überzeugen oder die Glaubwürdigkeit von Konklusion zu erhöhen.
+- **Indirektesargument** zielt darauf ab, eine Aussage zu stützen, indem es die gegenteilige Aussage widerlegt. Diese Form des Arguments basiert auf der Logik, dass, wenn das Gegenteil einer Aussage zu einem logischen Widerspruch oder einer unannehmbaren Schlussfolgerung führt, die ursprüngliche Aussage als wahr angenommen werden muss.
+- **Autoritätsargument** stützt die Konklusion durch eine Ausage einer Autorität. Es beruht auf der *(oft impliziter)* Prämisse, dass es unwahrscheinlich ist, dass die Autorität falsch liegt.
+- **Analogieargument** ist eine Argumentationsform, bei der die Ähnlichkeit zwischen zwei oder mehreren Situationen/Dingen herangezogen wird, um eine Konklusion zu unterstützen. Er basiert auf einer *(oft impliziter)* Prämisse, dass wenn zwei Dinge in bestimmten Situationen in manchen Aspekten ähnlich sind, sie wahrscheinlich auch in anderen Aspekten ähnlich sind.
+- **Normatives Argument** nutzt ein oder mehreren Normen als Prämissen um den Leser in Wahrheit der Konklusion zu überzeugen oder die Glaubwürdigkeit von Konklusion zu erhöhen.
+- Argumentum ad populum ist eine Argumentationsform, die die Gültigkeit der Konklusion unterstützt, durch die Annahme dass, dass viele oder die Mehrheit der Menschen diese als wahr betrachten. Er basiert auf einer *(oft impliziter)* Prämisse, dass es unwahrscheinlich ist, dass die eine große Gruppe von Menschen falsch liegt.
