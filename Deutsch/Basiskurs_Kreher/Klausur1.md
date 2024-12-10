@@ -27,22 +27,26 @@
   - Beispiel: Alle nutzen dieses Produkt, also muss es gut sein.
 - **These** ist eine Behauptung oder Stellungnahme, die ein Autor in einem Text aufstellt und durch Argumente stützt. Sie dient als  Idee oder Kernaussage , um die herum der Text oder Textabschnitt aufgebaut wird.
 
-# Struktur von textgebundenen Erörterung
+# Struktur einer textgebundenen Erörterung
+
 ### Einleitung
-- Textart, Autor/in, Ort und Zeitpunkt der Veröffentlichung, Thema oder Leitfrage
-- Kurz in die Problemstellung einführen, Interesse des Lesers wecken
-  - beispielhafte Situation
-  - Bezugnahme auf ein aktuelles Geschehen
-  - Zitieren einer prägnanten eines Sprichworts
-  - Erfahrung
-  - Beobachtungen, Entwicklungen, Trends
+- Angabe der Textart, des Autors/der Autorin, des Orts und des Zeitpunkts der Veröffentlichung sowie des Themas oder der Leitfrage.
+- Kurze Einführung in die Problemstellung, um das Interesse der Leser zu wecken:
+  - Darstellung einer beispielhaften Situation.
+  - Bezugnahme auf ein aktuelles Geschehen.
+  - Zitat eines prägnanten Sprichworts.
+  - Persönliche Erfahrungen.
+  - Beobachtungen, Entwicklungen und Trends.
+
 ### Hauptteil
-- den Text in Sinnabschnitten wiedergeben mit Zahlenangaben.
-- Analyse der Argumentation,sehr kurz Sprachliche.
-- Erörterung: Aufgeworfenen Thema eine klar strukturierte Stellungnahme abgeben
+- Wiedergabe des Textes in Sinnabschnitten mit Angabe der Zeilennummern.
+- Analyse der Argumentation, einschließlich einer kurzen Betrachtung sprachlicher Aspekte.
+- Erörterung: Abgabe einer klar strukturierten Stellungnahme zum aufgeworfenen Thema.
+
 ### Schluss
-- Knapp Ergebnisse des Hauptteils zusammenfassen, eigene Meinung klar wiedergeben
-- Ausblick auf die Zukunft/ aufruft an den Leser/ Lösungsvorschlag
+- Knappes Zusammenfassen der Ergebnisse des Hauptteils und klare Wiedergabe der eigenen Meinung.
+- Ausblick auf die Zukunft, Aufruf an die Leser oder Vorschlag einer Lösung.
+
 
 # Formulierungsbausteine
 ### Argumentation Struktur beschreiben
