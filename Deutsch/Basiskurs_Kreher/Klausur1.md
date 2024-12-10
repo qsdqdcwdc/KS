@@ -70,3 +70,18 @@
 | Bedingung             | wenn, falls                                        |
 | Gegensatz             | obgleich, obwohl, obzwar, ungeachtet, aber, jedoch, wohingegen, dagegen |
 | Finale                | damit, (auf) dass                                  |
+
+
+### Zitat
+„...Als der Esel mit dem Löwen des Aesopus [...] nach dem Walde ging [...].‟(Z. 24-25)
+
+
+### Textstil Beschreiben
+| Stilart         | Beschreibung                                                                                               | Beispiele                                                                       |
+|-----------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Dichterisch** | Sehr gewählte, bisweilen feierlich wirkende, oft bildhafte Ausdrucksweise                                   | Odem (für Atem), Lenz (für Frühling), Himmelsleuchten (für Sterne)              |
+| **Gehoben**     | Gepflegt wirkende, in Alltagsgesprächen oft überheblich klingende, in anspruchsvollen Textsorten verwendete | wandeln (für spazieren gehen), etwas verhehlen (etwas verschweigen)             |
+| **Normalsprachlich** | Allgemein verwendete Ausdrucksweise, die in den meisten Kommunikationssituationen am wenigsten auffällt      | behaupten, Ergebnis, Beispiel                                                   |
+| **Umgangssprachlich** | Locker wirkende, in Alltagsgesprächen verwendete Ausdrucksweise, die jedoch in offiziellen Situationen unangemessen wirkt | messen (für kritisieren), am Streiten sein (statt: sich mit anderen auseinandersetzen), es geregelt kriegen (statt: etwas bewältigen) |
+| **Derb/vulgär** | Drastische und grob wirkende Ausdrucksweise, die von vielen Gesprächspartnern für unangemessen gehalten wird | Fresse (für Gesicht)                                                            |
+
