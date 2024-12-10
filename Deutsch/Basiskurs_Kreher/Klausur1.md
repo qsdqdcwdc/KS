@@ -24,8 +24,13 @@
 
 # Struktur von textgebundenen Erörterung
 ### Einleitung
-- Basissatz: Autor/in, Titel, Textsorte, Thema und evtl. das Erscheinungsjahr
+- Textart, Autor/in, Ort und Zeitpunkt der Veröffentlichung, Thema oder Leitfrage
 - Kurz in die Problemstellung einführen, Interesse des Lesers wecken
+  - beispielhafte Situation
+  - Bezugnahme auf ein aktuelles Geschehen
+  - Zitieren einer prägnanten eines Sprichworts
+  - Erfahrung
+  - Beobachtungen, Entwicklungen, Trends
 ### Hauptteil
 - den Text in Sinnabschnitten wiedergeben mit Zahlenangaben.
 - Analyse der Argumentation,sehr kurz Sprachliche.
@@ -49,7 +54,20 @@
 - Die Gedanken werden in Form umfangreicher Hypotaxen entwickelt. Das bewirkt ...
 - Im Text wechseln sich parataktische und hypotaktische Satzkonstruktionen ab. Das bewirkt beim Lesen...
 
-### Übergänge
+### Behauptungen
+- Man kann davon ausgehen...
+- Weiterhin ist zu beachten...
+- Außerdem ist festzustellen...
+- Bedenkenswert ist auch...
+- Allerdings sollte man auch sehen...
+- Auch wenn man bedenken muss, ist doch...
+
+### Beispiele
+- Ein treffendes Beispiel dafür ist ...
+- Dies wird besonders deutlich in ...
+- Ein Beispiel hierfür findet sich in Zeile ..., wo es heißt: „…“.
+
+### Übergänge zwischen Sätzen
 - Ich bin der Überzeugung, dass ... → These
 - Unumstritten ist eine solche Position nicht ... → Gegenargument
 - Allerdings muss man auch hier fragen, ... → Entkräftung
@@ -61,6 +79,31 @@
 - Bleibt noch der Einwand, dass ... → letztes Gegenargument
 - Abschließend komme ich zu dem Ergebnis, dass ... → Fazit
 
+### Eigene Meinung
+- Meiner Meinung nach überwiegen die Argumente für/gegen [Thema], da …
+- Aus meiner Sicht ist es wichtig, dass …
+- Ich persönlich bin der Ansicht, dass …
+
+### Appell an den Leser
+– Jeder Einzelne sollte sich fragen, welchen Beitrag er/sie leisten kann, um [Thema] zu verbessern.
+- Es liegt in der Verantwortung aller, die notwendigen Schritte zu unternehmen, damit [Thema] besser gelöst wird.
+- Ich appelliere an alle, [Handlungsvorschlag].
+- Daher bleibt nur zu sagen: Handeln Sie jetzt, bevor es zu spät ist.
+
+### Lösungsvorschlag
+- Eine mögliche Lösung könnte sein, dass …
+- Um [Thema] zu verbessern, könnten Maßnahmen wie [Beispiele] ergriffen werden.
+- Ein Ansatz zur Lösung des Problems wäre, [Vorschlag].
+
+### Zusammenfassung der Ergebnisse
+- Abschließend lässt sich festhalten, dass …
+- Zusammenfassend zeigt sich, dass die Argumente für/gegen [Thema] überzeugen, da …
+- Die Analyse hat verdeutlicht, dass …
+
+
+### Zitat
+„...Als der Esel mit dem Löwen des Aesopus [...] nach dem Walde ging [...].‟(Z. 24-25)
+
 ### Übergänge Satzteil zu Satzteil
 | Kategorie             | -                                      |
 |-----------------------|----------------------------------------------------|
@@ -70,11 +113,6 @@
 | Bedingung             | wenn, falls                                        |
 | Gegensatz             | obgleich, obwohl, obzwar, ungeachtet, aber, jedoch, wohingegen, dagegen |
 | Finale                | damit, (auf) dass                                  |
-
-
-### Zitat
-„...Als der Esel mit dem Löwen des Aesopus [...] nach dem Walde ging [...].‟(Z. 24-25)
-
 
 ### Textstil Beschreiben
 | Stilart         | Beschreibung                                                                                               | Beispiele                                                                       |
