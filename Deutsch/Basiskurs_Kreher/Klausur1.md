@@ -24,7 +24,6 @@
 
 
 # Formulierungsbausteine
-
 ### Argumentation Struktur beschreiben
 - Seine Position entwickelt der Autor Schritt für Schritt/teilt der Autor einleitend sofort mit. Gegenpositionen werden ausführlich/gar nicht/(nur) in Ansätzen vorgestellt/referiert/zur Sprache gebracht/mitgeteilt.
 – Die Argumentation erscheint zunächst nicht eindeutig zu sein/von vornherein klar/zielgerichtet.
@@ -50,3 +49,15 @@
 - Dennoch findet sich der Umstand, dass ... → Beispiel zur Entkräftung
 - Bleibt noch der Einwand, dass ... → letztes Gegenargument
 - Abschließend komme ich zu dem Ergebnis, dass ... → Fazit
+
+# Struktur
+### Einleitung
+- Basissatz: Autor/in, Titel, Textsorte, Thema und evtl. das Erscheinungsjahr
+- Kurz in die Problemstellung einführen, Interesse des Lesers wecken
+### Hauptteil
+- den Text in Sinnabschnitten wiedergeben mit Zahlenangaben.
+- Analyse der Argumentation, Sprachliche Mittel.
+- Erörterung: Aufgeworfenen Thema eine klar strukturierte Stellungnahme abgeben
+### Schluss
+- Knapp Ergebnisse des Hauptteils zusammenfassen, eigene Meinung klar wiedergeben
+- Ausblick auf die Zukunft/ aufruft an den Leser/ Lösungsvorschlag
