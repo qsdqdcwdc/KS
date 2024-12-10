@@ -30,8 +30,8 @@
 # Struktur einer textgebundenen Erörterung
 
 ### Einleitung
-- Angabe der Textart, des Autors/der Autorin, des Orts und des Zeitpunkts der Veröffentlichung sowie des Themas oder der Leitfrage.
-- Kurze Einführung in die Problemstellung, um das Interesse der Leser zu wecken:
+- Textart, Autors/in, Orts und Zeitpunkts Veröffentlichung sowie Themas oder Leitfrage.
+- Kurze Einführung in die Problemstellung, um das Interesse Leser zu wecken:
   - Darstellung einer beispielhaften Situation.
   - Bezugnahme auf ein aktuelles Geschehen.
   - Zitat eines prägnanten Sprichworts.
