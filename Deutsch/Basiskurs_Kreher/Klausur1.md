@@ -39,7 +39,7 @@
 - Die Gedanken werden in Form umfangreicher Hypotaxen entwickelt. Das bewirkt ...
 - Im Text wechseln sich parataktische und hypotaktische Satzkonstruktionen ab. Das bewirkt beim Lesen...
 
-### Übergänge zwischen Argumenten
+### Übergänge
 - Ich bin der Überzeugung, dass ... → These
 - Unumstritten ist eine solche Position nicht ... → Gegenargument
 - Allerdings muss man auch hier fragen, ... → Entkräftung
