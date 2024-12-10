@@ -60,3 +60,13 @@
 - Dennoch findet sich der Umstand, dass ... → Beispiel zur Entkräftung
 - Bleibt noch der Einwand, dass ... → letztes Gegenargument
 - Abschließend komme ich zu dem Ergebnis, dass ... → Fazit
+
+### Übergänge Satzteil zu Satzteil
+| Kategorie             | -                                      |
+|-----------------------|----------------------------------------------------|
+| Ergänzung             | außerdem, ferner, darüber hinaus, schließlich      |
+| Erklärung             | weil, da, denn, deshalb                            |
+| Folge/Schlussfolgerung | sodass (auch: so dass), folglich, infolgedessen   |
+| Bedingung             | wenn, falls                                        |
+| Gegensatz             | obgleich, obwohl, obzwar, ungeachtet, aber, jedoch, wohingegen, dagegen |
+| Finale                | damit, (auf) dass                                  |
