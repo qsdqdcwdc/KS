@@ -38,3 +38,15 @@
 - Der Autor nutzt sprachliche Besonderheiten wie Redensarten und Sprichwörter, um ...
 - Die Gedanken werden in Form umfangreicher Hypotaxen entwickelt. Das bewirkt ...
 - Im Text wechseln sich parataktische und hypotaktische Satzkonstruktionen ab. Das bewirkt beim Lesen...
+
+### Übergänge zwischen Argumenten
+- Ich bin der Überzeugung, dass ... → These
+- Unumstritten ist eine solche Position nicht ... → Gegenargument
+- Allerdings muss man auch hier fragen, ... → Entkräftung
+- Ich stütze mich hier auf die Tatsache, dass ... → Faktenargument
+- Einwenden könnte auch, dass ... → weiteres Gegenargument
+- Dem steht jedoch gegenüber ... → Entkräftung
+- Allerdings sollte auch bedacht werden, dass ... → Gegenbeispiel/Gegenbeleg
+- Dennoch findet sich der Umstand, dass ... → Beispiel zur Entkräftung
+- Bleibt noch der Einwand, dass ... → letztes Gegenargument
+- Abschließend komme ich zu dem Ergebnis, dass ... → Fazit
