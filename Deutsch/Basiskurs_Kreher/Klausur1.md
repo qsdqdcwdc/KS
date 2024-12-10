@@ -25,7 +25,7 @@
 
 # Formulierungsbausteine
 
-### Argumentation Struktur
+### Argumentation Struktur beschreiben
 - Seine Position entwickelt der Autor Schritt für Schritt/teilt der Autor einleitend sofort mit. Gegenpositionen werden ausführlich/gar nicht/(nur) in Ansätzen vorgestellt/referiert/zur Sprache gebracht/mitgeteilt.
 – Die Argumentation erscheint zunächst nicht eindeutig zu sein/von vornherein klar/zielgerichtet.
 - Der Text enthält/umfasst hauptsächlich/viele/kaum thetische Aussagen/behauptende Sätze.
