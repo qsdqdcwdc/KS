@@ -1,3 +1,8 @@
+# Inhalt
+- [Argumenttypen](#argumenttypen)
+- [Struktur von textgebundenen Erörterung](#struktur-von-textgebundenen-erörterung)
+- [Formulierungsbausteine](#formulierungsbausteine)
+
 # Argumenttypen
 - **Fakt** ist eine Aussage, die sich auf reale Ereignisse stützt und als wahr betrachtet wird.
 - **Wissenschaftlicher Fakt** ist eine durch wiederholbare Messungen, Beobachtungen oder Experimente verifizierte Aussage.
@@ -122,4 +127,23 @@
 | **Normalsprachlich** | Allgemein verwendete Ausdrucksweise, die in den meisten Kommunikationssituationen am wenigsten auffällt      | behaupten, Ergebnis, Beispiel                                                   |
 | **Umgangssprachlich** | Locker wirkende, in Alltagsgesprächen verwendete Ausdrucksweise, die jedoch in offiziellen Situationen unangemessen wirkt | messen (für kritisieren), am Streiten sein (statt: sich mit anderen auseinandersetzen), es geregelt kriegen (statt: etwas bewältigen) |
 | **Derb/vulgär** | Drastische und grob wirkende Ausdrucksweise, die von vielen Gesprächspartnern für unangemessen gehalten wird | Fresse (für Gesicht)                                                            |
+
+
+###  Synonyme
+
+| Aktion           | Synonyme                                     |
+|------------------|------------------------------------------------------------------------------|
+| **Sagen**       | weist darauf hin, stellt fest, erklärt, meint/vertritt die Meinung, behauptet, vertritt die These, argumentiert, beschreibt, erzählt, klagt, ergänzt |
+| **Behaupten**    | die These aufstellen, die Meinung vertreten, überzeugt sein von, die Aussage treffen |
+| **Belegen**      | als Beispiel anführen, als Quelle nennen, zitieren, sich berufen auf         |
+| **Begründen**    | argumentieren, Als Ursache / Grund nennen, verantwortlich machen für        |
+| **Veranschaulichen** | verdeutlichen, bildhaft machen, deutlich machen                             |
+| **Verknüpfungen herstellen** | verbinden, auflisten, aufzählen, hinzufügen, sich beziehen auf, Parallelen ziehen zu |
+| **Negativ bewerten** | bedauern, kritisieren, anzweifeln, einwenden, abwerten, ablehnen, widersprechen, Vorbehalt äußern |
+| **Appellieren**  | anregen, anreizen, vorschlagen, auffordern, aufrufen zu                      |
+| **Positiv bewerten** | übereinstimmen mit, zustimmen, behagen, begrüßen, gut heißen, befürworten, gleicher Ansicht sein |
+| **Benennen**     | anführen, definieren, erklären, feststellen, bezeichnen                      |
+| **Lenken**       | beeinflussen, manipulieren, den Eindruck erwecken, beschönigen, überdecken, ablenken von, unterschlagen, vortäuschen, verschleiern |
+
+
 
