@@ -28,7 +28,7 @@
 - Kurz in die Problemstellung einführen, Interesse des Lesers wecken
 ### Hauptteil
 - den Text in Sinnabschnitten wiedergeben mit Zahlenangaben.
-- Analyse der Argumentation, Sprachliche Mittel.
+- Analyse der Argumentation,sehr kurz Sprachliche.
 - Erörterung: Aufgeworfenen Thema eine klar strukturierte Stellungnahme abgeben
 ### Schluss
 - Knapp Ergebnisse des Hauptteils zusammenfassen, eigene Meinung klar wiedergeben
