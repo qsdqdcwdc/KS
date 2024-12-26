@@ -53,3 +53,20 @@
 - **Flucht**: Umzug von Personen, die vor Krieg, Verfolgung oder Naturkatastrophen fliehen.
 - **Freiwillige Migration**: Umzug, der aus eigenem Antrieb erfolgt, ohne Zwang von außen.
 
+# Entwicklungstheorien
+[Viedo: Dependenztheorie vs Modernisierungstheorie](https://www.youtube.com/watch?v=WMm1qywtpSw)
+
+### Endogene Ursachen
+Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb einer Gesellschaft liegende Faktoren, die ihren Entwicklungsprozess beeinflussen. Diese Faktoren umfassen kulturelle Normen, Bildungsniveaus, institutionelle Strukturen wie Regierungssysteme und Rechtsordnungen, sowie soziale Dynamiken und Beziehungen innerhalb der Gesellschaft. Die Theorie, die sich auf endogene Ursachen stützt, geht davon aus, dass eine Gesellschaft die Fähigkeit zur Selbstentwicklung besitzt und ihre Fortschritte hauptsächlich durch interne Veränderungen und Anpassungen vorangetrieben werden.
+
+### Exogene Ursachen
+Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrieren, externe Einflüsse als entscheidende Triebkräfte für die Entwicklung einer Gesellschaft. Diese Einflüsse können internationale Beziehungen, geopolitische Faktoren, Kolonialgeschichte und die Einbettung in das globale Wirtschaftssystem umfassen. Solche Theorien betonen, wie externe Bedingungen, wie ungleiche Handelsbeziehungen oder die historische Ausbeutung durch koloniale Mächte, die Entwicklungschancen und Strukturen eines Landes prägen.
+
+### Modernisierungstheorie
+Die Modernisierungstheorie geht davon aus, dass die Entwicklung von Gesellschaften einem linearen Prozess folgt, der durch verschiedene Stadien der Modernisierung gekennzeichnet ist. Diese Theorie betont den Wandel von traditionellen Gesellschaften zu modernen Gesellschaften durch den Einfluss von Industrialisierung, Urbanisierung, Bildung und technologischem Fortschritt. Dabei wird angenommen, dass Modernisierung zu wirtschaftlichem Wachstum, sozialem Fortschritt und politischer Stabilität führt.
+
+### Dependenztheorie
+Im Gegensatz zur Modernisierungstheorie betont die Dependenztheorie die ungleiche Beziehung zwischen entwickelten und unterentwickelten Ländern. Sie argumentiert, dass die Entwicklung der einen Gruppe oft auf der Unterentwicklung der anderen beruht. Abhängigkeit entsteht durch ungleiche Handelsbeziehungen, kapitalistische Ausbeutung und geopolitische Einflüsse. Die Dependenztheorie kritisiert die Idee, dass Entwicklung ein universeller Prozess ist, und argumentiert, dass die globale Ungleichheit durch systemische Ungerechtigkeiten aufrechterhalten wird.
+
+### Fragmentierungstheorie
+Die Fragmentierungstheorie betrachtet Entwicklung als einen komplexen Prozess, der nicht notwendigerweise zu einer einheitlichen Modernisierung führt. Diese Theorie argumentiert, dass die Entwicklung oft von sozialen, politischen und ökonomischen Fragmentierungen begleitet ist. Gesellschaften können verschiedene Entwicklungswege einschlagen, die zu unterschiedlichen Formen der Fragmentierung führen können, sei es in Bezug auf Ethnizität, Klasse oder andere soziale Unterschiede
