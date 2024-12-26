@@ -20,6 +20,7 @@
   - Unterernährung bei Kindern. (1/6)
   - Wachstumsverzögerung bei Kindern. (1/6)
 - Der **Global Gender Gap Index** (GGI), entwickelt vom World Economic Forum (WEF) im Jahr 2006, quantifiziert Geschlechterdisparitäten in den Bereichen Gesundheit, Bildung, Wirtschaftsbeteiligung und politische Ermächtigung.
+- Analphabetenrate
 
 # Disparitäre Entwicklung
 ### Endogene Ursachen (von innen wirkend)
