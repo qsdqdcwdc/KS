@@ -12,3 +12,4 @@
 # Indizes
 
 - Das **Bruttoinlandsprodukt** (BIP) ist der Wert aller Endprodukte und Dienstleistungen, die innerhalb eines Landes in einem Jahr produziert werden. Ein Endprodukt ist ein Produkt der später nicht als Teil von einem anderen Produkt verkauft wird. [Video](https://www.youtube.com/watch?v=Wy4TGV-tPd8)
+- Der **Human Development Index** (HDI) Die drei Dimensionen umfassen Lebenserwartung bei Geburt, mittlere Schuljahre von Erwachsenen und erwartete Schuljahre für Kinder sowie das Bruttonationaleinkommen pro Kopf. Die Indizes für diese Dimensionen werden geometrisch gemittelt, um den HDI zu bilden. Der HDI wird jährlich im Human Development Report des United Nations Development Programme (UNDP) veröffentlicht. [Video](https://www.youtube.com/watch?v=UIARB24wAnw)
