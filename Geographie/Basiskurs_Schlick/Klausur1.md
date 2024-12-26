@@ -12,4 +12,44 @@
 # Indizes
 
 - Das **Bruttoinlandsprodukt** (BIP) ist der Wert aller Endprodukte und Dienstleistungen, die innerhalb eines Landes in einem Jahr produziert werden. Ein Endprodukt ist ein Produkt der später nicht als Teil von einem anderen Produkt verkauft wird. [Video](https://www.youtube.com/watch?v=Wy4TGV-tPd8)
+- Das **Bruttonationaleinkommen** (BNE) ist eine wirtschaftliche Kennzahl, die die Gesamtwerte aller von Inländern eines Staates erwirtschafteten Einkommen über ein Jahr hinweg misst, unabhängig davon, ob diese im Inland oder Ausland erzielt wurden.
 - Der **Human Development Index** (HDI) Die drei Dimensionen umfassen Lebenserwartung bei Geburt, mittlere Schuljahre von Erwachsenen und erwartete Schuljahre für Kinder sowie das Bruttonationaleinkommen pro Kopf. Die Indizes für diese Dimensionen werden geometrisch gemittelt, um den HDI zu bilden. Der HDI wird jährlich im Human Development Report des United Nations Development Programme (UNDP) veröffentlicht. [Video](https://www.youtube.com/watch?v=UIARB24wAnw)
+- Der **Global Hunger Index** (GHI) zielt darauf ab, das Ausmaß des Hungers auf regionaler, nationaler und weltweite Ebene zu messen. Der GHI kombiniert vier Komponentenindikatoren zur Bewertung des Hungers:
+  - Unterernährung der gesamten Bevölkerung. Dies macht ein Drittel des Index aus (1/3).
+  - Kindersterblichkeit (unter 5 Jahren). (1/3) 
+  - Unterernährung bei Kindern. (1/6)
+  - Wachstumsverzögerung bei Kindern. (1/6)
+- Der **Global Gender Gap Index** (GGI), entwickelt vom World Economic Forum (WEF) im Jahr 2006, quantifiziert Geschlechterdisparitäten in den Bereichen Gesundheit, Bildung, Wirtschaftsbeteiligung und politische Ermächtigung.
+
+# Disparitäre Entwicklung
+### Endogene Ursachen (von innen wirkend)
+- **Ungünstige natürliche Gegebenheiten:**
+  - Ressourcenmangel
+  - Nachteilige Bodenbeschaffenheit
+  - Klimatische Bedingungen
+- **Hohe Bevölkerungswachstum**
+- **Unzureichende Sachinvestitionen** durch Kapitalmangel
+- **Autoritäre und korrupte staatliche Systeme**
+- **Konflikte:** Bürgerkriege
+- **Traditionsorientierte Strukturen:**
+  - Starker Religionsbezug
+  - Benachteiligung von Frauen
+### Exogene Ursachen (von außen wirkend):
+- **Folgen des Kolonialismus:**
+  - Wirtschaftliche und kulturelle Abhängigkeiten zu den ehemaligen Mutterländern
+  - Mangelhaftes Know-how beim Aufbau von staatlichen Strukturen
+- **Selektion auf dem Weltmarkt:**
+  - Benachteiligung
+  - Einseitige Exportstrukturen
+
+# Migration
+- **Migranten**: Personen, die ihren Wohnsitz innerhalb eines Landes oder über Ländergrenzen hinweg verlegen.
+- **Binnenmigranten**: Menschen, die innerhalb der Grenzen ihres eigenen Landes umziehen.
+- **Arbeitsmigration**: Umzug von Personen auf der Suche nach besserer Arbeit.
+- **Bildungsmigration**: Umzug von Personen mit dem Ziel, durch Ausbildung bessere Zukunftschancen zu erlangen.
+- **Emigrant**: Eine Person, die aus einem Land auswandert.
+- **Immigrant**: Eine Person, die in ein anderes Land einwandert.
+- **Erzwungene Migration**: Umzug, der durch existenzbedrohende Ereignisse oder Verfolgung erzwungen wird.
+- **Flucht**: Umzug von Personen, die vor Krieg, Verfolgung oder Naturkatastrophen fliehen.
+- **Freiwillige Migration**: Umzug, der aus eigenem Antrieb erfolgt, ohne Zwang von außen.
+
