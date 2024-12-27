@@ -19,8 +19,9 @@
   - Kindersterblichkeit (unter 5 Jahren). (1/3) 
   - Unterernährung bei Kindern. (1/6)
   - Wachstumsverzögerung bei Kindern. (1/6)
-- Der **Global Gender Gap Index** (GGI), entwickelt vom World Economic Forum (WEF) im Jahr 2006, quantifiziert Geschlechterdisparitäten in den Bereichen Gesundheit, Bildung, Wirtschaftsbeteiligung und politische Ermächtigung.
+- Der **Global Gender Gap Index** (GGI), entwickelt vom World Economic Forum (WEF), quantifiziert Geschlechterdisparitäten in den Bereichen Gesundheit, Bildung, Wirtschaftsbeteiligung und politische Ermächtigung.
 - Analphabetenrate
+- Lebenserwartung
 
 # Disparitäre Entwicklung
 ### Endogene Ursachen (von innen wirkend)
