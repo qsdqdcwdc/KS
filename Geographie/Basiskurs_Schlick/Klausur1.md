@@ -7,7 +7,7 @@
 - **Pedosphäre** umfasst Bodenschicht der Erde, entstanden durch Verwitterung und chemische Umwandlung von Gestein sowie Zersetzung organischer Reste. Sie setzt sich zusammen aus mineralischen Partikeln (Sand, Schluff, Ton), organischer Substanz (Humus), Luft und Wasser.
 - **Lithosphäre** ist die äußerste, starre Schicht der Erde, bestehend aus einer fester Gesteinsschale.
 - **Biosphäre** umfasst die Gesamtheit der Leben auf der Erde.
-- **Anthroposphäre** umfasst alle vom Menschen geschaffenen und signifikant beeinflussten Bereiche der Erde.
+-  **Anthroposphäre** umfasst alle vom Menschen geschaffenen und signifikant beeinflussten Bereiche der Erde.
 
 # Indizes
 
