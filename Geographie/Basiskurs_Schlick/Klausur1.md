@@ -14,8 +14,8 @@
 ### Human Development Index
 $${\color{lightgreen}Wichtig!}$$ Der **Human Development Index** (HDI) ist ein zusammengesetzter Indikator, der drei Kernbereiche menschlicher Entwicklung abbildet:
   - Lebenserwartung bei Geburt
-  - Bildungsniveau: gemessen anhand durchschnittlicher und erwarteter Schuljahre
-  - Bruttonationaleinkommen pro Kopf
+  - Bildung: gemessen anhand durchschnittlicher und erwarteter Schuljahre
+  - Bruttonationaleinkommen pro Kopf in USD.
 
 Die Indizes dieser Bereiche werden gemittelt und auf einer Skala von 0 (niedrigstes Entwicklungsniveau) bis 1 (höchstes Entwicklungsniveau) abgebildet. Der HDI wird jährlich im Human Development Report des United Nations Development Programme (UNDP) veröffentlicht. Deutschland hat HDI von 0,94(2024). [Video](https://www.youtube.com/watch?v=UIARB24wAnw)
 
