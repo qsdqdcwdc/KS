@@ -49,7 +49,7 @@
 ### Erste, Zweite und Dritte Welt
 Die Einteilung der Welt in „Erste“, „Zweite“ und „Dritte Welt“ stammt aus der Zeit des Kalten Krieges und wird heute als überholt betrachtet:
 
-– Erste Welt:  kapitalistisch-marktwirtschaftlich orientierte Industrieländer (z. B. USA, Länder der Westeuropa),
+- Erste Welt:  kapitalistisch-marktwirtschaftlich orientierte Industrieländer (z. B. USA, Länder der Westeuropa),
 - Zweite Welt: Sozialistische Staaten mit zentraler Planwirtschaft, (z. B. Sowjetunion, Länder der Osteuropa).
 - Dritte Welt: Boft nicht-aligned (blockfreie) Länder mit niedrigem Entwicklungsstand und häufig kolonialer Vergangenheit.
 
