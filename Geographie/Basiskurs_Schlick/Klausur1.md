@@ -13,7 +13,7 @@
 
 - Das **Bruttoinlandsprodukt** (BIP) ist der Wert aller Endprodukte und Dienstleistungen, die innerhalb eines Landes in einem Jahr produziert werden. Ein Endprodukt ist ein Produkt der später nicht als Teil von einem anderen Produkt verkauft wird. [Video](https://www.youtube.com/watch?v=Wy4TGV-tPd8)
 - Das **Bruttonationaleinkommen** (BNE) ist eine wirtschaftliche Kennzahl, die die Gesamtwerte aller von Inländern eines Staates erwirtschafteten Einkommen über ein Jahr hinweg misst, unabhängig davon, ob diese im Inland oder Ausland erzielt wurden. [Video](https://studyflix.de/wirtschaft/bruttonationaleinkommen-bne-1422/video)
-- Der **Human Development Index** (HDI) Die drei Dimensionen umfassen Lebenserwartung bei Geburt, mittlere Schuljahre von Erwachsenen und erwartete Schuljahre für Kinder sowie das Bruttonationaleinkommen pro Kopf. Die Indizes für diese Dimensionen werden geometrisch gemittelt, um den HDI zu bilden. Der HDI wird jährlich im Human Development Report des United Nations Development Programme (UNDP) veröffentlicht. [Video](https://www.youtube.com/watch?v=UIARB24wAnw)
+- $${\color{red}Wichtig!}$$ Der **Human Development Index** (HDI) Die drei Dimensionen umfassen Lebenserwartung bei Geburt, mittlere Schuljahre von Erwachsenen und erwartete Schuljahre für Kinder sowie das Bruttonationaleinkommen pro Kopf. Die Indizes für diese Dimensionen werden geometrisch gemittelt, um den HDI zu bilden. Der HDI wird jährlich im Human Development Report des United Nations Development Programme (UNDP) veröffentlicht. [Video](https://www.youtube.com/watch?v=UIARB24wAnw)
 - Der **Global Hunger Index** (GHI) zielt darauf ab, das Ausmaß des Hungers auf regionaler, nationaler und weltweite Ebene zu messen. Der GHI kombiniert vier Komponentenindikatoren zur Bewertung des Hungers:
   - Unterernährung der gesamten Bevölkerung. Dies macht ein Drittel des Index aus (1/3).
   - Kindersterblichkeit (unter 5 Jahren). (1/3) 
@@ -56,7 +56,6 @@
 - **Freiwillige Migration**: Umzug, der aus eigenem Antrieb erfolgt, ohne Zwang von außen.
 
 # Entwicklungstheorien
-[Viedo: Dependenztheorie vs Modernisierungstheorie](https://www.youtube.com/watch?v=WMm1qywtpSw)
 
 ### Endogene Ursachen
 Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb einer Gesellschaft liegende Faktoren, die ihren Entwicklungsprozess beeinflussen. Diese Faktoren umfassen kulturelle Normen, Bildungsniveaus, institutionelle Strukturen wie Regierungssysteme und Rechtsordnungen, sowie soziale Dynamiken und Beziehungen innerhalb der Gesellschaft. Die Theorie, die sich auf endogene Ursachen stützt, geht davon aus, dass eine Gesellschaft die Fähigkeit zur Selbstentwicklung besitzt und ihre Fortschritte hauptsächlich durch interne Veränderungen und Anpassungen vorangetrieben werden.
@@ -64,6 +63,7 @@ Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb e
 ### Exogene Ursachen
 Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrieren, externe Einflüsse als entscheidende Triebkräfte für die Entwicklung einer Gesellschaft. Diese Einflüsse können internationale Beziehungen, geopolitische Faktoren, Kolonialgeschichte und die Einbettung in das globale Wirtschaftssystem umfassen. Solche Theorien betonen, wie externe Bedingungen, wie ungleiche Handelsbeziehungen oder die historische Ausbeutung durch koloniale Mächte, die Entwicklungschancen und Strukturen eines Landes prägen.
 
+[Viedo: Dependenztheorie vs Modernisierungstheorie](https://www.youtube.com/watch?v=WMm1qywtpSw)
 ### Modernisierungstheorie
 Die Modernisierungstheorie geht davon aus, dass die Entwicklung von Gesellschaften einem linearen Prozess folgt, der durch verschiedene Stadien der Modernisierung gekennzeichnet ist. Diese Theorie betont den Wandel von traditionellen Gesellschaften zu modernen Gesellschaften durch den Einfluss von Industrialisierung, Urbanisierung, Bildung und technologischem Fortschritt. Dabei wird angenommen, dass Modernisierung zu wirtschaftlichem Wachstum, sozialem Fortschritt und politischer Stabilität führt.
 
