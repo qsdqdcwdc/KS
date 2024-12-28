@@ -11,16 +11,27 @@
 
 # Indizes
 
-- Das **Bruttoinlandsprodukt** (BIP) ist der Wert aller Endprodukte und Dienstleistungen, die innerhalb eines Landes in einem Jahr produziert werden. Ein Endprodukt ist ein Produkt der später nicht als Teil von einem anderen Produkt verkauft wird. [Video](https://www.youtube.com/watch?v=Wy4TGV-tPd8)
-- Das **Bruttonationaleinkommen** (BNE) ist eine wirtschaftliche Kennzahl, die die Gesamtwerte aller von Inländern eines Staates erwirtschafteten Einkommen über ein Jahr hinweg misst, unabhängig davon, ob diese im Inland oder Ausland erzielt wurden. [Video](https://studyflix.de/wirtschaft/bruttonationaleinkommen-bne-1422/video)
-- $${\color{lightgreen}Wichtig!}$$ Der **Human Development Index** (HDI) Die drei Dimensionen umfassen Lebenserwartung bei Geburt, mittlere Schuljahre von Erwachsenen und erwartete Schuljahre für Kinder sowie das Bruttonationaleinkommen pro Kopf. Die Indizes für diese Dimensionen werden geometrisch gemittelt, um den HDI zu bilden. Der HDI wird jährlich im Human Development Report des United Nations Development Programme (UNDP) veröffentlicht. [Video](https://www.youtube.com/watch?v=UIARB24wAnw)
+### Human Development Index
+$${\color{lightgreen}Wichtig!}$$ Der **Human Development Index** (HDI) ist ein zusammengesetzter Indikator, der drei Kernbereiche menschlicher Entwicklung abbildet:
+  - Lebenserwartung bei Geburt
+  - Bildungsniveau: gemessen anhand durchschnittlicher und erwarteter Schuljahre
+  - Bruttonationaleinkommen pro Kopf
+
+Die Indizes dieser Bereiche werden gemittelt und auf einer Skala von 0 (niedrigstes Entwicklungsniveau) bis 1 (höchstes Entwicklungsniveau) abgebildet. Der HDI wird jährlich im Human Development Report des United Nations Development Programme (UNDP) veröffentlicht. Deutschland hat HDI von 0,94(2024). [Video](https://www.youtube.com/watch?v=UIARB24wAnw)
+
 - **Human Sustainable Development Index** (HSDI): fügt dem HDI mit den Treibhausgas-Emissionen/Kopf (in CO2-Äquivalenten) noch einen Indikator hinzu, der die ökologische Nachhaltigkeit des jeweiligen Entwicklungspfades messbar machen soll. ```(ein unglaublich wichtiger globaler Indikator, für den es nicht einmal eine englische Wikipedia-Seite gibt)```
+
 - Der **Global Hunger Index** (GHI) zielt darauf ab, das Ausmaß des Hungers auf regionaler, nationaler und weltweite Ebene zu messen. Der GHI kombiniert vier Komponentenindikatoren zur Bewertung des Hungers:
   - Unterernährung der gesamten Bevölkerung. Dies macht ein Drittel des Index aus (1/3).
   - Kindersterblichkeit (unter 5 Jahren). (1/3) 
   - Unterernährung bei Kindern. (1/6)
   - Wachstumsverzögerung bei Kindern. (1/6)
+- Das **Bruttoinlandsprodukt** (BIP) ist der Wert aller Endprodukte und Dienstleistungen, die innerhalb eines Landes in einem Jahr produziert werden. Ein Endprodukt ist ein Produkt der später nicht als Teil von einem anderen Produkt verkauft wird. [Video](https://www.youtube.com/watch?v=Wy4TGV-tPd8)
+
+- Das **Bruttonationaleinkommen** (BNE) ist eine wirtschaftliche Kennzahl, die die Gesamtwerte aller von Inländern eines Staates erwirtschafteten Einkommen über ein Jahr hinweg misst, unabhängig davon, ob diese im Inland oder Ausland erzielt wurden. [Video](https://studyflix.de/wirtschaft/bruttonationaleinkommen-bne-1422/video)
+
 - Der **Global Gender Gap Index** (GGI), entwickelt vom World Economic Forum (WEF), quantifiziert Geschlechterdisparitäten in den Bereichen Gesundheit, Bildung, Wirtschaftsbeteiligung und politische Ermächtigung.
+
 - Analphabetenrate
 - Lebenserwartung
 
