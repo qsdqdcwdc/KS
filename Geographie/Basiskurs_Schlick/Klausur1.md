@@ -45,6 +45,27 @@
   - Benachteiligung
   - Einseitige Exportstrukturen
 
+# Klassifizierung von Ländern
+### Erste, Zweite und Dritte Welt
+Die Einteilung der Welt in „Erste“, „Zweite“ und „Dritte Welt“ stammt aus der Zeit des Kalten Krieges und wird heute als überholt betrachtet:
+– Erste Welt:  kapitalistisch-marktwirtschaftlich orientierte Industrieländer (z. B. USA, Länder der Westeuropa),
+- Zweite Welt: Sozialistische Staaten mit zentraler Planwirtschaft, (z. B. Sowjetunion, Länder der Osteuropa).
+- Dritte Welt: Boft nicht-aligned (blockfreie) Länder mit niedrigem Entwicklungsstand und häufig kolonialer Vergangenheit.
+
+### Globaler Norden und Globaler Süden
+Die Begriffe „Globaler Norden“ und „Globaler Süden“ bezeichnen keine rein geografischen Räume, sondern beschreiben Unterschiede in Wirtschaftskraft, Wohlstand und Entwicklungsindikatoren:
+- Globaler Norden: Wirtschaftlich entwickelte, industrialisierte Länder, z. B. Nordamerika, Europa, Japan.
+- Globaler Süden: Weniger entwickelte, oft ärmere Länder, z. B. in Afrika, Lateinamerika, Asien.
+Diese Formulierung vermeidet die Wertung von „entwickelt“ vs. „unterentwickelt“, steht aber ebenfalls in der Kritik, weil auch der Globale Süden sehr unterschiedlich entwickelte Länder umfasst.
+
+### $${\color{lightgreen}Wichtig!}$$  Industrieländer, Schwellenländer und Entwicklungsländer
+
+Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unterschiedlichen sozioökonomischen Indikatoren:
+- Industrieländer: Hochentwickelte Wirtschaft, hoher Lebensstandard, z. B. Deutschland, USA.
+- Schwellenländer: Länder im Übergang vom Entwicklungs- zum Industrieland, mit wachsender Industrialisierung, z. B. Brasilien, Indien.
+- Entwicklungsländer: Geringer Entwicklungsstand, niedriges Pro-Kopf-Einkommen, z. B. Afghanistan, Ghana.
+
+
 # Migration
 - **Migranten**: Personen, die ihren Wohnsitz innerhalb eines Landes oder über Ländergrenzen hinweg verlegen.
 - **Binnenmigranten**: Menschen, die innerhalb der Grenzen ihres eigenen Landes umziehen.
@@ -56,8 +77,7 @@
 - **Flucht**: Umzug von Personen, die vor Krieg, Verfolgung oder Naturkatastrophen fliehen.
 - **Freiwillige Migration**: Umzug, der aus eigenem Antrieb erfolgt, ohne Zwang von außen.
 
-# Entwicklungstheorien
-
+# Entwicklungstheorien 
 ### Endogene Ursachen
 Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb einer Gesellschaft liegende Faktoren, die ihren Entwicklungsprozess beeinflussen. Diese Faktoren umfassen kulturelle Normen, Bildungsniveaus, institutionelle Strukturen wie Regierungssysteme und Rechtsordnungen, sowie soziale Dynamiken und Beziehungen innerhalb der Gesellschaft. Die Theorie, die sich auf endogene Ursachen stützt, geht davon aus, dass eine Gesellschaft die Fähigkeit zur Selbstentwicklung besitzt und ihre Fortschritte hauptsächlich durch interne Veränderungen und Anpassungen vorangetrieben werden.
 
@@ -73,3 +93,4 @@ Im Gegensatz zur Modernisierungstheorie betont die Dependenztheorie die ungleich
 
 ### Fragmentierungstheorie
 Die Fragmentierungstheorie betrachtet Entwicklung als einen komplexen Prozess, der nicht notwendigerweise zu einer einheitlichen Modernisierung führt. Diese Theorie argumentiert, dass die Entwicklung oft von sozialen, politischen und ökonomischen Fragmentierungen begleitet ist. Gesellschaften können verschiedene Entwicklungswege einschlagen, die zu unterschiedlichen Formen der Fragmentierung führen können, sei es in Bezug auf Ethnizität, Klasse oder andere soziale Unterschiede. [Video](https://www.youtube.com/watch?v=qlDDq2ztjBs)
+
