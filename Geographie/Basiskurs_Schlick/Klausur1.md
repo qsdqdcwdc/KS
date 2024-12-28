@@ -9,6 +9,27 @@
 - **Biosphäre** umfasst die Gesamtheit der Leben auf der Erde.
 -  **Anthroposphäre** umfasst alle vom Menschen geschaffenen und signifikant beeinflussten Bereiche der Erde.
 
+# Disparitäre Entwicklung
+### Endogene Ursachen (von innen wirkend)
+- **Ungünstige natürliche Gegebenheiten:**
+  - Ressourcenmangel
+  - Nachteilige Bodenbeschaffenheit
+  - Klimatische Bedingungen
+- **Hohe Bevölkerungswachstum**
+- **Unzureichende Sachinvestitionen** durch Kapitalmangel
+- **Autoritäre und korrupte staatliche Systeme**
+- **Konflikte:** Bürgerkriege
+- **Traditionsorientierte Strukturen:**
+  - Starker Religionsbezug
+  - Benachteiligung von Frauen
+### Exogene Ursachen (von außen wirkend):
+- **Folgen des Kolonialismus:**
+  - Wirtschaftliche und kulturelle Abhängigkeiten zu den ehemaligen Mutterländern
+  - Mangelhaftes Know-how beim Aufbau von staatlichen Strukturen
+- **Selektion auf dem Weltmarkt:**
+  - Benachteiligung
+  - Einseitige Exportstrukturen
+
 # Indizes
 ### Bruttoinlandsprodukt
 Das **Bruttoinlandsprodukt** (BIP) ist der Wert aller Endprodukte und Dienstleistungen, die innerhalb eines Landes in einem Jahr produziert werden. Ein Endprodukt ist ein Produkt der später nicht als Teil von einem anderen Produkt verkauft wird. [Video](https://www.youtube.com/watch?v=Wy4TGV-tPd8)
@@ -41,26 +62,6 @@ Der **Global Gender Gap Index** (GGI), entwickelt vom World Economic Forum (WEF)
 ### Analphabetenrate
 ### Lebenserwartung
 
-# Disparitäre Entwicklung
-### Endogene Ursachen (von innen wirkend)
-- **Ungünstige natürliche Gegebenheiten:**
-  - Ressourcenmangel
-  - Nachteilige Bodenbeschaffenheit
-  - Klimatische Bedingungen
-- **Hohe Bevölkerungswachstum**
-- **Unzureichende Sachinvestitionen** durch Kapitalmangel
-- **Autoritäre und korrupte staatliche Systeme**
-- **Konflikte:** Bürgerkriege
-- **Traditionsorientierte Strukturen:**
-  - Starker Religionsbezug
-  - Benachteiligung von Frauen
-### Exogene Ursachen (von außen wirkend):
-- **Folgen des Kolonialismus:**
-  - Wirtschaftliche und kulturelle Abhängigkeiten zu den ehemaligen Mutterländern
-  - Mangelhaftes Know-how beim Aufbau von staatlichen Strukturen
-- **Selektion auf dem Weltmarkt:**
-  - Benachteiligung
-  - Einseitige Exportstrukturen
 
 # Klassifizierung von Ländern
 ### Erste, Zweite und Dritte Welt
