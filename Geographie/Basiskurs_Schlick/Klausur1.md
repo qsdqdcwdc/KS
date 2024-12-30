@@ -52,7 +52,7 @@ Der **Global Gender Gap Index** (GGI), entwickelt vom World Economic Forum (WEF)
 <br><br>
 
 ### Analphabetenrate
-Die Analphabetenrate, definiert als ein Index der Länderentwicklung, misst den Prozentsatz der erwachsenen Bevölkerung (typischerweise Personen ab 15 Jahren), der nicht in der Lage ist, einfache und kurze Sätze zu lesen und zu schreiben. [UNESCO](https://uis.unesco.org/node/3297450)
+Die Analphabetenrate, misst den Prozentsatz der erwachsenen Bevölkerung (typischerweise Personen ab 15 Jahren), der nicht in der Lage ist, einfache und kurze Sätze zu lesen und zu schreiben. [UNESCO](https://uis.unesco.org/node/3297450)
 <br><br>
 
 ### Lebenserwartung
