@@ -8,60 +8,44 @@
 - **Lithosphäre** ist die äußerste, starre Schicht der Erde, bestehend aus einer fester Gesteinsschale.
 - **Biosphäre** umfasst die Gesamtheit der Leben auf der Erde.
 -  **Anthroposphäre** umfasst alle vom Menschen geschaffenen und signifikant beeinflussten Bereiche der Erde.
-
-# Disparitäre Entwicklung
-### Endogene Ursachen (von innen wirkend)
-- **Ungünstige natürliche Gegebenheiten:**
-  - Ressourcenmangel
-  - Nachteilige Bodenbeschaffenheit
-  - Klimatische Bedingungen
-- **Hohe Bevölkerungswachstum**
-- **Unzureichende Sachinvestitionen** durch Kapitalmangel
-- **Autoritäre und korrupte staatliche Systeme**
-- **Konflikte:** Bürgerkriege
-- **Traditionsorientierte Strukturen:**
-  - Starker Religionsbezug
-  - Benachteiligung von Frauen
-### Exogene Ursachen (von außen wirkend):
-- **Folgen des Kolonialismus:**
-  - Wirtschaftliche und kulturelle Abhängigkeiten zu den ehemaligen Mutterländern
-  - Mangelhaftes Know-how beim Aufbau von staatlichen Strukturen
-- **Selektion auf dem Weltmarkt:**
-  - Benachteiligung
-  - Einseitige Exportstrukturen
-
 # Indizes
-### Bruttoinlandsprodukt
+
+### Bruttoinlandsprodukt BIP (Gross Domestic Product, GDP)
 Das **Bruttoinlandsprodukt** (BIP) ist der Wert aller Endprodukte und Dienstleistungen, die innerhalb eines Landes in einem Jahr produziert werden. Ein Endprodukt ist ein Produkt der später nicht als Teil von einem anderen Produkt verkauft wird. [Video](https://www.youtube.com/watch?v=Wy4TGV-tPd8)
+<br><br> 
 
-### Bruttonationaleinkommen
+### Bruttonationaleinkommen BNE (Gross National Income, GNI)
 Das **Bruttonationaleinkommen** (BNE) ist eine wirtschaftliche Kennzahl, die die Gesamtwerte aller von Inländern eines Staates erwirtschafteten Einkommen über ein Jahr hinweg misst, unabhängig davon, ob diese im Inland oder Ausland erzielt wurden. [Video](https://studyflix.de/wirtschaft/bruttonationaleinkommen-bne-1422/video)
+<br><br>
 
-### Human Development Index
-$${\color{lightgreen}Wichtig!}$$ Der **Human Development Index** (HDI) ist ein zusammengesetzter Indikator, der drei Kernbereiche menschlicher Entwicklung abbildet:
+### $${\color{lightgreen}(Wichtig)}$$ Human Development Index (HDI)
+Der **Human Development Index** (HDI) ist ein zusammengesetzter Indikator, der drei Kernbereiche menschlicher Entwicklung abbildet:
   - Lebenserwartung bei Geburt
   - Bildung: gemessen anhand durchschnittlicher und erwarteter Schuljahre
   - Bruttonationaleinkommen pro Kopf in USD.
 
-Die Indizes dieser Bereiche werden gemittelt und auf einer Skala von 0 (niedrigstes Entwicklungsniveau) bis 1 (höchstes Entwicklungsniveau) abgebildet. Der HDI wird jährlich im Human Development Report des United Nations Development Programme (UNDP) veröffentlicht. Deutschland hat HDI von 0,94(2024). [Video](https://www.youtube.com/watch?v=UIARB24wAnw)
+Die Indizes dieser Bereiche werden gemittelt und auf einer Skala von 0 (niedrigstes Entwicklungsniveau) bis 1 (höchstes Entwicklungsniveau) abgebildet. Der HDI wird jährlich im Human Development Report des United Nations Development Programme (UNDP) veröffentlicht. Deutschland hat HDI von 0,94 (2024). [Video](https://www.youtube.com/watch?v=UIARB24wAnw)
+<br><br>
 
-### Human Sustainable Development Index
+### Human Sustainable Development Index (HSDI)
 **Human Sustainable Development Index** (HSDI): fügt dem HDI mit den Treibhausgas-Emissionen/Kopf (in CO2-Äquivalenten) noch einen Indikator hinzu, der die ökologische Nachhaltigkeit des jeweiligen Entwicklungspfades messbar machen soll. ```(ein unglaublich wichtiger globaler Indikator, für den es nicht einmal eine englische Wikipedia-Seite gibt)```
+<br><br>
 
-### Global Hunger Index
+### Global Hunger Index (GHI)
 Der **Global Hunger Index** (GHI) zielt darauf ab, das Ausmaß des Hungers auf regionaler, nationaler und weltweite Ebene zu messen. Der GHI kombiniert vier Komponentenindikatoren zur Bewertung des Hungers:
 - Unterernährung der gesamten Bevölkerung. Dies macht ein Drittel des Index aus (1/3).
-- Kindersterblichkeit (unter 5 Jahren). (1/3) 
+- Kindersterblichkeit (unter 5 Jahren). (1/3)
 - Unterernährung bei Kindern. (1/6)
 - Wachstumsverzögerung bei Kindern. (1/6)
+<br><br>
 
-
-### Global Gender Gap Index
+### Global Gender Gap Index (GGI)
 Der **Global Gender Gap Index** (GGI), entwickelt vom World Economic Forum (WEF), quantifiziert Geschlechterdisparitäten in den Bereichen Gesundheit, Bildung, Wirtschaftsbeteiligung und politische Ermächtigung.
+<br><br>
 
 ### Analphabetenrate
-### Lebenserwartung
 
+### Lebenserwartung
 
 # Klassifizierung von Ländern
 ### Erste, Zweite und Dritte Welt
@@ -77,7 +61,7 @@ Die Begriffe „Globaler Norden“ und „Globaler Süden“ bezeichnen keine re
 - Globaler Süden: Weniger entwickelte, oft ärmere Länder, z. B. in Afrika, Lateinamerika, Asien.
 Diese Formulierung vermeidet die Wertung von „entwickelt“ vs. „unterentwickelt“, steht aber ebenfalls in der Kritik, weil auch der Globale Süden sehr unterschiedlich entwickelte Länder umfasst.
 
-### $${\color{lightgreen}Wichtig!}$$  Industrieländer, Schwellenländer und Entwicklungsländer
+### $${\color{lightgreen}(Wichtig)}$$ Industrieländer, Schwellenländer und Entwicklungsländer
 
 Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unterschiedlichen sozioökonomischen Indikatoren:
 - Industrieländer: Hochentwickelte Wirtschaft, hoher Lebensstandard, z. B. Deutschland, USA.
@@ -99,10 +83,26 @@ Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unte
 # Entwicklungstheorien 
 
 ### Endogene Ursachen
-Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb einer Gesellschaft liegende Faktoren, die ihren Entwicklungsprozess beeinflussen. Diese Faktoren umfassen kulturelle Normen, Bildungsniveaus, institutionelle Strukturen wie Regierungssysteme und Rechtsordnungen, sowie soziale Dynamiken und Beziehungen innerhalb der Gesellschaft. Die Theorie, die sich auf endogene Ursachen stützt, geht davon aus, dass eine Gesellschaft die Fähigkeit zur Selbstentwicklung besitzt und ihre Fortschritte hauptsächlich durch interne Veränderungen und Anpassungen vorangetrieben werden.
+Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb einer Gesellschaft liegende Faktoren, die ihren Entwicklungsprozess beeinflussen. Diese Faktoren umfassen kulturelle Normen, Bildungsniveaus, institutionelle Strukturen wie Regierungssysteme und Rechtsordnungen, sowie soziale Dynamiken und Beziehungen innerhalb der Gesellschaft. Die Theorie, die sich auf endogene Ursachen stützt, geht davon aus, dass eine Gesellschaft die Fähigkeit zur Selbstentwicklung besitzt und ihre Fortschritte hauptsächlich durch interne Veränderungen und Anpassungen vorangetrieben werden. Beispiele für endogene Ursachen für verzögerten Entwicklung:
+- **Ungünstige natürliche Gegebenheiten:**
+  - Ressourcenmangel
+  - Nachteilige Bodenbeschaffenheit
+- **Hohe Bevölkerungswachstum**
+- **Unzureichende Sachinvestitionen** durch Kapitalmangel
+- **Autoritäre und korrupte staatliche Systeme**
+- **Konflikte:** Bürgerkriege
+- **Traditionsorientierte Strukturen:**
+  - Starker Religionsbezug
+  - Benachteiligung von Frauen
 
 ### Exogene Ursachen
-Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrieren, externe Einflüsse als entscheidende Triebkräfte für die Entwicklung einer Gesellschaft. Diese Einflüsse können internationale Beziehungen, geopolitische Faktoren, Kolonialgeschichte und die Einbettung in das globale Wirtschaftssystem umfassen. Solche Theorien betonen, wie externe Bedingungen, wie ungleiche Handelsbeziehungen oder die historische Ausbeutung durch koloniale Mächte, die Entwicklungschancen und Strukturen eines Landes prägen.
+Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrieren, externe Einflüsse als entscheidende Triebkräfte für die Entwicklung einer Gesellschaft. Diese Einflüsse können internationale Beziehungen, geopolitische Faktoren, Kolonialgeschichte und die Einbettung in das globale Wirtschaftssystem umfassen. Solche Theorien betonen, wie externe Bedingungen, wie ungleiche Handelsbeziehungen oder die historische Ausbeutung durch koloniale Mächte, die Entwicklungschancen und Strukturen eines Landes prägen. Beispiele für exogene Ursachen für  verzögerten Entwicklung:
+- **Folgen des Kolonialismus:**
+  - Wirtschaftliche und kulturelle Abhängigkeiten zu den ehemaligen Mutterländern
+  - Mangelhaftes Know-how beim Aufbau von staatlichen Strukturen
+- **Selektion auf dem Weltmarkt:**
+  - Benachteiligung
+  - Einseitige Exportstrukturen
 
 [Viedo: Dependenztheorie vs Modernisierungstheorie](https://www.youtube.com/watch?v=WMm1qywtpSw)
 ### Modernisierungstheorie
