@@ -36,7 +36,7 @@ Die Indizes dieser Bereiche werden gemittelt und auf einer Skala von 0 (niedrigs
 <br><br>
 
 ### Human Sustainable Development Index (HSDI)
-**Human Sustainable Development Index** (HSDI): fügt dem HDI mit den Treibhausgas-Emissionen/Kopf (in CO2-Äquivalenten) noch einen Indikator hinzu, der die ökologische Nachhaltigkeit des jeweiligen Entwicklungspfades messbar machen soll. ```(ein unglaublich wichtiger globaler Indikator, für den es nicht einmal eine englische Wikipedia-Seite gibt)```
+**Human Sustainable Development Index** (HSDI): ist HDI aber mit noch einem Kernbereich: den Treibhausgas-Emissionen pro Kopf (in CO2-Äquivalenten). ```(ein unglaublich wichtiger globaler Indikator, für den es nicht einmal eine englische Wikipedia-Seite gibt)```
 <br><br>
 
 ### Global Hunger Index (GHI)
