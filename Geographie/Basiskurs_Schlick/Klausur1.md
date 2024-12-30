@@ -56,7 +56,7 @@ Die Analphabetenrate, misst den Prozentsatz der erwachsenen Bevölkerung (typisc
 <br><br>
 
 ### Lebenserwartung
-Lebenserwartung zeigt an, wie viele Lebensjahre eine Person aufgrund der aktuellen Sterblichkeitsraten durchschnittlich erwarten kann. Dieser Wert wird am häufigsten als Lebenserwartung bei Geburt ausgewiesen.
+Lebenserwartung gibt an, wie viele Lebensjahre eine Person aufgrund aktueller Sterblichkeitsraten durchschnittlich erwarten kann. Dieser Wert wird am häufigsten als Lebenserwartung bei Geburt angegeben.
 
 # Klassifizierung von Ländern
 ### Erste, Zweite und Dritte Welt
