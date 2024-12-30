@@ -59,6 +59,7 @@ Die Einteilung der Welt in „Erste“, „Zweite“ und „Dritte Welt“ stamm
 Die Begriffe „Globaler Norden“ und „Globaler Süden“ bezeichnen keine rein geografischen Räume, sondern beschreiben Unterschiede in Wirtschaftskraft, Wohlstand und Entwicklungsindikatoren:
 - Globaler Norden: Wirtschaftlich entwickelte, industrialisierte Länder, z. B. Nordamerika, Europa, Japan.
 - Globaler Süden: Weniger entwickelte, oft ärmere Länder, z. B. in Afrika, Lateinamerika, Asien.
+
 Diese Formulierung vermeidet die Wertung von „entwickelt“ vs. „unterentwickelt“, steht aber ebenfalls in der Kritik, weil auch der Globale Süden sehr unterschiedlich entwickelte Länder umfasst.
 
 ### $${\color{lightgreen}(Wichtig)}$$ Industrieländer, Schwellenländer und Entwicklungsländer
@@ -83,7 +84,7 @@ Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unte
 # Entwicklungstheorien 
 
 ### Endogene Ursachen
-Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb einer Gesellschaft liegende Faktoren, die ihren Entwicklungsprozess beeinflussen. Diese Faktoren umfassen kulturelle Normen, Bildungsniveaus, institutionelle Strukturen wie Regierungssysteme und Rechtsordnungen, sowie soziale Dynamiken und Beziehungen innerhalb der Gesellschaft. Die Theorie, die sich auf endogene Ursachen stützt, geht davon aus, dass eine Gesellschaft die Fähigkeit zur Selbstentwicklung besitzt und ihre Fortschritte hauptsächlich durch interne Veränderungen und Anpassungen vorangetrieben werden. Beispiele für endogene Ursachen für verzögerten Entwicklung:
+Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb einem Staad liegende Faktoren, die ihren Entwicklungsprozess beeinflussen. Diese Faktoren umfassen kulturelle Normen, Bildungsniveaus, institutionelle Strukturen wie Regierungssysteme und Rechtsordnungen, sowie soziale Dynamiken und Beziehungen innerhalb der Gesellschaft. Die Theorie, die sich auf endogene Ursachen stützt, geht davon aus, dass eine Gesellschaft die Fähigkeit zur Selbstentwicklung besitzt und ihre Fortschritte hauptsächlich durch interne Veränderungen und Anpassungen vorangetrieben werden. Beispiele für endogene Ursachen für verzögerten Entwicklung:
 - **Ungünstige natürliche Gegebenheiten:**
   - Ressourcenmangel
   - Nachteilige Bodenbeschaffenheit
@@ -96,7 +97,7 @@ Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb e
   - Benachteiligung von Frauen
 
 ### Exogene Ursachen
-Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrieren, externe Einflüsse als entscheidende Triebkräfte für die Entwicklung einer Gesellschaft. Diese Einflüsse können internationale Beziehungen, geopolitische Faktoren, Kolonialgeschichte und die Einbettung in das globale Wirtschaftssystem umfassen. Solche Theorien betonen, wie externe Bedingungen, wie ungleiche Handelsbeziehungen oder die historische Ausbeutung durch koloniale Mächte, die Entwicklungschancen und Strukturen eines Landes prägen. Beispiele für exogene Ursachen für  verzögerten Entwicklung:
+Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrieren, externe Einflüsse als entscheidende Triebkräfte für die Entwicklung einen Staad. Diese Einflüsse können internationale Beziehungen, geopolitische Faktoren, Kolonialgeschichte und die Einbettung in das globale Wirtschaftssystem umfassen. Solche Theorien betonen, wie externe Bedingungen, wie ungleiche Handelsbeziehungen oder die historische Ausbeutung durch koloniale Mächte, die Entwicklungschancen und Strukturen eines Landes prägen. Beispiele für exogene Ursachen für  verzögerten Entwicklung:
 - **Folgen des Kolonialismus:**
   - Wirtschaftliche und kulturelle Abhängigkeiten zu den ehemaligen Mutterländern
   - Mangelhaftes Know-how beim Aufbau von staatlichen Strukturen
