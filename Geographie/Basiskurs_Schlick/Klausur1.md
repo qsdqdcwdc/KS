@@ -106,10 +106,18 @@ Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrier
 [Viedo: Dependenztheorie vs Modernisierungstheorie](https://www.youtube.com/watch?v=WMm1qywtpSw)
 ### Modernisierungstheorie
 Die Modernisierungstheorie geht davon aus, dass die Entwicklung von Gesellschaften einem linearen Prozess folgt, der durch verschiedene Stadien der Modernisierung gekennzeichnet ist. Diese Theorie betont den Wandel von traditionellen Gesellschaften zu modernen Gesellschaften durch den Einfluss von Industrialisierung, Urbanisierung, Bildung und technologischem Fortschritt. Dabei wird angenommen, dass Modernisierung zu wirtschaftlichem Wachstum, sozialem Fortschritt und politischer Stabilität führt.
+- Ursache der Unterentwicklung mit internen Strukturen begründet (religiöse und traditionelle Anomie).
+- Entwicklung (E) durch Erschließung und Nutzung der eigenen Ressourcen mittels externer Hilfe.
 
 ### Dependenztheorie
 Im Gegensatz zur Modernisierungstheorie betont die Dependenztheorie die ungleiche Beziehung zwischen entwickelten und unterentwickelten Ländern. Sie argumentiert, dass die Entwicklung der einen Gruppe oft auf der Unterentwicklung der anderen beruht. Abhängigkeit entsteht durch ungleiche Handelsbeziehungen, kapitalistische Ausbeutung und geopolitische Einflüsse. Die Dependenztheorie kritisiert die Idee, dass Entwicklung ein universeller Prozess ist, und argumentiert, dass die globale Ungleichheit durch systemische Ungerechtigkeiten aufrechterhalten wird.
+- Ursache der Unterentwicklung mit Fremdbestimmung begründet (Abhängigkeitsweise).
+- Entwicklung (E) durch Überwindung der Abhängigkeit, Dissoziation und autonzentrierte wirtschaftliche Entfaltung.
+
 
 ### Fragmentierungstheorie
 Die Fragmentierungstheorie betrachtet Entwicklung als einen komplexen Prozess, der nicht notwendigerweise zu einer einheitlichen Modernisierung führt. Diese Theorie argumentiert, dass die Entwicklung oft von sozialen, politischen und ökonomischen Fragmentierungen begleitet ist. Gesellschaften können verschiedene Entwicklungswege einschlagen, die zu unterschiedlichen Formen der Fragmentierung führen können, sei es in Bezug auf Ethnizität, Klasse oder andere soziale Unterschiede. [Video](https://www.youtube.com/watch?v=qlDDq2ztjBs)
+
+# NGO
+Nichtregierungsorganisationen(NGOs): Setzen sich für spezifische Anliegen wie Menschenrechte, Umweltschutz oder Entwicklungshilfe ein. Sie agieren oft als Advokaten für bestimmte Themen und beeinflussen politische Entscheidungsprozesse.
 
