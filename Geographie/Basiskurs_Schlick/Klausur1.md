@@ -145,7 +145,7 @@ Mit der Veröffentlichung der Agenda 21 und später der Formulierung der Sustain
 Nichtregierungsorganisationen(NGOs): Setzen sich für spezifische Anliegen wie Menschenrechte, Umweltschutz oder Entwicklungshilfe ein. Sie agieren oft als Advokaten für bestimmte Themen und beeinflussen politische Entscheidungsprozesse.
 
 # G20 
-Der G20, kurz für "Group of 20", ist ein internationales Forum, von 19 Mitgliedsstaaten, Europäische Union und [Afrikanische Union](https://de.wikipedia.org/wiki/Afrikanische_Union). Es wurde 1999 als Reaktion auf globale Wirtschaftskrisen gegründet und zielt darauf ab, systemisch wichtige Industrie- und Entwicklungsländer zusammenzubringen, um Schlüsselthemen der globalen Wirtschaft zu besprechen, einschließlich finanzieller Stabilität und nachhaltiger Entwicklung. Die Mitglieder des G20 repräsentieren zusammen etwa 85% des weltweiten Bruttoinlandsprodukts und 75% des internationalen Handels. [Video](https://www.youtube.com/watch?v=1v5Qx1E-Vc4&t=145s)
+Der G20, kurz für "Group of 20", ist ein internationales Forum bestehend aus 19 Mitgliedstaaten, der Europäischen Union und der [Afrikanische Union](https://de.wikipedia.org/wiki/Afrikanische_Union).  Es wurde 1999 als Reaktion auf globale Wirtschaftskrisen gegründet und zielt darauf ab, systemisch wichtige Industrie- und Entwicklungsländer zusammenzubringen, um Schlüsselthemen der globalen Wirtschaft zu besprechen, einschließlich nachhaltiger Entwicklung, sowie ein Gruppenfoto der Regierungschefs zu machen. Die Mitglieder des G20 repräsentieren zusammen etwa 85% des weltweiten Bruttoinlandsprodukts und 75% des internationalen Handels. [Video](https://www.youtube.com/watch?v=1v5Qx1E-Vc4)
 
 
 
