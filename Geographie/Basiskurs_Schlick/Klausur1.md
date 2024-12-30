@@ -97,6 +97,7 @@ Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unte
 - **Freiwillige Migration**: Umzug, der aus eigenem Antrieb erfolgt, ohne Zwang von außen.
 
 # Entwicklungstheorien 
+
 ### Endogene Ursachen
 Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb einer Gesellschaft liegende Faktoren, die ihren Entwicklungsprozess beeinflussen. Diese Faktoren umfassen kulturelle Normen, Bildungsniveaus, institutionelle Strukturen wie Regierungssysteme und Rechtsordnungen, sowie soziale Dynamiken und Beziehungen innerhalb der Gesellschaft. Die Theorie, die sich auf endogene Ursachen stützt, geht davon aus, dass eine Gesellschaft die Fähigkeit zur Selbstentwicklung besitzt und ihre Fortschritte hauptsächlich durch interne Veränderungen und Anpassungen vorangetrieben werden.
 
@@ -106,17 +107,27 @@ Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrier
 [Viedo: Dependenztheorie vs Modernisierungstheorie](https://www.youtube.com/watch?v=WMm1qywtpSw)
 ### Modernisierungstheorie
 Die Modernisierungstheorie geht davon aus, dass die Entwicklung von Gesellschaften einem linearen Prozess folgt, der durch verschiedene Stadien der Modernisierung gekennzeichnet ist. Diese Theorie betont den Wandel von traditionellen Gesellschaften zu modernen Gesellschaften durch den Einfluss von Industrialisierung, Urbanisierung, Bildung und technologischem Fortschritt. Dabei wird angenommen, dass Modernisierung zu wirtschaftlichem Wachstum, sozialem Fortschritt und politischer Stabilität führt.
-- Ursache der Unterentwicklung mit internen Strukturen begründet (religiöse und traditionelle Anomie).
-- Entwicklung (E) durch Erschließung und Nutzung der eigenen Ressourcen mittels externer Hilfe.
+- Argumentiert, dass die Ursachen für Unterentwicklung sind endogen.
+- Entwicklung durch Erschließung und Nutzung der eigenen Ressourcen mittels externer Hilfe.
 
 ### Dependenztheorie
 Im Gegensatz zur Modernisierungstheorie betont die Dependenztheorie die ungleiche Beziehung zwischen entwickelten und unterentwickelten Ländern. Sie argumentiert, dass die Entwicklung der einen Gruppe oft auf der Unterentwicklung der anderen beruht. Abhängigkeit entsteht durch ungleiche Handelsbeziehungen, kapitalistische Ausbeutung und geopolitische Einflüsse. Die Dependenztheorie kritisiert die Idee, dass Entwicklung ein universeller Prozess ist, und argumentiert, dass die globale Ungleichheit durch systemische Ungerechtigkeiten aufrechterhalten wird.
-- Ursache der Unterentwicklung mit Fremdbestimmung begründet (Abhängigkeitsweise).
-- Entwicklung (E) durch Überwindung der Abhängigkeit, Dissoziation und autonzentrierte wirtschaftliche Entfaltung.
+- Argumentiert, dass die Ursachen für Unterentwicklung sind exogen.
+- Entwicklung durch Überwindung der Abhängigkeit, Dissoziation und autonzentrierte wirtschaftliche Entfaltung.
 
 
 ### Fragmentierungstheorie
 Die Fragmentierungstheorie betrachtet Entwicklung als einen komplexen Prozess, der nicht notwendigerweise zu einer einheitlichen Modernisierung führt. Diese Theorie argumentiert, dass die Entwicklung oft von sozialen, politischen und ökonomischen Fragmentierungen begleitet ist. Gesellschaften können verschiedene Entwicklungswege einschlagen, die zu unterschiedlichen Formen der Fragmentierung führen können, sei es in Bezug auf Ethnizität, Klasse oder andere soziale Unterschiede. [Video](https://www.youtube.com/watch?v=qlDDq2ztjBs)
+
+# Evolution von Entwicklungshilfestrategien
+### Kapitalhilfen und technischer Fortschrit (1949-1960er)
+Die Truman-Doktrin propagierte Kapitalhilfen aus den USA zur Förderung des technischen Fortschritts in unterentwickelten Ländern, mit der Annahme, dass wirtschaftlicher Aufschwung zu besseren Lebensbedingungen führt – bekannt als der „trickle-down-effect“. Die Effektivität war jedoch begrenzt, da viele der Hilfsgelder durch Korruption und ineffiziente Verteilung verloren gingen.
+
+### Grundbedürfnisorientierung und nachhaltige Entwicklung (1970er)
+Die Cocoyoc-Erklärung betonte die Entwicklung von Menschen statt Dingen und forderte Maßnahmen, die die Bedürfnisse zukünftiger Generationen berücksichtigen. Ansätze wie angepasste Entwicklung, Hilfe zur Selbsthilfe und Frauenförderung rückten in den Vordergrund. Ein Beispiel ist das Mikrokreditsystem der Grameen Bank von Mohammad Yunus.
+
+### Globale nachhaltige Entwicklungsziele (ab 1990er)
+Die Agenda 21 und später die SDGs fordern integrative Ansätze, die sowohl soziale, ökonomische als auch ökologische Dimensionen berücksichtigen. Die 17 sustainable developing goals(SDGs) adressieren spezifische Herausforderungen wie Armut, Bildung, Geschlechtergleichheit, sauberes Wasser, Klimaschutz und Partnerschaften zur Erreichung der Ziele.
 
 # NGO
 Nichtregierungsorganisationen(NGOs): Setzen sich für spezifische Anliegen wie Menschenrechte, Umweltschutz oder Entwicklungshilfe ein. Sie agieren oft als Advokaten für bestimmte Themen und beeinflussen politische Entscheidungsprozesse.
