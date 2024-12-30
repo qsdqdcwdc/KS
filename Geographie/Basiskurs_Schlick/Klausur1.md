@@ -11,10 +11,11 @@
 
 # Disparitäten
 In der geographischen Forschung wird der Begriff Disparität verwendet, um die verschiedenen sozialen, wirtschaftlichen und umweltbedingten Unterschiede zu beschreiben, die sich räumlich manifestieren. Disparitäten haben verschiedenen Ebenen:
-- **Regionale Disparitäten**: Ungleichheiten zwischen verschiedenen Regionen eines Landes. Z.b: In Deutschland existiert ein wirtschaftliches Gefälle zwischen dem wohlhabenderen Westen und dem Osten.
-- **Globale Disparitäten**: Ungleichheiten zwischen verschiedenen Ländern oder Weltregionen. Z.b: Der Unterschied im Bruttoinlandsprodukt (BIP) pro Kopf zwischen Industrieländern und Entwicklungsländern.
-- **Soziale Disparitäten**: Ungleichheiten innerhalb einer Gesellschaft hinsichtlich Einkommen, Bildung oder Lebensstandard. Z.b: In urbanen Gebieten können erhebliche Unterschiede zwischen wohlhabenden Vierteln und benachteiligten Stadtteilen bestehen.
-- **Wirtschaftliche Disparitäten**: Unterschiede in der wirtschaftlichen Leistungsfähigkeit und Infrastruktur zwischen Gebieten. Z.b: Industrielle Ballungszentren im Vergleich zu ländlichen, agrarisch geprägten Regionen.
+- **Regionale Disparitäten**: Ungleichheiten zwischen verschiedenen Regionen eines Landes.
+- **Globale Disparitäten**: Ungleichheiten zwischen verschiedenen Ländern oder Weltregionen.
+- **Soziale Disparitäten**: Ungleichheiten innerhalb einer Gesellschaft hinsichtlich Einkommen, Bildung oder Lebensstandard.
+- **Wirtschaftliche Disparitäten**: Unterschiede in der wirtschaftlichen Leistungsfähigkeit und Infrastruktur zwischen Gebieten.
+  
 # Indizes
 
 ### Bruttoinlandsprodukt BIP (Gross Domestic Product, GDP)
@@ -51,8 +52,12 @@ Der **Global Gender Gap Index** (GGI), entwickelt vom World Economic Forum (WEF)
 <br><br>
 
 ### Analphabetenrate
+Die Analphabetenrate, definiert als ein Index der Länderentwicklung, misst den Prozentsatz der erwachsenen Bevölkerung (typischerweise Personen ab 15 Jahren), der nicht in der Lage ist, einfache und kurze Sätze zu lesen und zu schreiben. [UNESCO](https://uis.unesco.org/node/3297450)
+<br><br>
 
 ### Lebenserwartung
+Lebenserwartung gibt an, das die durchschnittliche Anzahl an weiteren Lebensjahren schätzt, die eine Person ab einem bestimmten Alter auf Grundlage aktueller Sterblichkeitsraten erwarten kann. Dieser Wert wird am häufigsten als Lebenserwartung bei Geburt angegeben.
+
 
 # Klassifizierung von Ländern
 ### Erste, Zweite und Dritte Welt
