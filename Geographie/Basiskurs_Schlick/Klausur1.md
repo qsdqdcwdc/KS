@@ -64,7 +64,7 @@ Die Einteilung der Welt in „Erste“, „Zweite“ und „Dritte Welt“ stamm
 
 - Erste Welt:  kapitalistisch-marktwirtschaftlich orientierte Industrieländer (z. B. USA, Länder der Westeuropa),
 - Zweite Welt: Sozialistische Staaten mit zentraler Planwirtschaft, (z. B. Sowjetunion, Länder der Osteuropa).
-- Dritte Welt: Boft nicht-aligned (blockfreie) Länder mit niedrigem Entwicklungsstand und häufig kolonialer Vergangenheit.
+- Dritte Welt: Boft nicht-aligned (blockfreie) Länder mit niedrigem Wirtschaftlichenstand und häufig kolonialer Vergangenheit.
 
 ### Globaler Norden und Globaler Süden
 Die Begriffe „Globaler Norden“ und „Globaler Süden“ bezeichnen keine rein geografischen Räume, sondern beschreiben Unterschiede in Wirtschaftskraft, Wohlstand und Entwicklungsindikatoren:
