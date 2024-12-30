@@ -56,8 +56,7 @@ Die Analphabetenrate, definiert als ein Index der Länderentwicklung, misst den 
 <br><br>
 
 ### Lebenserwartung
-Lebenserwartung gibt an, das die durchschnittliche Anzahl an weiteren Lebensjahren schätzt, die eine Person ab einem bestimmten Alter auf Grundlage aktueller Sterblichkeitsraten erwarten kann. Dieser Wert wird am häufigsten als Lebenserwartung bei Geburt angegeben.
-
+Lebenserwartung gibt an, wie viele Lebensjahre eine Person ab einem bestimmten Alter aufgrund aktueller Sterblichkeitsraten durchschnittlich erwarten kann. Dieser Wert wird am häufigsten als Lebenserwartung bei Geburt angegeben.
 
 # Klassifizierung von Ländern
 ### Erste, Zweite und Dritte Welt
