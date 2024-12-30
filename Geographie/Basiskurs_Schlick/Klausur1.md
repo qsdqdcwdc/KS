@@ -105,12 +105,12 @@ Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrier
   - Einseitige Exportstrukturen
 
 [Viedo: Dependenztheorie vs Modernisierungstheorie](https://www.youtube.com/watch?v=WMm1qywtpSw)
-### Modernisierungstheorie
+### $${\color{lightgreen}(Wichtig)}$$ Modernisierungstheorie
 Die Modernisierungstheorie geht davon aus, dass die Entwicklung von Gesellschaften einem linearen Prozess folgt, der durch verschiedene Stadien der Modernisierung gekennzeichnet ist. Diese Theorie betont den Wandel von traditionellen Gesellschaften zu modernen Gesellschaften durch den Einfluss von Industrialisierung, Urbanisierung, Bildung und technologischem Fortschritt. Dabei wird angenommen, dass Modernisierung zu wirtschaftlichem Wachstum, sozialem Fortschritt und politischer Stabilität führt.
 - Argumentiert, dass die Ursachen für Unterentwicklung sind endogen.
 - Entwicklung durch Erschließung und Nutzung der eigenen Ressourcen mittels externer Hilfe.
 
-### Dependenztheorie
+### $${\color{lightgreen}(Wichtig)}$$ Dependenztheorie
 Im Gegensatz zur Modernisierungstheorie betont die Dependenztheorie die ungleiche Beziehung zwischen entwickelten und unterentwickelten Ländern. Sie argumentiert, dass die Entwicklung der einen Gruppe oft auf der Unterentwicklung der anderen beruht. Abhängigkeit entsteht durch ungleiche Handelsbeziehungen, kapitalistische Ausbeutung und geopolitische Einflüsse. Die Dependenztheorie kritisiert die Idee, dass Entwicklung ein universeller Prozess ist, und argumentiert, dass die globale Ungleichheit durch systemische Ungerechtigkeiten aufrechterhalten wird.
 - Argumentiert, dass die Ursachen für Unterentwicklung sind exogen.
 - Entwicklung durch Überwindung der Abhängigkeit, Dissoziation und autonzentrierte wirtschaftliche Entfaltung.
