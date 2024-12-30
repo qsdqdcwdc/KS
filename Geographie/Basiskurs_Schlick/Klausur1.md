@@ -8,6 +8,13 @@
 - **Lithosphäre** ist die äußerste, starre Schicht der Erde, bestehend aus einer fester Gesteinsschale.
 - **Biosphäre** umfasst die Gesamtheit der Leben auf der Erde.
 -  **Anthroposphäre** umfasst alle vom Menschen geschaffenen und signifikant beeinflussten Bereiche der Erde.
+
+# Disparitäten
+In der geographischen Forschung wird der Begriff Disparität verwendet, um die verschiedenen sozialen, wirtschaftlichen und umweltbedingten Unterschiede zu beschreiben, die sich räumlich manifestieren. Disparitäten haben verschiedenen Ebenen:
+- **Regionale Disparitäten**: Ungleichheiten zwischen verschiedenen Regionen eines Landes. Z.b: In Deutschland existiert ein wirtschaftliches Gefälle zwischen dem wohlhabenderen Westen und dem Osten.
+- **Globale Disparitäten**: Ungleichheiten zwischen verschiedenen Ländern oder Weltregionen. Z.b: Der Unterschied im Bruttoinlandsprodukt (BIP) pro Kopf zwischen Industrieländern und Entwicklungsländern.
+- **Soziale Disparitäten**: Ungleichheiten innerhalb einer Gesellschaft hinsichtlich Einkommen, Bildung oder Lebensstandard. Z.b: In urbanen Gebieten können erhebliche Unterschiede zwischen wohlhabenden Vierteln und benachteiligten Stadtteilen bestehen.
+- **Wirtschaftliche Disparitäten**: Unterschiede in der wirtschaftlichen Leistungsfähigkeit und Infrastruktur zwischen Gebieten. Z.b: Industrielle Ballungszentren im Vergleich zu ländlichen, agrarisch geprägten Regionen.
 # Indizes
 
 ### Bruttoinlandsprodukt BIP (Gross Domestic Product, GDP)
