@@ -129,13 +129,13 @@ Die Fragmentierungstheorie betrachtet Entwicklung als einen komplexen Prozess, d
 # Evolution von Entwicklungshilfestrategien
 [Gutes Video](https://www.youtube.com/watch?v=IGug2UZ_5rA)
 
-### Kapitalhilfen und technischer Fortschrit (1960er)
+### Nachholende Entwicklung (1960er)
 Die Truman-Doktrin initiierte Kapitalhilfen zur Förderung des technischen Fortschritts in Entwicklungsregionen, mit dem Ziel, wirtschaftliches Wachstum zu stimulieren. Diese Politik basierte auf der Annahme, dass wirtschaftlicher Aufschwung zu verbesserten Lebensbedingungen führt und zielte darauf ab, die Wachstumsschwelle zu selbsttragendem Wachstum zu überschreiten. Die Förderung beschränkte sich oft auf industrielle und infrastrukturelle Projekte. Die Effektivität war jedoch begrenzt, da viele der Hilfsgelder durch Korruption und ineffiziente Verteilung verloren gingen. 
 
-### Grundbedürfnisorientierung und nachhaltige Entwicklung (1970er)
+### Grundbedürfnisstrategie (1970er)
 Die 1974 verabschiedete Cocoyoc-Erklärungbetonte die Entwicklung von Menschen statt Dingen und forderte Maßnahmen, die die Bedürfnisse zukünftiger Generationen berücksichtigen. In dieser Ära entwickelten sich Konzepte wie Hilfe zur Selbsthilfe und die Förderung von Frauen. Die Einführung des Mikrokreditsystems durch die Grameen Bank ist ein beispielhaftes Modell dieser Phase, das auf die Stärkung lokaler Kapazitäten und die Förderung von Selbstständigkeit abzielte​
 
-### Globale nachhaltige Entwicklungsziele (ab 1990er)
+###nachhaltige Entwicklungs (ab 1990er)
 Mit der Veröffentlichung der Agenda 21 und später der Formulierung der Sustainable Development Goals (SDGs) wurde ein integrativer Ansatz verfolgt, der soziale, ökonomische und ökologische Dimensionen der Entwicklung vereint. Die 17 Ziele adressieren spezifische globale Herausforderungen wie Armut, Bildung, Geschlechtergleichheit und Klimaschutz, mit dem Ziel, bis 2030 eine nachhaltige Entwicklung weltweit zu erreichen. Diese Ziele gelten universell und fordern alle Länder - unabhängig von ihrem Entwicklungsstatus - zur Teilnahme auf​.
  
 # NGO
