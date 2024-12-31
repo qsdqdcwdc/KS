@@ -3,11 +3,11 @@
 
 - **Atmosphäre** umfasst die Gashülle der Erde.
 - **Hydrosphäre** beinhaltet alle Wasservorkommen der Erde, einschließlich Ozeane, Seen, Flüsse, Gletscher, Wasser in der Atmosphäre und Grundwasser.
-- **Reliefsphäre** umfasst die Gesamtheit der festen Oberflächenformen der Erde, inklusive der terrestrischen Erdoberflächen und der festen Oberflächen am Grund der Meere. Sie wird durch endogene und exogene Prozesse geformt, die Verwitterung, Erosion, Transport und Ablagerung von Material einschließen. 
-- **Pedosphäre** umfasst Bodenschicht der Erde, entstanden durch Verwitterung und chemische Umwandlung von Gestein sowie Zersetzung organischer Reste. Sie setzt sich zusammen aus mineralischen Partikeln (Sand, Schluff, Ton), organischer Substanz (Humus), Luft und Wasser.
+- **Reliefsphäre** umfasst die Gesamtheit der festen Oberflächenformen der Erde, inklusive der terrestrischen Erdoberflächen und der festen Oberflächen am Grund der Meere. Sie wird durch endogene und exogene Prozesse geformt, die Verwitterung, Erosion, Transport und Ablagerung von Material einschließen. [Wiki](https://de.wikipedia.org/wiki/Reliefsph%C3%A4re)
+- **Pedosphäre** umfasst die Gesamtheit aller Böden der Erde, entstanden durch Verwitterung und chemische Umwandlung von Gestein sowie Zersetzung organischer Reste. Sie setzt sich zusammen aus mineralischen Partikeln (Sand, Schluff, Ton), organischer Substanz (Humus), Luft und Wasser. [Video](https://www.youtube.com/watch?v=U-jeKCmTKac&list=PLcV3G5OCm4FEz4xfIVxjfmzCe8NqCwAe_&index=4)
 - **Lithosphäre** ist die äußerste, starre Schicht der Erde, bestehend aus einer fester Gesteinsschale.
-- **Biosphäre** umfasst die Gesamtheit der Leben auf der Erde.
--  **Anthroposphäre** umfasst alle vom Menschen geschaffenen und signifikant beeinflussten Bereiche der Erde.
+- **Biosphäre** umfasst die Gesamtheit von Raum, in dem irdische Lebewesen vorkommen.
+-  **Anthroposphäre** umfasst alle vom Menschen geschaffenen oder signifikant beeinflussten Bereiche der Erde. Z.b: landwirtschaftliche Betriebe, Kraftwerke, Häuser, Transportnetze.  [Wiki](https://de.wikipedia.org/wiki/Anthroposph%C3%A4re)
 
 # Disparitäten
  **Disparitäten** bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. Es existieren verschiedene Subkategorien von Disparitäten:
@@ -137,8 +137,14 @@ Die 1974 verabschiedete Cocoyoc-Erklärungbetonte die Entwicklung von Menschen s
 
 ###nachhaltige Entwicklungs (ab 1990er)
 Mit der Veröffentlichung der Agenda 21 und später der Formulierung der Sustainable Development Goals (SDGs) wurde ein integrativer Ansatz verfolgt, der soziale, ökonomische und ökologische Dimensionen der Entwicklung vereint. Die 17 Ziele adressieren spezifische globale Herausforderungen wie Armut, Bildung, Geschlechtergleichheit und Klimaschutz, mit dem Ziel, bis 2030 eine nachhaltige Entwicklung weltweit zu erreichen. Diese Ziele gelten universell und fordern alle Länder - unabhängig von ihrem Entwicklungsstatus - zur Teilnahme auf​.
- 
-# NGO
+
+# Sustainable Development Goals (SDGs)
+[Video](https://youtu.be/qAIolKgDPrA?si=TrnS3VuQC7vSU17w&t=31)
+
+Die Ziele für nachhaltige Entwicklung (Sustainable Development Goals, SDGs) sind ein Bündel von 17 eng miteinander verknüpften Zielen, die 2015 von den Vereinten Nationen im Rahmen der Agenda 2030 verabschiedet wurden. Sie gehen über reines Wirtschafts- und Umweltdenken hinaus und umfassen unter anderem Gesundheitsversorgung, Bildung, Geschlechtergerechtigkeit, Friedensförderung und globale Partnerschaften. Mit dem Leitprinzip „Leaving No One Behind“ verpflichten sich die Staatengemeinschaft sowie alle gesellschaftlichen Akteure – Regierungen, Privatwirtschaft und Zivilgesellschaft – dazu, alle Menschen einzubeziehen und benachteiligte Gruppen besonders zu fördern. Die 169 Unterziele und 232 Indikatoren dienen einer transparenten Messung des Fortschritts, der jährlich im High-level Political Forum (HLPF) überprüft wird. Die SDGs gelten für alle Länder gleichermaßen das heißt, sie richten sich an jedes Land, ungeachtet dessen Entwicklungsstand.
+
+
+# NGOs
 Nichtregierungsorganisationen(NGOs): Setzen sich für spezifische Anliegen wie Menschenrechte, Umweltschutz oder Entwicklungshilfe ein. Sie agieren oft als Advokaten für bestimmte Themen und beeinflussen politische Entscheidungsprozesse.
 
 # G20 
