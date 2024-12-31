@@ -10,7 +10,7 @@
 -  **Anthroposphäre** umfasst alle vom Menschen geschaffenen und signifikant beeinflussten Bereiche der Erde.
 
 # Disparitäten
-$${\color{lightgreen}(Wichtig)}$$ **Disparitäten** bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. Es existieren verschiedene Subkategorien von Disparitäten:
+ **Disparitäten** bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. Es existieren verschiedene Subkategorien von Disparitäten:
 
 - **Räumliche Disparitäten** beschreiben die Unterschiede zwischen verschiedenen Orten
   - **Regionale Disparitäten**: Ungleichheiten zwischen verschiedenen Regionen eines Landes/Gebits.
@@ -37,7 +37,7 @@ Das **Bruttoinlandsprodukt** (BIP) ist der Wert aller Endprodukte und Dienstleis
 Das **Bruttonationaleinkommen** (BNE) ist eine wirtschaftliche Kennzahl, die die Gesamtwerte aller von Inländern eines Staates erwirtschafteten Einkommen über ein Jahr hinweg misst, unabhängig davon, ob diese im Inland oder Ausland erzielt wurden. [Video](https://studyflix.de/wirtschaft/bruttonationaleinkommen-bne-1422/video)
 <br><br>
 
-### $${\color{lightgreen}(Wichtig)}$$ Human Development Index (HDI)
+### Human Development Index (HDI)
 Der **Human Development Index** (HDI) ist ein zusammengesetzter Indikator, der drei Kernbereiche menschlicher Entwicklung abbildet:
   - Lebenserwartung bei Geburt
   - Bildung: gemessen anhand durchschnittlicher und erwarteter Schuljahre
@@ -84,7 +84,7 @@ Die Begriffe „Globaler Norden“ und „Globaler Süden“ bezeichnen keine re
 
 Diese Formulierung vermeidet die Wertung von „entwickelt“ vs. „unterentwickelt“, steht aber ebenfalls in der Kritik, weil auch der Globale Süden sehr unterschiedlich entwickelte Länder umfasst.
 
-### $${\color{lightgreen}(Wichtig)}$$ Industrieländer, Schwellenländer und Entwicklungsländer
+### Industrieländer, Schwellenländer und Entwicklungsländer
 
 Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unterschiedlichen sozioökonomischen Indikatoren:
 - Industrieländer: Hochentwickelte Wirtschaft, hoher Lebensstandard, z. B. Deutschland, USA.
@@ -111,14 +111,13 @@ Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb e
 ### Exogene Ursachen
 Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrieren, externe Einflüsse als entscheidende Triebkräfte für die Entwicklung einen Staad. Diese Einflüsse können internationale Beziehungen, geopolitische Faktoren, Kolonialgeschichte und die Einbettung in das globale Wirtschaftssystem umfassen. Solche Theorien betonen, wie externe Bedingungen, wie ungleiche Handelsbeziehungen oder die historische Ausbeutung durch koloniale Mächte, die Entwicklungschancen und Strukturen eines Landes prägen.
 
-
 [Viedo: Dependenztheorie vs Modernisierungstheorie](https://www.youtube.com/watch?v=WMm1qywtpSw)
-### $${\color{lightgreen}(Wichtig)}$$ Modernisierungstheorie
+### Modernisierungstheorie
 Die Modernisierungstheorie geht davon aus, dass die Entwicklung von Gesellschaften einem linearen Prozess folgt, der durch verschiedene Stadien der Modernisierung gekennzeichnet ist. Diese Theorie betont den Wandel von traditionellen Gesellschaften zu modernen Gesellschaften durch den Einfluss von Industrialisierung, Urbanisierung, Bildung und technologischem Fortschritt. Dabei wird angenommen, dass Modernisierung zu wirtschaftlichem Wachstum, sozialem Fortschritt und politischer Stabilität führt.
 - Argumentiert, dass die Ursachen für Unterentwicklung sind endogen.
 - Entwicklung durch Erschließung und Nutzung der eigenen Ressourcen mittels externer Hilfe.
 
-### $${\color{lightgreen}(Wichtig)}$$ Dependenztheorie
+### Dependenztheorie
 Im Gegensatz zur Modernisierungstheorie betont die Dependenztheorie die ungleiche Beziehung zwischen entwickelten und unterentwickelten Ländern. Sie argumentiert, dass die Entwicklung der einen Gruppe oft auf der Unterentwicklung der anderen beruht. Abhängigkeit entsteht durch ungleiche Handelsbeziehungen, kapitalistische Ausbeutung und geopolitische Einflüsse. Die Dependenztheorie kritisiert die Idee, dass Entwicklung ein universeller Prozess ist, und argumentiert, dass die globale Ungleichheit durch systemische Ungerechtigkeiten aufrechterhalten wird.
 - Argumentiert, dass die Ursachen für Unterentwicklung sind exogen.
 - Entwicklung durch Überwindung der Abhängigkeit, Dissoziation und autonzentrierte wirtschaftliche Entfaltung.
