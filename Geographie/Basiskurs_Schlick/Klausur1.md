@@ -139,6 +139,9 @@ Mit der Veröffentlichung der Agenda 21 und später der Formulierung der Sustain
 
 Die Ziele für nachhaltige Entwicklung (Sustainable Development Goals, SDGs) sind ein Bündel von 17 eng miteinander verknüpften Zielen, die 2015 von den Vereinten Nationen im Rahmen der Agenda 2030 verabschiedet wurden. Sie gehen über reines Wirtschafts- und Umweltdenken hinaus und umfassen unter anderem Gesundheitsversorgung, Bildung, Geschlechtergerechtigkeit, Friedensförderung und globale Partnerschaften. Mit dem Leitprinzip „Leaving No One Behind“ verpflichten sich die Staatengemeinschaft sowie alle gesellschaftlichen Akteure – Regierungen, Privatwirtschaft und Zivilgesellschaft – dazu, alle Menschen einzubeziehen und benachteiligte Gruppen besonders zu fördern. Die 169 Unterziele und 232 Indikatoren dienen einer transparenten Messung des Fortschritts, der jährlich im High-level Political Forum (HLPF) überprüft wird. Die SDGs gelten für alle Länder gleichermaßen das heißt, sie richten sich an jedes Land, ungeachtet dessen Entwicklungsstand.
 
+<p align="center">
+	<img src="Img/abb1-2.png" width="1000"  title="qr code">
+</p>
 
 # NGOs
 Nichtregierungsorganisationen(NGOs): Setzen sich für spezifische Anliegen wie Menschenrechte, Umweltschutz oder Entwicklungshilfe ein. Sie agieren oft als Advokaten für bestimmte Themen und beeinflussen politische Entscheidungsprozesse.
