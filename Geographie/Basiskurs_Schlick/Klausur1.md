@@ -12,10 +12,11 @@
 # $${\color{lightgreen}(Wichtig)}$$ Disparitäten
 Disparitäten bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. Es existieren verschiedene Subkategorien von Disparitäten:
 
-- **Regionale Disparitäten**: Ungleichheiten zwischen verschiedenen Regionen eines Landes/Gebits.
-- **Globale Disparitäten**: Ungleichheiten zwischen verschiedenen Ländern oder Weltregionen.
-- **Soziale Disparitäten**: Ungleichheiten hinsichtlich Einkommen, Berufschancen, Bildung, Gesundheitsversorgung oder Lebensstandard.
-- **Wirtschaftliche Disparitäten**: Unterschiede in der wirtschaftlichen Leistungsfähigkeit.
+- **Räumliche Disparitäten** beschreiben die Unterschiede zwischen verschiedenen Orten
+  - **Regionale Disparitäten**: Ungleichheiten zwischen verschiedenen Regionen eines Landes/Gebits.
+  - **Globale Disparitäten**: Ungleichheiten zwischen verschiedenen Ländern oder Weltregionen.
+- **Soziale Disparitäten**: Ungleichheiten hinsichtlich Berufschancen, Bildung, Gesundheitsversorgung oder Lebensstandard.
+- **Wirtschaftliche Disparitäten**: Unterschiede in der wirtschaftlichen Leistungsfähigkeit und Einkommen.
   
 # Indizes
 
