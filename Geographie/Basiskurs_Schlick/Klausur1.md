@@ -22,8 +22,8 @@
   - Unzureichende Sachinvestitionen*durch Kapitalmangel
   - Autoritäre und korrupte staatliche Systeme(Endogen)
   - Konflikte(Endogen): Bürgerkriege, Revolutionen
-  - **Traditionsorientierte Strukturen(Endogen): Starker Religionsbezug, Benachteiligung von Frauen
-  - **Folgen des Kolonialismus(Exogen): Wirtschaftliche und kulturelle Abhängigkeiten zu den ehemaligen Mutterländern, Mangelhaftes Know-how beim Aufbau von staatlichen Strukturen
+  - Traditionsorientierte Strukturen(Endogen): Starker Religionsbezug, Benachteiligung von Frauen
+  - Folgen des Kolonialismus(Exogen): Wirtschaftliche und kulturelle Abhängigkeiten zu den ehemaligen Mutterländern, Mangelhaftes Know-how beim Aufbau von staatlichen Strukturen
   - Selektion auf dem Weltmarkt(Exogen): Benachteiligung, Einseitige Exportstrukturen
 
   
