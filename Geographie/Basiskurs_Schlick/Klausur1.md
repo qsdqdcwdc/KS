@@ -9,14 +9,23 @@
 - **Biosphäre** umfasst die Gesamtheit der Leben auf der Erde.
 -  **Anthroposphäre** umfasst alle vom Menschen geschaffenen und signifikant beeinflussten Bereiche der Erde.
 
-# $${\color{lightgreen}(Wichtig)}$$ Disparitäten
-Disparitäten bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. Es existieren verschiedene Subkategorien von Disparitäten:
+# Disparitäten
+$${\color{lightgreen}(Wichtig)}$$ **Disparitäten** bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. Es existieren verschiedene Subkategorien von Disparitäten:
 
 - **Räumliche Disparitäten** beschreiben die Unterschiede zwischen verschiedenen Orten
   - **Regionale Disparitäten**: Ungleichheiten zwischen verschiedenen Regionen eines Landes/Gebits.
   - **Globale Disparitäten**: Ungleichheiten zwischen verschiedenen Ländern oder Weltregionen.
 - **Soziale Disparitäten**: Ungleichheiten hinsichtlich Berufschancen, Bildung, Gesundheitsversorgung oder Lebensstandard.
-- **Wirtschaftliche Disparitäten**: Unterschiede in der wirtschaftlichen Leistungsfähigkeit und Einkommen.
+- **Wirtschaftliche Disparitäten**: Unterschiede in der wirtschaftlichen Leistungsfähigkeit und Einkommen. wirtschaftliche Disparitäten können folgende Ursachen haben:
+  - Ungünstige natürliche Gegebenheiten(Endogen): Ressourcenmangel, Nachteilige Bodenbeschaffenheit, Klimatische Bedingungen
+  - Hohe Bevölkerungswachstum(Endogen)
+  - Unzureichende Sachinvestitionen*durch Kapitalmangel
+  - Autoritäre und korrupte staatliche Systeme(Endogen)
+  - Konflikte(Endogen): Bürgerkriege, Revolutionen
+  - **Traditionsorientierte Strukturen(Endogen): Starker Religionsbezug, Benachteiligung von Frauen
+  - **Folgen des Kolonialismus(Exogen): Wirtschaftliche und kulturelle Abhängigkeiten zu den ehemaligen Mutterländern, Mangelhaftes Know-how beim Aufbau von staatlichen Strukturen
+  - Selektion auf dem Weltmarkt(Exogen): Benachteiligung, Einseitige Exportstrukturen
+
   
 # Indizes
 
