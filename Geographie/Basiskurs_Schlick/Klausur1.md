@@ -136,7 +136,7 @@ Die Truman-Doktrin initiierte Kapitalhilfen zur Förderung des technischen Forts
 ### Grundbedürfnisorientierung und nachhaltige Entwicklung (1970er)
 Die 1974 verabschiedete Cocoyoc-Erklärungbetonte die Entwicklung von Menschen statt Dingen und forderte Maßnahmen, die die Bedürfnisse zukünftiger Generationen berücksichtigen. In dieser Ära entwickelten sich Konzepte wie Hilfe zur Selbsthilfe und die Förderung von Frauen. Die Einführung des Mikrokreditsystems durch die Grameen Bank ist ein beispielhaftes Modell dieser Phase, das auf die Stärkung lokaler Kapazitäten und die Förderung von Selbstständigkeit abzielte​
 
-### $${\color{lightgreen}(Wichtig)}$$ Globale nachhaltige Entwicklungsziele (ab 1990er)
+### Globale nachhaltige Entwicklungsziele (ab 1990er)
 Mit der Veröffentlichung der Agenda 21 und später der Formulierung der Sustainable Development Goals (SDGs) wurde ein integrativer Ansatz verfolgt, der soziale, ökonomische und ökologische Dimensionen der Entwicklung vereint. Die 17 Ziele adressieren spezifische globale Herausforderungen wie Armut, Bildung, Geschlechtergleichheit und Klimaschutz, mit dem Ziel, bis 2030 eine nachhaltige Entwicklung weltweit zu erreichen. Diese Ziele gelten universell und fordern alle Länder - unabhängig von ihrem Entwicklungsstatus - zur Teilnahme auf​.
  
 # NGO
