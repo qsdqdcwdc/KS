@@ -9,12 +9,13 @@
 - **Biosphäre** umfasst die Gesamtheit der Leben auf der Erde.
 -  **Anthroposphäre** umfasst alle vom Menschen geschaffenen und signifikant beeinflussten Bereiche der Erde.
 
-# Disparitäten
-In der geographischen Forschung wird der Begriff Disparität verwendet, um die verschiedenen sozialen, wirtschaftlichen und umweltbedingten Unterschiede zu beschreiben, die sich räumlich manifestieren. Disparitäten haben verschiedenen Ebenen:
-- **Regionale Disparitäten**: Ungleichheiten zwischen verschiedenen Regionen eines Landes.
+# $${\color{lightgreen}(Wichtig)}$$ Disparitäten
+Disparitäten bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. Es existieren verschiedene Subkategorien von Disparitäten:
+
+- **Regionale Disparitäten**: Ungleichheiten zwischen verschiedenen Regionen eines Landes/Gebits.
 - **Globale Disparitäten**: Ungleichheiten zwischen verschiedenen Ländern oder Weltregionen.
-- **Soziale Disparitäten**: Ungleichheiten innerhalb einer Gesellschaft hinsichtlich Einkommen, Bildung oder Lebensstandard.
-- **Wirtschaftliche Disparitäten**: Unterschiede in der wirtschaftlichen Leistungsfähigkeit und Infrastruktur zwischen Gebieten.
+- **Soziale Disparitäten**: Ungleichheiten hinsichtlich Einkommen, Berufschancen, Bildung, Gesundheitsversorgung oder Lebensstandard.
+- **Wirtschaftliche Disparitäten**: Unterschiede in der wirtschaftlichen Leistungsfähigkeit.
   
 # Indizes
 
@@ -95,26 +96,11 @@ Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unte
 # Entwicklungstheorien 
 
 ### Endogene Ursachen
-Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb einem Staad liegende Faktoren, die ihren Entwicklungsprozess beeinflussen. Diese Faktoren umfassen kulturelle Normen, Bildungsniveaus, institutionelle Strukturen wie Regierungssysteme und Rechtsordnungen, sowie soziale Dynamiken und Beziehungen innerhalb der Gesellschaft. Die Theorie, die sich auf endogene Ursachen stützt, geht davon aus, dass eine Gesellschaft die Fähigkeit zur Selbstentwicklung besitzt und ihre Fortschritte hauptsächlich durch interne Veränderungen und Anpassungen vorangetrieben werden. Beispiele für endogene Ursachen für verzögerten Entwicklung:
-- **Ungünstige natürliche Gegebenheiten:**
-  - Ressourcenmangel
-  - Nachteilige Bodenbeschaffenheit
-- **Hohe Bevölkerungswachstum**
-- **Unzureichende Sachinvestitionen** durch Kapitalmangel
-- **Autoritäre und korrupte staatliche Systeme**
-- **Konflikte:** Bürgerkriege
-- **Traditionsorientierte Strukturen:**
-  - Starker Religionsbezug
-  - Benachteiligung von Frauen
+Endogene Ursachen in Entwicklungstheorien beziehen sich auf interne, innerhalb einem Staad liegende Faktoren, die ihren Entwicklungsprozess beeinflussen. Diese Faktoren umfassen kulturelle Normen, Bildungsniveaus, institutionelle Strukturen wie Regierungssysteme und Rechtsordnungen, sowie soziale Dynamiken und Beziehungen innerhalb der Gesellschaft. Die Theorie, die sich auf endogene Ursachen stützt, geht davon aus, dass eine Gesellschaft die Fähigkeit zur Selbstentwicklung besitzt und ihre Fortschritte hauptsächlich durch interne Veränderungen und Anpassungen vorangetrieben werden. 
 
 ### Exogene Ursachen
-Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrieren, externe Einflüsse als entscheidende Triebkräfte für die Entwicklung einen Staad. Diese Einflüsse können internationale Beziehungen, geopolitische Faktoren, Kolonialgeschichte und die Einbettung in das globale Wirtschaftssystem umfassen. Solche Theorien betonen, wie externe Bedingungen, wie ungleiche Handelsbeziehungen oder die historische Ausbeutung durch koloniale Mächte, die Entwicklungschancen und Strukturen eines Landes prägen. Beispiele für exogene Ursachen für  verzögerten Entwicklung:
-- **Folgen des Kolonialismus:**
-  - Wirtschaftliche und kulturelle Abhängigkeiten zu den ehemaligen Mutterländern
-  - Mangelhaftes Know-how beim Aufbau von staatlichen Strukturen
-- **Selektion auf dem Weltmarkt:**
-  - Benachteiligung
-  - Einseitige Exportstrukturen
+Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrieren, externe Einflüsse als entscheidende Triebkräfte für die Entwicklung einen Staad. Diese Einflüsse können internationale Beziehungen, geopolitische Faktoren, Kolonialgeschichte und die Einbettung in das globale Wirtschaftssystem umfassen. Solche Theorien betonen, wie externe Bedingungen, wie ungleiche Handelsbeziehungen oder die historische Ausbeutung durch koloniale Mächte, die Entwicklungschancen und Strukturen eines Landes prägen.
+
 
 [Viedo: Dependenztheorie vs Modernisierungstheorie](https://www.youtube.com/watch?v=WMm1qywtpSw)
 ### $${\color{lightgreen}(Wichtig)}$$ Modernisierungstheorie
