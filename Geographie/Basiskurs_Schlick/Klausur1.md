@@ -128,7 +128,9 @@ Im Gegensatz zur Modernisierungstheorie betont die Dependenztheorie die ungleich
 Die Fragmentierungstheorie betrachtet Entwicklung als einen komplexen Prozess, der nicht notwendigerweise zu einer einheitlichen Modernisierung führt. Diese Theorie argumentiert, dass die Entwicklung oft von sozialen, politischen und ökonomischen Fragmentierungen begleitet ist. Gesellschaften können verschiedene Entwicklungswege einschlagen, die zu unterschiedlichen Formen der Fragmentierung führen können, sei es in Bezug auf Ethnizität, Klasse oder andere soziale Unterschiede. [Video](https://www.youtube.com/watch?v=qlDDq2ztjBs)
 
 # Evolution von Entwicklungshilfestrategien
-### Kapitalhilfen und technischer Fortschrit (1949-1960er)
+[Gutes Video](https://www.youtube.com/watch?v=IGug2UZ_5rA)
+
+### Kapitalhilfen und technischer Fortschrit (1960er)
 Die Truman-Doktrin initiierte Kapitalhilfen zur Förderung des technischen Fortschritts in Entwicklungsregionen, mit dem Ziel, wirtschaftliches Wachstum zu stimulieren. Diese Politik basierte auf der Annahme, dass wirtschaftlicher Aufschwung zu verbesserten Lebensbedingungen führt und zielte darauf ab, die Wachstumsschwelle zu selbsttragendem Wachstum zu überschreiten. Die Förderung beschränkte sich oft auf industrielle und infrastrukturelle Projekte. Die Effektivität war jedoch begrenzt, da viele der Hilfsgelder durch Korruption und ineffiziente Verteilung verloren gingen. 
 
 ### Grundbedürfnisorientierung und nachhaltige Entwicklung (1970er)
