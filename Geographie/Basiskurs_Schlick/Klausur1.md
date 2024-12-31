@@ -1,4 +1,8 @@
 
+
+# Algemeine Qullen
+- 2/3 Glasur in einem 8min Video zusammengefasst -> [Disparitäten, Indikatoren, Entwicklungsstheorien, Entwicklungszusammenarbeit, Entwicklungsstrategien](https://www.youtube.com/watch?v=YGe0-9PdqUo&)
+
 # Erdsphären
 
 - **Atmosphäre** umfasst die Gashülle der Erde.
@@ -12,9 +16,9 @@
 # Disparitäten
  **Disparitäten** bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. Es existieren verschiedene Subkategorien von Disparitäten:
 
-- **Räumliche Disparitäten** beschreiben die Unterschiede zwischen verschiedenen Orten
+- **Räumliche Disparitäten** beschreiben die Unterschiede zwischen verschiedenen Orten [Video(https://www.youtube.com/watch?v=ixbFFG2GhTg)
   - **Regionale Disparitäten**: Ungleichheiten zwischen verschiedenen Regionen eines Landes/Gebits.
-  - **Globale Disparitäten**: Ungleichheiten zwischen verschiedenen Ländern oder Weltregionen.
+  - **Globale Disparitäten**: Ungleichheiten zwischen verschiedenen Ländern oder Weltregionen. [Video](https://www.youtube.com/watch?v=YGe0-9PdqUo&t=13s)
 - **Soziale Disparitäten**: Ungleichheiten hinsichtlich Berufschancen, Bildung, Gesundheitsversorgung oder Lebensstandard.
 - **Wirtschaftliche Disparitäten**: Unterschiede in der wirtschaftlichen Leistungsfähigkeit und Einkommen. wirtschaftliche Disparitäten können folgende Ursachen haben:
   - Ungünstige natürliche Gegebenheiten(Endogen): Ressourcenmangel, Nachteilige Bodenbeschaffenheit, Klimatische Bedingungen
@@ -131,8 +135,8 @@ Die Truman-Doktrin initiierte Kapitalhilfen zur Förderung des technischen Forts
 ### Grundbedürfnisstrategie (1970er)
 Die 1974 verabschiedete Cocoyoc-Erklärungbetonte die Entwicklung von Menschen statt Dingen und forderte Maßnahmen, die die Bedürfnisse zukünftiger Generationen berücksichtigen. In dieser Ära entwickelten sich Konzepte wie Hilfe zur Selbsthilfe und die Förderung von Frauen. Die Einführung des Mikrokreditsystems durch die Grameen Bank ist ein beispielhaftes Modell dieser Phase, das auf die Stärkung lokaler Kapazitäten und die Förderung von Selbstständigkeit abzielte​
 
-###nachhaltige Entwicklungs (ab 1990er)
-Mit der Veröffentlichung der Agenda 21 und später der Formulierung der Sustainable Development Goals (SDGs) wurde ein integrativer Ansatz verfolgt, der soziale, ökonomische und ökologische Dimensionen der Entwicklung vereint. Die 17 Ziele adressieren spezifische globale Herausforderungen wie Armut, Bildung, Geschlechtergleichheit und Klimaschutz, mit dem Ziel, bis 2030 eine nachhaltige Entwicklung weltweit zu erreichen. Diese Ziele gelten universell und fordern alle Länder - unabhängig von ihrem Entwicklungsstatus - zur Teilnahme auf​.
+### Nachhaltige Entwicklungs (ab 1990er)
+Mit der Veröffentlichung der Agenda 21 und später der Formulierung der Sustainable Development Goals (SDGs) wurde ein integrativer Ansatz verfolgt, der soziale, ökonomische und ökologische Dimensionen der Entwicklung vereint. Die 17 Ziele adressieren spezifische globale Herausforderungen wie Armut, Bildung, Geschlechtergleichheit und Klimaschutz, mit dem Ziel, bis 2030 eine nachhaltige Entwicklung weltweit zu erreichen. Diese Ziele gelten universell und fordern alle Länder - unabhängig von ihrem Entwicklungsstatus - zur Teilnahme auf​. [Video](https://www.youtube.com/watch?v=q_QpO38e8jI)
 
 # Sustainable Development Goals (SDGs)
 [Video](https://youtu.be/qAIolKgDPrA?si=TrnS3VuQC7vSU17w&t=31)
@@ -142,6 +146,9 @@ Die Ziele für nachhaltige Entwicklung (Sustainable Development Goals, SDGs) sin
 <p align="center">
 	<img src="Img/abb1-2.png" width="1000"  title="qr code">
 </p>
+
+# Entwicklungszusammenarbeit
+
 
 # NGOs
 Nichtregierungsorganisationen(NGOs): Setzen sich für spezifische Anliegen wie Menschenrechte, Umweltschutz oder Entwicklungshilfe ein. Sie agieren oft als Advokaten für bestimmte Themen und beeinflussen politische Entscheidungsprozesse.
