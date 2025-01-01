@@ -122,7 +122,6 @@ Die Modernisierungstheorie geht davon aus, dass die Entwicklung von Gesellschaft
 ### Dependenztheorie
 Im Gegensatz zur Modernisierungstheorie betont die Dependenztheorie die ungleiche Beziehung zwischen entwickelten und unterentwickelten Ländern. Sie argumentiert, dass die Entwicklung der einen Gruppe oft auf der Unterentwicklung der anderen beruht. Abhängigkeit entsteht durch ungleiche Handelsbeziehungen, kapitalistische Ausbeutung und geopolitische Einflüsse. Die Dependenztheorie kritisiert die Idee, dass Entwicklung ein universeller Prozess ist, und argumentiert, dass die globale Ungleichheit durch systemische Ungerechtigkeiten aufrechterhalten wird. Argumentiert, dass die Ursachen für Unterentwicklung sind exogen  Entwicklung durch Überwindung der Abhängigkeit, Dissoziation und autonzentrierte wirtschaftliche Entfaltung.
 
-
 ### Fragmentierungstheorie
 Die Fragmentierungstheorie betrachtet Entwicklung als einen komplexen Prozess, der nicht notwendigerweise zu einer einheitlichen Modernisierung führt. Diese Theorie argumentiert, dass die Entwicklung oft von sozialen, politischen und ökonomischen Fragmentierungen begleitet ist. Gesellschaften können verschiedene Entwicklungswege einschlagen, die zu unterschiedlichen Formen der Fragmentierung führen können, sei es in Bezug auf Ethnizität, Klasse oder andere soziale Unterschiede. [Video](https://www.youtube.com/watch?v=qlDDq2ztjBs)
 
@@ -147,8 +146,10 @@ Die Ziele für nachhaltige Entwicklung (Sustainable Development Goals, SDGs) sin
 	<img src="Img/abb1-2.png" width="1000"  title="qr code">
 </p>
 
-# Entwicklungszusammenarbeit
+# Globale Herausforderungen 
 
+
+# Entwicklungszusammenarbeit
 
 # NGOs
 [Video](https://www.youtube.com/watch?v=7aUR3p71IBE)
