@@ -1,7 +1,21 @@
 
-
-
 2/3 Glasur in einem 8min Video zusammengefasst -> [Disparitäten, Indikatoren, Entwicklungsstheorien, Entwicklungszusammenarbeit, Entwicklungsstrategien](https://www.youtube.com/watch?v=YGe0-9PdqUo&)
+
+# Inhaltsangabe
+- [Erdsphären](#erdsphären)
+- [Globale Herausforderungen](#globale-herausforderungen)
+- [Disparitäten](#disparitäten)
+- [Indizes](#indizes)
+- [Klassifizierung von Ländern](#klassifizierung-von-ländern)
+- [Migration](#migration)
+- [Entwicklungstheorien](#entwicklungstheorien)
+- [Evolution von Entwicklungshilfestrategien](#evolution-von-entwicklungshilfestrategien)
+- [Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
+- [Entwicklungszusammenarbeit](#entwicklungszusammenarbeit)
+- [TODO: Raumbeispiele](#todo-raumbeispiele)
+- [NGOs](#ngos)
+- [G20](#g20)
+- [COP29](#cop29) 
 
 # Erdsphären
 - **Atmosphäre** umfasst die Gashülle der Erde.
@@ -13,6 +27,10 @@
 -  **Anthroposphäre** umfasst alle vom Menschen geschaffenen oder signifikant beeinflussten Bereiche der Erde. Z.b: landwirtschaftliche Betriebe, Kraftwerke, Häuser, Transportnetze.  [Wiki](https://de.wikipedia.org/wiki/Anthroposph%C3%A4re)
 
 Weitergehende  die Informationen: [Liste der Erdsphären](https://de.wikipedia.org/wiki/Liste_der_Erdsph%C3%A4ren)
+
+# Globale Herausforderungen 
+Globale Herausforderungen beziehen sich auf komplexe Probleme, die über nationale Grenzen hinweggehen und die gesamte Menschheit betreffen. Dazu zählen Themen wie der Klimawandel, Armut, soziale Ungleichheit, Gesundheitskrisen und geopolitische Konflikte. Diese Herausforderungen erfordern internationale Zusammenarbeit und nachhaltige Lösungsansätze.
+
 # Disparitäten
  **Disparitäten** bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. Es existieren verschiedene Subkategorien von Disparitäten:
 
@@ -149,15 +167,12 @@ Die Ziele für nachhaltige Entwicklung (Sustainable Development Goals, SDGs) sin
 	<img src="Img/abb1-2.png" width="1000"  title="qr code">
 </p>
 
-# Globale Herausforderungen 
-Globale Herausforderungen beziehen sich auf komplexe Probleme, die über nationale Grenzen hinweggehen und die gesamte Menschheit betreffen. Dazu zählen Themen wie der Klimawandel, Armut, soziale Ungleichheit, Gesundheitskrisen und geopolitische Konflikte. Diese Herausforderungen erfordern internationale Zusammenarbeit und nachhaltige Lösungsansätze.
-
-
-
 # Entwicklungszusammenarbeit
 [Video](https://www.youtube.com/watch?v=_e2EEU2vOVY)
 
 Entwicklungszusammenarbeit bezeichnet die kooperative Interaktion zwischen Industrie- und Entwicklungsländern mit dem Ziel, sozioökonomische Disparitäten global zu mindern. Sie umfasst technische, finanzielle und personelle Unterstützung und strebt eine nachhaltige Verbesserung an. Das Konzept hat sich von einer einseitigen Entwicklungshilfe zu einer gleichberechtigten Partnerschaft gewandelt, wobei die Maßnahmen zusammengebrannt und verwirklicht werden und beide Seiten Verantwortung für das Erfolg tragen. Die Entwicklungszusammenarbeit basiert auf dem Prinzip von "Hilfe zur Selbsthilfe". Hilfe zur Selbsthilfe zielt darauf ab, Menschen zu befähigen, ihre Lebensbedingungen eigenständig zu verbessern. Dies wird durch Maßnahmen wie Bildung, Bereitstellung von Ressourcen und Förderung lokaler Initiativen erreicht. Die Ziele der Entwicklungszusammenarbeit orientieren sich an SDGs.
+
+# TODO: Raumbeispiele
 
 # NGOs
 [Video](https://www.youtube.com/watch?v=7aUR3p71IBE)
