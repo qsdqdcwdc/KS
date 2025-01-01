@@ -12,7 +12,7 @@
 - [Evolution von Entwicklungshilfestrategien](#evolution-von-entwicklungshilfestrategien)
 - [Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
 - [Entwicklungszusammenarbeit](#entwicklungszusammenarbeit)
-- [TODO: Raumbeispiele](#todo-raumbeispiele)
+- [Raumbeispiele](#raumbeispiele)
 - [NGOs](#ngos)
 - [G20](#g20)
 - [COP29](#cop29) 
@@ -172,7 +172,9 @@ Die Ziele für nachhaltige Entwicklung (Sustainable Development Goals, SDGs) sin
 
 Entwicklungszusammenarbeit bezeichnet die kooperative Interaktion zwischen Industrie- und Entwicklungsländern mit dem Ziel, sozioökonomische Disparitäten global zu mindern. Sie umfasst technische, finanzielle und personelle Unterstützung und strebt eine nachhaltige Verbesserung an. Das Konzept hat sich von einer einseitigen Entwicklungshilfe zu einer gleichberechtigten Partnerschaft gewandelt, wobei die Maßnahmen zusammengebrannt und verwirklicht werden und beide Seiten Verantwortung für das Erfolg tragen. Die Entwicklungszusammenarbeit basiert auf dem Prinzip von "Hilfe zur Selbsthilfe". Hilfe zur Selbsthilfe zielt darauf ab, Menschen zu befähigen, ihre Lebensbedingungen eigenständig zu verbessern. Dies wird durch Maßnahmen wie Bildung, Bereitstellung von Ressourcen und Förderung lokaler Initiativen erreicht. Die Ziele der Entwicklungszusammenarbeit orientieren sich an SDGs.
 
-# TODO: Raumbeispiele
+# Raumbeispiele
+
+\\todo
 
 # NGOs
 [Video](https://www.youtube.com/watch?v=7aUR3p71IBE)
