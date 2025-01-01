@@ -119,8 +119,10 @@ Im Gegensatz dazu betrachten Theorien, die sich auf exogene Ursachen konzentrier
 ### Modernisierungstheorie
 Die Modernisierungstheorie geht davon aus, dass die Entwicklung von Gesellschaften einem linearen Prozess folgt, der durch verschiedene Stadien der Modernisierung gekennzeichnet ist. Diese Theorie betont den Wandel von traditionellen Gesellschaften zu modernen Gesellschaften durch den Einfluss von Industrialisierung, Urbanisierung, Bildung und technologischem Fortschritt. Dabei wird angenommen, dass Modernisierung zu wirtschaftlichem Wachstum, sozialem Fortschritt und politischer Stabilität führt. fordert Entwicklung durch Erschließung und Nutzung der eigenen Ressourcen mittels externer Hilfe.
 
-### Dependenztheorie
-Im Gegensatz zur Modernisierungstheorie betont die Dependenztheorie die ungleiche Beziehung zwischen entwickelten und unterentwickelten Ländern. Sie argumentiert, dass die Entwicklung der einen Gruppe oft auf der Unterentwicklung der anderen beruht. Abhängigkeit entsteht durch ungleiche Handelsbeziehungen, kapitalistische Ausbeutung und geopolitische Einflüsse. Die Dependenztheorie kritisiert die Idee, dass Entwicklung ein universeller Prozess ist, und argumentiert, dass die globale Ungleichheit durch systemische Ungerechtigkeiten aufrechterhalten wird. Argumentiert, dass die Ursachen für Unterentwicklung sind exogen  Entwicklung durch Überwindung der Abhängigkeit, Dissoziation und autonzentrierte wirtschaftliche Entfaltung.
+Eine Dissoziationsstrategie, die oft von Dependenztheoretikern befürwortet wird, beinhaltet das Abkoppeln oder Entkoppeln der peripheren Ökonomien vom Weltmarkt, um eine autonome Entwicklung zu fördern. Diese Strategie zielt darauf ab, die ökonomische Selbstständigkeit zu stärken, indem lokale Industrien gefördert und externe Abhängigkeiten reduziert werden. Diese Ansicht ist jedoch umstritten
+
+#### Dissoziationsstrategie
+Die Dissoziationsstrategie ist eine entwicklungspolitische Konzeption, die auf einer zeitweiligen Trennung von Entwicklungsländern vom Weltmarkt basiert, um eine eigenständige und tragfähige Wirtschaft zu fördern. Diese Strategie baut auf der Annahme auf, dass Entwicklungsländer ihre Wirtschaft durch den Schutz vor internationaler Konkurrenz und die Förderung lokaler Produktion stärken können. Historische Beispiele für eine solche Strategie finden sich in den protektionistischen Politiken.
 
 ### Fragmentierungstheorie
 Die Fragmentierungstheorie betrachtet Entwicklung als einen komplexen Prozess, der nicht notwendigerweise zu einer einheitlichen Modernisierung führt. Diese Theorie argumentiert, dass die Entwicklung oft von sozialen, politischen und ökonomischen Fragmentierungen begleitet ist. Gesellschaften können verschiedene Entwicklungswege einschlagen, die zu unterschiedlichen Formen der Fragmentierung führen können, sei es in Bezug auf Ethnizität, Klasse oder andere soziale Unterschiede. [Video](https://www.youtube.com/watch?v=qlDDq2ztjBs)
@@ -137,6 +139,7 @@ Die 1974 verabschiedete Cocoyoc-Erklärungbetonte die Entwicklung von Menschen s
 ### Nachhaltige Entwicklungs (ab 1990er)
 Mit der Veröffentlichung der Agenda 21 und später der Formulierung der Sustainable Development Goals (SDGs) wurde ein integrativer Ansatz verfolgt, der soziale, ökonomische und ökologische Dimensionen der Entwicklung vereint. Die 17 Ziele adressieren spezifische globale Herausforderungen wie Armut, Bildung, Geschlechtergleichheit und Klimaschutz, mit dem Ziel, bis 2030 eine nachhaltige Entwicklung weltweit zu erreichen. Diese Ziele gelten universell und fordern alle Länder - unabhängig von ihrem Entwicklungsstatus - zur Teilnahme auf​. [Video](https://www.youtube.com/watch?v=q_QpO38e8jI)
 
+
 # Sustainable Development Goals (SDGs)
 [Video](https://youtu.be/qAIolKgDPrA?si=TrnS3VuQC7vSU17w&t=31)
 
@@ -147,9 +150,15 @@ Die Ziele für nachhaltige Entwicklung (Sustainable Development Goals, SDGs) sin
 </p>
 
 # Globale Herausforderungen 
+Globale Herausforderungen beziehen sich auf komplexe Probleme, die über nationale Grenzen hinweggehen und die gesamte Menschheit betreffen. Dazu zählen Themen wie der Klimawandel, Armut, soziale Ungleichheit, Gesundheitskrisen und geopolitische Konflikte. Diese Herausforderungen erfordern internationale Zusammenarbeit und nachhaltige Lösungsansätze.
+
 
 
 # Entwicklungszusammenarbeit
+[Video](https://www.youtube.com/watch?v=_e2EEU2vOVY)
+
+Entwicklungszusammenarbeit bezeichnet die kooperative Interaktion zwischen Industrie- und Entwicklungsländern mit dem Ziel, sozioökonomische Disparitäten global zu mindern. Sie umfasst technische, finanzielle und personelle Unterstützung und strebt eine nachhaltige Verbesserung an, die langfristig eigenständige Fortschritte ermöglicht. Das Konzept hat sich von einer einseitigen Entwicklungshilfe zu einer gleichberechtigten Partnerschaft gewandelt, wobei das Prinzip der Hilfe zur Selbsthilfe zentral ist​. Hilfe zur Selbsthilfe zielt darauf ab, Menschen zu befähigen, ihre Lebensbedingungen eigenständig zu verbessern. Dies wird durch Maßnahmen wie Bildung, Bereitstellung von Ressourcen und Förderung lokaler Initiativen erreicht. 
+
 
 # NGOs
 [Video](https://www.youtube.com/watch?v=7aUR3p71IBE)
