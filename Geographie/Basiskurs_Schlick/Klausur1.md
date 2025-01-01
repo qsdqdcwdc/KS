@@ -30,6 +30,14 @@ Weitergehende  die Informationen: [Liste der Erdsphären](https://de.wikipedia.o
 
 # Globale Herausforderungen 
 Globale Herausforderungen beziehen sich auf komplexe Probleme, die über nationale Grenzen hinweggehen und die gesamte Menschheit betreffen. Dazu zählen Themen wie der Klimawandel, Armut, soziale Ungleichheit, Gesundheitskrisen und geopolitische Konflikte. Diese Herausforderungen erfordern internationale Zusammenarbeit und nachhaltige Lösungsansätze.
+### Klimawandel
+Klimawandel Seit Beginn der Industrialisierung emittiert der Mensch in großem Maße Treibhausgase in die Atmosphäre. Diese führen zu einer Verstärkung des natürlichen Treibhauseffekts. Damit verbundene Auswirkungen wie der Meeresspiegelanstieg, zunehmende Wetterextreme oder der Verlust an Biodiversität gefährden die Lebensgrundlagen des Menschen.
+
+### Städte
+In den nächsten Jahrzehnten wird der Anteil der städtischen Bevölkerung deutlich ansteigen. Die Ballung von Menschen auf begrenztem Raum kann zu weiteren sozialen Problemen und Konflikten innerhalb des Stadt raumes führen.
+
+### Disparitäre Entwicklungen
+Disparitäre Entwicklungen bezeichnen globale Ungleichheiten in Wirtschaft, Bildung und Lebensstandard. Ursachen sind historische Ausbeutung, ungleiche Handelsbedingungen und politische Instabilität. Folgen sind Armut, Migration und soziale Spannungen. Maßnahmen wie Entwicklungszusammenarbeit und faire Handelspraktiken zielen darauf ab, diese Disparitäten zu verringern.
 
 # Disparitäten
  **Disparitäten** bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. Es existieren verschiedene Subkategorien von Disparitäten:
@@ -154,8 +162,8 @@ Die Truman-Doktrin initiierte Kapitalhilfen zur Förderung des technischen Forts
 ### Grundbedürfnisstrategie (1970er)
 Die 1974 verabschiedete Cocoyoc-Erklärungbetonte die Entwicklung von Menschen statt Dingen und forderte Maßnahmen, die die Bedürfnisse zukünftiger Generationen berücksichtigen. In dieser Ära entwickelten sich Konzepte wie Hilfe zur Selbsthilfe und die Förderung von Frauen. Die Einführung des Mikrokreditsystems durch die Grameen Bank ist ein beispielhaftes Modell dieser Phase, das auf die Stärkung lokaler Kapazitäten und die Förderung von Selbstständigkeit abzielte​
 
-### Nachhaltige Entwicklungs (ab 1990er)
-Mit der Veröffentlichung der Agenda 21 und später der Formulierung der Sustainable Development Goals (SDGs) wurde ein integrativer Ansatz verfolgt, der soziale, ökonomische und ökologische Dimensionen der Entwicklung vereint. Die 17 Ziele adressieren spezifische globale Herausforderungen wie Armut, Bildung, Geschlechtergleichheit und Klimaschutz, mit dem Ziel, bis 2030 eine nachhaltige Entwicklung weltweit zu erreichen. [Video](https://www.youtube.com/watch?v=q_QpO38e8jI)
+### Nachhaltige Entwicklung (ab 1990er)
+Nachhaltige Entwicklung zielt darauf ab, die Bedürfnisse der Gegenwart zu erfüllen, ohne die Möglichkeiten zukünftiger Generationen zu beeinträchtigen, ihre eigenen Bedürfnisse zu decken. Dieses Konzept integriert ökologische, ökonomische und soziale Dimensionen und erfordert eine enge Zusammenarbeit zwischen verschiedenen Akteuren, um globale Herausforderungen wie Umweltzerstörung, soziale Ungleichheit und Ressourcenknappheit zu bewältigen. Die Prinzipien der Nachhaltigkeit betonen dabei die Notwendigkeit eines Gleichgewichts zwischen diesen Dimensionen, um eine langfristig tragfähige Entwicklung sicherzustellen.  [Video](https://www.youtube.com/watch?v=q_QpO38e8jI)
 
 
 # Sustainable Development Goals (SDGs)
