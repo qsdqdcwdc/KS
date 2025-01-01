@@ -157,8 +157,7 @@ Globale Herausforderungen beziehen sich auf komplexe Probleme, die über nationa
 # Entwicklungszusammenarbeit
 [Video](https://www.youtube.com/watch?v=_e2EEU2vOVY)
 
-Entwicklungszusammenarbeit bezeichnet die kooperative Interaktion zwischen Industrie- und Entwicklungsländern mit dem Ziel, sozioökonomische Disparitäten global zu mindern. Sie umfasst technische, finanzielle und personelle Unterstützung und strebt eine nachhaltige Verbesserung an, die langfristig eigenständige Fortschritte ermöglicht. Das Konzept hat sich von einer einseitigen Entwicklungshilfe zu einer gleichberechtigten Partnerschaft gewandelt, wobei das Prinzip der Hilfe zur Selbsthilfe zentral ist​. Hilfe zur Selbsthilfe zielt darauf ab, Menschen zu befähigen, ihre Lebensbedingungen eigenständig zu verbessern. Dies wird durch Maßnahmen wie Bildung, Bereitstellung von Ressourcen und Förderung lokaler Initiativen erreicht. 
-
+Entwicklungszusammenarbeit bezeichnet die kooperative Interaktion zwischen Industrie- und Entwicklungsländern mit dem Ziel, sozioökonomische Disparitäten global zu mindern. Sie umfasst technische, finanzielle und personelle Unterstützung und strebt eine nachhaltige Verbesserung an. Das Konzept hat sich von einer einseitigen Entwicklungshilfe zu einer gleichberechtigten Partnerschaft gewandelt, wobei die Maßnahmen zusammengebrannt und verwirklicht werden und beide Seiten Verantwortung für das Erfolg tragen. Die Entwicklungszusammenarbeit basiert auf dem Prinzip von "Hilfe zur Selbsthilfe". Hilfe zur Selbsthilfe zielt darauf ab, Menschen zu befähigen, ihre Lebensbedingungen eigenständig zu verbessern. Dies wird durch Maßnahmen wie Bildung, Bereitstellung von Ressourcen und Förderung lokaler Initiativen erreicht. Die Ziele der Entwicklungszusammenarbeit orientieren sich an SDGs.
 
 # NGOs
 [Video](https://www.youtube.com/watch?v=7aUR3p71IBE)
