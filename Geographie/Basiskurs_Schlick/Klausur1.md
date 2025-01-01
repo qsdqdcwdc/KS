@@ -1,11 +1,9 @@
 
 
-# Algemeine Qullen
-- 2/3 Glasur in einem 8min Video zusammengefasst -> [Disparitäten, Indikatoren, Entwicklungsstheorien, Entwicklungszusammenarbeit, Entwicklungsstrategien](https://www.youtube.com/watch?v=YGe0-9PdqUo&)
+
+2/3 Glasur in einem 8min Video zusammengefasst -> [Disparitäten, Indikatoren, Entwicklungsstheorien, Entwicklungszusammenarbeit, Entwicklungsstrategien](https://www.youtube.com/watch?v=YGe0-9PdqUo&)
 
 # Erdsphären
-[Liste der Erdsphären](https://de.wikipedia.org/wiki/Liste_der_Erdsph%C3%A4ren)
-
 - **Atmosphäre** umfasst die Gashülle der Erde.
 - **Hydrosphäre** beinhaltet alle Wasservorkommen der Erde, einschließlich Ozeane, Seen, Flüsse, Gletscher, Wasser in der Atmosphäre und Grundwasser.
 - **Reliefsphäre** umfasst die Gesamtheit der festen Oberflächenformen der Erde, inklusive der terrestrischen Erdoberflächen und der festen Oberflächen am Grund der Meere. Sie wird durch endogene und exogene Prozesse geformt, die Verwitterung, Erosion, Transport und Ablagerung von Material einschließen. [Wiki](https://de.wikipedia.org/wiki/Reliefsph%C3%A4re)
@@ -14,6 +12,7 @@
 - **Biosphäre** umfasst die Gesamtheit von Raum, in dem irdische Lebewesen vorkommen.
 -  **Anthroposphäre** umfasst alle vom Menschen geschaffenen oder signifikant beeinflussten Bereiche der Erde. Z.b: landwirtschaftliche Betriebe, Kraftwerke, Häuser, Transportnetze.  [Wiki](https://de.wikipedia.org/wiki/Anthroposph%C3%A4re)
 
+Weitergehende  die Informationen: [Liste der Erdsphären](https://de.wikipedia.org/wiki/Liste_der_Erdsph%C3%A4ren)
 # Disparitäten
  **Disparitäten** bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. Es existieren verschiedene Subkategorien von Disparitäten:
 
@@ -68,7 +67,7 @@ Der **Global Gender Gap Index** (GGI), entwickelt vom World Economic Forum (WEF)
 <br><br>
 
 ### Analphabetenrate
-Die Analphabetenrate, misst den Prozentsatz der erwachsenen Bevölkerung (typischerweise Personen ab 15 Jahren), der nicht in der Lage ist, einfache und kurze Sätze zu lesen und zu schreiben. [UNESCO](https://uis.unesco.org/node/3297450)
+Die Analphabetenrate, misst den Prozentsatz der erwachsenen Bevölkerung (typischerweise Personen ab 15 Jahren), der nicht in der Lage ist, einfache und kurze Sätze zu lesen und zu schreiben.
 <br><br>
 
 ### Lebenserwartung
