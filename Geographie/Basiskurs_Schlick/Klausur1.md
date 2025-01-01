@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="Img/qr_geo_klas1.png" width="250"  title="qr code">
+	<img src="Img/qr_geo_klas1_1.png" width="250"  title="qr code">
 	<br>
 	<em>QR-Code scannen um dieses Dokument auf dem IPad zu öffnen</em>
 </p>
