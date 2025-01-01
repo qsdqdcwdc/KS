@@ -4,6 +4,7 @@
 - 2/3 Glasur in einem 8min Video zusammengefasst -> [Disparitäten, Indikatoren, Entwicklungsstheorien, Entwicklungszusammenarbeit, Entwicklungsstrategien](https://www.youtube.com/watch?v=YGe0-9PdqUo&)
 
 # Erdsphären
+[Liste der Erdsphären](https://de.wikipedia.org/wiki/Liste_der_Erdsph%C3%A4ren)
 
 - **Atmosphäre** umfasst die Gashülle der Erde.
 - **Hydrosphäre** beinhaltet alle Wasservorkommen der Erde, einschließlich Ozeane, Seen, Flüsse, Gletscher, Wasser in der Atmosphäre und Grundwasser.
