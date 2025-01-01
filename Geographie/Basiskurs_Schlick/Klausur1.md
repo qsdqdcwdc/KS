@@ -156,16 +156,19 @@ Die Ziele für nachhaltige Entwicklung (Sustainable Development Goals, SDGs) sin
 Nichtregierungsorganisationen (NGOs), sind private, nicht gewinnorientierte Einrichtungen, die unabhängig von Regierungen operieren. Typische Betätigungsfelder für NGOs sind Umweltschutz, Entwicklungshilfe und Menschenrechte.
 
 
-# G20 
-Der G20, kurz für "Group of 20", ist ein internationales Forum bestehend aus 19 Mitgliedstaaten, Europäischen Union und [Afrikanischen Union](https://de.wikipedia.org/wiki/Afrikanische_Union).  Es wurde 1999 als Reaktion auf globale Wirtschaftskrisen gegründet und zielt darauf ab, systemisch wichtige Industrie- und Entwicklungsländer zusammenzubringen, um Schlüsselthemen der globalen Wirtschaft zu besprechen, einschließlich nachhaltiger Entwicklung, sowie ein Gruppenfoto der Regierungschefs zu machen. Die Mitglieder des G20 repräsentieren zusammen etwa 85% des weltweiten Bruttoinlandsprodukts und 75% des internationalen Handels. [Video](https://www.youtube.com/watch?v=1v5Qx1E-Vc4)
-
 ### Greenpeace
 Greenpeace ist eine, weltweit agierende Nichtregierungsorganisation, die sich dem Schutz bedrohter Tierarten, der Verhinderung von Umweltmissbrauch und der Steigerung des Umweltbewusstseins durch direkte Konfrontationen mit verschmutzenden Unternehmen und Regierungsbehörden widmet. Greenpeace wurde 1971 in Canada gegründet, um den US-amerikanischen Kernwaffentests auf der Insel Amchitka in Alaska entgegenzutreten. [Britannica](https://www.britannica.com/topic/Greenpeace?utm_source=chatgpt.com)
 
-# COP29
-[Video 1](https://www.youtube.com/watch?v=E813n4__BIk)
+### Brot für die Welt
+Brot für die Welt ist ein Entwicklungs- und Hilfswerk der evangelischen Landes- und Freikirchen in Deutschland, das in etwa 90 Ländern weltweit aktiv ist. Kernbereiche ihrer Arbeit umfassen die Sicherung von Ernährung, die Förderung von Bildung und Gesundheit, die Verbesserung der Wasserversorgung und den Einsatz für Geschlechtergerechtigkei.
 
-[Video 2](https://www.youtube.com/watch?v=O1VHjMm5ZX8)
+# G20 
+Der G20, kurz für "Group of 20", ist ein internationales Forum bestehend aus 19 Mitgliedstaaten, Europäischen Union und [Afrikanischen Union](https://de.wikipedia.org/wiki/Afrikanische_Union).  Es wurde 1999 als Reaktion auf globale Wirtschaftskrisen gegründet und zielt darauf ab, systemisch wichtige Industrie- und Entwicklungsländer zusammenzubringen, um Schlüsselthemen der globalen Wirtschaft zu besprechen, einschließlich nachhaltiger Entwicklung, sowie ein Gruppenfoto der Regierungschefs zu machen. Die Mitglieder des G20 repräsentieren zusammen etwa 85% des weltweiten Bruttoinlandsprodukts und 75% des internationalen Handels. [Video](https://www.youtube.com/watch?v=1v5Qx1E-Vc4)
+
+# COP29
+[Video 1: allgemeine Informationen](https://www.youtube.com/watch?v=E813n4__BIk)
+
+[Video 2: Ergebnisse](https://www.youtube.com/watch?v=O1VHjMm5ZX8)
 
 Die "Conference of the Parties" (COP) ist die jährliche Konferenz der Parteien der [UNFCCC](https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change) zur Bewertung der Fortschritte im Umgang mit dem Klimawandel sowie zur Koordination von globalen Klimaschutzmaßnahmen.  Wesentliche Ergebnisse früherer COP-Treffen umfassen das Kyoto-Protokoll und das Pariser Abkommen, welche rechtliche Rahmenbedingungen und Zielsetzungen zur Emissionsminderung festlegten. Die "29th Conference of the Parties" (COP29) fand vom 11. bis 22. November 2024 in Baku, Aserbaidschan, statt. Im Mittelpunkt stand die Festlegung eines neuen kollektiven quantifizierten Ziels (NCQG) zur finanziellen Unterstützung von Entwicklungsländern bei Klimaschutzmaßnahmen. Die 29. Konferenz war von einem Skandal gekennzeichnet, der sich um die vermeintlichen Unzulänglichkeiten bei den Zusagen zur Klimafinanzierung drehte. Die 29. Konferenz wurde durch einen Skandal geprägt, der sich um die wahrgenommenen Unzulänglichkeiten der Zusagen zur Klimafinanzierung dreht. Zentrale Kritikpunkte ergeben sich aus der endgültigen Vereinbarung, 300 Milliarden Dollar für die Klimafinanzierung zu mobilisieren, eine Summe, die von vielen Beteiligten als unzureichend angesehen wird angesichts des geschätzten Bedarfs von mindestens 1 Billion Dollar, um den globalen Klimaherausforderungen angemessen zu begegnen. 
 
