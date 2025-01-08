@@ -82,7 +82,7 @@ Der **Human Development Index** (HDI) ist ein zusammengesetzter Indikator, der d
   - Bildung: gemessen anhand durchschnittlicher und erwarteter Schuljahre
   - Bruttonationaleinkommen pro Kopf in USD.
 
-Die Indizes dieser Bereiche werden gemittelt und auf einer Skala von 0 (niedrigstes Entwicklungsniveau) bis 1 (höchstes Entwicklungsniveau) abgebildet. Der HDI wird jährlich im Human Development Report des United Nations Development Programme (UNDP) veröffentlicht. Deutschland hat HDI von 0,94 (2024). [Video](https://www.youtube.com/watch?v=UIARB24wAnw)
+Die Indizes dieser Bereiche werden gemittelt und auf einer Skala von 0 (niedrigstes Entwicklungsniveau) bis 1 (höchstes Entwicklungsniveau) abgebildet. Der HDI wird jährlich im Human Development Report des United Nations Development Programme (UNDP) veröffentlicht. Deutschland hat HDI von 0,94 (2024). 1-0.8 hocher,0.8-0.5 mittlerer, 0.5-0 niedriger hdi. [Video](https://www.youtube.com/watch?v=UIARB24wAnw)
 <br><br>
 
 ### Human Sustainable Development Index (HSDI)
