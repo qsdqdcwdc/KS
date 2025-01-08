@@ -43,7 +43,7 @@ Globale Herausforderungen beziehen sich auf komplexe Probleme, die über nationa
 Klimawandel Seit Beginn der Industrialisierung emittiert der Mensch in großem Maße Treibhausgase in die Atmosphäre. Diese führen zu einer Verstärkung des natürlichen Treibhauseffekts. Damit verbundene Auswirkungen wie der Meeresspiegelanstieg, zunehmende Wetterextreme oder der Verlust an Biodiversität gefährden die Lebensgrundlagen des Menschen.
 
 ### Städte
-In den nächsten Jahrzehnten wird der Anteil der städtischen Bevölkerung deutlich ansteigen. Die Ballung von Menschen auf begrenztem Raum kann zu weiteren sozialen Problemen und Konflikten innerhalb des Stadt raumes führen.
+In den nächsten Jahrzehnten wird der Anteil der städtischen Bevölkerung deutlich ansteigen. Die Ballung von Menschen auf begrenztem Raum kann zu weiteren sozialen Problemen und Konflikten innerhalb des Stadt raumes führen. [Video](https://www.youtube.com/watch?v=5R2TqtJEeQI&list=PLD9h3ashjTZJNZpzQ4JMq_gS0aFD6u4Oy&index=3)
 
 ### Disparitäre Entwicklungen
 Disparitäre Entwicklungen bezeichnen globale Ungleichheiten in Wirtschaft, Bildung und Lebensstandard. Ursachen sind historische Ausbeutung, ungleiche Handelsbedingungen und politische Instabilität. Folgen sind Armut, Migration und soziale Spannungen. Maßnahmen wie Entwicklungszusammenarbeit und faire Handelspraktiken zielen darauf ab, diese Disparitäten zu verringern.
