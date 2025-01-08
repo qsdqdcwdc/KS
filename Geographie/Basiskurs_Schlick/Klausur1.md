@@ -124,7 +124,7 @@ Die Begriffe „Globaler Norden“ und „Globaler Süden“ bezeichnen keine re
 Diese Formulierung vermeidet die Wertung von „entwickelt“ vs. „unterentwickelt“, steht aber ebenfalls in der Kritik, weil auch der Globale Süden sehr unterschiedlich entwickelte Länder umfasst.
 
 ### Industrieländer, Schwellenländer und Entwicklungsländer
-
+[Video](https://www.youtube.com/watch?v=VOR4Sjhtu8w)
 Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unterschiedlichen sozioökonomischen Indikatoren:
 - Industrieländer: Hochentwickelte Wirtschaft, hoher Lebensstandard, z. B. Deutschland, USA.
 - Schwellenländer: Länder im Übergang vom Entwicklungs- zum Industrieland, mit wachsender Industrialisierung, z. B. Brasilien.
