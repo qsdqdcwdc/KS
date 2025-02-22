@@ -2,6 +2,11 @@
 Video: [OOP Klassen und Objekte](https://www.youtube.com/watch?v=xmSGwipW6NQ&list=PLgZuSc7xewdd9_p_SeFQwJ3PfGJQh3vC_)
 
 **Objektorientierte Programmierung (OOP)** ist ein Programmierparadigma, das auf dem Konzept von "Objekten" basiert, welche Daten in Form von Attributen sowie Code in Form von Methoden enthalten. OOP modelliert Situationen als eine Sammlung von Objekten, die miteinander interagieren. OOP basiert auf vier Grundprinzipien: Kapselung, Abstraktion, Vererbung und Polymorphismus.
+
+**Klasse** ist eine Vorlage, die Attribute und Methoden zur Erstellung spezifischer Instanzen von Objekten definiert.
+
+**Objekt** ist eine Instanz einer Klasse, die spezifische Werte für die in der Klasse definierten Attribute enthält und Verhaltensweisen (Methoden) gemäß dieser Definitionen aufweist.
+
 ### Prinzipien der OOP
 Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/programming/4-principles/)
 - **Vererbung** ist ein Mechanismus, bei dem eine neue Klasse (Unterklasse) die Eigenschaften und Verhaltensweisen einer vorhandenen Klasse (Oberklasse/Superklasse) übernimmt. Dies ermöglicht Code duplizierung zu vermeiden, indem Methoden und Attribute wiederverwendet werden, die in der Basisklasse definiert sind[^1]. [Video](https://youtu.be/gifpyGpD-fE?si=VKiJZwBEaFKjVaAg&t=352)
