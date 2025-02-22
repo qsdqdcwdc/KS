@@ -30,7 +30,9 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 [^4]: https://www.xpheno.com/blogs/advantages-of-object-oriented-programming/
 
-# Zugriffsmodifikatoren
+# Java Syntax Spickzettel
+
+### Zugriffsmodifikatoren
 
 | Modifikator  | Klassenintern | Paketintern | Subklassen | Weltweit |
 |--------------|---------------|-------------|------------|----------|
@@ -39,11 +41,98 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 | *(kein Modifikator)* | Ja   | Ja          | Nein       | Nein     |
 | **private**  | Ja            | Nein        | Nein       | Nein     |
 
-### Beschreibungen
+#### Beschreibung
 
 - **public**: Das Element ist von überall her zugänglich.
 - **protected**: Das Element ist innerhalb derselben Klasse, im selben Paket und in abgeleiteten Klassen zugänglich.
 - **private**: Das Element ist nur innerhalb der Klasse zugänglich, in der es deklariert wurde.
 - **(kein Modifikator)**: Auch bekannt als "package-private", das Element ist nur innerhalb des eigenen Pakets zugänglich, außer es wird von einer Klasse im selben Paket geerbt.
 
+## Listen (Arrays)
+
+### Deklaration
+```java
+int[] einArray = new int[10]; // Ein Array mit 10 Integern
+String[] stringArray = new String[5]; // Ein Array mit 5 Strings
+```
+
+### Initialisierung
+```java
+int[] zahlen = {1, 2, 3, 4, 5}; // Initialisierung mit Werten
+String[] worte = {"Hallo", "Welt"}; // Initialisierung mit Strings
+```
+
+### Zugriff auf Elemente
+```java
+int ersteZahl = zahlen[0]; // Zugriff auf das erste Element
+zahlen[1] = 20; // Setzen des zweiten Elements auf 20
+```
+
+### Länge des Arrays
+```java
+int laenge = zahlen.length; // Gibt die Länge des Arrays zurück
+```
+
+## 2D-Listen (2D Arrays)
+
+### Deklaration
+```java
+int[][] matrix = new int[2][3]; // Eine 2x3 Matrix (zwei Zeilen drei Spalten)
+```
+
+### Initialisierung
+```java
+int[][] positionen = {
+    {0, 0},
+    {1, 1},
+    {2, 2}
+}; // Initialisierung mit Werten
+```
+
+### Zugriff auf Elemente
+```java
+int element = positionen[0][1]; // Zugriff auf das Element in Zeile 0, Spalte 1
+positionen[1][1] = 5; // Setzen des Elements in Zeile 1, Spalte 1 auf 5
+```
+
+## ArrayList
+
+### Import
+```java
+import java.util.ArrayList; // Importiert die ArrayList-Klasse
+```
+
+### Deklaration und Initialisierung
+```java
+ArrayList<String> namen = new ArrayList<>(); // Erstellt eine neue ArrayList für Strings
+```
+
+### Elemente hinzufügen
+```java
+namen.add("Anna"); // Fügt "Anna" am Ende der Liste hinzu
+namen.add("Bernd");
+```
+
+### Zugriff auf Elemente
+```java
+String erstesElement = namen.get(0); // Zugriff auf das erste Element
+```
+
+### Elemente entfernen
+```java
+namen.remove("Bernd"); // Entfernt "Bernd" aus der Liste
+namen.remove(0); // Entfernt das Element an Index 0
+```
+
+### Größe der ArrayList
+```java
+int groesse = namen.size(); // Gibt die Größe der ArrayList zurück
+```
+
+### Durchlaufen der ArrayList mit einer Schleife
+```java
+for(String name : namen) {
+    System.out.println(name);
+}
+```
 
