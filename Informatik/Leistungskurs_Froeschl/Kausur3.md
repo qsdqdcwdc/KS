@@ -45,8 +45,8 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 - **public**: Das Element ist von überall her zugänglich.
 - **protected**: Das Element ist innerhalb derselben Klasse, im selben Paket und in abgeleiteten Klassen zugänglich.
+- **(kein Modifikator)**: Auch bekannt als "package-private", das Element ist nur innerhalb des eigenen Pakets zugänglich.
 - **private**: Das Element ist nur innerhalb der Klasse zugänglich, in der es deklariert wurde.
-- **(kein Modifikator)**: Auch bekannt als "package-private", das Element ist nur innerhalb des eigenen Pakets zugänglich, außer es wird von einer Klasse im selben Paket geerbt.
 
 ## Listen (Arrays)
 
