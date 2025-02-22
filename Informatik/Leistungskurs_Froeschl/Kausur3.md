@@ -32,7 +32,7 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 # Java Syntax Spickzettel
 
-### Zugriffsmodifikatoren
+## Zugriffsmodifikatoren
 
 | Modifikator  | Klassenintern | Paketintern | Subklassen | Weltweit |
 |--------------|---------------|-------------|------------|----------|
