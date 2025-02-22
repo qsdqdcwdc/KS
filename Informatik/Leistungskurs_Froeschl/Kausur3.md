@@ -30,7 +30,7 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 [^4]: https://www.xpheno.com/blogs/advantages-of-object-oriented-programming/
 
-# Java Syntax Spickzettel
+# Java Spickzettel
 
 ## Zugriffsmodifikatoren
 
