@@ -5,7 +5,7 @@ Video: [OOP Klassen und Objekte](https://www.youtube.com/watch?v=xmSGwipW6NQ&lis
 
 **Klasse** ist eine Vorlage, die Attribute und Methoden zur Erstellung spezifischer Instanzen von Objekten definiert.
 
-**Objekt** ist eine Instanz einer Klasse, die spezifische Werte für die in der Klasse definierten Attribute enthält und Verhaltensweisen (Methoden) gemäß dieser Definitionen aufweist.
+**Objekt** ist eine Instanz einer Klasse, die spezifische Werte für die in der Klasse definierten Attribute enthält und Methoden gemäß dieser Definitionen aufweist.
 
 ### Prinzipien der OOP
 Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/programming/4-principles/)
