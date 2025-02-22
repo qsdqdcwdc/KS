@@ -84,6 +84,7 @@ import java.util.ArrayList; // Importiert die ArrayList-Klasse
 
 ### Deklaration und Initialisierung
 ```java
+ArrayList<String> namen = new ArrayList<>(); // Erstellt eine neue ArrayList für Strings
 ArrayList<Integer> num = new ArrayList<>(); // Erstellt eine neue ArrayList für Integers
 ```
 Achtung ` ArrayList<int> num = ... ` ist falsch !!!
