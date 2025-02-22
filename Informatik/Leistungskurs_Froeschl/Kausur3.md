@@ -74,30 +74,8 @@ zahlen[1] = 20; // Setzen des zweiten Elements auf 20
 int laenge = zahlen.length; // Gibt die Länge des Arrays zurück
 ```
 
-## 2D-Listen (2D Arrays)
-
-### Deklaration
-```java
-int[][] matrix = new int[2][3]; // Eine 2x3 Matrix (zwei Zeilen drei Spalten)
-```
-
-### Initialisierung
-```java
-int[][] positionen = {
-    {0, 0},
-    {1, 1},
-    {2, 2}
-}; // Initialisierung mit Werten
-```
-
-### Zugriff auf Elemente
-```java
-int element = positionen[0][1]; // Zugriff auf das Element in Zeile 0, Spalte 1
-positionen[1][1] = 5; // Setzen des Elements in Zeile 1, Spalte 1 auf 5
-```
-
 ## ArrayList
-`ArrayList`, ist eine dynamische Struktur, die Objekte verschiedener Typen speichern kann und deren Größe automatisch anpasst, wenn Elemente hinzugefügt oder entfernt werden.
+`ArrayList`, ist eine dynamische Struktur, die Objekte verschiedener Typen speichern kann und deren Größe automatisch anpasst, wenn Elemente hinzugefügt oder entfernt werden. Video: [Array vs ArrayList](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 
 ### Import
 ```java
@@ -106,8 +84,9 @@ import java.util.ArrayList; // Importiert die ArrayList-Klasse
 
 ### Deklaration und Initialisierung
 ```java
-ArrayList<String> namen = new ArrayList<>(); // Erstellt eine neue ArrayList für Strings
+ArrayList<Integer> num = new ArrayList<>(); // Erstellt eine neue ArrayList für Integers
 ```
+Achtung ` ArrayList<int> num = ... ` ist falsch !!!
 
 ### Elemente hinzufügen
 ```java
@@ -137,4 +116,26 @@ for(String name : namen) {
     System.out.println(name);
 }
 ```
+## 2D-Listen (2D Arrays)
+
+### Deklaration
+```java
+int[][] matrix = new int[2][3]; // Eine 2x3 Matrix (zwei Zeilen drei Spalten)
+```
+
+### Initialisierung
+```java
+int[][] positionen = {
+    {0, 0},
+    {1, 1},
+    {2, 2}
+}; // Initialisierung mit Werten
+```
+
+### Zugriff auf Elemente
+```java
+int element = positionen[0][1]; // Zugriff auf das Element in Zeile 0, Spalte 1
+positionen[1][1] = 5; // Setzen des Elements in Zeile 1, Spalte 1 auf 5
+```
+
 
