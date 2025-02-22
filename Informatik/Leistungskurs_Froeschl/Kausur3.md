@@ -29,3 +29,21 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 - **Nicht für jedes Problem**: OOP ist nicht immer die beste Lösung. Es funktioniert am besten für Aufgaben, die durch Objekte ausgedrückt werden können, aber das Beispiel ist nicht geeignet für Einfache Skripte.
 
 [^4]: https://www.xpheno.com/blogs/advantages-of-object-oriented-programming/
+
+# Zugriffsmodifikatoren
+
+| Modifikator  | Klassenintern | Paketintern | Subklassen | Weltweit |
+|--------------|---------------|-------------|------------|----------|
+| **public**   | Ja            | Ja          | Ja         | Ja       |
+| **protected**| Ja            | Ja          | Ja  | Nein  |
+| *(kein Modifikator)* | Ja   | Ja          | Nein       | Nein     |
+| **private**  | Ja            | Nein        | Nein       | Nein     |
+
+### Beschreibungen
+
+- **public**: Das Element ist von überall her zugänglich.
+- **protected**: Das Element ist innerhalb derselben Klasse, im selben Paket und in abgeleiteten Klassen zugänglich.
+- **private**: Das Element ist nur innerhalb der Klasse zugänglich, in der es deklariert wurde.
+- **(kein Modifikator)**: Auch bekannt als "package-private", das Element ist nur innerhalb des eigenen Pakets zugänglich, außer es wird von einer Klasse im selben Paket geerbt.
+
+
