@@ -49,6 +49,7 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 - **private**: Das Element ist nur innerhalb der Klasse zugänglich, in der es deklariert wurde.
 
 ## Listen (Arrays)
+In Java, `Array` ist eine statische Struktur fester Größe, die homogene Datentypen enthält. Einmal erstellt, kann die Größe eines Arrays nicht geändert werden.
 
 ### Deklaration
 ```java
@@ -96,6 +97,7 @@ positionen[1][1] = 5; // Setzen des Elements in Zeile 1, Spalte 1 auf 5
 ```
 
 ## ArrayList
+`ArrayList`, ist eine dynamische Struktur, die Objekte verschiedener Typen speichern kann und deren Größe automatisch anpasst, wenn Elemente hinzugefügt oder entfernt werden.
 
 ### Import
 ```java
