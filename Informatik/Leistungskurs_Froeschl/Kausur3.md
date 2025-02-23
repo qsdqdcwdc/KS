@@ -39,6 +39,12 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 [^4]: https://www.xpheno.com/blogs/advantages-of-object-oriented-programming/
 
+# Fachklassen vs. Oberflächenklassen
+
+**Oberflächenklassen** sind zuständig für das Interaktion mit dem Nutzer wie: Nutzer Interfaces(Knöpfe, Programmfenster), Nutzer Interaktionen (Knopfdrücke, Userinput), Formantierung von Informationen für Nutzer.
+
+**Fachklasse** sind zuständig für Ausführung der tatsächlichen Programmaufgaben wie z.B: Interaktion mit Datenbanken, Ausführung von Vorhersagemodellen, Durchführung von Simulationen.
+
 # Java OOP
 
 #### Klassen
