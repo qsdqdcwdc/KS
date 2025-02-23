@@ -32,6 +32,66 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 # Java OOP
 
+#### Klassen
+Eine Klasse in Java ist eine Vorlage für das Erstellen von Objekten, die Attribute und Methoden enthält.
+```java
+public class ClassName {
+    // Attribute
+    int attribute1;
+    String attribute2;
+
+    // Konstruktor
+    public ClassName(int param1, String param2) {
+        this.attribute1 = param1;
+        this.attribute2 = param2;
+    }
+
+    // Methode
+    public void method1() {
+        // Code
+    }
+}
+```
+
+#### Vererbung (extends)
+Vererbung ist ein Mechanismus, bei dem eine Klasse die Attribute und Methoden einer anderen Klasse erbt.
+```java
+public class SubClass extends SuperClass {
+    // Zusätzliche Attribute oder Methoden
+}
+```
+
+#### Abstrakte Klassen
+Eine abstrakte Klasse kann nicht instanziiert werden und dient als Vorlage für andere Klassen.
+```java
+public abstract class AbstractClass {
+    // Abstrakte Methode
+    public abstract void abstractMethod();
+}
+```
+
+#### Abstrakte Methoden
+Abstrakte Methoden haben keinen Körper und müssen in den abgeleiteten Klassen implementiert werden.
+```java
+public abstract void abstractMethod();
+```
+
+#### Abrufmethoden (Getter)
+Abrufmethoden sind dazu da, den Wert eines privaten Attributs zu lesen.
+```java
+public int getAttribute1() {
+    return attribute1;
+}
+```
+
+#### Änderungsmethoden (Setter)
+Änderungsmethoden sind dazu da, den Wert eines privaten Attributs zu setzen oder zu ändern.
+```java
+public void setAttribute1(int attribute1) {
+    this.attribute1 = attribute1;
+}
+```
+
 ## Zugriffsmodifikatoren [^6]
 
 | Modifikator  | Klassenintern | Paketintern | Subklassen | Weltweit |
