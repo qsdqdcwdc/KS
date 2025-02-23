@@ -140,6 +140,59 @@ class Hund extends Tier {
 }
 ```
 
+### new
+Das Schlüsselwort `new` wird verwendet, um ein neues Objekt einer Klasse zu erstellen. Es reserviert Speicher für das Objekt und ruft den Konstruktor der Klasse auf.
+
+```java
+MyClass object = new MyClass();  // Erstellt ein neues Objekt der Klasse MyClass
+```
+
+### this
+Das Schlüsselwort `this` wird verwendet, um auf das aktuelle Objekt zu verweisen, das die Methode aufruft. [Video](https://www.youtube.com/watch?v=ETLHbHenW44)
+
+Zugriff auf Attribute
+```java
+public class MyClass {
+    private int x;
+    
+    public MyClass(int x) {
+        this.x = x;  // Verweist auf das Attribut x der Klasse, nicht auf den Parameter
+    }
+}
+```
+
+Zugriff auf Methoden
+```java
+public void print() {
+    this.display();  // Ruft die Methode display() desselben Objekts auf
+}
+```
+
+Rückgabe des aktuellen Objekts
+```java
+public MyClass returnSelf() {
+    return this;  // Gibt die aktuelle Instanz der Klasse zurück
+}
+```
+
+### super
+Das Schlüsselwort `super` wird verwendet, um Methoden oder Konstruktoren der übergeordneten Klasse aufzurufen. [Video](https://www.youtube.com/watch?v=Qb_NUn0TSAU)
+
+Zugriff auf Konstruktor der Elternklasse
+```java
+public class ChildClass extends ParentClass {
+    public ChildClass() {
+        super();  // Ruft den Konstruktor der Elternklasse auf
+    }
+}
+```
+
+Zugriff auf überschriebene Methoden der Elternklasse
+```java
+public void display() {
+    super.display();  // Ruft die Methode display() der Elternklasse auf
+}
+```
 
 ## Zugriffsmodifikatoren [^6]
 
@@ -166,8 +219,6 @@ class Person {
   private int id = 80085;
 }
 ```
-
-
 [^6]: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
 
 # Java Spickzettel
