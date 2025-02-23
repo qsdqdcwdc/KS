@@ -91,6 +91,55 @@ public void setAttribute1(int attribute1) {
     this.attribute1 = attribute1;
 }
 ```
+#### Upcasting
+**Upcasting** ist der Vorgang, bei dem ein Subklassenobjekt einer Superklasse zugeordnet wird.
+Das ist immer sicher und wird automatisch von Java durchgeführt.
+```java
+class Tier {...}
+class Hund extends Tier {...}
+
+Tier tier = new Hund(); // Upcasting von Hund zu Tier
+```
+
+#### Downcasting
+**Downcasting** bezieht sich auf das Umwandeln einer Superklassenreferenz zurück in eine Subklassenreferenz.
+Downcasting muss explizit gemacht werden und kann zur Laufzeit zu `ClassCastException` führen, wenn nicht ordnungsgemäß gehandhabt.
+```java
+Tier tier = new Hund(); // Upcasting
+Hund hund = (Hund) tier; // Downcasting
+```
+
+#### Methodenüberladung
+**Methodenüberladung** tritt auf, wenn zwei oder mehr Methoden in derselben Klasse denselben Namen haben, aber unterschiedliche Parameterlisten aufweisen.
+Überladene Methoden können unterschiedliche Rückgabetypen haben, solange die Parameterlisten unterschiedlich sind.
+```java
+class Display {
+void show(int a) {
+  System.out.println(a);
+}
+void show(String a) {
+  System.out.println(a);
+}
+}
+```
+
+#### Methodenüberschreibung
+**Methodenüberschreibung** findet statt, wenn eine Subklasse die Methode einer Superklasse, die sie erbt, neu definiert.
+Die überschreibende Methode muss denselben Namen, Rückgabetyp und dieselben Parameter wie die Methode in der Superklasse haben. 
+```java
+class Tier {
+  void essen() {
+      System.out.println("Dieses Tier isst Essen.");
+  }
+}
+class Hund extends Tier {
+  @Override
+  void essen() {
+      System.out.println("Der Hund frisst Fleisch.");
+  }
+}
+```
+
 
 ## Zugriffsmodifikatoren [^6]
 
@@ -120,7 +169,6 @@ class Person {
 
 
 [^6]: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
-
 
 # Java Spickzettel
 ### Primitive Datentypen [^5]
