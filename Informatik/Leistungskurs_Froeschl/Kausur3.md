@@ -190,7 +190,7 @@ Primitive Datentypen werden direkt in Variablen gespeichert. [Video](https://www
 Implizites Casting in Java erfolgt automatisch, wenn der Compiler „niedrigeren“ Typ in den „höheren“ Typ transformiert, während explizites Casting manuell durchgeführt werden muss, oft mit einem Risiko des Informationenverlusts. *_(ein höheres Datentyp kann jede mögliche Wert von dem niedrigeren Datentyp enthalten)_
 
 ### Implizites Casting [^7]
-Wenn wir mathematische oder zuweisungs Operationen mit Operanden unterschiedlichen Typs durchführen, führt der Java eine implizite Konvertierung durch. Folgende Abbildung zeigt alle implizite Castings die Java durchführt:
+Bei der Durchführung von mathematischen oder Zuweisungsoperationen mit Operanden unterschiedlicher Typen in Java findet eine implizite Konvertierung statt, ohne Informationsverlust aus den Variablen. Die folgende Abbildung veranschaulicht alle impliziten Castings, die Java ausführt:
 <p align="center"><img src="Img/k3_abb1.png" width="600"  title="Abb1"></p>
 
 #### Implizites Casting Beispiel
@@ -200,7 +200,7 @@ double doubleVal = intVal;
 ```
 ### Explizites Casting [^7]
 Konvertierung eines höheren Datentyps in einen niedrigeren Datentyp wird als einschränkende Konvertierung bezeichnet. Da diese Art der Konvertierung vom Programmierer und nicht automatisch vom Compiler durchgeführt wird, wird sie in Java auch als explizite Typumwandlung bezeichnet.
-Bei expliziten Carsten könnte ein Teil von der Information in der Variable gespeicherten Informationen verloren gehen (z.B abschneidung von Nachkommastellen).
+Bei expliziten Carsten könnte ein Teil von in der Variable gespeicherten Informationen verloren gehen (z.B abschneidung von Nachkommastellen).
 
 #### Explizites Casting Beispiel 
 ```java
