@@ -479,7 +479,7 @@ System.out.println("Text");
 ### System.out.printf()
 **Beschreibung**: Erlaubt das formatierte Ausgeben von Text. 
 ```java
-System.out.printf("Formatierte %s, %d, %f", "Ausgabe", 5, 1,2);
+System.out.printf("Formatierte %s, %d, %f", "Ausgabe", 5, 1.2);
 ```
 - `%s` steht für einen String.
 - `%d` für eine ganze Zahl.
