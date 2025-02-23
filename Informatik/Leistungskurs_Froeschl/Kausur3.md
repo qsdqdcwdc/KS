@@ -55,7 +55,6 @@ Es gibt zwei Weisen indem man Klassen UML Krassendiagramme repräsentieren kann 
 - Die Parameter von Methoden zusammen mit ihren Datentypen sollen in den Klammern von Methoden nach Methodennamen stehen (sehe Bild unten: Hund Klasse).
 - Statische Methoden und Attribute werden untergestrichen.
 - Wenn die Klasse abstrakt ist soll unter der Klassenname `abstrakt` stehen.
-- 
 
 Die Sichtbarkeit von Attributen und Methoden wird vor der Methoden/Attributen Name mit einem Symbol gekennzeichnet:
 
