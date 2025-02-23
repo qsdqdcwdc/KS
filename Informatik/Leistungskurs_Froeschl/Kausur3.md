@@ -305,6 +305,25 @@ if (nummer > 20) {
 } else {
     System.out.println("Nummer ist 10 oder kleiner");
 }
-
+```
+#### Switch
+Die `switch`-Anweisung erlaubt den Vergleich eines Werts mit mehreren `case`-Werten.
+```java
+int tag = 3;
+switch (tag) {
+    case 1:
+        System.out.println("Montag");
+        break;
+    case 2:
+        System.out.println("Dienstag");
+        break;
+    case 3:
+        System.out.println("Mittwoch");
+        break;
+    default:
+        System.out.println("Kein gültiger Tag");
+}
+```
+*_das `break`, um zu verhindern, dass alle folgenden `case`-Blöcke ebenfalls ausgeführt werden. `default` wird ausgeführt nur dann wenn keine der `case`-Blöcke ausgeführt wurde_
 
 
