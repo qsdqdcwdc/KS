@@ -30,6 +30,38 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 [^4]: https://www.xpheno.com/blogs/advantages-of-object-oriented-programming/
 
+# Java OOP
+
+## Zugriffsmodifikatoren [^6]
+
+| Modifikator  | Klassenintern | Paketintern | Subklassen | Weltweit |
+|--------------|---------------|-------------|------------|----------|
+| **public**   | Ja            | Ja          | Ja         | Ja       |
+| **protected**| Ja            | Ja          | Ja  | Nein  |
+| *(kein Modifikator)* | Ja   | Ja          | Nein       | Nein     |
+| **private**  | Ja            | Nein        | Nein       | Nein     |
+
+*_(alle Klassen ohne explizit angegebenes Paket gehören zum Standardpaket)_
+
+#### Beschreibung
+
+- **public**: Das Element ist von überall her zugänglich.
+- **protected**: Das Element ist innerhalb derselben Klasse, im selben Paket und in abgeleiteten Klassen zugänglich.
+- **(kein Modifikator)**: Auch bekannt als "package-private", das Element ist nur innerhalb des eigenen Pakets zugänglich.
+- **private**: Das Element ist nur innerhalb der Klasse zugänglich, in der es deklariert wurde.
+```java
+class Person {
+  public String fname = "John";
+  protected String lname = "John Doe";
+  String email = "john@doe.com";
+  private int id = 80085;
+}
+```
+
+
+[^6]: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
+
+
 # Java Spickzettel
 ### Primitive Datentypen [^5]
 Primitive Datentypen werden direkt in Variablen gespeichert. [Video](https://www.youtube.com/watch?v=WQ7mvQFSmYc)
@@ -166,27 +198,6 @@ int element = positionen[0][1];
 // Setzen des Elements in Zeile 1, Spalte 1 auf 5
 positionen[1][1] = 5; 
 ```
-
-## Zugriffsmodifikatoren [^6]
-
-| Modifikator  | Klassenintern | Paketintern | Subklassen | Weltweit |
-|--------------|---------------|-------------|------------|----------|
-| **public**   | Ja            | Ja          | Ja         | Ja       |
-| **protected**| Ja            | Ja          | Ja  | Nein  |
-| *(kein Modifikator)* | Ja   | Ja          | Nein       | Nein     |
-| **private**  | Ja            | Nein        | Nein       | Nein     |
-
-*_(alle Klassen ohne explizit angegebenes Paket gehören zum Standardpaket)_
-
-#### Beschreibung
-
-- **public**: Das Element ist von überall her zugänglich.
-- **protected**: Das Element ist innerhalb derselben Klasse, im selben Paket und in abgeleiteten Klassen zugänglich.
-- **(kein Modifikator)**: Auch bekannt als "package-private", das Element ist nur innerhalb des eigenen Pakets zugänglich.
-- **private**: Das Element ist nur innerhalb der Klasse zugänglich, in der es deklariert wurde.
-
-[^6]: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
-
 # Java Kommentare
 #### Einzeilige Kommentare
 
