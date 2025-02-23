@@ -185,7 +185,51 @@ positionen[1][1] = 5;
 - **(kein Modifikator)**: Auch bekannt als "package-private", das Element ist nur innerhalb des eigenen Pakets zugänglich.
 - **private**: Das Element ist nur innerhalb der Klasse zugänglich, in der es deklariert wurde.
 
-
 [^6]: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
+
+# Java Kommentare
+#### Einzeilige Kommentare
+
+```java
+// Dies ist ein einzeiliger Kommentar
+int number = 5;
+```
+
+#### Mehrzeilige Kommentare
+```java
+/* Dies ist ein
+   mehrzeiliger Kommentar */
+int number = 5;
+```
+### Javadoc
+Javadocs sind eine spezielle Form von Kommentaren, die verwendet werden, um eine offizielle Dokumentation in HTML-Format zu generieren. Hier sind einige häufig verwendete Tags in Javadocs:
+Javadoc-Kommentare beginnen mit `/**` und enden mit `*/`.
+
+#### @param
+Das `@param`-Tag wird verwendet, um einen Parameter zu beschreiben, der von einer Methode angenommen wird. 
+
+#### @return
+Das `@return`-Tag beschreibt den Rückgabewert einer Methode.
+
+#### @throws / @exception
+Das `@throws`-Tag beschreibt die Ausnahmen, die von einer Methode geworfen werden können.
+
+Beispiel für eine Javadoc-Kommentierung:
+
+```java
+/**
+ * Berechnet die Division zweier Ganzzahlen.
+ * @param divisor Der Divisor.
+ * @param dividend Der Dividend.
+ * @return Das Ergebnis der Division.
+ * @throws ArithmeticException wenn der Divisor gleich 0 ist.
+ */
+public int divide(int dividend, int divisor) {
+    if (divisor == 0) {
+        throw new ArithmeticException("Divisor cannot be zero");
+    }
+    return dividend / divisor;
+}
+```
 
 
