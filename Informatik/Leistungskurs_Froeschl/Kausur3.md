@@ -45,6 +45,10 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 **Fachklasse** sind zuständig für Ausführung der tatsächlichen Programmaufgaben wie z.B: Interaktion mit Datenbanken, Ausführung von Vorhersagemodellen, Durchführung von Simulationen.
 
+# UML Krassendiagramme
+Es gibt zwei Weisen indem man Klassen UML Krassendiagramme repräsentieren kann eine vereinfachte Darstellung besteht nur aus der Klassenname in einem Box, die zweite besteht aus einem Box geteilte in drei Teile oben der Klassenname nachher die Attributen und ganz unten die Methoden.
+<p align="center"><img src="Img/k2_abb2.png" width="600"  title="Abb1"></p>
+
 # Java OOP
 
 #### Klassen
