@@ -46,10 +46,16 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 **Fachklasse** sind zuständig für Ausführung der tatsächlichen Programmaufgaben wie z.B: Interaktion mit Datenbanken, Ausführung von Vorhersagemodellen, Durchführung von Simulationen.
 
 # UML Krassendiagramme
-- Es gibt zwei Weisen indem man Klassen UML Krassendiagramme repräsentieren kann eine vereinfachte Darstellung besteht nur aus der Klassenname in einem Box, die zweite besteht aus einem Box geteilte in drei Teile oben der Klassenname nachher die Attributen und ganz unten die Methoden.
+
 <p align="center"><img src="Img/k3_abb3.jpg" width="1000"  title="Abb2"></p>
 
-- Die Sichtbarkeit von Attributen und Methoden wird vor der Methoden/Attributen Name mit einem Symbol gekennzeichnet:
+Es gibt zwei Weisen indem man Klassen UML Krassendiagramme repräsentieren kann eine vereinfachte Darstellung besteht nur aus der Klassenname in einem Box, die zweite besteht aus einem Box geteilte in drei Teile oben der Klassenname nachher die Attributen und ganz unten die Methoden.
+
+- Der (Datentyp für die Attribute)/(Rückgabetyp für die Methoden) muss nach der Name nach dem Doppelpunkt angegeben werden.
+- Statische Methoden und Attribute werden untergestrichen.
+- Wenn die Klasse abstrakt ist soll unter der Klassenname `abstrakt` stehen.
+
+Die Sichtbarkeit von Attributen und Methoden wird vor der Methoden/Attributen Name mit einem Symbol gekennzeichnet:
 
 | Symbol | Modifikator | Beschreibung |
 |--------|-------------|--------------|
@@ -58,11 +64,17 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 | `~`    | package     | Innerhalb des Pakets sichtbar. |
 | `-`    | private     | Nur die Klasse selbst kann es sehen, privat. |
 
-- Der (Datentyp für die Attribute)/(Rückgabetyp für die Methoden) muss nach der Name nach dem Doppelpunkt angegeben werden.
-- Statische Methoden und Attribute werden untergestrichen.
-- Wenn die Klasse abstrakt ist soll unter der Klassenname `abstrakt` stehen.
+### Beziehungen
+<p align="center"><img src="Img/k3_abb4.png" width="700"  title="Abb2"></p>
+
+**Vererbung** (Generalisierung) wird gekennzeichnet mit einem Pfeil von Subklasse zur Superklasse. Spitze von dem Pfeil soll aus einem leeren geschlossenen Dreieck bestehen.
+
+**Assoziation**: Wenn Klasse `B` leicht von der Klasse `A` zugänglich ist (z.B: ein Referenz auf `B` ist in der Klasse `A` gespeichert) aber nicht andersrum, 
+dann spricht man von einem unidirektionalen Assoziation. Diese Beziehung gekennzeichnet man durch einen Pfeil von `A` nach `B`. Wenn `A` von `B` leicht zugänglich ist und `B` von `A` leicht zugänglich ist, dann spricht man von einem bierdirektionalen Assoziation. Diese Beziehung gezeichnet man mit einem doppel Pfeil. Man kann Assoziation Beziehungen Namen geben. Unten finden Sie weitere Beispiele für UML Diagramme:
 
 <p align="center"><img src="Img/k2_abb2.jpg" width="300"  title="Abb2"></p>
+
+<p align="center"><img src="Img/k3_abb5.png" width="600"  title="Abb6"></p>
 
 # Java OOP
 
