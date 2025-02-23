@@ -462,7 +462,7 @@ switch (tag) {
 ```
 *_das `break`, um zu verhindern, dass alle folgenden `case`-Blöcke ebenfalls ausgeführt werden. `default` wird ausgeführt nur dann wenn keine der `case`-Blöcke ausgeführt wurde_
 
-## Ausgaben in Console
+## Ausgaben in Konsole
 
 #### System.out.print()
 Gibt Text auf der Konsole aus ohne Zeilenumbruch.
