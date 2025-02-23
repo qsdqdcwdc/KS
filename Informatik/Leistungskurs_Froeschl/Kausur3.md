@@ -10,6 +10,7 @@
 # Die objektorientierte Programmierung (OOP)
 Video: [OOP Klassen und Objekte](https://www.youtube.com/watch?v=c6RrcEvIix0)
 
+
 **Objektorientierte Programmierung (OOP)** ist ein Programmierparadigma, das auf dem Konzept von "Objekten" basiert, welche Daten in Form von Attributen sowie Verhalten in Form von Methoden enthalten. OOP modelliert Situationen als eine Sammlung von Objekten, die miteinander interagieren. OOP basiert auf vier Grundprinzipien: Kapselung, Abstraktion, Vererbung und Polymorphismus.
 
 **Klasse** ist eine Vorlage, die Attribute und Methoden zur Erstellung spezifischer Instanzen von Objekten definiert.
@@ -47,7 +48,8 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 # UML Krassendiagramme
 
-$${\color{lightgreen}NEU!!!}$$ [Video](https://www.youtube.com/watch?v=8P4mTilZCf0)
+>[!NOTE]
+$${\color{lightgreen}Neu:}$$ [Video](https://www.youtube.com/watch?v=8P4mTilZCf0)
 
 
 <p align="center"><img src="Img/k3_abb3.jpg" width="1000"  title="Abb2"></p>
