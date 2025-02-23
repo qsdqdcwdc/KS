@@ -545,5 +545,52 @@ System.out.printf("Formatierte %s, %d, %f", "Ausgabe", 5, 1.2);
 - `%d` für eine ganze Zahl.
 - `%f` für eine Fließkommazahl.
 
+## Operatoren
+#### Mathematische Operatoren
+
+| Operator | Beschreibung            | Beispiel   |
+|----------|-------------------------|------------|
+| `+`      | Addition                | `a + b`    |
+| `-`      | Subtraktion             | `a - b`    |
+| `*`      | Multiplikation          | `a * b`    |
+| `/`      | Division                | `a / b`    |
+| `%`      | Rest der Teilung | `a % b`  |
+
+#### Inkrement und Dekrement
+
+| Operator | Beschreibung                  | Beispiel   |
+|----------|-------------------------------|------------|
+| `++`     | Inkrement (erhöht um eins)    | `a++` oder `++a` |
+| `--`     | Dekrement (verringert um eins)| `a--` oder `--a` |
+
+#### Zuweisungsoperatoren
+
+| Operator | Beschreibung                          | Beispiel   |
+|----------|---------------------------------------|------------|
+| `+=`     | Addiert und weist zu                  | `a += b`   |
+| `-=`     | Subtrahiert und weist zu              | `a -= b`   |
+| `*=`     | Multipliziert und weist zu            | `a *= b`   |
+| `/=`     | Dividiert und weist zu                | `a /= b`   |
+| `%=`     | Rest der Teilung         | `a %= b`   |
+
+#### Logische Operatoren
+
+| Operator | Beschreibung                  | Beispiel       |
+|----------|-------------------------------|----------------|
+| `&&`     | Logisches UND                 | `a && b`       |
+| `\|\|`     | Logisches ODER                | `a \|\| b`       |
+| `!`      | Logisches NICHT               | `!a`           |
+
+#### Vergleichsoperatoren
+
+| Operator | Beschreibung         | Beispiel   |
+|----------|----------------------|------------|
+| `==`     | Gleich               | `a == b`   |
+| `!=`     | Ungleich             | `a != b`   |
+| `<`      | Kleiner als          | `a < b`    |
+| `>`      | Größer als           | `a > b`    |
+| `<=`     | Kleiner oder gleich  | `a <= b`   |
+| `>=`     | Größer oder gleich   | `a >= b`   |
+
 
 
