@@ -31,7 +31,7 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 [^4]: https://www.xpheno.com/blogs/advantages-of-object-oriented-programming/
 
 # Java Spickzettel
-## Primitive Datentypen [^5]
+### Primitive Datentypen [^5]
 | Type    | Values              | Default | Size                | Range                                     |
 |---------|---------------------|---------|---------------------|-------------------------------------------|
 | byte    | signed integers     | 0       | 8 bits              | -128 to 127                               |
@@ -44,13 +44,14 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 | boolean | true, false         | false   | 1 bit used in 32 bit integer | NA                                |
 
 [^5]: https://latestjavatutorials.blogspot.com/2013/05/java-data-types.html
+### Implicit vs explicit casting
+Implizites Casting in Java erfolgt automatisch, wenn der Compiler „niedrigeren“ Typ in den „höheren“, ohne Datenverlust-Risiko, während explizites Casting manuell durchgeführt werden muss, um größere Datentypen in kleinere zu konvertieren, oft mit einem Risiko des Datenverlusts.
 
-#### Beschreibung
+### Implicit casting [^7]
+Wenn wir arithmetische oder mathematische Operationen mit Operanden unterschiedlichen Typs durchführen, führt der Java-Compiler intern eine implizite Konvertierung durch. Mit anderen Worten: Der Java-Compiler konvertiert automatisch den „niedrigeren“ Typ in den „höheren“ Typ, bevor die Operation fortgesetzt wird, und gibt das Ergebnis des höheren Typs aus. Die folgende Abbildung zeigt, welche implizite Konvertierungen Java zulässt:
+<p align="center"><img src="Img/k1_abb1.png" width="600"  title="Abb2"></p>
 
-- **public**: Das Element ist von überall her zugänglich.
-- **protected**: Das Element ist innerhalb derselben Klasse, im selben Paket und in abgeleiteten Klassen zugänglich.
-- **(kein Modifikator)**: Auch bekannt als "package-private", das Element ist nur innerhalb des eigenen Pakets zugänglich.
-- **private**: Das Element ist nur innerhalb der Klasse zugänglich, in der es deklariert wurde.
+[^7]: https://www.scientecheasy.com/2020/07/type-conversion-casting-java.html/
 
 ## Listen (Arrays)
 In Java, `Array` ist eine statische Struktur fester Größe, die homogene Datentypen enthält. Einmal erstellt, kann die Größe eines Arrays nicht geändert werden.
@@ -158,6 +159,13 @@ positionen[1][1] = 5;
 | **protected**| Ja            | Ja          | Ja  | Nein  |
 | *(kein Modifikator)* | Ja   | Ja          | Nein       | Nein     |
 | **private**  | Ja            | Nein        | Nein       | Nein     |
+
+#### Beschreibung
+
+- **public**: Das Element ist von überall her zugänglich.
+- **protected**: Das Element ist innerhalb derselben Klasse, im selben Paket und in abgeleiteten Klassen zugänglich.
+- **(kein Modifikator)**: Auch bekannt als "package-private", das Element ist nur innerhalb des eigenen Pakets zugänglich.
+- **private**: Das Element ist nur innerhalb der Klasse zugänglich, in der es deklariert wurde.
 
 [^6]: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
 
