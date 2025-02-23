@@ -462,4 +462,28 @@ switch (tag) {
 ```
 *_das `break`, um zu verhindern, dass alle folgenden `case`-Blöcke ebenfalls ausgeführt werden. `default` wird ausgeführt nur dann wenn keine der `case`-Blöcke ausgeführt wurde_
 
+## Ausgaben in Console
+
+#### System.out.print()
+Gibt Text auf der Konsole aus ohne Zeilenumbruch.
+```java
+System.out.print("Text");
+```
+
+### System.out.println()
+ Gibt Text auf der Konsole aus und fügt einen Zeilenumbruch hinzu.
+```java
+System.out.println("Text");
+```
+
+### System.out.printf()
+**Beschreibung**: Erlaubt das formatierte Ausgeben von Text. 
+```java
+System.out.printf("Formatierte %s, %d, %f", "Ausgabe", 5, 1,2);
+```
+- `%s` steht für einen String.
+- `%d` für eine ganze Zahl.
+- `%f` für eine Fließkommazahl.
+
+
 
