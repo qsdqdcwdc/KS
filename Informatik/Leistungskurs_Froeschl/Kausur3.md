@@ -46,8 +46,21 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 **Fachklasse** sind zuständig für Ausführung der tatsächlichen Programmaufgaben wie z.B: Interaktion mit Datenbanken, Ausführung von Vorhersagemodellen, Durchführung von Simulationen.
 
 # UML Krassendiagramme
-Es gibt zwei Weisen indem man Klassen UML Krassendiagramme repräsentieren kann eine vereinfachte Darstellung besteht nur aus der Klassenname in einem Box, die zweite besteht aus einem Box geteilte in drei Teile oben der Klassenname nachher die Attributen und ganz unten die Methoden.
-<p align="center"><img src="Img/k2_abb2.jpg" width="600"  title="Abb1"></p>
+- Es gibt zwei Weisen indem man Klassen UML Krassendiagramme repräsentieren kann eine vereinfachte Darstellung besteht nur aus der Klassenname in einem Box, die zweite besteht aus einem Box geteilte in drei Teile oben der Klassenname nachher die Attributen und ganz unten die Methoden.
+<p align="center"><img src="Img/k3_abb3.jpg" width="600"  title="Abb1"></p>
+
+- Die Sichtbarkeit von Attributen und Methoden wird vor der Methoden/Attributen Name mit einem Symbol gekennzeichnet:
+
+| Symbol | Modifikator | Beschreibung |
+|--------|-------------|--------------|
+| `+`    | public      | Unbeschränkter Zugriff, öffentlich zugänglich. |
+| `#`    | protected   | Zugriff nur von der Klasse sowie von Unterklassen. |
+| `~`    | package     | Innerhalb des Pakets sichtbar. |
+| `-`    | private     | Nur die Klasse selbst kann es sehen, privat. |
+
+- Der (Datentyp für die Attribute)/(Rückgabetyp für die Methoden) muss nach der Name nach dem Doppelpunkt angegeben werden.
+- Statische Methoden und Attribute werden untergestrichen.
+- Wenn die Klasse abstrakt ist soll unter der Klassenname `abstrakt` stehen.
 
 # Java OOP
 
