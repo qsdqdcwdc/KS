@@ -211,7 +211,7 @@ Das `@param`-Tag wird verwendet, um einen Parameter zu beschreiben, der von eine
 #### @return
 Das `@return`-Tag beschreibt den Rückgabewert einer Methode.
 
-#### @throws / @exception
+#### @throws
 Das `@throws`-Tag beschreibt die Ausnahmen, die von einer Methode geworfen werden können.
 
 Beispiel für eine Javadoc-Kommentierung:
