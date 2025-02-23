@@ -5,8 +5,6 @@
 </p>
 
 1. <code>Korrekturen und Ergänzungen zu diesem Dokument sind erwünscht. Bitte fügen Sie diese in [Google Docs](https://docs.google.com/document/d/12Gqtnn5DdQmN6GDQs-ADqzZjTsvVcVF5w9dpGsSQXM4/edit?usp=sharing) ein. Ich werde versuchen, sie so schnell wie möglich zu integrieren.</code>
-2. <code>Die kleinen Ziffern am Ende der Definitionen, wie beispielsweise (z.B: Text[^999]), dienen lediglich der Quellenangabe und müssen für das Verständnis des Textes nicht eingesehen werden</code>
-
 
 
 # Die objektorientierte Programmierung (OOP)
