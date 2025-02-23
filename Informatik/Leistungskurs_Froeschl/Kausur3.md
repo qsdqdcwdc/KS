@@ -76,36 +76,6 @@ public class SubClass extends SuperClass {
 }
 ```
 
-#### Abstrakte Klassen
-Eine abstrakte Klasse kann nicht instanziiert werden und dient als Vorlage für andere Klassen.
-```java
-public abstract class AbstractClass {
-    // Abstrakte Methode
-    public abstract void abstractMethod();
-}
-```
-
-#### Abstrakte Methoden
-Abstrakte Methoden haben keinen Körper und müssen in den abgeleiteten Klassen implementiert werden.
-```java
-public abstract void abstractMethod();
-```
-
-#### Abrufmethoden (Getter)
-Abrufmethoden sind dazu da, den Wert eines privaten Attributs zu lesen.
-```java
-public int getAttribute1() {
-    return attribute1;
-}
-```
-
-#### Änderungsmethoden (Setter)
-Änderungsmethoden sind dazu da, den Wert eines privaten Attributs zu setzen oder zu ändern.
-```java
-public void setAttribute1(int attribute1) {
-    this.attribute1 = attribute1;
-}
-```
 #### Upcasting
 **Upcasting** ist der Vorgang, bei dem ein Subklassenobjekt einer Superklasse zugeordnet wird.
 Das ist immer sicher und wird automatisch von Java durchgeführt.
@@ -123,6 +93,70 @@ Downcasting muss explizit gemacht werden und kann zur Laufzeit zu `ClassCastExce
 Tier tier = new Hund(); // Upcasting
 Hund hund = (Hund) tier; // Downcasting
 ```
+
+
+#### Abstrakte Klassen
+Eine abstrakte Klasse kann nicht instanziiert werden und dient als Vorlage für andere Klassen.
+```java
+public abstract class AbstractClass {
+    // Abstrakte Methode
+    public abstract void abstractMethod();
+}
+```
+
+
+#### Abstrakte Methoden
+Abstrakte Methoden haben keinen Körper und müssen in den abgeleiteten Klassen implementiert werden.
+```java
+public abstract void abstractMethod();
+```
+
+#### Statische Methoden
+Statische Methoden gehören zur Klasse, nicht zu Instanzen der Klasse. Sie können aufgerufen werden, ohne dass eine Instanz der Klasse erstellt werden muss.
+```java
+public class MathUtils {
+    public static int add(int a, int b) {
+        return a + b;
+    }
+}
+```
+Aufruf:
+```java
+MathUtils.add(5, 3);
+```
+
+#### Abrufmethoden (Getter)
+Abrufmethoden sind dazu da, den Wert eines privaten Attributs zu lesen.
+```java
+public int getAttribute1() {
+    return attribute1;
+}
+```
+
+#### Änderungsmethoden (Setter)
+Änderungsmethoden sind dazu da, den Wert eines privaten Attributs zu setzen oder zu ändern.
+```java
+public void setAttribute1(int attribute1) {
+    this.attribute1 = attribute1;
+}
+```
+
+#### Konstruktor
+Konstruktoren sind spezielle Methoden, die beim Erstellen eines neuen Objekts mit `new` aufgerufen werden.
+Die konstrukturen dienen zu Initialisierung von dem Objekt und Initialisierung von dem Instanzvariablen. Die Konstruktoren müssen genau so wie die Klasse heißen. 
+Wenn kein Konstruktor in der Klasse definiert ist erstellt Java einen Standardkonstruktor. [Video](https://www.youtube.com/watch?v=pgBk8HC7jbU)
+  ```java
+  public class Person {
+      private String name;
+
+      public Person(String name) {
+          this.name = name;
+      }
+  }
+  // Nutzung:
+Person person = new Person("Anna");
+  ```
+
 
 #### Methodenüberladung
 **Methodenüberladung** tritt auf, wenn zwei oder mehr Methoden in derselben Klasse denselben Namen haben, aber unterschiedliche Parameterlisten aufweisen.
@@ -154,6 +188,18 @@ class Hund extends Tier {
   }
 }
 ```
+
+#### final
+`final` wird verwendet, um zu deklarieren, dass etwas nicht verändert werden kann. [Video](https://www.youtube.com/watch?v=r9CMJZ4T__8)
+- Variablen: Eine `final` Variable kann nach ihrer Initialisierung nicht neu zugewiesen werden.
+- Methoden: Eine `final` Methode kann in einer Unterklasse nicht überschrieben werden.
+- Klassen: Eine `final` Klasse kann nicht weiter vererbt werden.
+  ```java
+  public final class Constants {
+      public static final int MAX_SIZE = 100;
+  }
+  // Constants.MAX_SIZE ist immer 100
+  ```
 
 ### new
 Das Schlüsselwort `new` wird verwendet, um ein neues Objekt einer Klasse zu erstellen. Es reserviert Speicher für das Objekt und ruft den Konstruktor der Klasse auf.
