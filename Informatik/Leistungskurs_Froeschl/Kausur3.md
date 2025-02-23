@@ -64,7 +64,7 @@ Konvertierung eines höheren Datentyps in einen niedrigeren Datentyp wird als ei
 #### Explizites Casting Beispiel 
 ```java
 double d = 100.9;
-long l = (long)d; // Explicit type casting.
+long l = (long) d; // Explicit type casting.
 ```
 
 [^7]: https://www.scientecheasy.com/2020/07/type-conversion-casting-java.html/
