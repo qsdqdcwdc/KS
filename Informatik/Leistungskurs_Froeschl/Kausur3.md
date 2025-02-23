@@ -215,10 +215,10 @@ Javadoc-Kommentare beginnen mit `/**` und enden mit `*/`, jede Javadocs Kommenta
 `@throws` beschreibt die Ausnahmen, die von einer Methode geworfen werden können.
 
 #### @author
-`@author`: Gibt an, wer diese Klasse oder Methode erstellt hat.
+`@author`: Gibt an, wer diese Klasse erstellt hat.
 
 #### @version
-`@version`: Beschreibt die aktuelle Versionsnummer einer Klasse oder Methode.
+`@version`: Beschreibt die aktuelle Versionsnummer einer Klasse.
 
 Beispiel für eine Javadoc-Kommentierung:
 
@@ -237,5 +237,72 @@ public int divide(int dividend, int divisor) {
     return dividend / divisor;
 }
 ```
+
+### Schleifen
+#### While
+```java
+int i = 0;
+while (i < 5) {
+    System.out.println("i ist " + i);
+    i++;
+}
+```
+
+#### Do-While
+Die `do-while`-Schleife führt einen Block von Anweisungen mindestens einmal aus und wiederholt die Ausführung, solange die Bedingung wahr ist.
+```java
+int i = 0;
+do {
+    System.out.println("i ist " + i);
+    i++;
+} while (i < 5);
+```
+
+#### For
+```java
+for (int i = 0; i < 5; i++) {
+    System.out.println("i ist " + i);
+}
+```
+
+#### For-Each
+Die `for-each`-Schleife, auch bekannt als erweiterte `for`-Schleife, wird verwendet, um durch Elemente in einem Array oder einer Sammlung zu iterieren.
+```java
+int[] array = {1, 2, 3, 4, 5};
+for (int nummer : array) {
+    System.out.println("Nummer ist " + nummer);
+}
+```
+
+#### If
+```java
+int nummer = 10;
+if (nummer > 5) {
+    System.out.println("Nummer ist größer als 5");
+}
+```
+
+#### If-Else
+```java
+int nummer = 4;
+if (nummer > 5) {
+    System.out.println("Nummer ist größer als 5");
+} else {
+    System.out.println("Nummer ist 5 oder kleiner");
+}
+```
+
+#### If-Else-If-Else
+
+```java
+int nummer = 15;
+if (nummer > 20) {
+    System.out.println("Nummer ist größer als 20");
+} else if (nummer > 10) {
+    System.out.println("Nummer ist größer als 10, aber nicht mehr als 20");
+} else {
+    System.out.println("Nummer ist 10 oder kleiner");
+}
+
 
 
