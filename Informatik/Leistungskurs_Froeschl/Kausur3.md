@@ -69,7 +69,7 @@ long l = (long) d; // Explicit type casting.
 
 [^7]: https://www.scientecheasy.com/2020/07/type-conversion-casting-java.html/
 
-## Listen (Arrays)
+## Array
 In Java, `Array` ist eine statische Struktur fester Größe, die homogene Datentypen enthält. Einmal erstellt, kann die Größe eines Arrays nicht geändert werden.
 
 #### Deklaration
