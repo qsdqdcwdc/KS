@@ -47,7 +47,7 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 # UML Krassendiagramme
 - Es gibt zwei Weisen indem man Klassen UML Krassendiagramme repräsentieren kann eine vereinfachte Darstellung besteht nur aus der Klassenname in einem Box, die zweite besteht aus einem Box geteilte in drei Teile oben der Klassenname nachher die Attributen und ganz unten die Methoden.
-<p align="center"><img src="Img/k3_abb3.jpg" width="600"  title="Abb1"></p>
+<p align="center"><img src="Img/k3_abb3.jpg" width="1000"  title="Abb2"></p>
 
 - Die Sichtbarkeit von Attributen und Methoden wird vor der Methoden/Attributen Name mit einem Symbol gekennzeichnet:
 
@@ -61,6 +61,8 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 - Der (Datentyp für die Attribute)/(Rückgabetyp für die Methoden) muss nach der Name nach dem Doppelpunkt angegeben werden.
 - Statische Methoden und Attribute werden untergestrichen.
 - Wenn die Klasse abstrakt ist soll unter der Klassenname `abstrakt` stehen.
+
+<p align="center"><img src="Img/k2_abb2.jpg" width="300"  title="Abb2"></p>
 
 # Java OOP
 
