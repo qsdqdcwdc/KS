@@ -51,9 +51,11 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 Es gibt zwei Weisen indem man Klassen UML Krassendiagramme repräsentieren kann eine vereinfachte Darstellung besteht nur aus der Klassenname in einem Box, die zweite besteht aus einem Box geteilte in drei Teile oben der Klassenname nachher die Attributen und ganz unten die Methoden.
 
-- Der (Datentyp für die Attribute)/(Rückgabetyp für die Methoden) muss nach der Name nach dem Doppelpunkt angegeben werden.
+- Der (Datentyp für die Attribute)/(Rückgabetyp für die Methoden) muss nach der Name nach dem Doppelpunkt angegeben  werden.
+- Die Parameter von Methoden zusammen mit ihren Datentypen sollen in den Klammern von Methoden nach Methodennamen stehen (sehe Bild unten: Hund Klasse).
 - Statische Methoden und Attribute werden untergestrichen.
 - Wenn die Klasse abstrakt ist soll unter der Klassenname `abstrakt` stehen.
+- 
 
 Die Sichtbarkeit von Attributen und Methoden wird vor der Methoden/Attributen Name mit einem Symbol gekennzeichnet:
 
