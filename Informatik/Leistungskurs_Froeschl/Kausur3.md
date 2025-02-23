@@ -49,7 +49,7 @@ Implizites Casting in Java erfolgt automatisch, wenn der Compiler „niedrigeren
 
 ### Implicit casting [^7]
 Wenn wir arithmetische oder mathematische Operationen mit Operanden unterschiedlichen Typs durchführen, führt der Java-Compiler intern eine implizite Konvertierung durch. Mit anderen Worten: Der Java-Compiler konvertiert automatisch den „niedrigeren“ Typ in den „höheren“ Typ, bevor die Operation fortgesetzt wird, und gibt das Ergebnis des höheren Typs aus. Die folgende Abbildung zeigt, welche implizite Konvertierungen Java zulässt:
-<p align="center"><img src="Img/k1_abb1.png" width="600"  title="Abb2"></p>
+<p align="center"><img src="Img/k3_abb1.png" width="600"  title="Abb1"></p>
 
 [^7]: https://www.scientecheasy.com/2020/07/type-conversion-casting-java.html/
 
