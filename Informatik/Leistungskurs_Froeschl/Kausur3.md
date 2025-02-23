@@ -47,7 +47,7 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 # UML Krassendiagramme
 Es gibt zwei Weisen indem man Klassen UML Krassendiagramme repräsentieren kann eine vereinfachte Darstellung besteht nur aus der Klassenname in einem Box, die zweite besteht aus einem Box geteilte in drei Teile oben der Klassenname nachher die Attributen und ganz unten die Methoden.
-<p align="center"><img src="Img/k2_abb2.png" width="600"  title="Abb1"></p>
+<p align="center"><img src="Img/k2_abb2.jpg" width="600"  title="Abb1"></p>
 
 # Java OOP
 
