@@ -238,7 +238,7 @@ public int divide(int dividend, int divisor) {
 }
 ```
 
-### Schleifen
+## Schleifen
 #### While
 ```java
 int i = 0;
@@ -273,6 +273,8 @@ for (int nummer : array) {
     System.out.println("Nummer ist " + nummer);
 }
 ```
+
+## Verzweigungen
 
 #### If
 ```java
