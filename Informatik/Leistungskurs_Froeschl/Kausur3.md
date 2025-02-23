@@ -133,7 +133,7 @@ class Tier {
   }
 }
 class Hund extends Tier {
-  @Override
+
   void essen() {
       System.out.println("Der Hund frisst Fleisch.");
   }
