@@ -31,7 +31,7 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 [^4]: https://www.xpheno.com/blogs/advantages-of-object-oriented-programming/
 
 # Java Spickzettel
-## Primitive Datentypen
+## Primitive Datentypen [^5]
 | Type    | Values              | Default | Size                | Range                                     |
 |---------|---------------------|---------|---------------------|-------------------------------------------|
 | byte    | signed integers     | 0       | 8 bits              | -128 to 127                               |
@@ -43,14 +43,7 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 | char    | Unicode character   | \u0000  | 16 bits             | \u0000 to \uFFFF                         |
 | boolean | true, false         | false   | 1 bit used in 32 bit integer | NA                                |
 
-## Zugriffsmodifikatoren
-
-| Modifikator  | Klassenintern | Paketintern | Subklassen | Weltweit |
-|--------------|---------------|-------------|------------|----------|
-| **public**   | Ja            | Ja          | Ja         | Ja       |
-| **protected**| Ja            | Ja          | Ja  | Nein  |
-| *(kein Modifikator)* | Ja   | Ja          | Nein       | Nein     |
-| **private**  | Ja            | Nein        | Nein       | Nein     |
+[^5]: https://latestjavatutorials.blogspot.com/2013/05/java-data-types.html
 
 #### Beschreibung
 
@@ -156,5 +149,16 @@ int element = positionen[0][1];
 // Setzen des Elements in Zeile 1, Spalte 1 auf 5
 positionen[1][1] = 5; 
 ```
+
+## Zugriffsmodifikatoren [^6]
+
+| Modifikator  | Klassenintern | Paketintern | Subklassen | Weltweit |
+|--------------|---------------|-------------|------------|----------|
+| **public**   | Ja            | Ja          | Ja         | Ja       |
+| **protected**| Ja            | Ja          | Ja  | Nein  |
+| *(kein Modifikator)* | Ja   | Ja          | Nein       | Nein     |
+| **private**  | Ja            | Nein        | Nein       | Nein     |
+
+[^6]: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
 
 
