@@ -274,6 +274,23 @@ for (int nummer : array) {
 }
 ```
 
+#### continue / break
+`continue` überspringt die aktuelle Iteration und fährt mit der nächsten fort.
+`break` beendet die Schleife vorzeitig.
+
+```java
+for (int i = 0; i < 10; i++) {
+    System.out.println("-------");
+    if (i == 2) {
+        continue;
+    }
+    if (i == 5) {
+        break;
+    }
+    System.out.println("Wert von i: " + i);
+}
+```
+
 ## Verzweigungen
 
 #### If
