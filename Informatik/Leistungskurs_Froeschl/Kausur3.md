@@ -203,7 +203,7 @@ int number = 5;
 ```
 ### Javadoc
 Javadocs sind eine spezielle Form von Kommentaren, die verwendet werden, um eine offizielle Dokumentation in HTML-Format zu generieren. Hier sind einige häufig verwendete Tags in Javadocs:
-Javadoc-Kommentare beginnen mit `/**` und enden mit `*/`.
+Javadoc-Kommentare beginnen mit `/**` und enden mit `*/`, jede Javadocs Kommentar Zeile soll ein Stern am Anfang haben.
 
 #### @param
 Das `@param`-Tag wird verwendet, um einen Parameter zu beschreiben, der von einer Methode angenommen wird. 
