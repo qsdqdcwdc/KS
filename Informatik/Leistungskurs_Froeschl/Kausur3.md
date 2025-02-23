@@ -57,7 +57,7 @@ int[] einArray = new int[10];
 String[] stringArray = new String[5];
 ```
 
-### Initialisierung
+### Deklaration und Initialisierung
 ```java
 int[] zahlen = {1, 2, 3, 4, 5};
 String[] worte = {"Hallo", "Welt"}; 
@@ -72,6 +72,13 @@ zahlen[1] = 20;
 ### Länge des Arrays
 ```java
 int laenge = zahlen.length;
+```
+
+### Durchlaufen mit einer Schleife
+```java
+for(String name : namen) {
+    System.out.println(name);
+}
 ```
 
 ## ArrayList
@@ -114,26 +121,19 @@ namen.remove(0);
 int groesse = namen.size();
 ```
 
-### Durchlaufen der ArrayList mit einer Schleife
-```java
-for(String name : namen) {
-    System.out.println(name);
-}
-```
 ## 2D-Listen (2D Arrays)
 
 ### Deklaration
 ```java
- // Eine 2x3 Matrix (zwei Zeilen drei Spalten)
+// Eine 2x3 Matrix (zwei Zeilen drei Spalten)
 int[][] matrix = new int[2][3];
 ```
 
 ### Deklaration und Initialisierung
 ```java
 int[][] positionen = {
-    {0, 0},
-    {1, 1},
-    {2, 2}
+    {0, 0, 3},
+    {1, 1, 2},
 };
 ```
 
