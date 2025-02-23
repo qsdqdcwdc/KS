@@ -32,6 +32,8 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 
 # Java Spickzettel
 ### Primitive Datentypen [^5]
+Primitive Datentypen werden direkt in Variablen gespeichert. [Video](https://www.youtube.com/watch?v=WQ7mvQFSmYc)
+
 | Type    | Values              | Default | Size                | Range                                     |
 |---------|---------------------|---------|---------------------|-------------------------------------------|
 | byte    | signed integers     | 0       | 8 bits              | -128 to 127                               |
@@ -44,42 +46,56 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 | boolean | true, false         | false   | 1 bit used in 32 bit integer | NA                                |
 
 [^5]: https://latestjavatutorials.blogspot.com/2013/05/java-data-types.html
-### Implicit vs explicit casting
+### Implizites vs Explizites Casting
 Implizites Casting in Java erfolgt automatisch, wenn der Compiler „niedrigeren“ Typ in den „höheren“, ohne Datenverlust-Risiko, während explizites Casting manuell durchgeführt werden muss, um größere Datentypen in kleinere zu konvertieren, oft mit einem Risiko des Datenverlusts.
 
-### Implicit casting [^7]
-Wenn wir arithmetische oder mathematische Operationen mit Operanden unterschiedlichen Typs durchführen, führt der Java-Compiler intern eine implizite Konvertierung durch. Mit anderen Worten: Der Java-Compiler konvertiert automatisch den „niedrigeren“ Typ in den „höheren“ Typ, bevor die Operation fortgesetzt wird, und gibt das Ergebnis des höheren Typs aus. Die folgende Abbildung zeigt, welche implizite Konvertierungen Java zulässt:
+### Implizites Casting [^7]
+Wenn wir arithmetische oder mathematische Operationen mit Operanden unterschiedlichen Typs durchführen, führt der Java-Compiler intern eine implizite Konvertierung durch. Die folgende Abbildung zeigt, welche implizite Konvertierungen Java zulässt:
 <p align="center"><img src="Img/k3_abb1.png" width="600"  title="Abb1"></p>
+
+#### Implizites Casting Beispiel
+```java
+int intVal = 42;
+double doubleVal = intVal;
+```
+### Explizites Casting [^7]
+Konvertierung eines höheren Datentyps in einen niedrigeren Datentyp wird als einschränkende Konvertierung bezeichnet. Da diese Art der Konvertierung vom Programmierer und nicht automatisch vom Compiler durchgeführt wird, wird sie in Java auch als explizite Typumwandlung bezeichnet.
+
+#### Explizites Casting Beispiel 
+```java
+double d = 100.9;
+long l = (long)d; // Explicit type casting.
+```
 
 [^7]: https://www.scientecheasy.com/2020/07/type-conversion-casting-java.html/
 
 ## Listen (Arrays)
 In Java, `Array` ist eine statische Struktur fester Größe, die homogene Datentypen enthält. Einmal erstellt, kann die Größe eines Arrays nicht geändert werden.
 
-### Deklaration
+#### Deklaration
 ```java
 int[] einArray = new int[10];
 String[] stringArray = new String[5];
 ```
 
-### Deklaration und Initialisierung
+#### Deklaration und Initialisierung
 ```java
 int[] zahlen = {1, 2, 3, 4, 5};
 String[] worte = {"Hallo", "Welt"}; 
 ```
 
-### Zugriff auf Elemente
+#### Zugriff auf Elemente
 ```java
 int ersteZahl = zahlen[0];
 zahlen[1] = 20;
 ```
 
-### Länge des Arrays
+#### Länge des Arrays
 ```java
 int laenge = zahlen.length;
 ```
 
-### Durchlaufen mit einer Schleife
+#### Durchlaufen mit einer Schleife
 ```java
 for(String name : namen) {
     System.out.println(name);
@@ -89,30 +105,30 @@ for(String name : namen) {
 ## ArrayList
 `ArrayList`, ist eine dynamische Struktur, die Objekte verschiedener Typen speichern kann und deren Größe automatisch anpasst, wenn Elemente hinzugefügt oder entfernt werden. Video: [Array vs ArrayList](https://www.youtube.com/watch?v=NbYgm0r7u6o)
 
-### Import
+#### Import
 ```java
 import java.util.ArrayList;
 ```
 
-### Deklaration und Initialisierung
+#### Deklaration und Initialisierung
 ```java
 ArrayList<String> namen = new ArrayList<>();
 ArrayList<Integer> num = new ArrayList<>();
 ```
 Achtung ` ArrayList<int> num = ... ` ist falsch !!!
 
-### Elemente hinzufügen
+#### Elemente hinzufügen
 ```java
 namen.add("Anna");
 namen.add("Bernd");
 ```
 
-### Zugriff auf Elemente
+#### Zugriff auf Elemente
 ```java
 String erstesElement = namen.get(0); 
 ```
 
-### Elemente entfernen
+#### Elemente entfernen
 ```java
 // Entfernt "Bernd" aus der Liste
 namen.remove(String.valueOf("Bernd"));
@@ -121,20 +137,20 @@ namen.remove(String.valueOf("Bernd"));
 namen.remove(0);
 ```
 
-### Größe der ArrayList
+#### Größe der ArrayList
 ```java
 int groesse = namen.size();
 ```
 
 ## 2D-Listen (2D Arrays)
 
-### Deklaration
+#### Deklaration
 ```java
 // Eine 2x3 Matrix (zwei Zeilen drei Spalten)
 int[][] matrix = new int[2][3];
 ```
 
-### Deklaration und Initialisierung
+#### Deklaration und Initialisierung
 ```java
 int[][] positionen = {
     {0, 0, 3},
@@ -142,7 +158,7 @@ int[][] positionen = {
 };
 ```
 
-### Zugriff auf Elemente
+#### Zugriff auf Elemente
 ```java
 // Zugriff auf das Element in Zeile 0, Spalte 1
 int element = positionen[0][1]; 
@@ -160,12 +176,15 @@ positionen[1][1] = 5;
 | *(kein Modifikator)* | Ja   | Ja          | Nein       | Nein     |
 | **private**  | Ja            | Nein        | Nein       | Nein     |
 
+*_(alle Klassen ohne explizit angegebenes Paket gehören zum Standardpaket)_
+
 #### Beschreibung
 
 - **public**: Das Element ist von überall her zugänglich.
 - **protected**: Das Element ist innerhalb derselben Klasse, im selben Paket und in abgeleiteten Klassen zugänglich.
 - **(kein Modifikator)**: Auch bekannt als "package-private", das Element ist nur innerhalb des eigenen Pakets zugänglich.
 - **private**: Das Element ist nur innerhalb der Klasse zugänglich, in der es deklariert wurde.
+
 
 [^6]: https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
 
