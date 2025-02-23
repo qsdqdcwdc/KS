@@ -206,13 +206,19 @@ Javadocs sind eine spezielle Form von Kommentaren, die verwendet werden, um eine
 Javadoc-Kommentare beginnen mit `/**` und enden mit `*/`, jede Javadocs Kommentar Zeile soll ein Stern am Anfang haben.
 
 #### @param
-Das `@param`-Tag wird verwendet, um einen Parameter zu beschreiben, der von einer Methode angenommen wird. 
+`@param` wird verwendet, um einen Parameter zu beschreiben, der von einer Methode angenommen wird. 
 
 #### @return
-Das `@return`-Tag beschreibt den Rückgabewert einer Methode.
+`@return` beschreibt den Rückgabewert einer Methode.
 
 #### @throws
-Das `@throws`-Tag beschreibt die Ausnahmen, die von einer Methode geworfen werden können.
+`@throws` beschreibt die Ausnahmen, die von einer Methode geworfen werden können.
+
+#### @author
+`@author`: Gibt an, wer diese Klasse oder Methode erstellt hat.
+
+#### @version
+`@version`: Beschreibt die aktuelle Versionsnummer einer Klasse oder Methode.
 
 Beispiel für eine Javadoc-Kommentierung:
 
