@@ -31,6 +31,17 @@ Artikel: [4 Principles](https://khalilstemmler.com/articles/object-oriented/prog
 [^4]: https://www.xpheno.com/blogs/advantages-of-object-oriented-programming/
 
 # Java Spickzettel
+## Primitive Datentypen
+| Type    | Values              | Default | Size                | Range                                     |
+|---------|---------------------|---------|---------------------|-------------------------------------------|
+| byte    | signed integers     | 0       | 8 bits              | -128 to 127                               |
+| short   | signed integers     | 0       | 16 bits             | -32.768 to 32.767                           |
+| int     | signed integers     | 0       | 32 bits             | -2.147.483.648 to 2.147.483.647                 |
+| long    | signed integers     | 0       | 64 bits             | -9223372036854775808 to 9223372036854775807|
+| float   | IEEE 754 floating point | 0.0   | 32 bits             | +/-1.4E-45 to +/-3.4028235E+38, +/-infinity, +/-0, NaN |
+| double  | IEEE 754 floating point | 0.0   | 64 bits             | +/-4.9E-324 to +/-1.7976931348623157E+308, +/-infinity, +/-0, NaN |
+| char    | Unicode character   | \u0000  | 16 bits             | \u0000 to \uFFFF                         |
+| boolean | true, false         | false   | 1 bit used in 32 bit integer | NA                                |
 
 ## Zugriffsmodifikatoren
 
