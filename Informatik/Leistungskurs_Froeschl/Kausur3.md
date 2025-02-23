@@ -53,25 +53,25 @@ In Java, `Array` ist eine statische Struktur fester Größe, die homogene Datent
 
 ### Deklaration
 ```java
-int[] einArray = new int[10]; // Ein Array mit 10 Integern
-String[] stringArray = new String[5]; // Ein Array mit 5 Strings
+int[] einArray = new int[10];
+String[] stringArray = new String[5];
 ```
 
 ### Initialisierung
 ```java
-int[] zahlen = {1, 2, 3, 4, 5}; // Initialisierung mit Werten
-String[] worte = {"Hallo", "Welt"}; // Initialisierung mit Strings
+int[] zahlen = {1, 2, 3, 4, 5};
+String[] worte = {"Hallo", "Welt"}; 
 ```
 
 ### Zugriff auf Elemente
 ```java
-int ersteZahl = zahlen[0]; // Zugriff auf das erste Element
-zahlen[1] = 20; // Setzen des zweiten Elements auf 20
+int ersteZahl = zahlen[0];
+zahlen[1] = 20;
 ```
 
 ### Länge des Arrays
 ```java
-int laenge = zahlen.length; // Gibt die Länge des Arrays zurück
+int laenge = zahlen.length;
 ```
 
 ## ArrayList
@@ -79,36 +79,39 @@ int laenge = zahlen.length; // Gibt die Länge des Arrays zurück
 
 ### Import
 ```java
-import java.util.ArrayList; // Importiert die ArrayList-Klasse
+import java.util.ArrayList;
 ```
 
 ### Deklaration und Initialisierung
 ```java
-ArrayList<String> namen = new ArrayList<>(); // Erstellt eine neue ArrayList für Strings
-ArrayList<Integer> num = new ArrayList<>(); // Erstellt eine neue ArrayList für Integers
+ArrayList<String> namen = new ArrayList<>();
+ArrayList<Integer> num = new ArrayList<>();
 ```
 Achtung ` ArrayList<int> num = ... ` ist falsch !!!
 
 ### Elemente hinzufügen
 ```java
-namen.add("Anna"); // Fügt "Anna" am Ende der Liste hinzu
+namen.add("Anna");
 namen.add("Bernd");
 ```
 
 ### Zugriff auf Elemente
 ```java
-String erstesElement = namen.get(0); // Zugriff auf das erste Element
+String erstesElement = namen.get(0); 
 ```
 
 ### Elemente entfernen
 ```java
-namen.remove("Bernd"); // Entfernt "Bernd" aus der Liste
-namen.remove(0); // Entfernt das Element an Index 0
+// Entfernt "Bernd" aus der Liste
+namen.remove(String.valueOf("Bernd"));
+
+// Entfernt das Element an Index 0
+namen.remove(0);
 ```
 
 ### Größe der ArrayList
 ```java
-int groesse = namen.size(); // Gibt die Größe der ArrayList zurück
+int groesse = namen.size();
 ```
 
 ### Durchlaufen der ArrayList mit einer Schleife
@@ -121,22 +124,26 @@ for(String name : namen) {
 
 ### Deklaration
 ```java
-int[][] matrix = new int[2][3]; // Eine 2x3 Matrix (zwei Zeilen drei Spalten)
+ // Eine 2x3 Matrix (zwei Zeilen drei Spalten)
+int[][] matrix = new int[2][3];
 ```
 
-### Initialisierung
+### Deklaration und Initialisierung
 ```java
 int[][] positionen = {
     {0, 0},
     {1, 1},
     {2, 2}
-}; // Initialisierung mit Werten
+};
 ```
 
 ### Zugriff auf Elemente
 ```java
-int element = positionen[0][1]; // Zugriff auf das Element in Zeile 0, Spalte 1
-positionen[1][1] = 5; // Setzen des Elements in Zeile 1, Spalte 1 auf 5
+// Zugriff auf das Element in Zeile 0, Spalte 1
+int element = positionen[0][1]; 
+
+// Setzen des Elements in Zeile 1, Spalte 1 auf 5
+positionen[1][1] = 5; 
 ```
 
 
