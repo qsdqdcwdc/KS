@@ -54,7 +54,7 @@ $${\color{lightgreen}Neu:}$$ [Video](https://www.youtube.com/watch?v=8P4mTilZCf0
 
 <p align="center"><img src="Img/k3_abb3.jpg" width="1000"  title="Abb2"></p>
 
-Es gibt zwei Weisen indem man Klassen UML Krassendiagramme repräsentieren kann eine vereinfachte Darstellung besteht nur aus der Klassenname in einem Box, die zweite besteht aus einem Box geteilte in drei Teile oben der Klassenname nachher die Attributen und ganz unten die Methoden.
+Es gibt zwei Weisen indem man Klassen in UML Krassendiagrammen repräsentieren kann eine vereinfachte Darstellung besteht nur aus der Klassenname in einem Box, die zweite besteht aus einem Box geteilte in drei Teile oben der Klassenname nachher die Attributen und ganz unten die Methoden.
 
 - Der (Datentyp für die Attribute)/(Rückgabetyp für die Methoden) muss nach der Name nach dem Doppelpunkt angegeben  werden.
 - Die Parameter von Methoden zusammen mit ihren Datentypen sollen in den Klammern von Methoden nach Methodennamen stehen (sehe Bild unten: Hund Klasse).
