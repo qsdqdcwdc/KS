@@ -59,6 +59,7 @@ Es gibt zwei Möglichkeiten, Klassen in UML-Klassendiagrammen darzustellen. Eine
 - **Parameter:** Die Parameter von Methoden, zusammen mit ihren Datentypen, sollen in Klammern direkt nach dem Methodennamen aufgeführt werden (siehe Bild unten: Klasse Hund).
 - **Statisch:** Statische Methoden und Attribute werden unterstrichen.
 - **Abstrakt:** Ist die Klasse abstrakt, so soll unter dem Klassennamen das Wort `abstrakt` stehen.
+- $${\color{lightgreen}Neu:}$$ **Konstruktoren** werden anstelle eines Sichtbarkeitssymbols mit einem `c` vor dem Konstruktor-Namen gekennzeichnet.
 
 ## Sichtbarkeit
 
