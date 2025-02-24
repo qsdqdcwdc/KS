@@ -54,29 +54,39 @@ $${\color{lightgreen}Neu:}$$ [Video](https://www.youtube.com/watch?v=8P4mTilZCf0
 
 <p align="center"><img src="Img/k3_abb3.jpg" width="1000"  title="Abb2"></p>
 
-Es gibt zwei Weisen indem man Klassen in UML Krassendiagrammen repräsentieren kann eine vereinfachte Darstellung besteht nur aus der Klassenname in einem Box, die zweite besteht aus einem Box geteilte in drei Teile oben der Klassenname nachher die Attributen und ganz unten die Methoden.
+Es gibt zwei Möglichkeiten, Klassen in UML-Klassendiagrammen darzustellen. Eine vereinfachte Darstellung besteht lediglich aus einer Box, in der nur der Klassenname steht. Die detailliertere Darstellung nutzt eine Box, die in drei Bereiche unterteilt ist: oben der Klassenname, in der Mitte die Attribute und unten die Methoden.
 
-- Der (Datentyp für die Attribute)/(Rückgabetyp für die Methoden) muss nach der Name nach dem Doppelpunkt angegeben  werden.
-- Die Parameter von Methoden zusammen mit ihren Datentypen sollen in den Klammern von Methoden nach Methodennamen stehen (sehe Bild unten: Hund Klasse).
-- Statische Methoden und Attribute werden untergestrichen.
-- Wenn die Klasse abstrakt ist soll unter der Klassenname `abstrakt` stehen.
+- **Datentypen:** Der Datentyp der Attribute bzw. der Rückgabetyp der Methoden muss nach dem Namen durch einen Doppelpunkt angegeben werden.
+- **Parameter:** Die Parameter von Methoden, zusammen mit ihren Datentypen, sollen in Klammern direkt nach dem Methodennamen aufgeführt werden (siehe Bild unten: Klasse Hund).
+- **Statisch:** Statische Methoden und Attribute werden unterstrichen.
+- **Abstrakt:** Ist die Klasse abstrakt, so soll unter dem Klassennamen das Wort `abstrakt` stehen.
 
-Die Sichtbarkeit von Attributen und Methoden wird vor der Methoden/Attributen Name mit einem Symbol gekennzeichnet:
+## Sichtbarkeit
 
-| Symbol | Modifikator | Beschreibung |
-|--------|-------------|--------------|
-| `+`    | public      | Unbeschränkter Zugriff, öffentlich zugänglich. |
-| `#`    | protected   | Zugriff nur von der Klasse sowie von Unterklassen. |
-| `~`    | package     | Innerhalb des Pakets sichtbar. |
-| `-`    | private     | Nur die Klasse selbst kann es sehen, privat. |
+Die Sichtbarkeit von Attributen und Methoden wird durch ein Symbol vor dem Namen gekennzeichnet:
 
-### Beziehungen
-<p align="center"><img src="Img/k3_abb4.png" width="700"  title="Abb2"></p>
+| Symbol | Modifikator | Beschreibung                                          |
+|--------|-------------|-------------------------------------------------------|
+| `+`    | public      | Unbeschränkter Zugriff, öffentlich zugänglich.        |
+| `#`    | protected   | Zugriff nur innerhalb der Klasse und ihrer Unterklassen. |
+| `~`    | package     | Sichtbar innerhalb des Pakets.                        |
+| `-`    | private     | Nur innerhalb der Klasse selbst sichtbar.             |
 
-**Vererbung** (Generalisierung) wird gekennzeichnet mit einem Pfeil von Subklasse zur Superklasse. Spitze von dem Pfeil soll aus einem leeren geschlossenen Dreieck bestehen.
+## Beziehungen
 
-**Assoziation**: Wenn Klasse `B` leicht von der Klasse `A` zugänglich ist (z.B: ein Referenz auf `B` ist in der Klasse `A` gespeichert) aber nicht andersrum, 
-dann spricht man von einem unidirektionalen Assoziation. Diese Beziehung gekennzeichnet man durch einen Pfeil von `A` nach `B`. Wenn `A` von `B` leicht zugänglich ist und `B` von `A` leicht zugänglich ist, dann spricht man von einem bierdirektionalen Assoziation. Diese Beziehung gezeichnet man mit einem doppel Pfeil. Man kann Assoziation Beziehungen Namen geben. Unten finden Sie weitere Beispiele für UML Diagramme:
+<p align="center"><img src="Img/k3_abb4.png" width="700" title="Abb2"></p>
+
+### Vererbung (Generalisierung)
+Vererbung wird durch einen Pfeil von der Subklasse zur Superklasse dargestellt. Die Pfeilspitze besteht aus einem leeren, geschlossenen Dreieck.
+
+### Assoziation
+- **Unidirektionale Assoziation:** Wenn Klasse `B` von Klasse `A` zugänglich ist (z. B. wenn eine Referenz auf `B` in der Klasse `A` gespeichert ist), jedoch nicht umgekehrt, spricht man von einer unidirektionalen Assoziation. Diese Beziehung wird durch einen Pfeil von `A` nach `B` gekennzeichnet.
+- **Bidirektionale Assoziation:** Wenn sowohl `A` von `B` als auch `B` von `A` zugänglich ist, spricht man von einer bidirektionalen Assoziation. Diese Beziehung wird durch einen doppelten Pfeil dargestellt.
+
+Assoziationen können zudem benannt werden.
+
+Unten finden Sie weitere Beispiele für UML-Diagramme:
+
 
 <p align="center"><img src="Img/k2_abb2.jpg" width="300"  title="Abb2"></p>
 
