@@ -153,7 +153,8 @@ public abstract class AbstractClass {
 
 
 #### Abstrakte Methoden
-Abstrakte Methoden haben keinen Körper und müssen in den abgeleiteten Klassen implementiert werden.
+Abstrakte Methoden haben keinen Körper und müssen in den abgeleiteten Klassen implementiert werden. $${\color{lightgreen}Neu:}$$ Klassen, die mindestens eine abstrakte Methode haben, sind selbst
+abstrakt und müssen ebenfalls mit dem Schlüsselwort abstract gekennzeichnet werden.
 ```java
 public abstract void abstractMethod();
 ```
