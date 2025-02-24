@@ -368,6 +368,20 @@ long l = (long) d; // Explicit type casting.
 
 [^7]: https://www.scientecheasy.com/2020/07/type-conversion-casting-java.html/
 
+#### $${\color{lightgreen}Neu:}$$ instanceof
+Operator `object instanceof Klasse-A` prüft, ob ein Objekt eine Instanz einer bestimmten Klasse oder einer ihrer Unterklassen ist. 
+```java
+public class Tier {...}
+public class Hund extends Tier {...}
+Hund hund = new Hund();
+
+if (hund instanceof Tier) {
+	System.out.println("Hund ist ein Tier.");
+}
+// out: Hund ist ein Tier.
+```
+
+
 ## Array
 In Java, `Array` ist eine statische Struktur fester Größe, die homogene Datentypen enthält.
 
