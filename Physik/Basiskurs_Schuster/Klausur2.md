@@ -1,10 +1,10 @@
 # Online-Ressourcen
-- [Khan Academy: AP /College Physics 2](https://www.khanacademy.org/science/ap-physics-2/ap-light-waves) 
+- [Khan Academy: AP /College Physics 2](https://www.khanacademy.org/science/ap-physics-2/ap-light-waves) (kurze Videos und interaktive Aufgaben)
   - Welleneigenschaften
   - Welleninterferenz
   - Wellenbeugung(Diffraction)
 
-- [Khan Academy: Electromagnetism (Essentials) - Class 12th](https://www.khanacademy.org/science/electromagnetism)
+- [Khan Academy: Electromagnetism (Essentials) - Class 12th](https://www.khanacademy.org/science/electromagnetism) (kurze Videos und interaktive Aufgaben)
   - Elektrische Ladung
   - Coulombsches Gesetz
   - Elektrische Felder
