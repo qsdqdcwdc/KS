@@ -14,6 +14,6 @@
   - Kondensatoren und Kapazität
   - Energie eines Kondensators
 
-- [MIT Physics II: Electricity and Magnetism](https://www.youtube.com/watch?v=QpVxj3XrLgk&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j) (ungefähr der gleiche Stoff wie im "Khan Academy: Electromagnetism (Essentials)", allerdings nur in Form von Videovorlesungen)
+- [MIT Physics II: Electricity and Magnetism Lektionen 1-8](https://www.youtube.com/watch?v=QpVxj3XrLgk&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j) (ungefähr der gleiche Stoff wie im "Khan Academy: Electromagnetism (Essentials)"+, allerdings nur in Form von Videovorlesungen)
 
 
