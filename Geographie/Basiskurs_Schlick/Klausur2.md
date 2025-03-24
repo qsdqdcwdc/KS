@@ -9,5 +9,14 @@ den Gletschers, die durch den Klimawandel verursacht werden, ist der Meeresspieg
   - **Zu nehmende Wetterextreme**: Klimawandel erhöht die Frequenz Extremwetter wie: Hitzewellen, Starkregen und Stürme
   - **Ozeanversauerung**
 ### Ursachen
-- **Athropogene Treibhauseffekt**
-## TippingPoints
+- **Treibhausgase**: Die  durch Menschen provozierten Emissionen von Treibhausgasen wie Kohlendioxid (CO2), Methan (CH4) und Stickoxide (N2O) durch Industrie, Verkehr und Landwirtschaft führt zur Erwärmung der Atmosphäre.
+- **Reduzierung der Kohlendioxidsenken**: Der Anteil der CO2 Emissionen, der von Kohlenstoffsenken an Land oder im Meer aufgenommen wurde, ist in den letzten 50 jahren zurückgegangen.
+- **Landwirtschaft**: Methanemissionen aus Reisanbau und Viehzucht sowie Lachgas aus gedüngten Feldern.
+- **Industrielle Prozesse**: Die Produktion von Zement, Stahl und anderen Materialien setzt große Mengen an CO2 frei.
+- **Energieerzeugung**: Der hohe Anteil an kohle- und gasbasierten Kraftwerken in der globalen Energieerzeugung.
+### Vereiden
+- **Steigerung der Energieeffizienz**: Z.b.: bessere Isolierung von Häusern, Nutzung von Wärmeenergie aus Kraftwerken zur Warmwasserbereitung
+- **Erneuerbare Energien**: Umstellung auf Wind-, Solar- und Wasserkraft reduziert fossile Brennstoffe.
+- **Nachhaltige Forstwirtschaft**: Aufforstung und Schutz von Wäldern stärken natürliche CO₂-Senken.
+### TippingPoints
+
