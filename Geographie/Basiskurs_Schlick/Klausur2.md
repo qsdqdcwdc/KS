@@ -35,6 +35,7 @@ Klimakonferenz von Paris 2015
 Am 12.12.2015 schlossen 196 Staaten n Vertrag, um den Klimawandel zu bremsen und seine Auswirkungen zu reduzieren. Durch das Abkommen soll der globale Temperaturanstieg auf deutlich unter 2 °C im Vergleich zum vorindustriellen Niveau beschränkt werden. Jedes Land soll selbst festlegen, um wie viel Prozent es die TreibhausgasEmissionen reduzieren möchte. Das Pariser Protokoll löste das im jahr 2020 ausgelaufene Kyoto Protokoll ab.
 
 ### Klima-Engineering
+[Video](https://www.youtube.com/watch?v=eYYJZaTIMb0)
 Klima-Engineering ist die absichtliche Veränderung der planetarischen Umwelt, um dem anthropogenen Klimawandel entgegenzuwirken. Klima-Engineering wurde bisher nicht auf planetarischer Ebene angewendet. Lokal wird Klima-Engineering beispielsweise in Form von Wolkenimpfung angewendet. Nachfolgend sind die Technologien aufgeführt, die für das globale Klima-Engineering vorgeschlagen werden:
 
 #### Negative-Emissionen-Technologien
@@ -47,7 +48,7 @@ Negative-Emissionen-Technologien – sind Ansätze zur Entnahme von Treibhausgas
 #### Solar Radiation Modification
 Solar Radiation Modification ist eine Form des Klima-Geoengineerings, das darauf abzielt, die Menge des in den Weltraum zurückreflektierten Sonnenlichts zu erhöhen.
 - Mirrors in space (MIS): Satelliten, die die Menge der Sonnenstrahlung verringern sollen, die auf die Erde einwirkt.
-- Stratosphären-Aerosol-Injektion (SAI): eine vorgeschlagene Methode, Aerosole in die Stratosphäre einzubringen, um durch globale Verdunkelung und erhöhte Albedo eine kühlende Wirkung zu erzielen, wie sie natürlich bei Vulkanausbrüchen auftritt.
+- Stratosphären-Aerosol-Injektion (SAI): eine vorgeschlagene Methode, Aerosole in die Stratosphäre einzubringen, um durch globale Verdunkelung und erhöhte Albedo eine kühlende Wirkung zu erzielen, wie sie natürlich bei Vulkanausbrüchen auftritt. [Video](https://www.youtube.com/watch?v=dSu5sXmsur4)
 
 #### Risieken
 Großflächige Eingriffe bergen ein höheres Risiko unbeabsichtigter Störungen natürlicher Systeme. Dies wirft die Frage auf, ob Klimainterventionen möglicherweise mehr oder weniger schädlich sind als die Klimaschäden, die sie kompensieren. Es besteht weiterer Forschungsbedarf. Nachfolgend finden Sie eine Liste möglicher negativer Folgen von Geoengineering:
