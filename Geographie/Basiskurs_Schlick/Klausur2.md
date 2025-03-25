@@ -31,6 +31,7 @@ Die Hauptursache des Klimawandels ist der anthropogene Treibhauseffekt. Dieser e
 - **Landwirtschaft**: Methanemissionen aus Reisanbau und Viehzucht sowie N₂O aus gedüngten Feldern.
 - **Industrielle Prozesse**: Die Produktion von Zement, Stahl und anderen Materialien setzt große Mengen an CO₂ frei.
 - **Energieerzeugung**: Der hohe Anteil an kohle- und gasbasierten Kraftwerken in der globalen Energieerzeugung.
+- **Transport** Große Mengen an Emissionen aus dem mit fossilen Brennstoffen betriebenen Verkehr.
 
 
 
