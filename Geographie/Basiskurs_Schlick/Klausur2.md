@@ -237,7 +237,7 @@ Die Analphabetenrate, misst den Prozentsatz der erwachsenen Bevölkerung (typisc
 ### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Lebenserwartung
 Lebenserwartung gibt an, wie viele Lebensjahre eine Person aufgrund aktueller Sterblichkeitsraten durchschnittlich erwarten kann. Dieser Wert wird am häufigsten als Lebenserwartung bei Geburt angegeben.
 
-# $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Sustainable Development Goals (SDGs)
+### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Sustainable Development Goals (SDGs)
 [Video](https://youtu.be/qAIolKgDPrA?si=TrnS3VuQC7vSU17w&t=31)
 
 Die Ziele für nachhaltige Entwicklung (Sustainable Development Goals, SDGs) sind ein Bündel von 17 eng miteinander verknüpften Zielen, die 2015 von den Vereinten Nationen im Rahmen der Agenda 2030 verabschiedet wurden. Sie gehen über reines Wirtschafts- und Umweltdenken hinaus und umfassen unter anderem Gesundheitsversorgung, Bildung, Geschlechtergerechtigkeit, Friedensförderung und globale Partnerschaften. Mit dem Leitprinzip „Leaving No One Behind“ verpflichten sich die Staatengemeinschaft sowie alle gesellschaftlichen Akteure – Regierungen, Privatwirtschaft und Zivilgesellschaft – dazu, alle Menschen einzubeziehen und benachteiligte Gruppen besonders zu fördern. Die 169 Unterziele und 232 Indikatoren dienen einer transparenten Messung des Fortschritts, der jährlich im High-level Political Forum (HLPF) überprüft wird. Die SDGs gelten für alle Länder gleichermaßen das heißt, sie richten sich an jedes Land, ungeachtet dessen Entwicklungsstand.
