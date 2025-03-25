@@ -1,7 +1,7 @@
 # Klima
 
 ## Klimawandel
-[Video](https://www.youtube.com/watch?v=tMwFNMfjFuU)
+[Video 1](https://www.youtube.com/watch?v=tMwFNMfjFuU)
 
 ### Ursachen
 Die Hauptursache des Klimawandels ist der anthropogener Treibhauseffekt. Der anthropogener Treibhauseffekt entstand durch Menschen provozierten Erhöhung der Konzentration von Treibhausgasen wie Kohlendioxid (CO2), Methan (CH4) und Distickstoffmonoxid (N2O) in der Atmosphäre. Die konkreten Gründe für den Anstieg der Treibhausgaskonzentrationen sind folgende:
@@ -17,24 +17,32 @@ Die Hauptursache des Klimawandels ist der anthropogener Treibhauseffekt. Der ant
 den Gletschers, die durch den Klimawandel verursacht werden, ist der Meeresspiegel seit Beginn des 20. Jahrhunderts um 15 cm gestiegen; in den letzten 20 Jahren hat sich die Rate des Meeresspiegelanstiegs um das 2,5-fache erhöht und beträgt 3,6 mm pro Jahr.
   - **Zu nehmende Wetterextreme**: Klimawandel erhöht die Frequenz Extremwetter wie: Hitzewellen, Starkregen und Stürme
   - **Ozeanversauerung**
+#### Naturereignis / Naturgefahr 
+
+Als **Naturereignis** werden natürliche Vorgänge wie Lawinenabgänge, Stürme, Erdbeben oder Überschwemmungen bezeichnet. Ist dieses Ereignis potenziell in der Lage, Menschen oder Sachgütern Schaden zuzufügen, spricht man von einer **Naturgefahr**.
 
 ### Reaktion auf den Klimawandel
-Die Begegnung der globalen Herausforderung Klimawandel beinhaltet zwei Strategien: die Vermeidung der Ursachen (Mitigation) und damit den Klimaschutz und Anpassung an die Folgen (Adaption).
+Die Begegnung der globalen Herausforderung Klimawandel beinhaltet zwei Strategien: die Vermeidung der Ursachen (Mitigation) und damit den Klimaschutz und Anpassung an die Folgen (Adaption). [Video](https://www.youtube.com/watch?v=2vqPfY7LjP8)
 #### Vermeidung der Ursachen
 - **Steigerung der Energieeffizienz**: Z.b.: bessere Isolierung von Häusern, Nutzung von Wärmeenergie aus Kraftwerken zur Warmwasserbereitung.
 - **Erneuerbare Energien**: Umstellung auf Wind-, Solar- und Wasserkraft reduziert fossile Brennstoffe.
 - **Nachhaltige Forstwirtschaft**: Aufforstung und Schutz von Wäldern stärken natürliche CO₂-Senken.
 
-#### Anpassung
- - 
 
+#### Anpassung
+ - **Forstwirtschaft**: Waldumbau von Fichtenmonokulturen in standortgerechte Mischbestäde vor zur Erhöhung der Widerstandsfähigkeit gegen hohe Temperaturen und Dürre.
+- **Landwirtschaft**: Züchtung vor Hitzeresistenten Kulturen.
+- **Küstenschutz**: Errichtung von Warften(Siedlungshügel) zur Schutz gegen steigender Wasserstände in Küstenregionen.
+- **Küstenschutz 2**: Anpflanzung von Mangrovenwäldern in tropischen vom steigenden Meeresspiegel bedrohten Regionen, zur verringerung der Küstenerosion.
+
+- **Tourismus**: Anpassung von den Tourismusbranche z.B Umstieg von Skitourismus auf Badetourismus.
 
 #### Kyoto-protocol
 lm Kyoto—Protokoll 1997 wurde erstmals die Reduktion von Treibhausgasen in einem völkerrechtlich bindenden Vertrag verankert. Die unterzeichnenden lndustriestaaten verpflichteten sich, ihre Treibhausgas-Emissionen insgesamt um 5,2% gegenüber den Emissionen des jahres 1990 zu reduzieren. 
 Klimakonferenz von Paris 2015
 
 #### Klimakonferenz von Paris 2015
-Am 12.12.2015 schlossen 196 Staaten n Vertrag, um den Klimawandel zu bremsen und seine Auswirkungen zu reduzieren. Durch das Abkommen soll der globale Temperaturanstieg auf deutlich unter 2 °C im Vergleich zum vorindustriellen Niveau beschränkt werden. Jedes Land soll selbst festlegen, um wie viel Prozent es die TreibhausgasEmissionen reduzieren möchte. Das Pariser Protokoll löste das im jahr 2020 ausgelaufene Kyoto Protokoll ab.
+Am 12.12.2015 schlossen 196 Staaten n Vertrag, um den Klimawandel zu bremsen und seine Auswirkungen zu reduzieren. Durch das Abkommen soll der globale Temperaturanstieg auf deutlich unter 2 °C im Vergleich zum vorindustriellen Niveau beschränkt werden. Jedes Land soll selbst festlegen, um wie viel Prozent es die TreibhausgasEmissionen reduzieren möchte. Das Pariser Protokoll löste das im jahr 2020 ausgelaufene Kyoto Protokoll ab. [Video](https://www.youtube.com/watch?v=Sr2J_1J9w3A)
 
 ### Klima-Engineering
 [Video](https://www.youtube.com/watch?v=eYYJZaTIMb0)
