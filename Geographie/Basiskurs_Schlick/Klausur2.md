@@ -1,4 +1,4 @@
-$${\color{darkorange}Wiederholung\ aus\ Kl1:}$$
+
 
 # Klimawandel
 
@@ -141,3 +141,65 @@ Großflächige Eingriffe bergen ein höheres Risiko unbeabsichtigter Störungen 
 - **Terminierungsschock**: Ein abruptes Beenden von Geoengineering-Praktiken wie der stratosphärischen Aerosolinjektion könnte zu einem schnellen Wiederanstieg der Temperaturen führen, was viele Arten nicht verkraften könnten, da sie sich nicht schnell genug an die veränderten Bedingungen anpassen können. Wenn einmal mit Klima-Engineering begonnen wurde, wird es sehr schwierig sein, damit aufzuhören.
 
 - **Globale Ungleichheiten**: Es gibt erhebliche Bedenken hinsichtlich der internationalen Steuerung und der rechtlichen Rahmenbedingungen für Geoengineering, einschließlich der Risiken grenzüberschreitender Umweltauswirkungen und der Einhaltung internationaler Abkommen und Menschenrechte.
+
+
+# Indizes
+
+### Gini-Koeffizien
+Der **Gini-Koeffizient** ist ein statistisches Maß zur Darstellung der Einkommens- oder Vermögensverteilung innerhalb einer Gesellschaft. Ein Gini-Koeffizient von 0 drückt perfekte Gleichheit aus, wo jeder den gleichen Anteil besitzt, während ein Wert von 1 maximale Ungleichheit repräsentiert, bei der eine Person alles besitzt und der Rest nichts. Er wird häufig verwendet, um soziale Ungleichheit zu quantifizieren. [Video](https://www.youtube.com/watch?v=y8y-gaNbe4U)
+
+### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Bruttoinlandsprodukt BIP (Gross Domestic Product, GDP) 
+Das **Bruttoinlandsprodukt** (BIP) ist der Wert aller Endprodukte und Dienstleistungen, die innerhalb eines Landes in einem Jahr produziert werden. Ein Endprodukt ist ein Produkt der später nicht als Teil von einem anderen Produkt verkauft wird. [Video](https://www.youtube.com/watch?v=Wy4TGV-tPd8)
+<br><br> 
+
+### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Bruttonationaleinkommen BNE (Gross National Income, GNI)
+Das **Bruttonationaleinkommen** (BNE) ist eine wirtschaftliche Kennzahl, die die Gesamtwerte aller von Inländern eines Staates erwirtschafteten Einkommen über ein Jahr hinweg misst, unabhängig davon, ob diese im Inland oder Ausland erzielt wurden. [Video](https://studyflix.de/wirtschaft/bruttonationaleinkommen-bne-1422/video)
+<br><br>
+
+### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Human Development Index (HDI)
+Der **Human Development Index** (HDI) ist ein zusammengesetzter Indikator, der drei Kernbereiche menschlicher Entwicklung abbildet:
+  - Lebenserwartung bei Geburt
+  - Bildung: gemessen anhand durchschnittlicher und erwarteter Schuljahre
+  - Bruttonationaleinkommen pro Kopf in USD.
+
+Die Indizes dieser Bereiche werden gemittelt und auf einer Skala von 0 (niedrigstes Entwicklungsniveau) bis 1 (höchstes Entwicklungsniveau) abgebildet. Der HDI wird jährlich im Human Development Report des United Nations Development Programme (UNDP) veröffentlicht. Deutschland hat HDI von 0,94 (2024). 1-0.8 hocher,0.8-0.5 mittlerer, 0.5-0 niedriger hdi. [Video](https://www.youtube.com/watch?v=UIARB24wAnw)
+<br><br>
+
+### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Human Sustainable Development Index (HSDI)
+**Human Sustainable Development Index** (HSDI): ist HDI aber mit noch einem Kernbereich: den Treibhausgas-Emissionen pro Kopf (in CO2-Äquivalenten). ```(ein unglaublich wichtiger globaler Indikator, für den es nicht einmal eine englische Wikipedia-Seite gibt)```
+<br><br>
+
+### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$  Global Hunger Index (GHI)
+Der **Global Hunger Index** (GHI) zielt darauf ab, das Ausmaß des Hungers auf regionaler, nationaler und weltweite Ebene zu messen. Der GHI kombiniert vier Komponentenindikatoren zur Bewertung des Hungers:
+- Unterernährung der gesamten Bevölkerung. Dies macht ein Drittel des Index aus (1/3).
+- Kindersterblichkeit (unter 5 Jahren). (1/3)
+- Unterernährung bei Kindern. (1/6)
+- Wachstumsverzögerung bei Kindern. (1/6)
+<br><br>
+
+### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Global Gender Gap Index (GGI)
+Der **Global Gender Gap Index** (GGI), entwickelt vom World Economic Forum (WEF), quantifiziert Geschlechterdisparitäten in den Bereichen Gesundheit, Bildung, Wirtschaftsbeteiligung und politische Ermächtigung.
+<br><br>
+
+### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Analphabetenrate
+Die Analphabetenrate, misst den Prozentsatz der erwachsenen Bevölkerung (typischerweise Personen ab 15 Jahren), der nicht in der Lage ist, einfache und kurze Sätze zu lesen und zu schreiben.
+<br><br>
+
+### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Lebenserwartung
+Lebenserwartung gibt an, wie viele Lebensjahre eine Person aufgrund aktueller Sterblichkeitsraten durchschnittlich erwarten kann. Dieser Wert wird am häufigsten als Lebenserwartung bei Geburt angegeben.
+
+# Klassifizierung von Ländern
+
+### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Globaler Norden und Globaler Süden
+Die Begriffe „Globaler Norden“ und „Globaler Süden“ bezeichnen keine rein geografischen Räume, sondern beschreiben Unterschiede in Wirtschaftskraft, Wohlstand und Entwicklungsindikatoren:
+- Globaler Norden: Wirtschaftlich entwickelte, industrialisierte Länder, z. B. Nordamerika, Europa, Japan.
+- Globaler Süden: Weniger entwickelte, oft ärmere Länder, z. B. in Afrika, Lateinamerika, Asien.
+
+Diese Formulierung vermeidet die Wertung von „entwickelt“ vs. „unterentwickelt“, steht aber ebenfalls in der Kritik, weil auch der Globale Süden sehr unterschiedlich entwickelte Länder umfasst.
+
+### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Industrieländer, Schwellenländer und Entwicklungsländer
+[Video](https://www.youtube.com/watch?v=VOR4Sjhtu8w)
+Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unterschiedlichen sozioökonomischen Indikatoren:
+- Industrieländer: Hochentwickelte Wirtschaft, hoher Lebensstandard, z. B. Deutschland, USA.
+- Schwellenländer: Länder im Übergang vom Entwicklungs- zum Industrieland, mit wachsender Industrialisierung, z. B. Brasilien.
+- Entwicklungsländer: Geringer Entwicklungsstand, niedriges Pro-Kopf-Einkommen, z. B. Afghanistan, Ghana
