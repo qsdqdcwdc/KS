@@ -7,6 +7,17 @@
 
 1. <code>Korrekturen und Ergänzungen zu diesem Dokument sind erwünscht. Bitte fügen Sie diese in [Google Docs](https://docs.google.com/document/d/12Gqtnn5DdQmN6GDQs-ADqzZjTsvVcVF5w9dpGsSQXM4/edit?usp=sharing) ein. Ich werde versuchen, sie so schnell wie möglich zu integrieren.</code>
 
+# Inhalt
+- [Klimawandel](#klimawandel)
+  - [Ursachen](#ursachen)
+  - [Auswirkungen](#auswirkungen)
+  - [Reaktion auf den Klimawandel](#reaktion-auf-den-klimawandel)
+- [Globale Disparitäten](#globale-disparitäten)
+  - [Fortschritte bei der Reduzierung globaler Disparitäten](#fortschritte-bei-der-reduzierung-globaler-disparitäten)
+  - [Defizite bei der Minimierung globaler Disparitäten](#defizite-bei-der-minimierung-globaler-diskrepanzen)
+- [Klassifizierung von Ländern](#klassifizierung-von-ländern)
+- [Indizes](#indizes)
+
 # Klimawandel
 
 [Video](https://www.youtube.com/watch?v=tMwFNMfjFuU)
