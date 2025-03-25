@@ -1,6 +1,4 @@
-# Klima
-
-## Klimawandel
+# Klimawandel
 [Video](https://www.youtube.com/watch?v=tMwFNMfjFuU)
 
 ### Ursachen
@@ -17,6 +15,8 @@ Die Hauptursache des Klimawandels ist der anthropogener Treibhauseffekt. Der ant
 den Gletschers, die durch den Klimawandel verursacht werden, ist der Meeresspiegel seit Beginn des 20. Jahrhunderts um 15 cm gestiegen; in den letzten 20 Jahren hat sich die Rate des Meeresspiegelanstiegs um das 2,5-fache erhöht und beträgt 3,6 mm pro Jahr.
   - **Zu nehmende Wetterextreme**: Klimawandel erhöht die Frequenz Extremwetter wie: Hitzewellen, Starkregen und Stürme
   - **Ozeanversauerung**
+  - In Karlsruhe haben sich die Sommertage (Tage mit Temperaturen über 25 °C) seit 1870 mehr als verdoppelt (von 30 auf 70 Tage). Gleichzeitig haben sich die Eistage (Tage mit Temperaturmaxima unter 0°C) von 20 auf 10 Tage halbiert.
+  - 
 #### Naturereignis / Naturgefahr 
 
 Als **Naturereignis** werden natürliche Vorgänge wie Lawinenabgänge, Stürme, Erdbeben oder Überschwemmungen bezeichnet. Ist dieses Ereignis potenziell in der Lage, Menschen oder Sachgütern Schaden zuzufügen, spricht man von einer **Naturgefahr**.
@@ -28,21 +28,24 @@ Die Begegnung der globalen Herausforderung Klimawandel beinhaltet zwei Strategie
 - **Erneuerbare Energien**: Umstellung auf Wind-, Solar- und Wasserkraft reduziert fossile Brennstoffe.
 - **Nachhaltige Forstwirtschaft**: Aufforstung und Schutz von Wäldern stärken natürliche CO₂-Senken.
 
-
 #### Anpassung
  - **Forstwirtschaft**: Waldumbau von Fichtenmonokulturen in standortgerechte Mischbestäde vor zur Erhöhung der Widerstandsfähigkeit gegen hohe Temperaturen und Dürre.
 - **Landwirtschaft**: Züchtung vor Hitzeresistenten Kulturen.
 - **Küstenschutz**: Errichtung von Warften(Siedlungshügel) zur Schutz gegen steigender Wasserstände in Küstenregionen.
 - **Küstenschutz 2**: Anpflanzung von Mangrovenwäldern in tropischen vom steigenden Meeresspiegel bedrohten Regionen, zur verringerung der Küstenerosion.
-
 - **Tourismus**: Anpassung von den Tourismusbranche z.B Umstieg von Skitourismus auf Badetourismus.
 
 #### Kyoto-protocol
 lm Kyoto—Protokoll 1997 wurde erstmals die Reduktion von Treibhausgasen in einem völkerrechtlich bindenden Vertrag verankert. Die unterzeichnenden lndustriestaaten verpflichteten sich, ihre Treibhausgas-Emissionen insgesamt um 5,2% gegenüber den Emissionen des jahres 1990 zu reduzieren. 
-Klimakonferenz von Paris 2015
-
 #### Klimakonferenz von Paris 2015
 Am 12.12.2015 schlossen 196 Staaten n Vertrag, um den Klimawandel zu bremsen und seine Auswirkungen zu reduzieren. Durch das Abkommen soll der globale Temperaturanstieg auf deutlich unter 2 °C im Vergleich zum vorindustriellen Niveau beschränkt werden. Jedes Land soll selbst festlegen, um wie viel Prozent es die TreibhausgasEmissionen reduzieren möchte. Das Pariser Protokoll löste das im jahr 2020 ausgelaufene Kyoto Protokoll ab. [Video](https://www.youtube.com/watch?v=Sr2J_1J9w3A)
+
+#### Methoden der Temperaturkontrolle in Städten
+In städtischen Gebieten entstehen oft städtischen Wärmeinsel. **Städtische Wärmeinsel** bezeichnet ein Phänomen wo Temperatur innerhalb von einem Staat höher ist als Temperatur in direkt angrenzenden unbebauten Gebiet. Um diesen Effekt zu bekämpfen, gibt es folgende Methoden:
+- **Begrünung von Dächern und Fassaden**: Pflanzen auf Dächern und an Fassaden können helfen, die Oberflächentemperatur von Gebäuden zu senken. Gründächer speichern Regenwasser.
+- **Anlage von Parks und Grünflächen**: Die Schaffung von Parks und Grünflächen dient der Senkung der Umgebungstemperatur durch die Verdunstungskälte der Pflanzen und den Schatten der Bäume.
+- **Verwendung heller Baumaterialien**: Durch die Verwendung heller Farben und reflektierender Materialien bei Straßen und Gebäuden kann die Menge der absorbierten Sonnenenergie reduziert und somit die Umgebungstemperatur gesenkt werden.
+- **Wasserelemente in der Stadtplanung**: Brunnen, Teiche und andere Wasserelemente kühlen die umgebende Luft durch Verdunstung.
 
 ### Klima-Engineering
 [Video](https://www.youtube.com/watch?v=eYYJZaTIMb0)
