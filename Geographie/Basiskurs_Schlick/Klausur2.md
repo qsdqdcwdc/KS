@@ -128,7 +128,15 @@ Großflächige Eingriffe bergen ein höheres Risiko unbeabsichtigter Störungen 
 - **Bildungszugang**: Der Zugang zu Grundbildung hat sich weltweit verbessert, mit einem deutlichen Anstieg der Einschulungsraten. Initiativen wie die Globale Bildungspartnerschaft fördern Bildungsprogramme in über 60 Entwicklungsländern, was zu höheren Alphabetisierungsraten und besseren weiter Bildungschancen führt.
 - **Gesundheitsversorgung**: Die globale Gesundheitsversorgung hat sich durch die Einführung von Programmen zur Bekämpfung von Infektionskrankheiten und durch die Verbesserung der medizinischen Infrastruktur verbessert. Die Mortalitätsraten von Kindern unter fünf Jahren sind weltweit zurückgegangen und der Zugang zu lebenswichtigen Impfstoffen hat sich erhöht.
 - **Technologietransfer**: Die Verbreitung von Technologie, insbesondere der Zugang zum Internet und mobilen Netzwerken, hat sich in Entwicklungsregionen beschleunigt, was neue Möglichkeiten für Bildung und wirtschaftliche Entwicklung schafft.
-  
+
+## Defizite bei der Minimierung globaler Diskrepanzen
+
+[Video](https://www.youtube.com/watch?v=1xJ6p0B5V_A)
+
+- **Einkommensungleichheit**: Die Einkommensungleichheit sowohl innerhalb von Ländern als auch global hat in vielen Fällen zugenommen, was zu sozialer Unruhe und wirtschaftlicher Instabilität führt.
+- **Klimawandel**: Der Klimawandel trifft ärmere Länder oft härter, obwohl sie am wenigsten zu dessen Ursachen beigetragen haben. Der Mangel an Ressourcen erschwert es diesen Ländern, sich an die Auswirkungen anzupassen und gleichzeitig ihre wirtschaftliche Entwicklung voranzutreiben. Derzeit erhöht die Menschheit jedes Jahr nur die Menge der Treibhausgasemissionen in die Atmosphäre.
+- **Bildungschancen**: Trotz Verbesserungen im Bildungszugang gibt es weiterhin erhebliche Unterschiede in der Qualität der Bildung. Viele Kinder in Entwicklungsländern erhalten eine unzureichende Bildung.
+
 # Klassifizierung von Ländern
 
 ### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Globaler Norden und Globaler Süden
@@ -182,7 +190,7 @@ Kurzfassung der Tabelle ohne Erläuterungen:
 # Indizes
 
 ### Gini-Koeffizien
-Der **Gini-Koeffizient** ist ein statistisches Maß zur Darstellung der Einkommens- oder Vermögensverteilung innerhalb einer Gesellschaft. Ein Gini-Koeffizient von 0 drückt perfekte Gleichheit aus, wo jeder den gleichen Anteil besitzt, während ein Wert von 1 maximale Ungleichheit repräsentiert, bei der eine Person alles besitzt und der Rest nichts. Er wird häufig verwendet, um soziale Ungleichheit zu quantifizieren. [Video](https://www.youtube.com/watch?v=y8y-gaNbe4U)
+Der **Gini-Koeffizient** ist ein statistisches Maß zur Darstellung der Einkommens- oder Vermögensverteilung innerhalb einer Gesellschaft. Ein Gini-Koeffizient von 0 drückt perfekte Gleichheit aus, wo jeder den gleichen Anteil besitzt, während ein Wert von 1 maximale Ungleichheit repräsentiert, bei der eine Person alles besitzt und der Rest nichts. Er wird häufig verwendet, um soziale Ungleichheit zu quantifizieren.[Video: humanitäre Aspekte](https://www.youtube.com/watch?v=rEnf_CFoyv0), [Video: technische Aspekte](https://www.youtube.com/watch?v=y8y-gaNbe4U)
 
 ### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Bruttoinlandsprodukt BIP (Gross Domestic Product, GDP) 
 Das **Bruttoinlandsprodukt** (BIP) ist der Wert aller Endprodukte und Dienstleistungen, die innerhalb eines Landes in einem Jahr produziert werden. Ein Endprodukt ist ein Produkt der später nicht als Teil von einem anderen Produkt verkauft wird. [Video](https://www.youtube.com/watch?v=Wy4TGV-tPd8)
