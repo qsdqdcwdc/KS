@@ -41,8 +41,8 @@ Die Hauptursache des Klimawandels ist der anthropogene Treibhauseffekt. Dieser e
   - **Gletscherschmelze**: Gletscher in Alaska, im Himalaya und in den Alpen haben ihre Schmelzgeschwindigkeit in den letzten 30 Jahren vervierfacht. In der Alpenregion haben die Gletscher seit Beginn der industriellen Revolution mehr als die Hälfte ihrer Masse verloren.
   - **Meeresspiegelanstieg**: Aufgrund der thermischen Ausdehnung des Wassers und des Schmelzens der Gletscher, die durch den Klimawandel verursacht werden, ist der Meeresspiegel seit Beginn des 20. Jahrhunderts um 15 cm gestiegen; in den letzten 20 Jahren hat sich die Rate des Meeresspiegelanstiegs um das 2,5-fache erhöht und beträgt nun 3,6 mm pro Jahr.
   - **Zunehmende Wetterextreme**: Der Klimawandel erhöht die Frequenz von Extremwetterereignissen wie Hitzewellen, Starkregen und Stürmen.
-  - **Ozeanversauerung**
-  - In Karlsruhe haben sich die Sommertage (Tage mit Temperaturen über 25 °C) seit 1870 mehr als verdoppelt (von 30 auf 70 Tage). Gleichzeitig haben sich die Eistage (Tage mit Temperaturmaxima unter 0°C) von 20 auf 10 Tage halbiert.
+  - **Ozeanversauerung**:  Die zunehmende Aufnahme von CO₂ durch die Ozeane führt zur Versauerung des Meerwassers, was marine Lebensformen und Ökosysteme beeinträchtigt (Z.b. Korallenbleiche).
+  - **Veränderungen der Klimaverhältnisse in Karlsruhe**: In Karlsruhe haben sich die Sommertage (Tage mit Temperaturen über 25 °C) seit 1870 mehr als verdoppelt (von 30 auf 70 Tage). Gleichzeitig haben sich die Eistage (Tage mit Temperaturmaxima unter 0°C) von 20 auf 10 Tage halbiert.
 
 
 
@@ -58,7 +58,7 @@ Die Bekämpfung der globalen Herausforderung Klimawandel beinhaltet zwei Strateg
 
 #### Vermeidung der Ursachen
 
-- **Steigerung der Energieeffizienz**: z. B.: Bessere Isolierung von Häusern, Nutzung von Wärmeenergie aus Kraftwerken zur Warmwasserbereitung.
+- **Steigerung der Energieeffizienz**: Bessere Isolierung von Häusern, Nutzung von Wärmeenergie aus Kraftwerken zur Warmwasserbereitung.
 - **Erneuerbare Energien**: Umstellung auf Wind-, Solar- und Wasserkraft reduziert fossile Brennstoffe.
 - **Nachhaltige Forstwirtschaft**: Aufforstung und Schutz von Wäldern stärken natürliche CO₂-Senken.
 
