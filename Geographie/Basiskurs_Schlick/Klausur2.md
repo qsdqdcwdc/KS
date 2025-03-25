@@ -120,6 +120,15 @@ Großflächige Eingriffe bergen ein höheres Risiko unbeabsichtigter Störungen 
 - **Terminierungsschock**: Ein abruptes Beenden von Geoengineering-Praktiken wie der stratosphärischen Aerosolinjektion könnte zu einem schnellen Wiederanstieg der Temperaturen führen, was viele Arten nicht verkraften könnten, da sie sich nicht schnell genug an die veränderten Bedingungen anpassen können. Wenn einmal mit Klima-Engineering begonnen wurde, wird es sehr schwierig sein, damit aufzuhören.
 - **Globale Ungleichheiten**: Es gibt erhebliche Bedenken hinsichtlich der internationalen Steuerung und der rechtlichen Rahmenbedingungen für Geoengineering, einschließlich der Risiken grenzüberschreitender Umweltauswirkungen und der Einhaltung internationaler Abkommen und Menschenrechte.
 
+# Globale Disparitäten
+ $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ **Disparitäten** bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. **Globale Disparitäten**: Ungleichheiten zwischen verschiedenen Ländern oder Weltregionen. [Video](https://www.youtube.com/watch?v=YGe0-9PdqUo&t=13s)
+
+## Fortschritte bei der Reduzierung globaler Disparitäten
+- **Armutsreduzierung**: Die globale Armutsrate ist seit 1990 erheblich gesunken. Laut Weltbank leben heute weniger Menschen in extremer Armut als jemals zuvor, bedingt durch verbesserte Wirtschaftspolitiken und den Zugang zu internationalen Märkten.
+- **Bildungszugang**: Der Zugang zu Grundbildung hat sich weltweit verbessert, mit einem deutlichen Anstieg der Einschulungsraten. Initiativen wie die Globale Bildungspartnerschaft fördern Bildungsprogramme in über 60 Entwicklungsländern, was zu höheren Alphabetisierungsraten und besseren weiter Bildungschancen führt.
+- **Gesundheitsversorgung**: Die globale Gesundheitsversorgung hat sich durch die Einführung von Programmen zur Bekämpfung von Infektionskrankheiten und durch die Verbesserung der medizinischen Infrastruktur verbessert. Die Mortalitätsraten von Kindern unter fünf Jahren sind weltweit zurückgegangen und der Zugang zu lebenswichtigen Impfstoffen hat sich erhöht.
+- **Technologietransfer**: Die Verbreitung von Technologie, insbesondere der Zugang zum Internet und mobilen Netzwerken, hat sich in Entwicklungsregionen beschleunigt, was neue Möglichkeiten für Bildung und wirtschaftliche Entwicklung schafft.
+  
 # Klassifizierung von Ländern
 
 ### $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Globaler Norden und Globaler Süden
