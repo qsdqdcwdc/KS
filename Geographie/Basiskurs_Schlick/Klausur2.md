@@ -1,8 +1,10 @@
+$${\color{darkorange}Wiederholung\ aus\ Kl1:}$$
+
 # Klimawandel
 
 [Video](https://www.youtube.com/watch?v=tMwFNMfjFuU)
 
-
+Der Klimawandel bezieht sich auf signifikante und langfristige Veränderungen im statistischen Verteilungsmuster von Wetterereignissen über Zeiträume, die von Jahrzehnten bis zu Millionen von Jahren reichen können. Es umfasst sowohl den globalen Erwärmungstrend aufgrund der Erhöhung von Treibhausgasen in der Atmosphäre als auch die damit verbundenen großräumigen Veränderungen in Wettermustern. Obwohl Klimaschwankungen natürliche Phänomene sind, zeigt der aktuelle Trend deutliche Zeichen einer beschleunigten Erwärmung, die vorrangig auf menschliche Aktivitäten zurückzuführen ist, insbesondere auf die Verbrennung fossiler Brennstoffe und großflächige Landnutzungsänderungen.
 
 ### Ursachen
 
