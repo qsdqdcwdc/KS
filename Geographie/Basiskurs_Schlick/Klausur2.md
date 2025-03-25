@@ -36,6 +36,7 @@ Am 12.12.2015 schlossen 196 Staaten n Vertrag, um den Klimawandel zu bremsen und
 
 ### Klima-Engineering
 [Video](https://www.youtube.com/watch?v=eYYJZaTIMb0)
+
 Klima-Engineering ist die absichtliche Veränderung der planetarischen Umwelt, um dem anthropogenen Klimawandel entgegenzuwirken. Klima-Engineering wurde bisher nicht auf planetarischer Ebene angewendet. Lokal wird Klima-Engineering beispielsweise in Form von Wolkenimpfung angewendet. Nachfolgend sind die Technologien aufgeführt, die für das globale Klima-Engineering vorgeschlagen werden:
 
 #### Negative-Emissionen-Technologien
