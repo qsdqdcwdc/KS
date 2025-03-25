@@ -158,9 +158,9 @@ Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unte
 - Schwellenländer: Länder im Übergang vom Entwicklungs- zum Industrieland, mit wachsender Industrialisierung, z. B. Brasilien.
 - Entwicklungsländer: Geringer Entwicklungsstand, niedriges Pro-Kopf-Einkommen, z. B. Afghanistan, Ghana
 
-## Vergleich der wichtigsten Entwicklungsindikatoren nach Länderkategorie
+## Vergleich von Entwicklungsindikatoren nach Länderkategorie
 
-Die folgende Tabelle hebt typische **Wertebereiche** für jeden Indikator in industrialisierten, aufstrebenden und Entwicklungsländern hervor. Einige Indikatoren (z. B. Globaler Hungerindex) werden üblicherweise nicht für Hoch-Einkommens-Länder berichtet, da dort kaum Hunger auftritt – Schätzwerte werden aber zum Vergleich angegeben.)*
+Die folgende Tabelle hebt typische Wertebereiche für jeden Indikator in industrialisierten, aufstrebenden und Entwicklungsländern hervor.
 
 <details>
   <summary>klicken für volle Tabelle</summary>
