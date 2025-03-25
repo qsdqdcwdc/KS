@@ -1,7 +1,7 @@
 # Klima
 
 ## Klimawandel
-[Video 1](https://www.youtube.com/watch?v=tMwFNMfjFuU)
+[Video](https://www.youtube.com/watch?v=tMwFNMfjFuU)
 
 ### Ursachen
 Die Hauptursache des Klimawandels ist der anthropogener Treibhauseffekt. Der anthropogener Treibhauseffekt entstand durch Menschen provozierten Erhöhung der Konzentration von Treibhausgasen wie Kohlendioxid (CO2), Methan (CH4) und Distickstoffmonoxid (N2O) in der Atmosphäre. Die konkreten Gründe für den Anstieg der Treibhausgaskonzentrationen sind folgende:
