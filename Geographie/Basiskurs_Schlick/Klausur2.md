@@ -1,4 +1,11 @@
 
+<p align="center">
+	<img src="Img/qr_geo_klas2_1.png" width="250"  title="qr code">
+	<br>
+	<em>QR-Code scannen um dieses Dokument auf dem IPad zu öffnen</em>
+</p>
+
+1. <code>Korrekturen und Ergänzungen zu diesem Dokument sind erwünscht. Bitte fügen Sie diese in [Google Docs](https://docs.google.com/document/d/12Gqtnn5DdQmN6GDQs-ADqzZjTsvVcVF5w9dpGsSQXM4/edit?usp=sharing) ein. Ich werde versuchen, sie so schnell wie möglich zu integrieren.</code>
 
 # Klimawandel
 
