@@ -42,7 +42,7 @@ Die Hauptursache des Klimawandels ist der anthropogene Treibhauseffekt. Dieser e
   - **Meeresspiegelanstieg**: Aufgrund der thermischen Ausdehnung des Wassers und des Schmelzens der Gletscher, die durch den Klimawandel verursacht werden, ist der Meeresspiegel seit Beginn des 20. Jahrhunderts um 15 cm gestiegen; in den letzten 20 Jahren hat sich die Rate des Meeresspiegelanstiegs um das 2,5-fache erhöht und beträgt nun 3,6 mm pro Jahr.
   - **Zunehmende Wetterextreme**: Der Klimawandel erhöht die Frequenz von Extremwetterereignissen wie Hitzewellen, Starkregen und Stürmen.
   - **Ozeanversauerung**:  Die zunehmende Aufnahme von CO₂ durch die Ozeane führt zur Versauerung des Meerwassers, was marine Lebensformen und Ökosysteme beeinträchtigt (Z.b. Korallenbleiche).
-  - Veränderung der regionalen Temperatur- und Niederschlagsmuster: In Karlsruhe haben sich die Sommertage (Tage mit Temperaturen über 25 °C) seit 1870 mehr als verdoppelt (von 30 auf 70 Tage). Gleichzeitig haben sich die Eistage (Tage mit Temperaturmaxima unter 0°C) von 20 auf 10 Tage halbiert.
+  - **Veränderung der regionalen Temperatur- und Niederschlagsmuster**: In Karlsruhe haben sich die Sommertage (Tage mit Temperaturen über 25 °C) seit 1870 mehr als verdoppelt (von 30 auf 70 Tage). Gleichzeitig haben sich die Eistage (Tage mit Temperaturmaxima unter 0°C) von 20 auf 10 Tage halbiert.
 
 
 
