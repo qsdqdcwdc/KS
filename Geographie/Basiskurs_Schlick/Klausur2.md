@@ -132,6 +132,10 @@ Großflächige Eingriffe bergen ein höheres Risiko unbeabsichtigter Störungen 
 - **Terminierungsschock**: Ein abruptes Beenden von Geoengineering-Praktiken wie der stratosphärischen Aerosolinjektion könnte zu einem schnellen Wiederanstieg der Temperaturen führen, was viele Arten nicht verkraften könnten, da sie sich nicht schnell genug an die veränderten Bedingungen anpassen können. Wenn einmal mit Klima-Engineering begonnen wurde, wird es sehr schwierig sein, damit aufzuhören.
 - **Globale Ungleichheiten**: Es gibt erhebliche Bedenken hinsichtlich der internationalen Steuerung und der rechtlichen Rahmenbedingungen für Geoengineering, einschließlich der Risiken grenzüberschreitender Umweltauswirkungen und der Einhaltung internationaler Abkommen und Menschenrechte.
 
+### $${\color{lightgreen}Neu:}$$ Kippschalter
+In der Klimawissenschaft ist ein **Kippschalter** eine kritische Schwelle, deren Überschreiten zu großen, sich beschleunigenden und oft irreversiblen Veränderungen im Klimasystem führt[3]. Wenn Kipppunkte überschritten werden, haben sie wahrscheinlich schwerwiegende Auswirkungen auf die menschliche Gesellschaft und können die globale Erwärmung beschleunigen.
+
+
 # Globale Disparitäten
  $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ **Disparitäten** bezeichnen signifikante strukturelle Unterschiede/Ungleichheiten. **Globale Disparitäten**: Ungleichheiten zwischen verschiedenen Ländern oder Weltregionen. [Video](https://www.youtube.com/watch?v=YGe0-9PdqUo&t=13s)
 
