@@ -22,9 +22,20 @@ Es ist zu beachten, dass sowohl der Realteil als auch der Imaginärteil von $z$ 
 Es sei $z = a + bi$ eine komplexe Zahl. Die zu $z$ **konjugiert komplexe Zahl** ist die Zahl $a - bi$.  
 *Man schreibt dafür auch $\overline{z} = a - bi$.  
 
+### Multiplikation zwei Komponenten zahlen
+
+Sind $a_1 + b_1i$ und $a_2 + b_2i$ zwei komplexe Zahlen (d.h. $a_1, a_2, b_1, b_2$ reell), dann gilt:
+
+$(a_1 + b_1i) \cdot (a_2 + b_2i) = (a_1 \cdot a_2 - b_1 \cdot b_2) + (a_1 \cdot b_2 - a_2 \cdot b_1)i$
+
 ### Eigenschaften konjugiert komplexer Zahlen
 1) $z \cdot \overline{z} = \text{Re}(z)^2 + \text{Im}(z)^2$
 
 2) $z + \overline{z} = 2 \cdot \text{Re}(z)$
 
 3) $\overline{\overline{z}} = z$
+
+### Division zwei Komponenten zahlen
+Sind $a + bi$ und $c + di$ zwei komplexe Zahlen (d.h. $a, b, c, d$ reell) und $c + di \ne 0$, dann gilt:
+
+$$(a + bi)  : (c + di) = \frac{ac + bd}{c^2 + d^2} + \frac{bc - ad}{c^2 + d^2}i.$$
