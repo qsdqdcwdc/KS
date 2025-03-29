@@ -17,3 +17,14 @@ $b$ heißt der **Imaginärteil** von $z$. Man schreibt auch $b = \mathrm{Im}(z)$
 Es ist zu beachten, dass sowohl der Realteil als auch der Imaginärteil von $z$ **reelle Zahlen** sind. Zahlen der Form $bi$ heißen **rein imaginär**.
 
 **Achtung!** Der Imaginärteil von $2 - 5i$ ist gleich $-5$, also reell. Er ist *nicht* gleich dem rein imaginären Anteil der Zahl $2 - 5i$. Dieser wäre nämlich $-5i$.
+
+### Definition konjugiert komplexen Zahl
+Es sei $z = a + bi$ eine komplexe Zahl. Die zu $z$ **konjugiert komplexe Zahl** ist die Zahl $a - bi$.  
+*Man schreibt dafür auch $\overline{z} = a - bi$.  
+
+### Eigenschaften konjugiert komplexer Zahlen
+1) $z \cdot \overline{z} = \text{Re}(z)^2 + \text{Im}(z)^2$
+
+2) $z + \overline{z} = 2 \cdot \text{Re}(z)$
+
+3) $\overline{\overline{z}} = z$
