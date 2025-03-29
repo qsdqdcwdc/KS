@@ -1,3 +1,15 @@
+### Zahlenbereiche
+
+- **Natürliche Zahlen** ℕ = { 1, 2, 3, … }  
+  *(in einigen Definitionen gehört auch die Zahl 0 zu diesem Zahlenbereich)*
+- **Ganze Zahlen** ℤ = { …, -2, -1, 0, 1, 2, … }
+- **Rationale Zahlen** ℚ = { a/b | a, b ∈ ℤ, b ≠ 0 }
+- **Reelle Zahlen** ℝ = { alle Dezimalzahlen (auch irrationale wie √2 oder π) }
+- **Komplexe Zahlen** ℂ = { a + bi | a, b ∈ ℝ }
+
+Es gilt: ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ ⊂ ℂ
+
+
 ### Definition imaginäre Einheit
 Wir definieren eine neue Zahl $i$, welche die Gleichung $x^2 = -1$ löst, das heißt für die $i^2 = -1$ gilt. Wir nennen diese Zahl die **imaginäre Einheit**.
 
