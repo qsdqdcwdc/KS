@@ -51,3 +51,8 @@ $(a_1 + b_1i) \cdot (a_2 + b_2i) = (a_1 \cdot a_2 - b_1 \cdot b_2) + (a_1 \cdot 
 Sind $a + bi$ und $c + di$ zwei komplexe Zahlen (d.h. $a, b, c, d$ reell) und $c + di \ne 0$, dann gilt:
 
 $$(a + bi)  : (c + di) = \frac{ac + bd}{c^2 + d^2} + \frac{bc - ad}{c^2 + d^2}i.$$
+
+### Darstellungsformen komplexer Zahlen
+- Kartesische: $z = a + b \cdot i$
+- Polardarstellung: $z = r \cdot (\cos\varphi + i\sin\varphi)$
+- Exponentialdarstellung/Eulersche Darstellung: $r \cdot e^{i\varphi}$
