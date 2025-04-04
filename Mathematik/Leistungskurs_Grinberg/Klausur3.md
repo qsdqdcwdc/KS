@@ -104,7 +104,70 @@ In einem dreidimensionalen kartesischen Koordinatensystem wird jedes Punkt durch
 </p>
 
 
-## Vectoren
+# Vektoren im Raum
+
+# Vektoren im Raum
+
+Ein **Vektor** ist ein mathematisches Objekt, das eine Größe und eine Richtung besitzt. Mathematisch wird ein Vektor im Raum durch seine Koordinaten in der Form $(x, y, z)$ dargestellt, wobei $x$, $y$, und $z$ die Komponenten des Vektors entlang der $x$-, $y$-, und $z$-Achsen sind.
+
+### **Freier Vektor**
+Ein **freier Vektor** ist ein Vektor, der unabhängig von seiner Position im Raum definiert ist. Das bedeutet, dass seine Eigenschaften wie Richtung und Länge gleich bleiben, unabhängig davon, wo er im Koordinatensystem platziert wird.
+
+### **Ortsvektor**
+Ein **Ortsvektor** ist ein Vektor, der vom Ursprung des Koordinatensystems zu einem Punkt P führt. Er beschreibt die Position dieses Punktes im Raum. In der Regel wird ein Ortsvektor als $\vec{OP}$ notiert, wobei $O$ der Ursprung und $P$ der Endpunkt des Vektors ist.
+
+### Schreibweisen für Vektoren
+Vektoren können auf verschiedene Weisen dargestellt werden:
+
+- **Mit einem Pfeil über dem Buchstaben:** $\vec{a}$
+
+- **Vektor von einem Punkt zu einem anderen Punkt**: Gegeben zwei Punkte $A = (x_1| y_1| z_1)$ und $B = (x_2| y_2| z_2)$, ist der Vektor
+  $\vec{AB} = (x_2 - x_1, y_2 - y_1, z_2 - z_1)$.
+
+- **Mit eine vertikale Klammer:**
+```math
+\begin{pmatrix}
+a_x \\
+a_y \\
+a_z
+\end{pmatrix}
+```
+
+### Addition von Vektoren
+**Vektoraddition:** Die Addition zweier Vektoren $\vec{a} = (a_x, a_y, a_z)$ und $\vec{b} = (b_x, b_y, b_z)$ erfolgt komponentenweise. Das Ergebnis ist ein neuer Vektor $\vec{c} = (a_x + b_x, a_y + b_y, a_z + b_z)$.
+
+#### Beispiel
+Seien $\vec{a} = (3, 4, 5)$ und $\vec{b} = (1, 0, 2)$, dann ist $\vec{c} = \vec{a} + \vec{b} = (3+1, 4+0, 5+2) = (4, 4, 7)$.
+
+### Subtraktion von Vektoren
+**Vektorsubtraktion:** Die Subtraktion von Vektor $\vec{b}$ von Vektor $\vec{a}$ erfolgt ebenfalls komponentenweise: $\vec{c} = \vec{a} - \vec{b} = (a_x - b_x, a_y - b_y, a_z - b_z)$.
+
+#### Beispiel
+Für $\vec{a} = (3, 4, 5)$ und $\vec{b} = (1, 0, 2)$ ist $\vec{c} = \vec{a} - \vec{b} = (3-1, 4-0, 5-2) = (2, 4, 3)$.
+
+### Streckung von Vektoren
+**Vektorstreckung (Skalierung):** Ein Vektor $\vec{a} = (a_x, a_y, a_z)$ kann durch eine Skalierung mit einem Skalar $k$ gestreckt werden, wodurch ein neuer Vektor $\vec{b} = k\vec{a} = (ka_x, ka_y, ka_z)$ entsteht.
+
+#### Beispiel
+Für $\vec{a} = (3, 4, 5)$ und $k = 2$ ist $\vec{b} = 2\vec{a} = (2\cdot3, 2\cdot4, 2\cdot5) = (6, 8, 10)$.
+
+### Betrag eines Vektors
+
+Der **Betrag eines Vektors** $\vec{v}$, oft auch als die Länge oder Magnitude des Vektors bezeichnet, misst die "Größe" des Vektors. Für einen Vektor $\vec{v} = (v_1, v_2, v_3)$ im dreidimensionalen Raum wird der Betrag $|\vec{v}|$ durch die folgende Formel bestimmt:
+
+```math
+|\vec{v}| = \sqrt{v_1^2 + v_2^2 + v_3^2}
+```
+
+#### **Beispiel**
+Betrachten Sie den Vektor $\vec{v} = (3, 4, 12)$. Der Betrag dieses Vektors wird wie folgt berechnet:
+
+```math
+|\vec{v}| = \sqrt{3^2 + 4^2 + 12^2} = \sqrt{9 + 16 + 144} = \sqrt{169} = 13
+```
+
+
+
 
 
 
