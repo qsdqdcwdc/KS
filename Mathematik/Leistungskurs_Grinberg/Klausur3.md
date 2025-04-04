@@ -89,7 +89,9 @@ Das ergibt das System:
 Dieses System kann nun mit Gaußsches Eliminationsverfahren gelöst werden. Nach Lösung erhält man die Koeffizienten $a$, $b$, und $c$, die das gesuchte Polynom definieren $a = 0.5$, $b = -0.5$, und $c = 2$, sodass das resultierende Polynom lautet: $P(x) = 0.5x^2 - 0.5x + 2$ Dieses Polynom verläuft durch alle drei gegebenen Punkte, was durch Einsetzen der $x$-Werte in $P(x)$ überprüft werden kann.
 
 
-# Kartesisches Koordinatensystem
+## Kartesisches Koordinatensystem
+In einem dreidimensionalen kartesischen Koordinatensystem wird jedes Punkt durch drei Zahlenwerte beschrieben. Komplexere Objekte können durch Gleichungen dargestellt werden, deren Lösungsmengen alle Punkte umfassen, die zu diesen Objekten gehören. Ein Blatt Papier kann den dreidimensionalen Raum jedoch nicht vollständig abbilden. Wenn dreidimensionale Objekte auf Papier gezeichnet werden, sind sie daher nicht geeignet, um Länge, Winkel und die meisten anderen Eigenschaften von diesen Objekte zu messen. Dafür ist die analytische Geometrie erforderlich.
+
 <p align="center">
 	<img src="Img/kl3_1.png" width="300"  title="Abb1">
 	<br>
@@ -100,6 +102,7 @@ Dieses System kann nun mit Gaußsches Eliminationsverfahren gelöst werden. Nach
 	<br>
 	<em>3d Kartesisches Koordinatensystem</em>
 </p>
+
 
 
 
