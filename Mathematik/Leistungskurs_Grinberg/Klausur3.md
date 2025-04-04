@@ -205,8 +205,9 @@ $$ \theta = \cos^{-1} \left( \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| |\vec{b}|} \
 <p align="center">
 	<img src="Img/kl3_3.png" width="300"  title="Abb1">
 	<br>
-	<em>3d Kartesisches Koordinatensystem</em>
+	<em>Rechte-Hand-Regel</em>
 </p>
+
 **Kreuzprodukt**: Das Kreuzprodukt zweier Vektoren $\vec{a}$ und $\vec{b}$ im dreidimensionalen Raum wird definiert als ein Vektor $\vec{c}$, der senkrecht zu beiden Vektoren steht und dessen Länge dem Flächeninhalt des Parallelogramms entspricht, das von $\vec{a}$ und $\vec{b}$ aufgespannt wird. Die Richtung von $\vec{c}$ wird durch die Rechte-Hand-Regel bestimmt.
 
 Das Kreuzprodukt wird berechnet mit der Formel:
