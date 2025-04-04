@@ -89,6 +89,17 @@ Das ergibt das System:
 Dieses System kann nun mit Gaußsches Eliminationsverfahren gelöst werden. Nach Lösung erhält man die Koeffizienten $a$, $b$, und $c$, die das gesuchte Polynom definieren $a = 0.5$, $b = -0.5$, und $c = 2$, sodass das resultierende Polynom lautet: $P(x) = 0.5x^2 - 0.5x + 2$ Dieses Polynom verläuft durch alle drei gegebenen Punkte, was durch Einsetzen der $x$-Werte in $P(x)$ überprüft werden kann.
 
 
+# Kartesisches Koordinatensystem
+<p align="center">
+	<img src="Img/kl3_1.png" width="300"  title="Abb1">
+	<br>
+	<em>2d Kartesisches Koordinatensystem</em>
+</p>
+<p align="center">
+	<img src="Img/kl3_2.png" width="300"  title="Abb1">
+	<br>
+	<em>3d Kartesisches Koordinatensystem</em>
+</p>
 
 
 
