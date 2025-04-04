@@ -89,6 +89,7 @@ Das ergibt das System:
 Dieses System kann nun mit Gaußsches Eliminationsverfahren gelöst werden. Nach Lösung erhält man die Koeffizienten $a$, $b$, und $c$, die das gesuchte Polynom definieren $a = 0.5$, $b = -0.5$, und $c = 2$, sodass das resultierende Polynom lautet: $P(x) = 0.5x^2 - 0.5x + 2$ Dieses Polynom verläuft durch alle drei gegebenen Punkte, was durch Einsetzen der $x$-Werte in $P(x)$ überprüft werden kann.
 
 
+
 ## Kartesisches Koordinatensystem
 In einem dreidimensionalen kartesischen Koordinatensystem wird jedes Punkt durch drei Zahlenwerte beschrieben. Komplexere Objekte können durch Gleichungen dargestellt werden, deren Lösungsmengen alle Punkte umfassen, die zu diesen Objekten gehören. In einem zweidimensionalen Koordinatensystem können Sie alle Längen und Winkel direkt von der Zeichnung auf Papier messen und sie werden korrekt sein. Ein Blatt Papier kann den dreidimensionalen Raum jedoch nicht vollständig abbilden. Wenn dreidimensionale Objekte auf Papier gezeichnet werden, sind sie daher nicht geeignet, um Länge, Winkel und die meisten anderen Eigenschaften von diesen Objekte zu messen. Dafür ist die analytische Geometrie erforderlich.
 
@@ -163,49 +164,12 @@ Betrachten Sie den Vektor $\vec{v} = (3, 4, 12)$. Der Betrag dieses Vektors wird
 |\vec{v}| = \sqrt{3^2 + 4^2 + 12^2} = \sqrt{9 + 16 + 144} = \sqrt{169} = 13
 ```
 
-## Geraden im dreidimensionalen Raum
-
-Die Darstellung von Geraden im dreidimensionalen Raum erfolgt typischerweise durch die Verwendung von Vektoren. Hierbei wird eine Gerade durch einen Stützvektor und einen Richtungsvektor definiert.
-
-### Definition einer Geraden
-
-Eine **Gerade** im Raum kann definiert werden durch:
-
-- **Stützvektor $\vec{p}$:** Ein Punkt, durch den die Gerade verläuft.
-- **Richtungsvektor $\vec{v}$:** Gibt die Richtung der Geraden an.
-
-Die **Parameterform** einer Geraden ist gegeben durch die Gleichung:
-
-$$\vec{r}(t) = \vec{p} + t\vec{v}$$
-
-wobei $t \in \mathbb{R}$ der Parameter ist.
-
-#### Beispiel
-
-Sei $\vec{p} = (1, 2, 3)$ und $\vec{v} = (4, 5, 6)$. Dann lautet die Gleichung der Geraden:
-
-$$\vec{r}(t) = (1, 2, 3) + t(4, 5, 6)$$
-
-### Punktprobe
-
-Um zu überprüfen, ob ein Punkt $\vec{q}$ auf einer gegebenen Geraden liegt, setzt man $\vec{q}$ in die Geradengleichung ein und löst nach $t$. Falls eine Lösung existiert, liegt der Punkt auf der Geraden.
-
-#### Beispiel
-
-Für den Punkt $\vec{q} = (5, 7, 9)$ prüft man:
-
-$$(5, 7, 9) = (1, 2, 3) + t(4, 5, 6)$$
-
-Daraus folgt durch Komponentenvergleich und Lösung des Gleichungssystems, dass $t = 1$ eine mögliche Lösung ist, also liegt $\vec{q}$ auf der Geraden.
 
 ### Analytische Geometrie zur Bestimmung der Lage von Geraden
 
 Die **analytische Geometrie** bietet Methoden zur Untersuchung der relativen Lage von Geraden im Raum [Video](https://studyflix.de/mathematik/lagebeziehungen-von-geraden-5826):
-
 1. **Parallele Geraden:** Zwei Geraden sind parallel, wenn ihre Richtungsvektoren linear abhängig sind. Dies prüft man durch den Vergleich der Vektoren.
-
 2. **Identische Geraden:** Zwei Geraden sind identisch, wenn sie denselben Stützpunkt und Richtungsvektor haben, oder wenn ein Punkt der einen Geraden durch eine Skalierung des Richtungsvektors auf der anderen Geraden liegt.
-
 3. **Schnittwinkel und Schnittpunkt:** Der Schnittpunkt zweier Geraden kann gefunden werden, indem man ihre Gleichungen gleichsetzt und das resultierende Gleichungssystem löst. Der Schnittwinkel lässt sich über das Skalarprodukt der Richtungsvektoren berechnen.
 
 4. Geraden werden als **windschief** bezeichnet, wenn sie sich weder schneiden noch parallel zueinander sind.
@@ -219,4 +183,56 @@ Betrachten wir zwei Geraden:
 
  Diese Geraden sind parallel, da $\vec{v}_2 = 0.5\vec{v}_1$ ( $\vec{v}_1$ und  $\vec{v}_2$ sind Richtungsvektoren von geraden $\vec{r}_1(t)$, $\vec{r}_2(t)$ ). Sie haben keinen Schnittpunkt, da sie nicht identisch sind.
 
- 
+ ## Ebenen im Raum
+
+Eine **Ebene** ist eine zweidimensionale Fläche im dreidimensionalen Raum, die durch mindestens drei nicht auf einer Geraden liegende Punkte definiert werden kann.
+
+### Parameterform der Ebene
+
+Die **Parameterform** einer Ebene wird durch einen Punkt und zwei nicht parallele Richtungsvektoren definiert. Sie lautet:
+
+$$\vec{x} = \vec{p} + r\vec{u} + s\vec{v}$$
+
+- $\vec{p}$ ist der Stützvektor (ein Punkt auf der Ebene),
+- $\vec{u}$ und $\vec{v}$ sind die Richtungsvektoren der Ebene,
+- $r$ und $s$ sind Parameter.
+
+#### Beispiel
+
+Gegeben sei der Punkt $\vec{p} = (1, 2, 3)$ und die Vektoren $\vec{u} = (4, 0, 0)$ und $\vec{v} = (0, 5, 0)$. Die Parameterform der Ebene ist dann:
+
+$$\vec{x} = (1, 2, 3) + r(4, 0, 0) + s(0, 5, 0)$$
+
+### Normalenform der Ebene
+
+Die **Normalenform** der Ebene verwendet einen Normalenvektor, der senkrecht zur Ebene steht. Sie wird definiert als:
+
+$$\vec{n} \cdot (\vec{x} - \vec{p}) = 0$$
+
+- $\vec{n}$ ist der Normalenvektor der Ebene,
+- $\vec{x}$ ist ein beliebiger Punkt auf der Ebene,
+- $\vec{p}$ ist ein spezifischer Punkt auf der Ebene (Stützvektor).
+
+#### Beispiel
+
+Für die Ebene mit dem Normalenvektor $\vec{n} = (1, 1, 1)$ und dem Punkt $\vec{p} = (1, 2, 3)$ lautet die Normalenform:
+
+$$(1, 1, 1) \cdot ((x, y, z) - (1, 2, 3)) = 0$$
+
+### Koordinatenform der Ebene
+
+Die **Koordinatenform** der Ebene ist eine algebraische Darstellung, die direkt aus der Normalenform abgeleitet wird, indem das Skalarprodukt ausmultipliziert und umgeformt wird. Sie lautet:
+
+$$ax + by + cz = d$$
+
+- $a, b, c$ sind die Komponenten des Normalenvektors,
+- $d$ ist der Skalar, der sich ergibt, indem man den Normalenvektor mit dem Stützvektor skalar multipliziert.
+
+#### Beispiel
+
+Die Koordinatenform der Ebene mit dem Normalenvektor $\vec{n} = (1, 1, 1)$ und dem Punkt $\vec{p} = (1, 2, 3)$ ist:
+
+$$1x + 1y + 1z = 6$$
+
+Durch diese verschiedenen Formen der Gleichungen lassen sich Ebenen im Raum auf vielfältige Weise mathematisch beschreiben und untersuchen.
+
