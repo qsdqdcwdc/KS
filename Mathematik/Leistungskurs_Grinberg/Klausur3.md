@@ -199,6 +199,41 @@ $$ \theta = \cos^{-1} \left( \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| |\vec{b}|} \
 
 
 
+## Kreuzprodukt
+
+### Definition und Formel im dreidimensionalen Raum
+<p align="center">
+	<img src="Img/kl3_3.png" width="300"  title="Abb1">
+	<br>
+	<em>3d Kartesisches Koordinatensystem</em>
+</p>
+**Kreuzprodukt**: Das Kreuzprodukt zweier Vektoren $\vec{a}$ und $\vec{b}$ im dreidimensionalen Raum wird definiert als ein Vektor $\vec{c}$, der senkrecht zu beiden Vektoren steht und dessen Länge dem Flächeninhalt des Parallelogramms entspricht, das von $\vec{a}$ und $\vec{b}$ aufgespannt wird. Die Richtung von $\vec{c}$ wird durch die Rechte-Hand-Regel bestimmt.
+
+Das Kreuzprodukt wird berechnet mit der Formel:
+
+$$ \vec{a} \times \vec{b} = \begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ a_x & a_y & a_z \\ b_x & b_y & b_z \end{vmatrix} $$
+
+wobei $(a_x, a_y, a_z)$ und $(b_x, b_y, b_z)$ die kartesischen Koordinaten der Vektoren $\vec{a}$ bzw. $\vec{b}$ sind.
+
+### Eigenschaften des Kreuzprodukts
+- **Antikommutativität**: $\vec{a} \times \vec{b} = -(\vec{b} \times \vec{a})$
+- **Distributivität über Vektoraddition**: $\vec{a} \times (\vec{b} + \vec{c}) = \vec{a} \times \vec{b} + \vec{a} \times \vec{c}$
+- **Skalarfaktor**: $k (\vec{a} \times \vec{b}) = (k \vec{a}) \times \vec{b} = \vec{a} \times (k \vec{b})$
+
+### Länge des Kreuzprodukts
+Die Länge (oder der Betrag) des Kreuzprodukts $\vec{c} = \vec{a} \times \vec{b}$ entspricht dem Flächeninhalt des von $\vec{a}$ und $\vec{b}$ aufgespannten Parallelogramms und wird berechnet als:
+
+$$ |\vec{c}| = |\vec{a}| |\vec{b}| \sin(\theta) $$
+
+wobei $\theta$ der Winkel zwischen den Vektoren $\vec{a}$ und $\vec{b}$ ist.
+
+### Verwendung des Kreuzprodukts zur Flächenberechnung
+Das Kreuzprodukt kann verwendet werden, um die Fläche eines Parallelogramms zu berechnen, das von zwei Vektoren umschlossen wird. Für ein Dreieck, das von den Vektoren $\vec{a}$ und $\vec{b}$ aufgespannt wird, beträgt die Fläche die Hälfte des Betrags des Kreuzprodukts:
+
+$$ \text{Fläche des Dreiecks} = \frac{1}{2} |\vec{a} \times \vec{b}| $$
+
+
+
 
 ## Geraden im dreidimensionalen Raum
  Die Darstellung von Geraden im dreidimensionalen Raum erfolgt typischerweise durch die Verwendung von Vektoren. Hierbei wird eine Gerade durch einen Stützvektor und einen Richtungsvektor definiert.
