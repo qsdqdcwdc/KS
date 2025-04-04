@@ -163,7 +163,20 @@ Betrachten Sie den Vektor $\vec{v} = (3, 4, 12)$. Der Betrag dieses Vektors wird
 ```math
 |\vec{v}| = \sqrt{3^2 + 4^2 + 12^2} = \sqrt{9 + 16 + 144} = \sqrt{169} = 13
 ```
-
+## Geraden im dreidimensionalen Raum
+ Die Darstellung von Geraden im dreidimensionalen Raum erfolgt typischerweise durch die Verwendung von Vektoren. Hierbei wird eine Gerade durch einen Stützvektor und einen Richtungsvektor definiert.
+ 
+ ### Definition einer Geraden
+ Eine **Gerade** im Raum kann definiert werden durch:
+ Die **Parameterform** einer Geraden ist gegeben durch die Gleichung:
+ wobei $t \in \mathbb{R}$ der Parameter ist.
+ Sei $\vec{p} = (1, 2, 3)$ und $\vec{v} = (4, 5, 6)$. Dann lautet die Gleichung der Geraden:
+ $$\vec{r}(t) = (1, 2, 3) + t(4, 5, 6)$$
+ 
+ ### Punktprobe
+ Für den Punkt $\vec{q} = (5, 7, 9)$ prüft man:
+ $$(5, 7, 9) = (1, 2, 3) + t(4, 5, 6)$$
+ Daraus folgt durch Komponentenvergleich und Lösung des Gleichungssystems, dass $t = 1$ eine mögliche Lösung ist, also liegt $\vec{q}$ auf der Geraden.
 
 ### Analytische Geometrie zur Bestimmung der Lage von Geraden
 
@@ -171,7 +184,6 @@ Die **analytische Geometrie** bietet Methoden zur Untersuchung der relativen Lag
 1. **Parallele Geraden:** Zwei Geraden sind parallel, wenn ihre Richtungsvektoren linear abhängig sind. Dies prüft man durch den Vergleich der Vektoren.
 2. **Identische Geraden:** Zwei Geraden sind identisch, wenn sie denselben Stützpunkt und Richtungsvektor haben, oder wenn ein Punkt der einen Geraden durch eine Skalierung des Richtungsvektors auf der anderen Geraden liegt.
 3. **Schnittwinkel und Schnittpunkt:** Der Schnittpunkt zweier Geraden kann gefunden werden, indem man ihre Gleichungen gleichsetzt und das resultierende Gleichungssystem löst. Der Schnittwinkel lässt sich über das Skalarprodukt der Richtungsvektoren berechnen.
-
 4. Geraden werden als **windschief** bezeichnet, wenn sie sich weder schneiden noch parallel zueinander sind.
 
 #### Beispiel
