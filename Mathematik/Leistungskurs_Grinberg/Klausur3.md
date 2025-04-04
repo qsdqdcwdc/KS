@@ -35,19 +35,23 @@ Nehmen wir an, wir haben eine Menge von Vektoren, z.B. $\{\mathbf{v}, \mathbf{w}
 Wenn wir Gruppen von Objekten haben, wobei kein Objekt eine lineare Kombination anderer Objekte aus derselben Gruppe ist, dann nennen wir diese Objekte **linear unabhängig zu zueinander**. 
 
 ## Lösen eines linearen Gleichungssystems
-Beim Lösen eines linearen Gleichungssystems besteht das Ziel darin, die Werte für die Variablen zu finden, die alle Gleichungen des Systems gleichzeitig erfüllen. Am häufigsten wird zur Lösung linearer Gleichungssysteme das Substitutionsverfahren oder das Gauß-Verfahren verwendet.
+Beim Lösen eines linearen Gleichungssystems besteht das Ziel darin, die Werte für die Variablen zu finden, die alle Gleichungen des Systems gleichzeitig erfüllen. Am häufigsten wird zur Lösung linearer Gleichungssysteme das Substitutionsverfahren oder das Gauß-Verfahren verwendet. Substitutionsmethode passt für Gleichungssysteme mit zwei Variablen und Gauss-Verfahren für größere Systeme mit mehr Variablen.
 
 ### Substitutionsmethode
 **Substitutionsmethode:** Ein algebraisches Verfahren zur Lösung linearen Gleichungssystems, indem der Wert einer Variablen aus einer Gleichung in andere Gleichungen eingesetzt wird. Dies vereinfacht das Gleichungssystem zu einer einzelnen Gleichung mit einer Variablen, die dann gelöst werden kann. Schritte der Substitutionsmethode:
 
 1. **Isolieren einer Variablen:** Wähle eine der Gleichungen und löse sie nach einer Variablen auf.
-2. **Einsetzen:** Ersetze die isolierte Variable in alle andere Gleichungen (Dies eliminiert die erste Gleichung aus dem System).
-3. Wiederholen Sie die Schritte 1 und 2, bis nur noch eine Gleichung übrig ist.
- - Wenn der Substitutionsprozess zu einer nicht wahren Gleichung (`1=0`, `3=-4`) führte, dann hat dieses Gleichungssystem keine Lösungen.
- - Wenn im Substitution Prozess eine der Gleichungen zu einer Ware Gleichung ohne Variablen kürzt (`1=1`, `0=0`), dann entfernen Sie diese Gleichung aus dem System, sie ist redundant.
-5. **Lösen der neuen Gleichung:** Löse die resultierende Gleichung nach der verbleibenden Variable.
-6. **Rückeinsetzen:** Setze die gefundene Variable in eine der ursprünglichen Gleichungen ein, um die andere Variable zu finden.
+3. **Einsetzen:** Ersetze die isolierte Variable in alle andere Gleichungen (Dies eliminiert die erste Gleichung aus dem System).
+4. Wiederholen Sie die Schritte 1 und 2, bis entweder nur noch eine Gleichung übrig ist oder die verbleibenden Gleichungen keine Variablen mehr gemeinsam haben.
+   - Wenn der Substitutionsprozess zu einer nicht wahren Gleichung (`1=0`, `3=-4`) führte, dann hat dieses Gleichungssystem keine Lösungen.
+   - Wenn im Substitution Prozess eine der Gleichungen zu einer Ware Gleichung ohne Variablen kürzt (`1=1`, `0=0`), dann entfernen Sie diese Gleichung aus dem System, sie ist redundant.
+5. **Lösen der neuen Gleichung:**
+   - Wenn Sie nur noch eine Gleichung mit einer Variablen haben, lösen Sie diese. Auf diese Weise erhalten Sie den Wert einer der Variablen. Suchen Sie dann in den vorherigen Schritten die Gleichung, die die Variable enthält, deren Wert Sie gerade gelernt haben, und eine weitere Variable, ersetzen Sie den Wert und lösen Sie diese. Wiederholen Sie den letzten Schritt, bis Sie die Werte aller Variablen gefunden haben.
+   - Wenn Sie eine Gleichung mit mehreren Variablen übrig haben, sind alle Werte der Variablen, die diese Gleichung erfüllen, Lösungen des Systems.
 
-Wenn der Substitutionsprozess zu einer nicht wahren Gleichung (`1=0`, `3=-4`, `...`) führte, dann hat dieses Gleichungssystem keine Lösungen.
-Wenn die resultierende Gleichung einfach eine wahre Gleichung ist und keine Variablen enthält. (`1=0`, `3=-4`, `...`)
+[weitere Informationen zu Substitutionsmethode](https://en.wikipedia.org/wiki/System_of_linear_equations#Elimination_of_variables)
+### Gaußsches Eliminationsverfahren
+Die **Additions- oder Eliminationsmethode** reduziert das System auf eine einzige Variable, indem die Gleichungen so addiert oder subtrahiert werden, dass eine Variable eliminiert wird. [detaillierte Beschreibung des Algorithmus](https://en.wikipedia.org/wiki/Gaussian_elimination)
+
+
 
