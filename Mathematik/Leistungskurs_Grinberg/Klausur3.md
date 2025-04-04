@@ -43,8 +43,11 @@ Beim Lösen eines linearen Gleichungssystems besteht das Ziel darin, die Werte f
 1. **Isolieren einer Variablen:** Wähle eine der Gleichungen und löse sie nach einer Variablen auf.
 2. **Einsetzen:** Ersetze die isolierte Variable in alle andere Gleichungen (Dies eliminiert die erste Gleichung aus dem System).
 3. Wiederholen Sie die Schritte 1 und 2, bis nur noch eine Gleichung übrig ist.
-4. **Lösen der neuen Gleichung:** Löse die resultierende Gleichung nach der verbleibenden Variable.
-5. **Rückeinsetzen:** Setze die gefundene Variable in eine der ursprünglichen Gleichungen ein, um die andere Variable zu finden.
+ - Wenn der Substitutionsprozess zu einer nicht wahren Gleichung (`1=0`, `3=-4`) führte, dann hat dieses Gleichungssystem keine Lösungen.
+ - Wenn im Substitution Prozess eine der Gleichungen zu einer Ware Gleichung ohne Variablen kürzt (`1=1`, `0=0`), dann entfernen Sie diese Gleichung aus dem System, sie ist redundant.
+5. **Lösen der neuen Gleichung:** Löse die resultierende Gleichung nach der verbleibenden Variable.
+6. **Rückeinsetzen:** Setze die gefundene Variable in eine der ursprünglichen Gleichungen ein, um die andere Variable zu finden.
 
 Wenn der Substitutionsprozess zu einer nicht wahren Gleichung (`1=0`, `3=-4`, `...`) führte, dann hat dieses Gleichungssystem keine Lösungen.
-Wenn die resultierende Gleichung einfach eine wahre Gleichung ist und keine Variablen enthält
+Wenn die resultierende Gleichung einfach eine wahre Gleichung ist und keine Variablen enthält. (`1=0`, `3=-4`, `...`)
+
