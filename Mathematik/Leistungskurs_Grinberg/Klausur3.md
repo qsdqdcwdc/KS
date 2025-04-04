@@ -105,7 +105,6 @@ In einem dreidimensionalen kartesischen Koordinatensystem wird jedes Punkt durch
 </p>
 
 ## Vektoren
-
 Ein **Vektor** ist ein mathematisches Objekt, das eine Größe und eine Richtung besitzt. Mathematisch wird ein Vektor im Raum durch seine Koordinaten in der Form $(x, y, z)$ dargestellt, wobei $x$, $y$, und $z$ die Komponenten des Vektors entlang der $x$-, $y$-, und $z$-Achsen sind.
 
 ### **Freier Vektor**
