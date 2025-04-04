@@ -217,4 +217,6 @@ Betrachten wir zwei Geraden:
 - $\vec{r}_1(t) = (1, 2, 3) + t(4, 5, 6)$
 - $\vec{r}_2(s) = (-1, -2, -3) + s(2, 2.5, 3)$
 
- Diese Geraden sind parallel, da $\vec{v}_2 = 0.5\vec{v}_1$ ( $\vec{v}_1$ und  $\vec{v}_2$ sind Richtungsvektoren von geraden $\vec{r}_1(t)$, $\vec{r}_2(t)$). Sie haben keinen Schnittpunkt, da sie nicht identisch sind.
+ Diese Geraden sind parallel, da $\vec{v}_2 = 0.5\vec{v}_1$ ( $\vec{v}_1$ und  $\vec{v}_2$ sind Richtungsvektoren von geraden $\vec{r}_1(t)$, $\vec{r}_2(t)$ ). Sie haben keinen Schnittpunkt, da sie nicht identisch sind.
+
+ 
