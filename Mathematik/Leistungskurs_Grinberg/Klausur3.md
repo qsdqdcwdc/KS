@@ -163,19 +163,69 @@ Betrachten Sie den Vektor $\vec{v} = (3, 4, 12)$. Der Betrag dieses Vektors wird
 ```math
 |\vec{v}| = \sqrt{3^2 + 4^2 + 12^2} = \sqrt{9 + 16 + 144} = \sqrt{169} = 13
 ```
+
+
+
+## Skalarprodukt
+
+### Definition und Formel im dreidimensionalen Raum
+**Skalarprodukt**: Das Skalarprodukt zweier Vektoren $\vec{a}$ und $\vec{b}$  wird definiert als:
+
+$$ \vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| \cos(\theta) $$
+
+wobei $\theta$ der kleinere Winkel zwischen den Vektoren $\vec{a}$ und $\vec{b}$ ist.
+
+Man kann Skalierprodukt von zwei dreidimensionalen Vektoren mit folgenden Formeln berechnen:
+
+$$ \vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z $$
+
+wobei $(a_x, a_y, a_z)$ und $(b_x, b_y, b_z)$ die kartesischen Koordinaten der Vektoren $\vec{a}$ bzw. $\vec{b}$ sind.
+
+### Eigenschaften des Skalarprodukts
+- **Kommutativität**: $\vec{a} \cdot \vec{b} = \vec{b} \cdot \vec{a}$
+- **Distributivität über Vektoraddition**: $\vec{a} \cdot (\vec{b} + \vec{c}) = \vec{a} \cdot \vec{b} + \vec{a} \cdot \vec{c}$
+- **Assoziativität mit Skalaren**: $(k \vec{a}) \cdot \vec{b} = k (\vec{a} \cdot \vec{b})$
+- **Orthogonalität**: Zwei Vektoren sind orthogonal (senkrecht zueinander), wenn ihr Skalarprodukt null ist, $\vec{a} \cdot \vec{b} = 0$.
+
+### Formel für die Länge eines Vektors
+Die Länge (oder der Betrag) eines Vektors $\vec{v}$, kann man berechnen indem man Wurzel von skalar-produkt von dem Vetektor mit sich selbst kalkuliert:
+
+$$ |\vec{v}| = \sqrt{\vec{v} \cdot \vec{v}} $$
+
+### Verwendung des Skalarprodukts zur Winkelberechnung
+Das Skalarprodukt kann auch verwendet werden, um den Winkel $\theta$ zwischen zwei Vektoren zu berechnen. Die Formel hierfür ist:
+
+$$ \theta = \cos^{-1} \left( \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| |\vec{b}|} \right) $$
+
+
+
+
 ## Geraden im dreidimensionalen Raum
  Die Darstellung von Geraden im dreidimensionalen Raum erfolgt typischerweise durch die Verwendung von Vektoren. Hierbei wird eine Gerade durch einen Stützvektor und einen Richtungsvektor definiert.
  
  ### Definition einer Geraden
  Eine **Gerade** im Raum kann definiert werden durch:
+ Eine **Gerade** im Raum kann definiert werden durch:
+
+- **Stützvektor $\vec{p}$:** Ein Punkt, durch den die Gerade verläuft.
+- **Richtungsvektor $\vec{v}$:** Gibt die Richtung der Geraden an.
+
+ 
  Die **Parameterform** einer Geraden ist gegeben durch die Gleichung:
  wobei $t \in \mathbb{R}$ der Parameter ist.
  Sei $\vec{p} = (1, 2, 3)$ und $\vec{v} = (4, 5, 6)$. Dann lautet die Gleichung der Geraden:
+ 
  $$\vec{r}(t) = (1, 2, 3) + t(4, 5, 6)$$
+
+Sei $\mathbf{p} = (1, 2, 3)$ und $\mathbf{v} = (4, 5, 6)$. Dann lautet die Gleichung der Geraden:
+
+$$\mathbf{r}(t) = (1, 2, 3) + t(4, 5, 6)$$
  
  ### Punktprobe
  Für den Punkt $\vec{q} = (5, 7, 9)$ prüft man:
+
  $$(5, 7, 9) = (1, 2, 3) + t(4, 5, 6)$$
+
  Daraus folgt durch Komponentenvergleich und Lösung des Gleichungssystems, dass $t = 1$ eine mögliche Lösung ist, also liegt $\vec{q}$ auf der Geraden.
 
 ### Analytische Geometrie zur Bestimmung der Lage von Geraden
