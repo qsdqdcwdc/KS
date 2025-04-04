@@ -203,16 +203,22 @@ $$ \theta = \cos^{-1} \left( \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| |\vec{b}|} \
 
 ### Definition und Formel im dreidimensionalen Raum
 <p align="center">
-	<img src="Img/kl3_3.png" width="300"  title="Abb1">
+	<img src="Img/kl3_4.png" width="300"  title="Abb1">
 	<br>
 	<em>Rechte-Hand-Regel</em>
 </p>
 
 **Kreuzprodukt**: Das Kreuzprodukt zweier Vektoren $\vec{a}$ und $\vec{b}$ im dreidimensionalen Raum wird definiert als ein Vektor $\vec{c}$, der senkrecht zu beiden Vektoren steht und dessen Länge dem Flächeninhalt des Parallelogramms entspricht, das von $\vec{a}$ und $\vec{b}$ aufgespannt wird. Die Richtung von $\vec{c}$ wird durch die Rechte-Hand-Regel bestimmt.
 
-Das Kreuzprodukt wird berechnet mit der Formel:
+Das Kreuzprodukt wird berechnet mit der Formel: $\vec{a} \times \vec{b} =$
 
-$$ \vec{a} \times \vec{b} = \begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ a_x & a_y & a_z \\ b_x & b_y & b_z \end{vmatrix} $$
+```math
+\begin{pmatrix}
+a_y b_z - a_z b_y \\
+a_z b_x - a_x b_z \\
+a_x b_y - a_y b_x
+\end{pmatrix}
+```
 
 wobei $(a_x, a_y, a_z)$ und $(b_x, b_y, b_z)$ die kartesischen Koordinaten der Vektoren $\vec{a}$ bzw. $\vec{b}$ sind.
 
