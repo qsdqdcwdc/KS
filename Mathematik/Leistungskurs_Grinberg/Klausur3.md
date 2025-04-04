@@ -200,7 +200,7 @@ Daraus folgt durch Komponentenvergleich und Lösung des Gleichungssystems, dass 
 
 ### Analytische Geometrie zur Bestimmung der Lage von Geraden
 
-Die **analytische Geometrie** bietet Methoden zur Untersuchung der relativen Lage von Geraden im Raum:
+Die **analytische Geometrie** bietet Methoden zur Untersuchung der relativen Lage von Geraden im Raum [Video](https://studyflix.de/mathematik/lagebeziehungen-von-geraden-5826):
 
 1. **Parallele Geraden:** Zwei Geraden sind parallel, wenn ihre Richtungsvektoren linear abhängig sind. Dies prüft man durch den Vergleich der Vektoren.
 
