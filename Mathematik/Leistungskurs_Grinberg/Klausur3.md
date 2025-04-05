@@ -325,7 +325,7 @@ $$d =  \frac{\vert (\vec{s_a} - \vec{s_b}) \cdot \vec{n} \vert}{\vert \vec{n} \v
 
 
 **(Beachten Sie, dass diese Formel der Formel zur Berechnung des Abstands zwischen einem Punkt und einer Ebene gleich ist.)*
-# Ebenen im Raum
+# Ebenen im dreidimensionalen Raum
 
 Eine **Ebene** ist eine zweidimensionale Fläche im dreidimensionalen Raum, die durch mindestens drei nicht auf einer Geraden liegende Punkte definiert werden kann.
 
@@ -592,6 +592,31 @@ $$ \frac{\vert \vec{CA} \vert}{\vert \vec{CB} \vert} = \frac{α}{β}$$
  dann lautet die Formel für Koordinaten von Punkt C:
 
  $$ (\vec{b}-\vec{a})\cdot \frac{α}{β+α} + \vec{a} = \vec{a} \cdot \frac{β}{β+α} + \vec{b} \cdot \frac{α}{β+α}$$
+
+
+ # Spiegelungen
+
+ ### Spiegelung an einem Punkt
+Um einen Punkt $A$ an einem Punkt $Z$ zu spiegeln verwendent man die folgende Gleichung:
+
+$$
+\overrightarrow{OA'} = \overrightarrow{OA} + 2 \cdot \overrightarrow{AZ}
+$$
+
+- $A'$ = Gespiegelter Punkt  
+- $A$ = Zu spiegelnder Punkt  
+- $Z$ = Symmetriepunkt
+
+### Spiegelung an einer Gerade
+Um einen Punkt $A$ an einer Gerade zu spiegeln soll man zuerst den Lotfußpunkt von Punkt $A$ auf der gerade finden und danach den Punkt $A$ um den Lotfußpunkt spiegeln.
+
+### Spiegelung an einer Ebene
+Dasselbe wie bei Spiegelung an einer Gerade zuerst Lotfußpunkt finden danach um den Lotfußpunkt Spiegel.
+
+
+
+
+ 
 
  
 
