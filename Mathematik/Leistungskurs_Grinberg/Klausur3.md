@@ -605,7 +605,7 @@ Den Lotfußpunkt $L$ von Punkt $P$ auf eine Ebene in Normalform ( $E: (\vec{x} -
 ## Winkel Ebene-Gerade
 Um den Schnittwinkel $\theta$ zwischen Gerade $g$ (mit Richtungsvektor $\vec{r}$) und die Ebene $E$(mit Normalenvektor $\vec{n}$) zu berechnen, können Sie die folgende Formel verwenden:
 
-$$ \theta = \sin^{-1} \left( \frac{\vec{r} \cdot \vec{n}}{|\vec{n}| |\vec{b}|} \right) $$
+$$ \theta = \sin^{-1} \left( \frac{\vec{r} \cdot \vec{n}}{|\vec{n}| |\vec{r}|} \right) $$
 
 
 # Strecke proportional aufteilen
