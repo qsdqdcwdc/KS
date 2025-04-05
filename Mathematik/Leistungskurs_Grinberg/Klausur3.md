@@ -207,7 +207,7 @@ $$ \theta = \cos^{-1} \left( \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| |\vec{b}|} \
 
 **Kreuzprodukt**: Das Kreuzprodukt zweier Vektoren $\vec{a}$ und $\vec{b}$ im dreidimensionalen Raum wird definiert als ein Vektor $\vec{c}$, der senkrecht zu beiden Vektoren steht und dessen Länge dem Flächeninhalt des Parallelogramms entspricht, das von $\vec{a}$ und $\vec{b}$ aufgespannt wird. Die Richtung von $\vec{c}$ wird durch die Rechte-Hand-Regel bestimmt.
 
-Das Kreuzprodukt wird berechnet mit der Formel: $\vec{a} \times \vec{b} =$
+Das Kreuzprodukt wird berechnet mit der Formel: 
 
 ```math
 $$ \vec{a} \times \vec{b} = \begin{pmatrix}
@@ -344,4 +344,89 @@ Durch diese verschiedenen Formen der Gleichungen lassen sich Ebenen im Raum auf 
 
 
 
+
+## Umwandlung von Parameterform zu Normalenform der Ebene
+
+Um die Parameterform einer Ebene in die Normalenform umzuwandeln, benötigt man den Normalenvektor der Ebene. Dieser kann durch das Kreuzprodukt der Richtungsvektoren der Ebene gefunden werden, die in der Parameterform angegeben sind.
+
+#### Schritte
+1. **Bestimmen der Richtungsvektoren:** Seien $\vec{u}$ und $\vec{v}$ die Richtungsvektoren der Ebene in Parameterform.
+2. **Kreuzprodukt bilden:** Der Normalenvektor $\vec{n}$ ist das Ergebnis des Kreuzprodukts $\vec{u} \times \vec{v}$.
+3. **Normalenform aufstellen:** Mit dem Stützpunkt $\vec{p}$ und dem Normalenvektor $\vec{n}$ lautet die Normalenform $\vec{n} \cdot (\vec{x} - \vec{p}) = 0$.
+
+#### Beispiel
+Gegeben ist die Ebene in Parameterform:
+
+$$\vec{x} = (1, 1, 1) + r(1, 0, 1) + s(0, 1, 1)$$
+
+**Schritte**:
+1. **Richtungsvektoren bestimmen**: $\vec{u} = (1, 0, 1)$ und $\vec{v} = (0, 1, 1)$.
+2. **Normalenvektor berechnen**: $\vec{n} = \vec{u} \times \vec{v} = (1, -1, 1)$.
+3. **Normalenform aufstellen**: $\vec{n} \cdot (\vec{x} - \vec{p}) = (1, -1, 1) \cdot (\vec{x} - (1, 1, 1)) = 0$.
+   $$x_1 - x_2 + x_3 - 1 = 0$$
+   
+
+
+## Umwandlung von Normalenform zu Koordinatenform der Ebene
+#### Schritte
+1. **Identifizierung des Normalenvektors**: Der Normalenvektor $\vec{n}$ ist bereits gegeben.
+2. **Berechnung von $d$**: Ermitteln Sie $d = \vec{n} \cdot \vec{p}$.
+3. **Formulierung der Koordinatenform**: Nutzen Sie $\vec{n}$ und $d$ in der Gleichung $a x_1 + b x_2 + c x_3 = d$.
+
+#### Beispiel
+Nutzen wir die gleiche Ebene wie oben:
+1. **Normalenvektor**: Bereits berechnet $\vec{n} = (1, -1, 1)$.
+2. **Berechnung von $d$**: $d = \vec{n} \cdot \vec{p} = (1, -1, 1) \cdot (1, 1, 1) = 1$.
+3. **Koordinatenform aufstellen**: 
+   $$x_1 - x_2 + x_3 = 1$$
+
+
+
+## Umwandlung von Parameterform zu Koordinatenform der Ebene
+#### Schritte
+1. **Berechnung des Normalenvektors**: Wie zuvor, berechnen Sie $\vec{n} = \vec{u} \times \vec{v}$.
+2. **Berechnung von $d$**: Bestimmen Sie $d$ durch das Skalarprodukt des Normalenvektors mit dem Stützvektor, $d = \vec{n} \cdot \vec{p}$.
+3. **Aufstellen der Koordinatenform**: Verwenden Sie die Komponenten von $\vec{n}$ und $d$ in der Gleichung $a x_1 \cdot n_1 + b x_2 \cdot n_2 + x_3 \cdot n_3 = d$.
+
+#### Beispiel
+Nutzen wir die gleiche Ebene wie oben:
+**Schritte**:
+1. **Normalenvektor**: Bereits berechnet $\vec{n} = (1, -1, 1)$.
+2. **Berechnung von $d$**: $d = \vec{n} \cdot \vec{p} = (1, -1, 1) \cdot (1, 1, 1) = 1$.
+3. **Koordinatenform aufstellen**: 
+   $$x_1 - x_2 + x_3 = 1$$
+
+
+
+## Umwandlung von Normalenform zu Parameterform der Ebene
+#### Schritte
+1. **Auswahl zweier unabhängiger Richtungsvektoren**: Wählen Sie zwei Vektoren $\vec{u}$ und $\vec{v}$, die orthogonal zu $\vec{n}$ sind. man kann die Vektoren durch "raten" bestimmen oder durch die Formel:
+	- $\vec{u} = (n_2, -n_1, 0)$
+ 	- $\vec{v} = (0 ,  n_3, -n_2)$
+2. **Aufstellen der Parameterform**: Nutzen Sie $\vec{p}$, $\vec{u}$ und $\vec{v}$ in der Gleichung $\vec{x} = \vec{p} + r\vec{u} + s\vec{v}$.
+
+#### Beispiel
+Gegeben sei die Normalenform der Ebene:
+$$\vec{n} \cdot (\vec{x} - (1, 0, 0)) = 0$$ mit $\vec{n} = (0, 1, 0)$.
+**Schritte**:
+1. **Richtungsvektoren auswählen**: $\vec{u} = (1, 0, 0)$ und $\vec{v} = (0, 0, -1)$.
+2. **Parameterform aufstellen**:
+   $$\vec{x} = (1, 0, 0) + r(1, 0, 0) + s(0, 0, -1)$$
+
+## Umwandlung von Koordinatenform zu Parameterform der Ebene
+#### Schritte
+1. **Berechnung des Normalenvektors**: Aus der Koordinatenform $a x_1 + b x_2 + c x_3 = d$ ist $\vec{n} = (a, b, c)$.
+2. **Bestimmung eines Punktes auf der Ebene**: Lösen Sie die Gleichung für ein spezifisches $x_1, x_2, x_3$, um einen Punkt $\vec{p}$ auf der Ebene zu finden. Oft ist das am einfachsten, wenn man sagt, dass $x_1$ und $x_2$ gleich Null sind und nach $x_3$ die Gleichung auflöst.
+3. **Auswahl zweier unabhängiger Richtungsvektoren**: Suchen Sie zwei Vektoren $\vec{u}$ und $\vec{v}$, die orthogonal zu $\vec{n}$ sind.
+4. **Formulierung der Parameterform**: Verwenden Sie $\vec{p}$, $\vec{u}$ und $\vec{v}$ in der Gleichung $\vec{x} = \vec{p} + r\vec{u} + s\vec{v}$.
+
+#### Beispiel
+Gegeben sei die Koordinatenform der Ebene:
+$$x_1 + x_2 + x_3 = 3$$
+1. **Normalenvektor bestimmen**: $\vec{n} = (1, 1, 1)$.
+2. **Einen Punkt auf der Ebene finden**: Wählen Sie $x_1 = 1$, $x_2 = 1$, dann ist $x_3 = 1$.
+   $$\vec{p} = (1, 1, 1)$$
+3. **Richtungsvektoren auswählen**: $\vec{u} = (-1, 1, 0)$ und $\vec{v} = (-1, 0, 1)$.
+4. **Parameterform aufstellen**:
+   $$\vec{x} = (1, 1, 1) + r(1, -1, 0) + s(0, 1, -1)$$
 
