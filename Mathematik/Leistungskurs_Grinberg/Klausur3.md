@@ -168,17 +168,17 @@ Betrachten Sie den Vektor $\vec{v} = (3, 4, 12)$. Der Betrag dieses Vektors wird
 ## Skalarprodukt
 
 ### Definition und Formel im dreidimensionalen Raum
-**Skalarprodukt**: Das Skalarprodukt zweier Vektoren $\vec{a}$ und $\vec{b}$  wird definiert als:
+**Skalarprodukt**: Das Skalarprodukt zweier Vektoren $\vec{a}$ und $\vec{b}$ wird definiert als:
 
 $$ \vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| \cos(\theta) $$
 
 wobei $\theta$ der kleinere Winkel zwischen den Vektoren $\vec{a}$ und $\vec{b}$ ist.
 
-Man kann Skalierprodukt von zwei dreidimensionalen Vektoren mit folgenden Formeln berechnen:
+Das Skalarprodukt von zwei dreidimensionalen Vektoren lässt sich auch mittels der Komponentenformel berechnen:
 
-$$ \vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z $$
+$$ \vec{a} \cdot \vec{b} = a_{x_1} b_{x_1} + a_{x_2} b_{x_2} + a_{x_3} b_{x_3} = a_x b_x + a_y b_y + a_z b_z  $$
 
-wobei $(a_x, a_y, a_z)$ und $(b_x, b_y, b_z)$ die kartesischen Koordinaten der Vektoren $\vec{a}$ bzw. $\vec{b}$ sind.
+wobei $(a_{x_1}, a_{x_2}, a_{x_3})$ und $(b_{x_1}, b_{x_2}, b_{x_3})$ die kartesischen Koordinaten der Vektoren $\vec{a}$ bzw. $\vec{b}$ sind.
 
 ### Eigenschaften des Skalarprodukts
 - **Kommutativität**: $\vec{a} \cdot \vec{b} = \vec{b} \cdot \vec{a}$
@@ -187,7 +187,7 @@ wobei $(a_x, a_y, a_z)$ und $(b_x, b_y, b_z)$ die kartesischen Koordinaten der V
 - **Orthogonalität**: Zwei Vektoren sind orthogonal (senkrecht zueinander), wenn ihr Skalarprodukt null ist, $\vec{a} \cdot \vec{b} = 0$.
 
 ### Formel für die Länge eines Vektors
-Die Länge (oder der Betrag) eines Vektors $\vec{v}$, kann man berechnen indem man Wurzel von skalar-produkt von dem Vetektor mit sich selbst kalkuliert:
+Die Länge (oder der Betrag) eines Vektors $\vec{v}$, kann man berechnen indem man Wurzel von Skalarprodukt von dem Vektor mit sich selbst kalkuliert:
 
 $$ |\vec{v}| = \sqrt{\vec{v} \cdot \vec{v}} $$
 
@@ -195,8 +195,6 @@ $$ |\vec{v}| = \sqrt{\vec{v} \cdot \vec{v}} $$
 Das Skalarprodukt kann auch verwendet werden, um den Winkel $\theta$ zwischen zwei Vektoren zu berechnen. Die Formel hierfür ist:
 
 $$ \theta = \cos^{-1} \left( \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| |\vec{b}|} \right) $$
-
-
 
 ## Kreuzprodukt
 
@@ -212,6 +210,17 @@ $$ \theta = \cos^{-1} \left( \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| |\vec{b}|} \
 Das Kreuzprodukt wird berechnet mit der Formel: $\vec{a} \times \vec{b} =$
 
 ```math
+$$ \vec{a} \times \vec{b} = \begin{pmatrix}
+a_{x_2} b_{x_3} - a_{x_3} b_{x_2} \\
+a_{x_3} b_{x_1} - a_{x_1} b_{x_3} \\
+a_{x_1} b_{x_2} - a_{x_2} b_{x_1}
+\end{pmatrix} $$
+```
+
+
+oder:
+
+```math
 \begin{pmatrix}
 a_y b_z - a_z b_y \\
 a_z b_x - a_x b_z \\
@@ -219,7 +228,7 @@ a_x b_y - a_y b_x
 \end{pmatrix}
 ```
 
-wobei $(a_x, a_y, a_z)$ und $(b_x, b_y, b_z)$ die kartesischen Koordinaten der Vektoren $\vec{a}$ bzw. $\vec{b}$ sind.
+wobei $(a_{x_1}, a_{x_2}, a_{x_3})$ und $(b_{x_1}, b_{x_2}, b_{x_3})$ die kartesischen Koordinaten der Vektoren $\vec{a}$ bzw. $\vec{b}$ sind.
 
 ### Eigenschaften des Kreuzprodukts
 - **Antikommutativität**: $\vec{a} \times \vec{b} = -(\vec{b} \times \vec{a})$
@@ -227,36 +236,39 @@ wobei $(a_x, a_y, a_z)$ und $(b_x, b_y, b_z)$ die kartesischen Koordinaten der V
 - **Skalarfaktor**: $k (\vec{a} \times \vec{b}) = (k \vec{a}) \times \vec{b} = \vec{a} \times (k \vec{b})$
 
 ### Länge des Kreuzprodukts
-Die Länge (oder der Betrag) des Kreuzprodukts $\vec{c} = \vec{a} \times \vec{b}$ entspricht dem Flächeninhalt des von $\vec{a}$ und $\vec{b}$ aufgespannten Parallelogramms und wird berechnet als:
+Die Länge (oder der Betrag) des Kreuzprodukts $\vec{a} \times \vec{b}$ ist gleich:
 
-$$ |\vec{c}| = |\vec{a}| |\vec{b}| \sin(\theta) $$
+$$ |\vec{a} \times \vec{b}| = |\vec{a}| |\vec{b}| \sin(\theta) $$
 
 wobei $\theta$ der Winkel zwischen den Vektoren $\vec{a}$ und $\vec{b}$ ist.
 
 ### Verwendung des Kreuzprodukts zur Flächenberechnung
+
+<p align="center">
+	<img src="Img/kl3_5.png" width="300"  title="Abb1">
+	<br>
+</p>
+
 Das Kreuzprodukt kann verwendet werden, um die Fläche eines Parallelogramms zu berechnen, das von zwei Vektoren umschlossen wird. Für ein Dreieck, das von den Vektoren $\vec{a}$ und $\vec{b}$ aufgespannt wird, beträgt die Fläche die Hälfte des Betrags des Kreuzprodukts:
 
 $$ \text{Fläche des Dreiecks} = \frac{1}{2} |\vec{a} \times \vec{b}| $$
 
 
 
-
 ## Geraden im dreidimensionalen Raum
- Die Darstellung von Geraden im dreidimensionalen Raum erfolgt typischerweise durch die Verwendung von Vektoren. Hierbei wird eine Gerade durch einen Stützvektor und einen Richtungsvektor definiert.
- 
- ### Definition einer Geraden
- Eine **Gerade** im Raum kann definiert werden durch:
- Eine **Gerade** im Raum kann definiert werden durch:
 
-- **Stützvektor $\vec{p}$:** Ein Punkt, durch den die Gerade verläuft.
+ ### Definition einer Gerade
+
+- **Stützpunkt $P$:** Ein Punkt, durch den die Gerade verläuft.
+- **Stützvektor $\vec{p}$:** Ortsvektor aus dem Ursprung zu dem Stützpunkt.
 - **Richtungsvektor $\vec{v}$:** Gibt die Richtung der Geraden an.
 
  
  Die **Parameterform** einer Geraden ist gegeben durch die Gleichung:
- wobei $t \in \mathbb{R}$ der Parameter ist.
- Sei $\vec{p} = (1, 2, 3)$ und $\vec{v} = (4, 5, 6)$. Dann lautet die Gleichung der Geraden:
  
- $$\vec{r}(t) = (1, 2, 3) + t(4, 5, 6)$$
+ $$\vec{r}(t) = \vec{p} + t\vec{v}$$
+ 
+ wobei $t \in \mathbb{R}$ der Parameter ist.
 
 Sei $\mathbf{p} = (1, 2, 3)$ und $\mathbf{v} = (4, 5, 6)$. Dann lautet die Gleichung der Geraden:
 
@@ -296,7 +308,7 @@ Die **Parameterform** einer Ebene wird durch einen Punkt und zwei nicht parallel
 
 $$\vec{x} = \vec{p} + r\vec{u} + s\vec{v}$$
 
-- $\vec{p}$ ist der Stützvektor (ein Punkt auf der Ebene),
+- $\vec{p}$ ist der Stützvektor (Ortsvektor aus dem Ursprung zu einem Punkt auf der Ebene),
 - $\vec{u}$ und $\vec{v}$ sind die Richtungsvektoren der Ebene,
 - $r$ und $s$ sind Parameter.
 
