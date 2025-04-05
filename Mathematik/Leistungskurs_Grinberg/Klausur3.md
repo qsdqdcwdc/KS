@@ -196,8 +196,6 @@ $$ \theta = \cos^{-1} \left( \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| |\vec{b}|} \
 
 
 
-
-
 # Kreuzprodukt
 
 [Video](https://studyflix.de/mathematik/kreuzprodukt-vektorprodukt-2254)
@@ -220,9 +218,6 @@ a_{3} b_{1} - a_{1} b_{3} \\
 a_{1} b_{2} - a_{2} b_{1}
 \end{pmatrix} $$
 ```
-
-
-
 
 wobei $(a_{1}, a_{2}, a_{3})$ und $(b_{1}, b_{2}, b_{3})$ die kartesischen Koordinaten der Vektoren $\vec{a}$ bzw. $\vec{b}$ sind.
 
@@ -248,6 +243,9 @@ wobei $\theta$ der Winkel zwischen den Vektoren $\vec{a}$ und $\vec{b}$ ist.
 Das Kreuzprodukt kann verwendet werden, um die Fläche eines Parallelogramms zu berechnen, das von zwei Vektoren umschlossen wird. Für ein Dreieck, das von den Vektoren $\vec{a}$ und $\vec{b}$ aufgespannt wird, beträgt die Fläche die Hälfte des Betrags des Kreuzprodukts:
 
 $$ \text{Fläche des Dreiecks} = \frac{1}{2} |\vec{a} \times \vec{b}| $$
+
+
+
 
 
 
@@ -278,9 +276,9 @@ $$\mathbf{r}(t) = (1, 2, 3) + t(4, 5, 6)$$
 
 ## Relativen Lage von Geraden im Raum
 [Video](https://studyflix.de/mathematik/lagebeziehungen-von-geraden-5826):
-1. **Parallele Geraden:** Zwei Geraden sind parallel, wenn ihre Richtungsvektoren linear abhängig sind. Dies prüft man durch den Vergleich der Vektoren.
-2. **Identische Geraden:** Zwei Geraden sind identisch, wenn sie denselben Stützpunkt und Richtungsvektor haben, oder wenn ein Punkt der einen Geraden durch eine Skalierung des Richtungsvektors auf der anderen Geraden liegt.
-3. **Schnittwinkel und Schnittpunkt:** Der Schnittpunkt zweier Geraden kann gefunden werden, indem man ihre Gleichungen gleichsetzt und das resultierende Gleichungssystem löst. Der Schnittwinkel lässt sich über das Skalarprodukt der Richtungsvektoren berechnen.
+1. **echt Parallele Geraden:** Zwei Geraden werden als echt parallel bezeichnet, wenn sie parallel, aber nicht identisch sind. Zwei Geraden sind echt parallel wenn ihre Richtungsvektoren vielfacher voneinander sind aber Stützpunkt von einer gerade liegt nicht auf der andere gerade (dies kann man mit der Punktprobe nachweisen).
+2. **parallele und identische Geraden:** Zwei Geraden sind identisch und parallel, wenn ihre Richtungsvektoren vielfacher voneinander sind und Stützpunkt von einer gerade liegt auf der andere gerade.
+3. **Geraden schneiden sich**, wenn ihre Richtungsvektoren sind nicht vielfache voneinander und es existieren zwei Punkt im Raum der zu beiden Geraden gehört.
 4. Geraden werden als **windschief** bezeichnet, wenn sie sich weder schneiden noch parallel zueinander sind.
 
 #### Beispiel
@@ -293,10 +291,32 @@ Betrachten wir zwei Geraden:
  Diese Geraden sind parallel, da $\vec{v}_2 = 0.5\vec{v}_1$ ( $\vec{v}_1$ und  $\vec{v}_2$ sind Richtungsvektoren von geraden $\vec{r}_1(t)$, $\vec{r}_2(t)$ ). Sie haben keinen Schnittpunkt, da sie nicht identisch sind.
 
 
+## Lotfußpunkt auf eine Gerade
+
+Den Lotfußpunkt $L$ (Ortsvektor gleich $\vec{l}$) von Punkt $P$ (Ortsvektor gleich $\vec{p}$) auf eine Gerade $g: \vec{g} = \vec{s} + \cdot \vec{r}$ , kann man entweder mit dieser Formel berechnen:
+
+$$ \vec{l} = \left(\frac{\vec{r} \cdot (\vec{p}-\vec{s})} {\vec{r} \cdot \vec{r}}\right) \vec{r} + \vec{s} $$
 
 
+oder indem man eine Hilftsebene erstellt die normal zu der Gerade $g$ ist und durch Punkt $P$ verläuft und danach den Schnittpunkt von dieser Hilftsebene und der Gerade $g$ findet für (Schnittpunkt gerade Ebene sehe Algorithmus unten).
+**(mir persönlich gefällt mir die Methode mit der Formel)*
+
+## Abstand Punkt-Gerade
+Um den Abstand zwischen einem Punkt und eine Gerade zu berechnen muss man zuerst den Lotfußpunkt finden und danach Abstand zwischen dem Punkt und dem Lotfußpunkt berechnen.
+
+## Abstand Gerade-Gerade
+
+[Video](https://studyflix.de/mathematik/abstand-gerade-gerade-2007)
+
+Der Algorithmus zur Berechnung des Abstands zwischen zwei Geraden $a: \vec{s_a} + t\cdot \vec{r_a}$ und $b: \vec{s_b} + s\cdot \vec{r_b}$ unterscheidet sich je nach der relativen Lage dieser Linien im Raum:
+- Wenn sich die Geraden schneiden oder sind identich, ist der Abstand gleich Null.
+- Wenn Geraden echt parallel sind dann muss man von dem Stützpunkt von Gerade $a$ den Lotfußpunkt auf die Gerade $b$ befinden und danach Abstand zwischen Stützpunkt von $a$ und dem Lotfußpunkt finden.
+- Wenn gerade ein windschiff zueinander sind, muss man zuerst mit dem Kreuzprodukt einen Vektor \vec{n}  finden der orthogonal zu dem Richtungsvektor von gerade $a$ und Richtungsvektor von Gerade $b$ ist, dann kann man Abstand $d$ zwischen denen mit dieser Formel berechnen:
+
+$$d =  \frac{\vert (\vec{s_a} - \vec{s_b}) \cdot \vec{n} \vert}{\vert \vec{n} \vert} $$
 
 
+**(Beachten Sie, dass diese Formel der Formel zur Berechnung des Abstands zwischen einem Punkt und einer Ebene gleich ist.)*
 # Ebenen im Raum
 
 Eine **Ebene** ist eine zweidimensionale Fläche im dreidimensionalen Raum, die durch mindestens drei nicht auf einer Geraden liegende Punkte definiert werden kann.
@@ -453,13 +473,13 @@ $$x_1 + x_2 + x_3 = 3$$
 
 ## Relative Lage von Ebenen
 zwei Ebenen können zueinander:
-- **Parallel** sind Ebenen, wenn nicht identisch sind und die keinen Schnittpunkt haben. Zwei Ebenen sind parallel wenn ihre Normalenvektoren vielfachen voneinander sind.
-- **Identisch** sind zwei oder mehr Ebenen, die exakt dieselben Punkte enthalten. Dies bedeutet, dass ihre Normalenvektoren vielfachen voneinander und und Stützpunkt einer Ebene liegt auf der andere Ebene sind(aka: ihre Koordinatenformen sind vielfachen voneinander).
+- **echt Parallel** sind Ebenen, wenn nicht identisch sind und die keinen Schnittpunkt haben. Zwei Ebenen sind parallel wenn ihre Normalenvektoren vielfachen voneinander sind (aka: ihre Koordinatenformen sind vielfachen voneinander bis auf eine konstante).
+- **Parallel und Identisch** sind zwei oder mehr Ebenen, die exakt dieselben Punkte enthalten. Dies bedeutet, dass ihre Normalenvektoren vielfachen voneinander und und Stützpunkt einer Ebene liegt auf der andere Ebene sind(aka: ihre Koordinatenformen sind vielfachen voneinander).
 - **sich schneidend** sind Ebenen, die sich in einer Linie schneiden. Das passiert immer wenn ihre Normalenvektoren sind nicht vielfachen voneinander(aka: Normalenvektoren seigen in verschiedene Richtungen).
 
 ## Relative Lage von Gerade zu Ebenen
-- **Parallel** Eine Gerade ist parallel zu einer Ebene, wenn der Richtungsvektor der Geraden orthogonal zum Normalenvektor der Ebene ist.
-- **Gerade liegt in einer Ebene**, wenn ihr Richtungsvektor senkrecht zu dem Normalenvektor von der Ebene und der Stützpunkt liegt in der Ebene.
+- **echt Parallel** Eine Gerade ist parallel zu einer Ebene, wenn der Richtungsvektor der Geraden orthogonal zum Normalenvektor der Ebene ist aber der Stützpunkt der gerade ist nicht in der Ebene.
+- **Gerade liegt in einer Ebene**, wenn ihr Richtungsvektor orthogonal zu dem Normalenvektor von der Ebene und der Stützpunkt liegt in der Ebene.
 - **Gerade schneidet eine Ebene**, wenn ihr Richtungsvektor nicht orthogonal zum Normalenvektor der Ebene ist.
 
 
@@ -535,7 +555,18 @@ Setzen Sie den ermittelten Wert für $r$ in die Geradengleichung $g$ ein:
 ```
 
 #### Schritt 5: Schnittpunkt $S$ ablesen
-Der Schnittpunkt $S$ der Geraden $g$ mit der Ebene E ist $S = (-22, 2, -20)$.
+Der Schnittpunkt $S$ der Geraden $g$ mit der Ebene E ist $S = (-22, 2, -20)$. 
+
+## Abstand Punkt Ebene
+Abstand $d$ zwischen bene in Normalform ( $E: (\vec{x} - \vec{a}) \cdot \vec{n} = 0$ ), und einen Punkt $p$ ist gleich:
+
+$$ d = \frac{\vert (\vec{p} - \vec{a}) \cdot \vec{n} \vert}{\vert \vec{n} \vert}$$
+
+## Lotfußpunkt auf eine Ebene
+
+Den Lotfußpunkt $L$ von Punkt $P$ auf eine Ebene in Normalform ( $E: (\vec{x} - \vec{a}) \cdot \vec{n} = 0$ ), berechnet sich wie folgt:
+1. Erstellen Sie eine Hilfsgerade mit dem Stützpunkt $P$ und Richtungsvektor \vec{n} (wobei $P$ ist der Punkt von dem wir Lotfußpunkt finden wollen und $\vec{n}$ ist Normalvektor der Ebene)
+2. Finden Sie den Schnittpunkt von der Hilfsgerade und Ebene $E$ dieser Punkt ist der Lotfußpunkt $L$ (hierfür können Sie den oben angegebenen Algorithmus verwenden).
 
 
 
