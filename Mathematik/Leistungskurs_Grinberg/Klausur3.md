@@ -105,7 +105,7 @@ In einem dreidimensionalen kartesischen Koordinatensystem wird jedes Punkt durch
 </p>
 
 ## Vektoren
-Ein **Vektor** ist ein mathematisches Objekt, das eine Größe und eine Richtung besitzt. Mathematisch wird ein Vektor im Raum durch seine Koordinaten in der Form $(x, y, z)$ dargestellt, wobei $x$, $y$, und $z$ die Komponenten des Vektors entlang der $x$-, $y$-, und $z$-Achsen sind.
+Ein **Vektor** ist ein mathematisches Objekt, das eine Größe und eine Richtung besitzt. Mathematisch wird ein Vektor im Raum durch seine Koordinaten in der Form $(x_1, x_2, x_3)$ dargestellt, wobei $x_1, x_2, x_3$ die Komponenten des Vektors entlang der $x$-, $y$-, und $z$-Achsen sind.
 
 ### **Freier Vektor**
 Ein **freier Vektor** ist ein Vektor, der unabhängig von seiner Position im Raum definiert ist. Das bedeutet, dass seine Eigenschaften wie Richtung und Länge gleich bleiben, unabhängig davon, wo er im Koordinatensystem platziert wird.
@@ -118,32 +118,32 @@ Vektoren können auf verschiedene Weisen dargestellt werden:
 
 - **Mit einem Pfeil über dem Buchstaben:** $\vec{a}$
 
-- **Vektor von einem Punkt zu einem anderen Punkt**: Gegeben zwei Punkte $A = (x_1| y_1| z_1)$ und $B = (x_2| y_2| z_2)$, ist der Vektor
-  $\vec{AB} = (x_2 - x_1, y_2 - y_1, z_2 - z_1)$.
+- **Vektor von einem Punkt zu einem anderen Punkt**: Gegeben zwei Punkte $A = (a_1| a_2| a_3)$ und $B = (b_1| b_2| b_3)$, ist der Vektor
+  $\vec{AB} = (b_1 - a_1, b_2 - a_2, b_3 - a_3)$.
 
 - **Mit eine vertikale Klammer:**
 ```math
 \begin{pmatrix}
-a_x \\
-a_y \\
-a_z
+a_1 \\
+a_2 \\
+a_3
 \end{pmatrix}
 ```
 
 ### Addition von Vektoren
-**Vektoraddition:** Die Addition zweier Vektoren $\vec{a} = (a_x, a_y, a_z)$ und $\vec{b} = (b_x, b_y, b_z)$ erfolgt komponentenweise. Das Ergebnis ist ein neuer Vektor $\vec{c} = (a_x + b_x, a_y + b_y, a_z + b_z)$.
+**Vektoraddition:** Die Addition zweier Vektoren $\vec{a} = (a_1, a_2, a_3)$ und $\vec{b} = (b_1, b_2, b_3)$ erfolgt komponentenweise. Das Ergebnis ist ein neuer Vektor $\vec{c} = (a_1 + b_1, a_2 + b_2, a_3 + b_3)$.
 
 #### Beispiel
 Seien $\vec{a} = (3, 4, 5)$ und $\vec{b} = (1, 0, 2)$, dann ist $\vec{c} = \vec{a} + \vec{b} = (3+1, 4+0, 5+2) = (4, 4, 7)$.
 
 ### Subtraktion von Vektoren
-**Vektorsubtraktion:** Die Subtraktion von Vektor $\vec{b}$ von Vektor $\vec{a}$ erfolgt ebenfalls komponentenweise: $\vec{c} = \vec{a} - \vec{b} = (a_x - b_x, a_y - b_y, a_z - b_z)$.
+**Vektorsubtraktion:** Die Subtraktion von Vektor $\vec{b}$ von Vektor $\vec{a}$ erfolgt ebenfalls komponentenweise: $\vec{c} = \vec{a} - \vec{b} = (a_1 - b_1, a_2 - b_2, a_3 - b_3)$.
 
 #### Beispiel
 Für $\vec{a} = (3, 4, 5)$ und $\vec{b} = (1, 0, 2)$ ist $\vec{c} = \vec{a} - \vec{b} = (3-1, 4-0, 5-2) = (2, 4, 3)$.
 
 ### Streckung von Vektoren
-**Vektorstreckung (Skalierung):** Ein Vektor $\vec{a} = (a_x, a_y, a_z)$ kann durch eine Skalierung mit einem Skalar $k$ gestreckt werden, wodurch ein neuer Vektor $\vec{b} = k\vec{a} = (ka_x, ka_y, ka_z)$ entsteht.
+**Vektorstreckung (Skalierung):** Ein Vektor $\vec{a} = (a_1, a_2, a_3)$ kann durch eine Skalierung mit einem Skalar $k$ gestreckt werden, wodurch ein neuer Vektor $\vec{b} = k\vec{a} = (ka_1, ka_2, ka_3)$ entsteht.
 
 #### Beispiel
 Für $\vec{a} = (3, 4, 5)$ und $k = 2$ ist $\vec{b} = 2\vec{a} = (2\cdot3, 2\cdot4, 2\cdot5) = (6, 8, 10)$.
@@ -176,9 +176,9 @@ wobei $\theta$ der kleinere Winkel zwischen den Vektoren $\vec{a}$ und $\vec{b}$
 
 Das Skalarprodukt von zwei dreidimensionalen Vektoren lässt sich auch mittels der Komponentenformel berechnen:
 
-$$ \vec{a} \cdot \vec{b} = a_{x_1} b_{x_1} + a_{x_2} b_{x_2} + a_{x_3} b_{x_3} = a_x b_x + a_y b_y + a_z b_z  $$
+$$ \vec{a} \cdot \vec{b} = a_{1} b_{1} + a_{2} b_{2} + a_{3} b_{3} $$
 
-wobei $(a_{x_1}, a_{x_2}, a_{x_3})$ und $(b_{x_1}, b_{x_2}, b_{x_3})$ die kartesischen Koordinaten der Vektoren $\vec{a}$ bzw. $\vec{b}$ sind.
+wobei $(a_{1}, a_{2}, a_{3})$ und $(b_{1}, b_{2}, b_{3})$ die kartesischen Koordinaten der Vektoren $\vec{a}$ bzw. $\vec{b}$ sind.
 
 ### Eigenschaften des Skalarprodukts
 - **Kommutativität**: $\vec{a} \cdot \vec{b} = \vec{b} \cdot \vec{a}$
@@ -211,24 +211,16 @@ Das Kreuzprodukt wird berechnet mit der Formel: $\vec{a} \times \vec{b} =$
 
 ```math
 $$ \vec{a} \times \vec{b} = \begin{pmatrix}
-a_{x_2} b_{x_3} - a_{x_3} b_{x_2} \\
-a_{x_3} b_{x_1} - a_{x_1} b_{x_3} \\
-a_{x_1} b_{x_2} - a_{x_2} b_{x_1}
+a_{2} b_{3} - a_{3} b_{2} \\
+a_{3} b_{1} - a_{1} b_{3} \\
+a_{1} b_{2} - a_{2} b_{1}
 \end{pmatrix} $$
 ```
 
 
-oder:
 
-```math
-\begin{pmatrix}
-a_y b_z - a_z b_y \\
-a_z b_x - a_x b_z \\
-a_x b_y - a_y b_x
-\end{pmatrix}
-```
 
-wobei $(a_{x_1}, a_{x_2}, a_{x_3})$ und $(b_{x_1}, b_{x_2}, b_{x_3})$ die kartesischen Koordinaten der Vektoren $\vec{a}$ bzw. $\vec{b}$ sind.
+wobei $(a_{1}, a_{2}, a_{3})$ und $(b_{1}, b_{2}, b_{3})$ die kartesischen Koordinaten der Vektoren $\vec{a}$ bzw. $\vec{b}$ sind.
 
 ### Eigenschaften des Kreuzprodukts
 - **Antikommutativität**: $\vec{a} \times \vec{b} = -(\vec{b} \times \vec{a})$
@@ -349,5 +341,7 @@ Die Koordinatenform der Ebene mit dem Normalenvektor $\vec{n} = (1, 1, 1)$ und d
 $$1x_1 + 1x_2 + 1x_3 = 6$$
 
 Durch diese verschiedenen Formen der Gleichungen lassen sich Ebenen im Raum auf vielfältige Weise mathematisch beschreiben und untersuchen.
+
+
 
 
