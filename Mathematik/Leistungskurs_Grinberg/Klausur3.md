@@ -257,18 +257,17 @@ $$ \text{Fläche des Dreiecks} = \frac{1}{2} |\vec{a} \times \vec{b}| $$
 
 ## Geraden im dreidimensionalen Raum
 
- ### Definition einer Gerade
+### Definition einer Gerade
 
 - **Stützpunkt $P$:** Ein Punkt, durch den die Gerade verläuft.
 - **Stützvektor $\vec{p}$:** Ortsvektor aus dem Ursprung zu dem Stützpunkt.
 - **Richtungsvektor $\vec{v}$:** Gibt die Richtung der Geraden an.
 
- 
- Die **Parameterform** einer Geraden ist gegeben durch die Gleichung:
- 
- $$\vec{r}(t) = \vec{p} + t\vec{v}$$
- 
- wobei $t \in \mathbb{R}$ der Parameter ist.
+Die **Parameterform** einer Geraden ist gegeben durch die Gleichung:
+
+$$\vec{r}(t) = \vec{p} + t\vec{v}$$
+
+wobei $t \in \mathbb{R}$ der Parameter ist.
 
 Sei $\mathbf{p} = (1, 2, 3)$ und $\mathbf{v} = (4, 5, 6)$. Dann lautet die Gleichung der Geraden:
 
@@ -298,7 +297,7 @@ Betrachten wir zwei Geraden:
 
  Diese Geraden sind parallel, da $\vec{v}_2 = 0.5\vec{v}_1$ ( $\vec{v}_1$ und  $\vec{v}_2$ sind Richtungsvektoren von geraden $\vec{r}_1(t)$, $\vec{r}_2(t)$ ). Sie haben keinen Schnittpunkt, da sie nicht identisch sind.
 
- ## Ebenen im Raum
+## Ebenen im Raum
 
 Eine **Ebene** ist eine zweidimensionale Fläche im dreidimensionalen Raum, die durch mindestens drei nicht auf einer Geraden liegende Punkte definiert werden kann.
 
@@ -332,13 +331,13 @@ $$\vec{n} \cdot (\vec{x} - \vec{p}) = 0$$
 
 Für die Ebene mit dem Normalenvektor $\vec{n} = (1, 1, 1)$ und dem Punkt $\vec{p} = (1, 2, 3)$ lautet die Normalenform:
 
-$$(1, 1, 1) \cdot ((x, y, z) - (1, 2, 3)) = 0$$
+$$(1, 1, 1) \cdot ((x_1, x_2, x_3) - (1, 2, 3)) = 0$$
 
 ### Koordinatenform der Ebene
 
 Die **Koordinatenform** der Ebene ist eine algebraische Darstellung, die direkt aus der Normalenform abgeleitet wird, indem das Skalarprodukt ausmultipliziert und umgeformt wird. Sie lautet:
 
-$$ax + by + cz = d$$
+$$a x_1 + b x_2 + c x_3 = d$$
 
 - $a, b, c$ sind die Komponenten des Normalenvektors,
 - $d$ ist der Skalar, der sich ergibt, indem man den Normalenvektor mit dem Stützvektor skalar multipliziert.
@@ -347,7 +346,8 @@ $$ax + by + cz = d$$
 
 Die Koordinatenform der Ebene mit dem Normalenvektor $\vec{n} = (1, 1, 1)$ und dem Punkt $\vec{p} = (1, 2, 3)$ ist:
 
-$$1x + 1y + 1z = 6$$
+$$1x_1 + 1x_2 + 1x_3 = 6$$
 
 Durch diese verschiedenen Formen der Gleichungen lassen sich Ebenen im Raum auf vielfältige Weise mathematisch beschreiben und untersuchen.
+
 
