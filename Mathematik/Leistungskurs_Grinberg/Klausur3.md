@@ -6,7 +6,22 @@
 </p>
 
 1. <code>Korrekturen und Ergänzungen zu diesem Dokument sind erwünscht. Bitte fügen Sie diese in [Google Docs](https://docs.google.com/document/d/12Gqtnn5DdQmN6GDQs-ADqzZjTsvVcVF5w9dpGsSQXM4/edit?usp=sharing) ein. Ich werde versuchen, sie so schnell wie möglich zu integrieren.</code>
+2. Die Formatierung der Formeln auf dem Handy absolut ekelhaft, daher empfehle ich, entweder auf einem Computer oder einem iPad zu lesen.
 
+# Inhalt
+- [Punkte](#punkte)
+- [Lineare Gleichungen](#lineare-gleichungen)
+- [Lineare Gleichungssysteme](#lineare-gleichungssysteme)
+- [Lösen eines linearen Gleichungssystems](#lösen-eines-linearen-gleichungssystems)
+- [Polynominterpolation](#polynominterpolation)
+- [Kartesisches Koordinatensystem](#kartesisches-koordinatensystem)
+- [Vektoren](#vektoren)
+- [Skalarprodukt](#skalarprodukt)
+- [Kreuzprodukt](#kreuzprodukt)
+- [Geraden im dreidimensionalen Raum](#geraden-im-dreidimensionalen-raum)
+- [Ebenen im dreidimensionalen Raum](#ebenen-im-dreidimensionalen-raum)
+- [Strecke proportional aufteilen](#strecke-proportional-aufteilen)
+- [Spiegelungen](#spiegelungen)
 
 ## Analytische Geometrie
 **Analytische Geometrie:** Ein Teilgebiet der Mathematik, der algebraische Methoden nutzt, um geometrische Eigenschaften und Beziehungen in einem Koordinatensystem zu beschreiben. Analytische Geometrie ermöglicht die Lösung geometrischer Probleme durch algebraische Methoden.
