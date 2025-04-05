@@ -577,6 +577,12 @@ Den Lotfußpunkt $L$ von Punkt $P$ auf eine Ebene in Normalform ( $E: (\vec{x} -
 2. Finden Sie den Schnittpunkt von der Hilfsgerade und Ebene $E$ dieser Punkt ist der Lotfußpunkt $L$ (hierfür können Sie den oben angegebenen Algorithmus verwenden).
 
 
+## Winkel Ebene-Gerade
+Um den Schnittwinkel $\theta$ zwischen Gerade $g$ (mit Richtungsvektor $\vec{r}$) und die Ebene $E$(mit Normalenvektor $\vec{n}$) zu berechnen, können Sie die folgende Formel verwenden:
+
+$$ \theta = \sin^{-1} \left( \frac{\vec{r} \cdot \vec{n}}{|\vec{n}| |\vec{b}|} \right) $$
+
+
 # Strecke proportional aufteilen
 
 Hat man zwei Punkte $A$ (Ortsvektor gleich $\vec{a}$) und $B$ (Ortsvektor gleich $\vec{b}$) und will man ein drittes Punkt auf Strecke zwischen denen so setzen dass der Abstand von $C$ zu $A$ $= \vert \vec{CA} \vert$ und Abstand von $C$ zu $B$ $= \vert \vec{CB} \vert$ hatten die folgende Proportion zueinander:
@@ -586,6 +592,8 @@ $$ \frac{\vert \vec{CA} \vert}{\vert \vec{CB} \vert} = \frac{α}{β}$$
  dann lautet die Formel für Koordinaten von Punkt C:
 
  $$ (\vec{b}-\vec{a})\cdot \frac{α}{β+α} + \vec{a} = \vec{a} \cdot \frac{β}{β+α} + \vec{b} \cdot \frac{α}{β+α}$$
+
+ 
 
  
 
