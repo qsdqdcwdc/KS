@@ -1,17 +1,17 @@
-# Analytische Geometrie
+## Analytische Geometrie
 **Analytische Geometrie:** Ein Teilgebiet der Mathematik, der algebraische Methoden nutzt, um geometrische Eigenschaften und Beziehungen in einem Koordinatensystem zu beschreiben. Analytische Geometrie ermöglicht die Lösung geometrischer Probleme durch algebraische Methoden.
 
-## Punkte
+# Punkte
 - **2D-Punkt:** Ein Objekt in der Ebene, das durch ein geordnetes Paar von Zahlen $(x| y)$ dargestellt wird. Hierbei repräsentiert $x$ die horizontale Position und $y$ die vertikale Position im zweidimensionalen Raum. 
 - **3D-Punkt:** Ein Objekt im Raum, das durch ein geordnetes Tripel von Zahlen $(x| y| z)$ charakterisiert wird. $x$, $y$ und $z$ repräsentieren die Positionen entlang der x-, y- und z-Achsen im dreidimensionalen Raum.
 - Die Menge der Punkte kann wie folgt angegeben werden: $L = \\{(t \mid t - 5) \mid t \in \mathbb{R} \text{  beliebig} \\}$
-## Lineare Gleichungen
+# Lineare Gleichungen
 Eine **lineare Gleichung** ist eine algebraische Gleichung, dessen beide Seiten nur aus einer Summe aus Konstanten oder Variablen(im ersten Potenz multipliziert durch konstanten) besteht. 
 
 **Beispiel:** `ax + by + c = 0`, wobei `a`, `b`, und `c` konstante Werte sind und `x` und `y` Variablen.
 
 
-## Lineare Gleichungssysteme
+# Lineare Gleichungssysteme
 Ein **lineares Gleichungssystem** besteht aus zwei oder mehr linearen Gleichungen, die gemeinsame Variablen haben.
 
 **Beispiel:**
@@ -20,7 +20,7 @@ Ein **lineares Gleichungssystem** besteht aus zwei oder mehr linearen Gleichunge
  x + y = 7
 ```
 
-## Lösen eines linearen Gleichungssystems
+# Lösen eines linearen Gleichungssystems
 Beim Lösen eines linearen Gleichungssystems besteht das Ziel darin, die Werte für die Variablen zu finden, die alle Gleichungen des Systems gleichzeitig erfüllen. Am häufigsten wird zur Lösung linearer Gleichungssysteme das Substitutionsverfahren oder das Gauß-Verfahren verwendet. Substitutionsmethode passt für Gleichungssysteme mit zwei Variablen und Gauss-Verfahren für größere Systeme mit mehr Variablen.
 
 ### Substitutionsmethode
@@ -48,11 +48,11 @@ Das **Gaußsche Eliminationsverfahren**, ist Verfahren zur Lösung linearer Glei
 
  [detaillierte Beschreibung des Algorithmus](https://en.wikipedia.org/wiki/Gaussian_elimination)
 
-## Polynomfunktion n-ten Grades
+# Polynomfunktion n-ten Grades
 **Polynomfunktion n-ten Grades**: Eine Polynomfunktion n-ten Grades ist eine Funktion der Form $P(x) = a_nx^n + a_{n-1}x^{n-1} + \ldots + a_1x + a_0$, wobei $a_n, a_{n-1}, \ldots, a_1, a_0$ Koeffizienten sind und $a_n \neq 0$. 
 
 
-## Polynominterpolation
+# Polynominterpolation
 Ein Polynom vom Grad $n$ kann durch $n+1$ beliebige Punkte $(x_1, y_1), (x_2, y_2), \ldots, (x_{n+1}, y_{n+1})$ eindeutig bestimmt werden, vorausgesetzt, dass keine zwei dieser Punkte dieselben $x$-Koordinaten haben (dass keine zwei Punkte übereinander liegen). [Video](https://www.youtube.com/watch?v=z1YUTRG3ngM)
 
 ### Schritte
@@ -90,7 +90,7 @@ Dieses System kann nun mit Gaußsches Eliminationsverfahren gelöst werden. Nach
 
 
 
-## Kartesisches Koordinatensystem
+# Kartesisches Koordinatensystem
 In einem dreidimensionalen kartesischen Koordinatensystem wird jedes Punkt durch drei Zahlenwerte beschrieben. Komplexere Objekte können durch Gleichungen dargestellt werden, deren Lösungsmengen alle Punkte umfassen, die zu diesen Objekten gehören. In einem zweidimensionalen Koordinatensystem können Sie alle Längen und Winkel direkt von der Zeichnung auf Papier messen und sie werden korrekt sein. Ein Blatt Papier kann den dreidimensionalen Raum jedoch nicht vollständig abbilden. Wenn dreidimensionale Objekte auf Papier gezeichnet werden, sind sie daher nicht geeignet, um Länge, Winkel und die meisten anderen Eigenschaften von diesen Objekte zu messen. Dafür ist die analytische Geometrie erforderlich.
 
 <p align="center">
@@ -104,16 +104,16 @@ In einem dreidimensionalen kartesischen Koordinatensystem wird jedes Punkt durch
 	<em>3d Kartesisches Koordinatensystem</em>
 </p>
 
-## Vektoren
+# Vektoren
 Ein **Vektor** ist ein mathematisches Objekt, das eine Größe und eine Richtung besitzt. Mathematisch wird ein Vektor im Raum durch seine Koordinaten in der Form $(x_1, x_2, x_3)$ dargestellt, wobei $x_1, x_2, x_3$ die Komponenten des Vektors entlang der $x$-, $y$-, und $z$-Achsen sind.
 
-### **Freier Vektor**
+## **Freier Vektor**
 Ein **freier Vektor** ist ein Vektor, der unabhängig von seiner Position im Raum definiert ist. Das bedeutet, dass seine Eigenschaften wie Richtung und Länge gleich bleiben, unabhängig davon, wo er im Koordinatensystem platziert wird.
 
-### **Ortsvektor**
+## **Ortsvektor**
 Ein **Ortsvektor** ist ein Vektor, der vom Ursprung des Koordinatensystems zu einem Punkt P führt. Er beschreibt die Position dieses Punktes im Raum. In der Regel wird ein Ortsvektor als $\vec{OP}$ notiert, wobei $O$ der Ursprung und $P$ der Endpunkt des Vektors ist.
 
-### Schreibweisen für Vektoren
+## Schreibweisen für Vektoren
 Vektoren können auf verschiedene Weisen dargestellt werden:
 
 - **Mit einem Pfeil über dem Buchstaben:** $\vec{a}$
@@ -130,13 +130,13 @@ a_3
 \end{pmatrix}
 ```
 
-### Addition von Vektoren
+## Addition von Vektoren
 **Vektoraddition:** Die Addition zweier Vektoren $\vec{a} = (a_1, a_2, a_3)$ und $\vec{b} = (b_1, b_2, b_3)$ erfolgt komponentenweise. Das Ergebnis ist ein neuer Vektor $\vec{c} = (a_1 + b_1, a_2 + b_2, a_3 + b_3)$.
 
 #### Beispiel
 Seien $\vec{a} = (3, 4, 5)$ und $\vec{b} = (1, 0, 2)$, dann ist $\vec{c} = \vec{a} + \vec{b} = (3+1, 4+0, 5+2) = (4, 4, 7)$.
 
-### Subtraktion von Vektoren
+## Subtraktion von Vektoren
 **Vektorsubtraktion:** Die Subtraktion von Vektor $\vec{b}$ von Vektor $\vec{a}$ erfolgt ebenfalls komponentenweise: $\vec{c} = \vec{a} - \vec{b} = (a_1 - b_1, a_2 - b_2, a_3 - b_3)$.
 
 #### Beispiel
@@ -148,7 +148,7 @@ Für $\vec{a} = (3, 4, 5)$ und $\vec{b} = (1, 0, 2)$ ist $\vec{c} = \vec{a} - \v
 #### Beispiel
 Für $\vec{a} = (3, 4, 5)$ und $k = 2$ ist $\vec{b} = 2\vec{a} = (2\cdot3, 2\cdot4, 2\cdot5) = (6, 8, 10)$.
 
-### Betrag eines Vektors
+## Betrag eines Vektors
 
 Der **Betrag eines Vektors** $\vec{v}$, oft auch als die Länge oder Magnitude des Vektors bezeichnet, misst die "Größe" des Vektors. Für einen Vektor $\vec{v} = (v_1, v_2, v_3)$ im dreidimensionalen Raum wird der Betrag $|\vec{v}|$ durch die folgende Formel bestimmt:
 
@@ -165,9 +165,9 @@ Betrachten Sie den Vektor $\vec{v} = (3, 4, 12)$. Der Betrag dieses Vektors wird
 
 
 
-## Skalarprodukt
+# Skalarprodukt
 
-### Definition und Formel im dreidimensionalen Raum
+## Definition und Formel im dreidimensionalen Raum
 **Skalarprodukt**: Das Skalarprodukt zweier Vektoren $\vec{a}$ und $\vec{b}$ wird definiert als:
 
 $$ \vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| \cos(\theta) $$
@@ -196,7 +196,7 @@ Das Skalarprodukt kann auch verwendet werden, um den Winkel $\theta$ zwischen zw
 
 $$ \theta = \cos^{-1} \left( \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| |\vec{b}|} \right) $$
 
-## Kreuzprodukt
+# Kreuzprodukt
 
 ### Definition und Formel im dreidimensionalen Raum
 <p align="center">
@@ -247,9 +247,9 @@ $$ \text{Fläche des Dreiecks} = \frac{1}{2} |\vec{a} \times \vec{b}| $$
 
 
 
-## Geraden im dreidimensionalen Raum
+# Geraden im dreidimensionalen Raum
 
-### Definition einer Gerade
+## Definition einer Gerade
 
 - **Stützpunkt $P$:** Ein Punkt, durch den die Gerade verläuft.
 - **Stützvektor $\vec{p}$:** Ortsvektor aus dem Ursprung zu dem Stützpunkt.
@@ -265,14 +265,14 @@ Sei $\mathbf{p} = (1, 2, 3)$ und $\mathbf{v} = (4, 5, 6)$. Dann lautet die Gleic
 
 $$\mathbf{r}(t) = (1, 2, 3) + t(4, 5, 6)$$
  
- ### Punktprobe
+ ## Punktprobe
  Für den Punkt $\vec{q} = (5, 7, 9)$ prüft man:
 
  $$(5, 7, 9) = (1, 2, 3) + t(4, 5, 6)$$
 
  Daraus folgt durch Komponentenvergleich und Lösung des Gleichungssystems, dass $t = 1$ eine Lösung ist, also liegt $\vec{q}$ auf der Geraden.
 
-### Relativen Lage von Geraden im Raum
+## Relativen Lage von Geraden im Raum
 [Video](https://studyflix.de/mathematik/lagebeziehungen-von-geraden-5826):
 1. **Parallele Geraden:** Zwei Geraden sind parallel, wenn ihre Richtungsvektoren linear abhängig sind. Dies prüft man durch den Vergleich der Vektoren.
 2. **Identische Geraden:** Zwei Geraden sind identisch, wenn sie denselben Stützpunkt und Richtungsvektor haben, oder wenn ein Punkt der einen Geraden durch eine Skalierung des Richtungsvektors auf der anderen Geraden liegt.
@@ -288,11 +288,11 @@ Betrachten wir zwei Geraden:
 
  Diese Geraden sind parallel, da $\vec{v}_2 = 0.5\vec{v}_1$ ( $\vec{v}_1$ und  $\vec{v}_2$ sind Richtungsvektoren von geraden $\vec{r}_1(t)$, $\vec{r}_2(t)$ ). Sie haben keinen Schnittpunkt, da sie nicht identisch sind.
 
-## Ebenen im Raum
+# Ebenen im Raum
 
 Eine **Ebene** ist eine zweidimensionale Fläche im dreidimensionalen Raum, die durch mindestens drei nicht auf einer Geraden liegende Punkte definiert werden kann.
 
-### Parameterform der Ebene
+## Parameterform der Ebene
 
 Die **Parameterform** einer Ebene wird durch einen Punkt und zwei nicht parallele Richtungsvektoren definiert. Sie lautet:
 
@@ -324,7 +324,7 @@ Für die Ebene mit dem Normalenvektor $\vec{n} = (1, 1, 1)$ und dem Punkt $\vec{
 
 $$(1, 1, 1) \cdot ((x_1, x_2, x_3) - (1, 2, 3)) = 0$$
 
-### Koordinatenform der Ebene
+## Koordinatenform der Ebene
 
 Die **Koordinatenform** der Ebene ist eine algebraische Darstellung, die direkt aus der Normalenform abgeleitet wird, indem das Skalarprodukt ausmultipliziert und umgeformt wird. Sie lautet:
 
@@ -340,8 +340,6 @@ Die Koordinatenform der Ebene mit dem Normalenvektor $\vec{n} = (1, 1, 1)$ und d
 $$1x_1 + 1x_2 + 1x_3 = 6$$
 
 Durch diese verschiedenen Formen der Gleichungen lassen sich Ebenen im Raum auf vielfältige Weise mathematisch beschreiben und untersuchen.
-
-
 
 
 ## Umwandlung von Parameterform zu Normalenform der Ebene
