@@ -272,9 +272,8 @@ $$\mathbf{r}(t) = (1, 2, 3) + t(4, 5, 6)$$
 
  Daraus folgt durch Komponentenvergleich und Lösung des Gleichungssystems, dass $t = 1$ eine Lösung ist, also liegt $\vec{q}$ auf der Geraden.
 
-### Analytische Geometrie zur Bestimmung der Lage von Geraden
-
-Die **analytische Geometrie** bietet Methoden zur Untersuchung der relativen Lage von Geraden im Raum [Video](https://studyflix.de/mathematik/lagebeziehungen-von-geraden-5826):
+### Relativen Lage von Geraden im Raum
+[Video](https://studyflix.de/mathematik/lagebeziehungen-von-geraden-5826):
 1. **Parallele Geraden:** Zwei Geraden sind parallel, wenn ihre Richtungsvektoren linear abhängig sind. Dies prüft man durch den Vergleich der Vektoren.
 2. **Identische Geraden:** Zwei Geraden sind identisch, wenn sie denselben Stützpunkt und Richtungsvektor haben, oder wenn ein Punkt der einen Geraden durch eine Skalierung des Richtungsvektors auf der anderen Geraden liegt.
 3. **Schnittwinkel und Schnittpunkt:** Der Schnittpunkt zweier Geraden kann gefunden werden, indem man ihre Gleichungen gleichsetzt und das resultierende Gleichungssystem löst. Der Schnittwinkel lässt sich über das Skalarprodukt der Richtungsvektoren berechnen.
