@@ -291,6 +291,14 @@ Betrachten wir zwei Geraden:
  Diese Geraden sind parallel, da $\vec{v}_2 = 0.5\vec{v}_1$ ( $\vec{v}_1$ und  $\vec{v}_2$ sind Richtungsvektoren von geraden $\vec{r}_1(t)$, $\vec{r}_2(t)$ ). Sie haben keinen Schnittpunkt, da sie nicht identisch sind.
 
 
+## Schnittpunkt zweier Geraden
+Um den Schnittpunkt von zwei Geraden Geraden $a: \vec{s_a} + t\cdot \vec{r_a}$ und $b: \vec{s_b} + s\cdot \vec{r_b}$ zu bestimmen muss man:
+- Ein lineares Gleichungssystem aufstellen: $\vec{s_a} + t\cdot \vec{r_a} =  \vec{s_b} + s\cdot \vec{r_b}$
+- Diese nach $t$ und $s$ lösen.
+- Überprüfen mit Einsätzen der $t$ und $s$ ob alle Gleichungen des Systems wahl sind.
+-  $t$ oder $s$ in ihre entsprechende der Geradengleichung reinsetzen um den Schnittpunkt Koordinaten zu bekommen.
+
+
 ## Lotfußpunkt auf eine Gerade
 
 Den Lotfußpunkt $L$ (Ortsvektor gleich $\vec{l}$) von Punkt $P$ (Ortsvektor gleich $\vec{p}$) auf eine Gerade $g: \vec{g} = \vec{s} + \cdot \vec{r}$ , kann man entweder mit dieser Formel berechnen:
@@ -558,7 +566,7 @@ Setzen Sie den ermittelten Wert für $r$ in die Geradengleichung $g$ ein:
 Der Schnittpunkt $S$ der Geraden $g$ mit der Ebene E ist $S = (-22, 2, -20)$. 
 
 ## Abstand Punkt Ebene
-Abstand $d$ zwischen bene in Normalform ( $E: (\vec{x} - \vec{a}) \cdot \vec{n} = 0$ ), und einen Punkt $p$ ist gleich:
+Abstand $d$ zwischen bene in Normalform ( $E: (\vec{x} - \vec{a}) \cdot \vec{n} = 0$ ), und einen Punkt $P$ (Ortsvektor gleich $\vec{p}$) ist gleich:
 
 $$ d = \frac{\vert (\vec{p} - \vec{a}) \cdot \vec{n} \vert}{\vert \vec{n} \vert}$$
 
@@ -567,6 +575,21 @@ $$ d = \frac{\vert (\vec{p} - \vec{a}) \cdot \vec{n} \vert}{\vert \vec{n} \vert}
 Den Lotfußpunkt $L$ von Punkt $P$ auf eine Ebene in Normalform ( $E: (\vec{x} - \vec{a}) \cdot \vec{n} = 0$ ), berechnet sich wie folgt:
 1. Erstellen Sie eine Hilfsgerade mit dem Stützpunkt $P$ und Richtungsvektor \vec{n} (wobei $P$ ist der Punkt von dem wir Lotfußpunkt finden wollen und $\vec{n}$ ist Normalvektor der Ebene)
 2. Finden Sie den Schnittpunkt von der Hilfsgerade und Ebene $E$ dieser Punkt ist der Lotfußpunkt $L$ (hierfür können Sie den oben angegebenen Algorithmus verwenden).
+
+
+# Strecke proportional aufteilen
+
+Hat man zwei Punkte $A$ (Ortsvektor gleich $\vec{a}$) und $B$ (Ortsvektor gleich $\vec{b}$) und will man ein drittes Punkt auf Strecke zwischen denen so setzen dass der Abstand von $C$ zu $A$ $= \vert \vec{CA} \vert$ und Abstand von $C$ zu $B$ $= \vert \vec{CB} \vert$ hatten die folgende Proportion zueinander:
+
+$$ \frac{\vert \vec{CA} \vert}{\vert \vec{CB} \vert} = \frac{α}{β}$$
+
+ dann lautet die Formel für Koordinaten von Punkt C:
+
+ $$ (\vec{b}-\vec{a})\cdot \frac{α}{β+α} + \vec{a} = \vec{a} \cdot \frac{β}{β+α} + \vec{b} \cdot \frac{α}{β+α}$$
+
+ 
+
+
 
 
 
