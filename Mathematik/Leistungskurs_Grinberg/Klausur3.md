@@ -194,7 +194,13 @@ Das Skalarprodukt kann auch verwendet werden, um den Winkel $\theta$ zwischen zw
 
 $$ \theta = \cos^{-1} \left( \frac{\vec{a} \cdot \vec{b}}{|\vec{a}| |\vec{b}|} \right) $$
 
+
+
+
+
 # Kreuzprodukt
+
+[Video](https://studyflix.de/mathematik/kreuzprodukt-vektorprodukt-2254)
 
 ### Definition und Formel im dreidimensionalen Raum
 <p align="center">
@@ -286,11 +292,19 @@ Betrachten wir zwei Geraden:
 
  Diese Geraden sind parallel, da $\vec{v}_2 = 0.5\vec{v}_1$ ( $\vec{v}_1$ und  $\vec{v}_2$ sind Richtungsvektoren von geraden $\vec{r}_1(t)$, $\vec{r}_2(t)$ ). Sie haben keinen Schnittpunkt, da sie nicht identisch sind.
 
+
+
+
+
+
 # Ebenen im Raum
 
 Eine **Ebene** ist eine zweidimensionale Fläche im dreidimensionalen Raum, die durch mindestens drei nicht auf einer Geraden liegende Punkte definiert werden kann.
 
+Übersicht formen von Ebenengleichungen(optional): [Video](https://studyflix.de/mathematik/ebenengleichung-5791)
 ## Parameterform der Ebene
+
+[Video](https://studyflix.de/mathematik/parameterform-2402)
 
 Die **Parameterform** einer Ebene wird durch einen Punkt und zwei nicht parallele Richtungsvektoren definiert. Sie lautet:
 
@@ -306,7 +320,9 @@ Gegeben sei der Punkt $\vec{p} = (1, 2, 3)$ und die Vektoren $\vec{u} = (4, 0, 0
 
 $$\vec{x} = (1, 2, 3) + r(4, 0, 0) + s(0, 5, 0)$$
 
-### Normalenform der Ebene
+## Normalenform der Ebene
+
+[Video](https://studyflix.de/mathematik/normalenform-2404)
 
 Die **Normalenform** der Ebene verwendet einen Normalenvektor, der senkrecht zur Ebene steht. Sie wird definiert als:
 
@@ -324,6 +340,8 @@ $$(1, 1, 1) \cdot ((x_1, x_2, x_3) - (1, 2, 3)) = 0$$
 
 ## Koordinatenform der Ebene
 
+[Video](https://studyflix.de/mathematik/koordinatenform-2403)
+
 Die **Koordinatenform** der Ebene ist eine algebraische Darstellung, die direkt aus der Normalenform abgeleitet wird, indem das Skalarprodukt ausmultipliziert und umgeformt wird. Sie lautet:
 
 $$a x_1 + b x_2 + c x_3 = d$$
@@ -339,6 +357,8 @@ $$1x_1 + 1x_2 + 1x_3 = 6$$
 
 Durch diese verschiedenen Formen der Gleichungen lassen sich Ebenen im Raum auf vielfältige Weise mathematisch beschreiben und untersuchen.
 
+## Normalenvektor bestimmen
+[Video](https://studyflix.de/mathematik/normalenvektor-2431)
 
 ## Umwandlung von Parameterform zu Normalenform der Ebene
 
@@ -378,6 +398,9 @@ Nutzen wir die gleiche Ebene wie oben:
 
 
 ## Umwandlung von Parameterform zu Koordinatenform der Ebene
+
+[Video](https://studyflix.de/mathematik/parameterform-in-koordinatenform-3658)
+
 #### Schritte
 1. **Berechnung des Normalenvektors**: Wie zuvor, berechnen Sie $\vec{n} = \vec{u} \times \vec{v}$.
 2. **Berechnung von $d$**: Bestimmen Sie $d$ durch das Skalarprodukt des Normalenvektors mit dem Stützvektor, $d = \vec{n} \cdot \vec{p}$.
@@ -409,6 +432,9 @@ $$\vec{n} \cdot (\vec{x} - (1, 0, 0)) = 0$$ mit $\vec{n} = (0, 1, 0)$.
    $$\vec{x} = (1, 0, 0) + r(1, 0, 0) + s(0, 0, -1)$$
 
 ## Umwandlung von Koordinatenform zu Parameterform der Ebene
+
+[Video](https://studyflix.de/mathematik/koordinatenform-in-parameterform-3668)
+
 #### Schritte
 1. **Berechnung des Normalenvektors**: Aus der Koordinatenform $a x_1 + b x_2 + c x_3 = d$ ist $\vec{n} = (a, b, c)$.
 2. **Bestimmung eines Punktes auf der Ebene**: Lösen Sie die Gleichung für ein spezifisches $x_1, x_2, x_3$, um einen Punkt $\vec{p}$ auf der Ebene zu finden. Oft ist das am einfachsten, wenn man sagt, dass $x_1$ und $x_2$ gleich Null sind und nach $x_3$ die Gleichung auflöst.
@@ -424,4 +450,92 @@ $$x_1 + x_2 + x_3 = 3$$
 3. **Richtungsvektoren auswählen**: $\vec{u} = (-1, 1, 0)$ und $\vec{v} = (-1, 0, 1)$.
 4. **Parameterform aufstellen**:
    $$\vec{x} = (1, 1, 1) + r(1, -1, 0) + s(0, 1, -1)$$
+
+## Relative Lage von Ebenen
+zwei Ebenen können zueinander:
+- **Parallel** sind Ebenen, wenn nicht identisch sind und die keinen Schnittpunkt haben. Zwei Ebenen sind parallel wenn ihre Normalenvektoren vielfachen voneinander sind.
+- **Identisch** sind zwei oder mehr Ebenen, die exakt dieselben Punkte enthalten. Dies bedeutet, dass ihre Normalenvektoren vielfachen voneinander und und Stützpunkt einer Ebene liegt auf der andere Ebene sind(aka: ihre Koordinatenformen sind vielfachen voneinander).
+- **sich schneidend** sind Ebenen, die sich in einer Linie schneiden. Das passiert immer wenn ihre Normalenvektoren sind nicht vielfachen voneinander(aka: Normalenvektoren seigen in verschiedene Richtungen).
+
+## Relative Lage von Gerade zu Ebenen
+- **Parallel** Eine Gerade ist parallel zu einer Ebene, wenn der Richtungsvektor der Geraden orthogonal zum Normalenvektor der Ebene ist.
+- **Gerade liegt in einer Ebene**, wenn ihr Richtungsvektor senkrecht zu dem Normalenvektor von der Ebene und der Stützpunkt liegt in der Ebene.
+- **Gerade schneidet eine Ebene**, wenn ihr Richtungsvektor nicht orthogonal zum Normalenvektor der Ebene ist.
+
+
+
+## Berechnung des Schnittpunktes einer Geraden mit einer Ebene
+
+[Video](https://studyflix.de/mathematik/schnittpunkt-gerade-ebene-4757)
+
+Betrachten wir den Schnittpunkt der Geraden $g$ mit der Ebene $E$, welcher der Punkt ist, an dem die Gerade die Ebene durchdringt. Gegeben sind die Gerade $g$ und die Ebene $E$ wie folgt:
+
+```math
+
+g: \vec{x} = \left(\begin{array}{c}
+1 \\
+2 \\
+3
+\end{array}\right) + r \left(\begin{array}{c}
+1 \\
+0 \\
+1
+\end{array}\right), \quad E: 2 x_1 + 2 x_2 - 3 x_3 = 20
+```
+
+Folgen Sie diesen Schritten, um den Schnittpunkt zu ermitteln:
+
+#### Schritt 1: Formulierung der Geradengleichung $g$
+Fassen Sie die Geradengleichung in einer Matrix zusammen:
+
+```math
+\left(\begin{array}{c}
+1 + r \\
+2 \\
+3 + r
+\end{array}\right) = \left(\begin{array}{c}
+x_1 \\
+x_2 \\
+x_3
+\end{array}\right)
+```
+
+
+#### Schritt 2: Einsetzen in die Ebenengleichung $E$
+Setzen Sie die Parameter der Geradengleichung in die Ebenengleichung ein:
+
+```math
+2 \cdot (1 + r) + 2 \cdot 2 - 3 \cdot (3 + r) = 20
+```
+
+#### Schritt 3: Auflösen nach dem Parameter $r$
+Lösen Sie die Gleichung nach $r$ auf:
+
+```math
+2(1 + r) + 4 - 3(3 + r) = 20 \implies 2 + 2r + 4 - 9 - 3r = 20 \implies r = -23
+```
+
+#### Schritt 4: Berechnung des Schnittpunktes $S$
+Setzen Sie den ermittelten Wert für $r$ in die Geradengleichung $g$ ein:
+
+```math
+\vec{S} = \left(\begin{array}{c}
+1 \\
+2 \\
+3
+\end{array}\right) + (-23) \left(\begin{array}{c}
+1 \\
+0 \\
+1
+\end{array}\right) = \left(\begin{array}{c}
+-22 \\
+2 \\
+-20
+\end{array}\right)
+```
+
+#### Schritt 5: Schnittpunkt $S$ ablesen
+Der Schnittpunkt $S$ der Geraden $g$ mit der Ebene E ist $S = (-22, 2, -20)$.
+
+
 
