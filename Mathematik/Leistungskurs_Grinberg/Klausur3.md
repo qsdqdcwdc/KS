@@ -270,7 +270,7 @@ $$\mathbf{r}(t) = (1, 2, 3) + t(4, 5, 6)$$
 
  $$(5, 7, 9) = (1, 2, 3) + t(4, 5, 6)$$
 
- Daraus folgt durch Komponentenvergleich und Lösung des Gleichungssystems, dass $t = 1$ eine mögliche Lösung ist, also liegt $\vec{q}$ auf der Geraden.
+ Daraus folgt durch Komponentenvergleich und Lösung des Gleichungssystems, dass $t = 1$ eine Lösung ist, also liegt $\vec{q}$ auf der Geraden.
 
 ### Analytische Geometrie zur Bestimmung der Lage von Geraden
 
