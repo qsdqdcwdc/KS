@@ -350,6 +350,11 @@ $$d =  \frac{\vert (\vec{s_a} - \vec{s_b}) \cdot \vec{n} \vert}{\vert \vec{n} \v
 
 
 **(Beachten Sie, dass diese Formel der Formel zur Berechnung des Abstands zwischen einem Punkt und einer Ebene gleich ist.)*
+
+
+
+
+
 # Ebenen im dreidimensionalen Raum
 
 Eine **Ebene** ist eine zweidimensionale Fläche im dreidimensionalen Raum, die durch mindestens drei nicht auf einer Geraden liegende Punkte definiert werden kann.
@@ -364,7 +369,7 @@ Die **Parameterform** einer Ebene wird durch einen Punkt und zwei nicht parallel
 $$\vec{x} = \vec{p} + r\vec{u} + s\vec{v}$$
 
 - $\vec{p}$ ist der Stützvektor (Ortsvektor aus dem Ursprung zu einem Punkt auf der Ebene),
-- $\vec{u}$ und $\vec{v}$ sind die Richtungsvektoren der Ebene,
+- $\vec{u}$ und $\vec{v}$ sind die Spannvektoren der Ebene,
 - $r$ und $s$ sind Parameter.
 
 #### Beispiel
@@ -418,7 +423,7 @@ Durch diese verschiedenen Formen der Gleichungen lassen sich Ebenen im Raum auf 
 Um die Parameterform einer Ebene in die Normalenform umzuwandeln, benötigt man den Normalenvektor der Ebene. Dieser kann durch das Kreuzprodukt der Richtungsvektoren der Ebene gefunden werden, die in der Parameterform angegeben sind.
 
 #### Schritte
-1. **Bestimmen der Richtungsvektoren:** Seien $\vec{u}$ und $\vec{v}$ die Richtungsvektoren der Ebene in Parameterform.
+1. **Bestimmen der Richtungsvektoren:** Seien $\vec{u}$ und $\vec{v}$ die Spannvektoren der Ebene in Parameterform.
 2. **Kreuzprodukt bilden:** Der Normalenvektor $\vec{n}$ ist das Ergebnis des Kreuzprodukts $\vec{u} \times \vec{v}$.
 3. **Normalenform aufstellen:** Mit dem Stützpunkt $\vec{p}$ und dem Normalenvektor $\vec{n}$ lautet die Normalenform $\vec{n} \cdot (\vec{x} - \vec{p}) = 0$.
 
@@ -428,7 +433,7 @@ Gegeben ist die Ebene in Parameterform:
 $$\vec{x} = (1, 1, 1) + r(1, 0, 1) + s(0, 1, 1)$$
 
 **Schritte**:
-1. **Richtungsvektoren bestimmen**: $\vec{u} = (1, 0, 1)$ und $\vec{v} = (0, 1, 1)$.
+1. **Spannvektoren bestimmen**: $\vec{u} = (1, 0, 1)$ und $\vec{v} = (0, 1, 1)$.
 2. **Normalenvektor berechnen**: $\vec{n} = \vec{u} \times \vec{v} = (1, -1, 1)$.
 3. **Normalenform aufstellen**: $\vec{n} \cdot (\vec{x} - \vec{p}) = (1, -1, 1) \cdot (\vec{x} - (1, 1, 1)) = 0$.
    $$x_1 - x_2 + x_3 - 1 = 0$$
@@ -471,7 +476,7 @@ Nutzen wir die gleiche Ebene wie oben:
 
 ## Umwandlung von Normalenform zu Parameterform der Ebene
 #### Schritte
-1. **Auswahl zweier unabhängiger Richtungsvektoren**: Wählen Sie zwei Vektoren $\vec{u}$ und $\vec{v}$, die orthogonal zu $\vec{n}$ sind. man kann die Vektoren durch "raten" bestimmen oder durch die Formel:
+1. **Auswahl zweier unabhängiger Spannvektoren**: Wählen Sie zwei Vektoren $\vec{u}$ und $\vec{v}$, die orthogonal zu $\vec{n}$ sind. man kann die Vektoren durch "raten" bestimmen oder durch die Formel:
 	- $\vec{u} = (n_2, -n_1, 0)$
  	- $\vec{v} = (0 ,  n_3, -n_2)$
 2. **Aufstellen der Parameterform**: Nutzen Sie $\vec{p}$, $\vec{u}$ und $\vec{v}$ in der Gleichung $\vec{x} = \vec{p} + r\vec{u} + s\vec{v}$.
@@ -480,7 +485,7 @@ Nutzen wir die gleiche Ebene wie oben:
 Gegeben sei die Normalenform der Ebene:
 $$\vec{n} \cdot (\vec{x} - (1, 0, 0)) = 0$$ mit $\vec{n} = (0, 1, 0)$.
 **Schritte**:
-1. **Richtungsvektoren auswählen**: $\vec{u} = (1, 0, 0)$ und $\vec{v} = (0, 0, -1)$.
+1. **Spannvektoren auswählen**: $\vec{u} = (1, 0, 0)$ und $\vec{v} = (0, 0, -1)$.
 2. **Parameterform aufstellen**:
    $$\vec{x} = (1, 0, 0) + r(1, 0, 0) + s(0, 0, -1)$$
 
@@ -491,7 +496,7 @@ $$\vec{n} \cdot (\vec{x} - (1, 0, 0)) = 0$$ mit $\vec{n} = (0, 1, 0)$.
 #### Schritte
 1. **Berechnung des Normalenvektors**: Aus der Koordinatenform $a x_1 + b x_2 + c x_3 = d$ ist $\vec{n} = (a, b, c)$.
 2. **Bestimmung eines Punktes auf der Ebene**: Lösen Sie die Gleichung für ein spezifisches $x_1, x_2, x_3$, um einen Punkt $\vec{p}$ auf der Ebene zu finden. Oft ist das am einfachsten, wenn man sagt, dass $x_1$ und $x_2$ gleich Null sind und nach $x_3$ die Gleichung auflöst.
-3. **Auswahl zweier unabhängiger Richtungsvektoren**: Suchen Sie zwei Vektoren $\vec{u}$ und $\vec{v}$, die orthogonal zu $\vec{n}$ sind.
+3. **Auswahl zweier unabhängiger Spannvektoren**: Suchen Sie zwei Vektoren $\vec{u}$ und $\vec{v}$, die orthogonal zu $\vec{n}$ sind.
 4. **Formulierung der Parameterform**: Verwenden Sie $\vec{p}$, $\vec{u}$ und $\vec{v}$ in der Gleichung $\vec{x} = \vec{p} + r\vec{u} + s\vec{v}$.
 
 #### Beispiel
@@ -500,7 +505,7 @@ $$x_1 + x_2 + x_3 = 3$$
 1. **Normalenvektor bestimmen**: $\vec{n} = (1, 1, 1)$.
 2. **Einen Punkt auf der Ebene finden**: Wählen Sie $x_1 = 1$, $x_2 = 1$, dann ist $x_3 = 1$.
    $$\vec{p} = (1, 1, 1)$$
-3. **Richtungsvektoren auswählen**: $\vec{u} = (-1, 1, 0)$ und $\vec{v} = (-1, 0, 1)$.
+3. **Spannvektoren auswählen**: $\vec{u} = (-1, 1, 0)$ und $\vec{v} = (-1, 0, 1)$.
 4. **Parameterform aufstellen**:
    $$\vec{x} = (1, 1, 1) + r(1, -1, 0) + s(0, 1, -1)$$
 
