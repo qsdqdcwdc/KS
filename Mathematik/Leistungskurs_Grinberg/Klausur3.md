@@ -6,7 +6,7 @@
 </p>
 
 1. <code>Korrekturen und Ergänzungen zu diesem Dokument sind erwünscht. Bitte fügen Sie diese in [Google Docs](https://docs.google.com/document/d/12Gqtnn5DdQmN6GDQs-ADqzZjTsvVcVF5w9dpGsSQXM4/edit?usp=sharing) ein. Ich werde versuchen, sie so schnell wie möglich zu integrieren.</code>
-2. Die Formatierung der Formeln auf dem Handy absolut ekelhaft, daher empfehle ich, entweder auf einem Computer oder einem iPad zu lesen.
+2. <code>Die Formatierung der Formeln auf dem Handy absolut ekelhaft, daher empfehle ich, entweder auf einem Computer oder einem iPad zu lesen.</code>
 
 # Inhalt
 - [Punkte](#punkte)
