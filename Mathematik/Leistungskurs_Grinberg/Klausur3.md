@@ -33,7 +33,7 @@
 # Lineare Gleichungen
 Eine **lineare Gleichung** ist eine algebraische Gleichung, dessen beide Seiten nur aus einer Summe aus Konstanten oder Variablen(im ersten Potenz multipliziert durch konstanten) besteht. 
 
-**Beispiel:** `ax + by + c = 0`, wobei `a`, `b`, und `c` konstante Werte sind und `x` und `y` Variablen.
+**Beispiel:** $ax + by + c = 0$, wobei $a$, $b$, und $c$ konstante Werte sind und $x$ und $y$ Variablen.
 
 
 # Lineare Gleichungssysteme
@@ -46,7 +46,7 @@ Ein **lineares Gleichungssystem** besteht aus zwei oder mehr linearen Gleichunge
 ```
 
 # Lösen eines linearen Gleichungssystems
-Beim Lösen eines linearen Gleichungssystems besteht das Ziel darin, die Werte für die Variablen zu finden, die alle Gleichungen des Systems gleichzeitig erfüllen. Am häufigsten wird zur Lösung linearer Gleichungssysteme das Substitutionsverfahren oder das Gauß-Verfahren verwendet. Substitutionsmethode passt für Gleichungssysteme mit zwei Variablen und Gauss-Verfahren für größere Systeme mit mehr Variablen.
+Beim Lösen eines linearen Gleichungssystems besteht das Ziel darin, die Werte für die Variablen zu finden, die alle Gleichungen des Systems gleichzeitig erfüllen. Am häufigsten wird zur Lösung linearer Gleichungssysteme das Substitutionsverfahren oder das Gauß-Verfahren verwendet. Substitutionsmethode passt besser für kleine Gleichungssysteme(bis drei Variablen) und Gauss-Verfahren für größere Systeme mit mehr Variablen.
 
 ### Substitutionsmethode
 **Substitutionsmethode:** Ein algebraisches Verfahren zur Lösung linearen Gleichungssystems, indem der Wert einer Variablen aus einer Gleichung in andere Gleichungen eingesetzt wird. Dies vereinfacht das Gleichungssystem zu einer einzelnen Gleichung mit einer Variablen, die dann gelöst werden kann. Schritte der Substitutionsmethode:
@@ -320,13 +320,13 @@ Betrachten wir zwei Geraden:
 Um den Schnittpunkt von zwei Geraden Geraden $a: \vec{s_a} + t\cdot \vec{r_a}$ und $b: \vec{s_b} + s\cdot \vec{r_b}$ zu bestimmen muss man:
 - Ein lineares Gleichungssystem aufstellen: $\vec{s_a} + t\cdot \vec{r_a} =  \vec{s_b} + s\cdot \vec{r_b}$
 - Diese nach $t$ und $s$ lösen.
-- Überprüfen mit Einsätzen der $t$ und $s$ ob alle Gleichungen des Systems wahl sind.
+- Überprüfen mit Einsätzen der $t$ und $s$ ob alle Gleichungen des Systems wahr sind.
 -  $t$ oder $s$ in ihre entsprechende der Geradengleichung reinsetzen um den Schnittpunkt Koordinaten zu bekommen.
 
 
 ## Lotfußpunkt auf eine Gerade
 
-Den Lotfußpunkt $L$ (Ortsvektor gleich $\vec{l}$) von Punkt $P$ (Ortsvektor gleich $\vec{p}$) auf eine Gerade $g: \vec{g} = \vec{s} + \cdot \vec{r}$ , kann man entweder mit dieser Formel berechnen:
+Den Lotfußpunkt $L$ (Ortsvektor gleich $\vec{l}$) von Punkt $P$ (Ortsvektor gleich $\vec{p}$) auf eine Gerade $g: \vec{g} = \vec{s} + t \cdot \vec{r}$ , kann man entweder mit dieser Formel berechnen:
 
 $$ \vec{l} = \left(\frac{\vec{r} \cdot (\vec{p}-\vec{s})} {\vec{r} \cdot \vec{r}}\right) \vec{r} + \vec{s} $$
 
