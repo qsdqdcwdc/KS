@@ -299,6 +299,14 @@ $$\mathbf{r}(t) = (1, 2, 3) + t(4, 5, 6)$$
 
  Daraus folgt durch Komponentenvergleich und Lösung des Gleichungssystems, dass $t = 1$ eine Lösung ist, also liegt $\vec{q}$ auf der Geraden.
 
+## Gerade durch zwei Punkte $${\color{lightgreen}Neu}$$
+
+Wenn Sie zwei Punkte $A$ mit Ortsvektor $\vec{a}$ und $B$ mit Ortsvektor $\vec{b}$ haben und eine Linie konstruieren müssen, die durch beide Punkte verläuft. Gehen Sie dann wie folgt vor:
+
+1. Nehmen Sie $\vec{a}$ als der Stützvektor der gerade.
+2. Nehmen Sie $\vec{a}-\vec{b}$ als der Richtungsvektor der gerade.
+
+
 ## Relativen Lage von Geraden im Raum
 [Video](https://studyflix.de/mathematik/lagebeziehungen-von-geraden-5826):
 1. **echt Parallele Geraden:** Zwei Geraden werden als echt parallel bezeichnet, wenn sie parallel, aber nicht identisch sind. Zwei Geraden sind echt parallel wenn ihre Richtungsvektoren vielfacher voneinander sind aber Stützpunkt von einer gerade liegt nicht auf der andere gerade (dies kann man mit der Punktprobe nachweisen).
