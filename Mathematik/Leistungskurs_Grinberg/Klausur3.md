@@ -625,9 +625,7 @@ $$ \frac{\vert \vec{CA} \vert}{\vert \vec{CB} \vert} = \frac{α}{β}$$
 
 ## Schnittgerade zweier Ebenen $${\color{lightgreen}Neu}$$
 
-[Video](https://studyflix.de/mathematik/schnittgerade-zweier-ebenen-2847)
-
-Schnittgerade zweier Ebene zu bestimmen muss man eine Ebene in Koordinatenform ausdrücken und die andere in Parameterform
+[Video+andere Lösungsmethoden](https://studyflix.de/mathematik/schnittgerade-zweier-ebenen-2847)
 
 Die Ebenen sind gegeben durch:
 
