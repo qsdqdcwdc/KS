@@ -342,8 +342,13 @@ $$ \vec{l} = \left(\frac{\vec{r} \cdot (\vec{p}-\vec{s})} {\vec{r} \cdot \vec{r}
 oder indem man eine Hilftsebene erstellt die normal zu der Gerade $g$ ist und durch Punkt $P$ verläuft und danach den Schnittpunkt von dieser Hilftsebene und der Gerade $g$ findet für (Schnittpunkt gerade Ebene sehe Algorithmus unten).
 **(mir persönlich gefällt mir die Methode mit der Formel)*
 
-## Abstand Punkt-Gerade
-Um den Abstand zwischen einem Punkt und eine Gerade zu berechnen muss man zuerst den Lotfußpunkt finden und danach Abstand zwischen dem Punkt und dem Lotfußpunkt berechnen.
+## Abstand Punkt-Gerade $${\color{lightgreen}Neu}$$
+
+Gegeben sind der Punkt $P (p_1|p_2|p_3)$ und die Gerade $\vec{x} = \vec{a} + \lambda \vec{b}$.
+Formel zur Berechnung des Abstandes:
+
+$$d = \frac{|(\vec{p} - \vec{a}) \times \vec{b}|}{|\vec{b}|}$$
+
 
 ## Abstand Gerade-Gerade
 
