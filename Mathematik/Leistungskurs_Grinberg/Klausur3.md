@@ -709,7 +709,9 @@ $$
 Um einen Punkt $A$ an einer Gerade zu spiegeln soll man zuerst den Lotfußpunkt von Punkt $A$ auf der gerade finden und danach den Punkt $A$ um den Lotfußpunkt spiegeln.
 
 ### Spiegelung an einer Ebene
-Dasselbe wie bei Spiegelung an einer Gerade zuerst Lotfußpunkt finden danach um den Lotfußpunkt Spiegel.
+Wenn wir den Punkt $A$ (Ortsvektor gleich $\vec{a}$) an der Ebene $E: \vec{n} \cdot (\vec{x}-\vec{p}) = 0$ spiegeln, lautet die Formel für den reflektierten Punkt $A^*$ wie folgt:
+
+$$\vec{a}^* = \vec{a} + 2 \vec{n} \frac{(\vec{a}-\vec{p}) \cdot \vec{n}}{\vec{n} \cdot \vec{n}}$$
 
 
 
