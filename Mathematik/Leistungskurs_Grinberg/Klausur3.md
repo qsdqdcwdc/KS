@@ -623,6 +623,63 @@ $$ \frac{\vert \vec{CA} \vert}{\vert \vec{CB} \vert} = \frac{α}{β}$$
 
  $$ (\vec{b}-\vec{a})\cdot \frac{α}{β+α} + \vec{a} = \vec{a} \cdot \frac{β}{β+α} + \vec{b} \cdot \frac{α}{β+α}$$
 
+## Schnittgerade zweier Ebenen $${\color{lightgreen}Neu}$$
+
+[Video](https://studyflix.de/mathematik/schnittgerade-zweier-ebenen-2847)
+
+Schnittgerade zweier Ebene zu bestimmen muss man eine Ebene in Koordinatenform ausdrücken und die andere in Parameterform
+
+Die Ebenen sind gegeben durch:
+
+- Koordinatenform $E$: $2x_1 + 2x_2 - 5x_3 = -8$
+- Parameterform $F$:
+
+```math
+\begin{pmatrix} x_1 \\ x_2 \\ x_3 \end{pmatrix} = 
+\begin{pmatrix} 1 \\ 0 \\ 2 \end{pmatrix} + \lambda 
+\begin{pmatrix} 3 \\ 0 \\ -1 \end{pmatrix} + \mu 
+\begin{pmatrix} 2 \\ 1 \\ -1 \end{pmatrix}
+```
+
+Setzen Sie die Parameterform in die Koordinatenform ein:
+
+```math
+2(1 + 3\lambda + 2\mu) + 2\mu - 5(2 - \lambda - \mu) = -8
+```
+
+Vereinfachen der Gleichung ergibt:
+
+```math
+11\lambda + 11\mu = 0 \Rightarrow \mu = -\lambda
+```
+
+Setzen Sie $\mu = -\lambda$ in die Parameterform ein:
+
+```math
+\begin{pmatrix} x_1 \\ x_2 \\ x_3 \end{pmatrix} = 
+\begin{pmatrix} 1 \\ 0 \\ 2 \end{pmatrix} + \lambda 
+\begin{pmatrix} 3 \\ 0 \\ -1 \end{pmatrix} - \lambda 
+\begin{pmatrix} 2 \\ 1 \\ -1 \end{pmatrix}
+```
+
+Vereinfachen der Parameterform:
+
+```math
+\begin{pmatrix} x_1 \\ x_2 \\ x_3 \end{pmatrix} = 
+\begin{pmatrix} 1 \\ 0 \\ 2 \end{pmatrix} + \lambda 
+\begin{pmatrix} 1 \\ -1 \\ 0 \end{pmatrix}
+```
+### Ergebnis
+
+Die Schnittgerade $g$ der Ebenen $E$ und $F$ ist:
+
+```math
+g: \begin{pmatrix} x_1 \\ x_2 \\ x_3 \end{pmatrix} = 
+\begin{pmatrix} 1 \\ 0 \\ 2 \end{pmatrix} + \lambda 
+\begin{pmatrix} 1 \\ -1 \\ 0 \end{pmatrix}
+```
+
+Diese Gleichung stellt die Gerade dar, entlang der sich die Ebenen $E$ und $F$ schneiden.
 
  # Spiegelungen
 
