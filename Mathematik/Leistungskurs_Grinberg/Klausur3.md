@@ -711,7 +711,9 @@ Um einen Punkt $A$ an einer Gerade zu spiegeln soll man zuerst den Lotfußpunkt 
 ### Spiegelung an einer Ebene
 Wenn wir den Punkt $A$ (Ortsvektor gleich $\vec{a}$) an der Ebene $E: \vec{n} \cdot (\vec{x}-\vec{p}) = 0$ spiegeln, lautet die Formel für den reflektierten Punkt $A^*$ wie folgt:
 
-$$\vec{a}^* = \vec{a} + 2 \vec{n} \frac{(\vec{a}-\vec{p}) \cdot \vec{n}}{\vec{n} \cdot \vec{n}}$$
+${\color{red}Fehler:}$ Diese Formel war vorher falsch! die zweite Klammer sollte mit einem Minus sein!
+
+$$\vec{a}^* = \vec{a} - 2 \vec{n} \frac{(\vec{a}-\vec{p}) \cdot \vec{n}}{\vec{n} \cdot \vec{n}}$$
 
 
 
