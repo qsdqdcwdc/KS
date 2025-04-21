@@ -26,8 +26,9 @@ Im Barockzeitalter differenzieren sich die Bildgattungen weiter aus und entwicke
 - **Landschaftsmalerei**: Naturdarstellungen, oft mit symbolischen oder allegorischen Bezügen.
 - **Stillleben**: Darstellung unbelebter Gegenstände, oft symbolisch aufgeladen.
 
-# Rokoko (ca. 1720–1780)[
-Video](https://www.youtube.com/watch?v=wNS7-sWBYWo)
+# Rokoko (ca. 1720–1780)
+[Video](https://www.youtube.com/watch?v=wNS7-sWBYWo)
+
 Der Begriff **Rokoko** leitet sich vom französischen „rocaille“ ab, was „Muschelwerk“ bedeutet, und verweist auf die verspielten Dekorelemente der Zeit. Rokoko ist eine Subgenre von spätbarock Malerei.
 
 ### Stilmerkmale von Rokoko Malerei
