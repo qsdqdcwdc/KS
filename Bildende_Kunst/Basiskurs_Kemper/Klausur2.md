@@ -4,8 +4,6 @@ Der Begriff Barock stammt vom portugiesischen Wort „barroco“, das „unregel
 
 #### Historischer Kontext / Wichtige Einflüsse
 
-Der Barock entstand nach den Umbrüchen der Reformation und der Gegenreformation und war geprägt von religiösen, politischen und sozialen Spannungen.
-
 - **Gegenreformation**: Die katholische Kirche nutzte Kunst als Mittel zur Glaubensverbreitung. Barocke Werke sollten Gläubige emotional ansprechen und überzeugen.
 - **Absolutismus**: Fürstenhöfe, besonders in Frankreich (z. B. Ludwig XIV.), setzten Kunst gezielt zur Machtdemonstration ein. Architektur und Malerei dienten der Repräsentation.
 - **Dreißigjähriger Krieg (1618–1648)**: Dieser konfessionelle Krieg verwüstete große Teile Europas, besonders das Heilige Römische Reich. Barockkunst entstand daher in einem Spannungsfeld aus religiöser Inbrunst und Todesbewusstsein.
