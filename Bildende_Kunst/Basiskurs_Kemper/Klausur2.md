@@ -81,8 +81,8 @@ Vanitas-Stillleben ist eine Kategorie des Stilllebens in der Malerei, die vor al
 | Reflexion in Gläsern, Kugeln, glänzenden Objekten | erinnern den Betrachter der Gemälde an Selbstreflexion |
 | Austern              | Vulgarität, Verderbtheit, Wolllust |
 | Zitronen | Täuschung, Verrat/ oder Mäßigung |
-| Sanduhr/Stundenglas  | Kurze Dauer des Lebens, flüchtiges Verstreichen der Zeit.                   |
-| Flusskrebs, Hummer   | Völlerei, Fresssucht                                                        |
+| Sanduhr, Stundenglas  | Kurze Dauer des Lebens, flüchtiges Verstreichen der Zeit.                   |
+| Flusskrebs, Hummer, Essensreste | Völlerei, Fresssucht                                                        |
 | Schmuck              | Funktionslosigkeit und Vergessen von materiellen Gütern. Gier.                     |
 | Taschenuhr           | Vergänglichkeit; die bereits vergangene Lebenszeit.                         |
 | Tritonsmuschel       | erotischen Verlangen                                 |
