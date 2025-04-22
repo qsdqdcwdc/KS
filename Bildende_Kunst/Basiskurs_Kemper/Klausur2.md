@@ -76,6 +76,7 @@ Vanitas-Stillleben ist eine Kategorie des Stilllebens in der Malerei, die vor al
 | Symbol               | Bedeutung                                                                   |
 |----------------------|-----------------------------------------------------------------------------|
 | Buch                 | Symbol für den Lauf des Lebens und dessen Ende.                             |
+| Seifenblase          | Symbol der Vergänglichkeit, Zerbrechlichkeit des Glücks                     |
 | Goldener Pokal       | Eitelkeit und Prunksucht des Besitzers.                                     |
 | Pfeife, Kelche mit Wein, Tabak, Spielkarten, Spielwürfel       | Unmäßigkeit, der Konsum  und Sucht.                                       |
 | Reflexion in Gläsern, Kugeln, glänzenden Objekten | erinnern den Betrachter der Gemälde an Selbstreflexion |
@@ -88,6 +89,7 @@ Vanitas-Stillleben ist eine Kategorie des Stilllebens in der Malerei, die vor al
 | Tritonsmuschel       | erotischen Verlangen                                 |
 | Blumen               | Vergänglichkeit der Schönheit und Jugend.                                   |
 | Verwelkte Blumen     | Vergänglichkeit der Schönheit und des Lebens.                               |
+| Globus               | die Zerbrechlichkeit der Welt. die Tatsache, dass die Welt eines Tages untergehen wird |
 | Machtinsignien       | Repräsentieren das verwerfliche Streben nach materiellen Reichtümern.       |
 | Luxusgüter           | Das Streben nach Luxus und dessen Vergänglichkeit. Gier.                           |
 | Musikinstrumente     | Vergänglichkeit irdischer Freuden und Künste. Konzentration/ungesunde Fixierung auf weltliche, niedere Freuden und Vergnügungen.  |
