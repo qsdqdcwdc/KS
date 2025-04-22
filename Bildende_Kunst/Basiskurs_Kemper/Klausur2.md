@@ -36,6 +36,7 @@ Im Barockzeitalter differenzieren sich die Bildgattungen weiter aus und entwicke
 - **Stillleben**: Darstellung unbelebter Gegenstände, oft symbolisch aufgeladen.
 
 # Rokoko (ca. 1720–1780)
+
 [Video](https://www.youtube.com/watch?v=wNS7-sWBYWo)
 
 Der Begriff **Rokoko** leitet sich vom französischen „rocaille“ ab, was „Muschelwerk“ bedeutet, und verweist auf die verspielten Dekorelemente der Zeit. Rokoko ist eine Subgenre von spätbarock Malerei.
@@ -58,6 +59,8 @@ Der Begriff **Rokoko** leitet sich vom französischen „rocaille“ ab, was „
 # Vanitas-Stillleben
 
 [Video](https://www.youtube.com/watch?v=z5jG4BXKIGg)
+
+[Video 2](https://www.youtube.com/watch?v=uRYgnvUl-Is)
 
 Vanitas-Stillleben ist eine Kategorie des Stilllebens in der Malerei, die vor allem während des Barocks populär war. Diese Kunstform verwendet leblose Objekte, um die Vergänglichkeit des Lebens und die Sinnlosigkeit weltlicher Güter und Bestrebungen zu symbolisieren. Der Begriff **Vanitas** stammt aus dem Lateinischen und bedeutet 'Eitelkeit' oder 'Nichtigkeit'. 
 
@@ -92,7 +95,7 @@ Vanitas-Stillleben ist eine Kategorie des Stilllebens in der Malerei, die vor al
 | Schädel              | Symbol des Todes und der menschlichen Vergänglichkeit.                      |
 | Sanduhren            | Die unaufhaltsame und flüchtige Zeit, die das menschliche Leben begrenzt.   |
 | Kerzen               | Das Verlöschen der Flamme symbolisiert den Tod.                             |
-| Zerbrochenes Glas    | Zerbrechlichkeit und Endgültigkeit des Lebens.                              |
+| Zerbrochenes Glas    | Zerbrechlichkeit und Endgültigkeit des Lebens. Fahrlässigkeit.              |
 | halb gefülltes Glas  | Leere/Sinnlosigkeit des materiellen Wohlstands. |
 | Früchte              | Vergänglichkeit, da sie verderben.                                          |
 | Tulpen               | Wirtschaftlicher Boom und darauf folgender Niedergang; Vergänglichkeit wirtschaftlicher Werte. |
