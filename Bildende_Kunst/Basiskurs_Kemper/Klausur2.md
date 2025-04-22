@@ -82,14 +82,14 @@ Vanitas-Stillleben ist eine Kategorie des Stilllebens in der Malerei, die vor al
 | Flusskrebs, Hummer   | Völlerei, Fresssucht                                                        |
 | Schmuck              | Funktionslosigkeit und Vergessen von materiellen Gütern. Gier.                     |
 | Taschenuhr           | Vergänglichkeit; die bereits vergangene Lebenszeit.                         |
-| Tritonsmuschel       | Vergänglichkeit des erotischen Verlangens, symbolisiert durch leere Schale. |
+| Tritonsmuschel       | erotischen Verlangen                                 |
 | Blumen               | Vergänglichkeit der Schönheit und Jugend.                                   |
 | Verwelkte Blumen     | Vergänglichkeit der Schönheit und des Lebens.                               |
 | Machtinsignien       | Repräsentieren das verwerfliche Streben nach materiellen Reichtümern.       |
 | Luxusgüter           | Das Streben nach Luxus und dessen Vergänglichkeit. Gier.                           |
 | Musikinstrumente     | Vergänglichkeit irdischer Freuden und Künste. Konzentration/ungesunde Fixierung auf weltliche, niedere Freuden und Vergnügungen.  |
-| Wissenschaftliche Instrumente | Vergänglichkeit des irdischen Wissens und Strebens.              |
-| Schädel              | Direktes Symbol des Todes und der menschlichen Vergänglichkeit.             |
+| Wissenschaftliche Instrumente | Vergänglichkeit des irdischen Wissens und Strebens.                |
+| Schädel              | Symbol des Todes und der menschlichen Vergänglichkeit.                      |
 | Sanduhren            | Die unaufhaltsame und flüchtige Zeit, die das menschliche Leben begrenzt.   |
 | Kerzen               | Das Verlöschen der Flamme symbolisiert den Tod.                             |
 | Zerbrochenes Glas    | Zerbrechlichkeit und Endgültigkeit des Lebens.                              |
