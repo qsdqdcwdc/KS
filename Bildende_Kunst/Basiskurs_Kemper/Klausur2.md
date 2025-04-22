@@ -94,7 +94,8 @@ Vanitas-Stillleben ist eine Kategorie des Stilllebens in der Malerei, die vor al
 | Wissenschaftliche Instrumente | Vergänglichkeit des irdischen Wissens und Strebens.                |
 | Schädel              | Symbol des Todes und der menschlichen Vergänglichkeit.                      |
 | Sanduhren            | Die unaufhaltsame und flüchtige Zeit, die das menschliche Leben begrenzt.   |
-| Kerzen               | Das Verlöschen der Flamme symbolisiert den Tod.                             |
+| Kerze               | Das Verlöschen der Flamme symbolisiert den Tod.                             |
+|Erloschene Kerze mit Rauch | Eine Person, die gerade gestorben ist |
 | Zerbrochenes Glas    | Zerbrechlichkeit und Endgültigkeit des Lebens. Fahrlässigkeit.              |
 | halb gefülltes Glas  | Leere/Sinnlosigkeit des materiellen Wohlstands. |
 | Früchte              | Vergänglichkeit, da sie verderben.                                          |
