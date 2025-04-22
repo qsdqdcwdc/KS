@@ -22,10 +22,9 @@ Der Begriff Barock stammt vom portugiesischen Wort „barroco“, das „unregel
 - Reiche Farbigkeit und Detailfülle.
 - Oft übertriebene, expressive Gestik und Mimik.
 - Realistische Darstellung von Menschen, Kleidung und Umgebung.
-- Illusionistische Raumdarstellung (z. B. Deckenmalerei mit Perspektive).
 - Ziel: Den Betrachter emotional ansprechen und überwältigen.
 - Malerei wird oft nahtlos in die Architektur integriert.
-- Nutzung von [trompe l'oeil](https://www.youtube.com/watch?v=RhYNgxM7Kic) („täuschen“) Techniken zur Erzeugung optischer Täuschungen.
+- Nutzung von [trompe l'oeil](https://www.youtube.com/watch?v=RhYNgxM7Kic) („täuschen“) Techniken zur Erzeugung optischer Täuschungen. Illusionistische Raumdarstellung (z. B. Deckenmalerei mit Perspektive).
 
 ### Neue Gattungen
 Im Barockzeitalter differenzieren sich die Bildgattungen weiter aus und entwickeln sich in unterschiedlichen thematischen und stilistischen Richtungen.
@@ -51,7 +50,7 @@ Der Begriff **Rokoko** leitet sich vom französischen „rocaille“ ab, was „
 - Häufige Darstellung von Adel.
 - Detailreiche, filigrane Gestaltung von Stoffen, Frisuren und Accessoires.
 - Fließende Kompositionen ohne scharfe Linien oder Ecken.
-- Illusionistische Deckenmalerei weiterhin beliebt, aber leichter und luftiger als im Barock.
+- Illusionistische Deckenmalerei weiterhin beliebt.
 - Ziel: Ästhetische Freude, Unterhaltung, Eleganz – nicht religiöse Ergriffenheit.
 - Weniger Pathos, mehr Intimität und weltliche Themen im Vergleich zum Barock.
 
