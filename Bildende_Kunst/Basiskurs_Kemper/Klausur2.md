@@ -74,7 +74,7 @@ Vanitas-Stillleben ist eine Kategorie des Stilllebens in der Malerei, die vor al
 
 | Symbol               | Bedeutung                                                                   |
 |----------------------|-----------------------------------------------------------------------------|
-| Buch                 | Symbol für den Lauf des Lebens und dessen Ende.                             |
+| Buch                 | Symbol für den Lauf des Lebens und dessen Ende. Das Buch des Lebens repräsentiert alle Sünden und Errungenschaften des Menschen      |
 | Seifenblase          | Symbol der Vergänglichkeit, Zerbrechlichkeit des Glücks                     |
 | Goldener Pokal       | Eitelkeit und Prunksucht des Besitzers.                                     |
 | Pfeife, Kelche mit Wein, Tabak, Spielkarten, Spielwürfel       | Unmäßigkeit, der Konsum  und Sucht.                                       |
