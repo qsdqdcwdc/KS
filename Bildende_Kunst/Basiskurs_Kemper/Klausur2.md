@@ -87,7 +87,7 @@ Vanitas-Stillleben ist eine Kategorie des Stilllebens in der Malerei, die vor al
 | Taschenuhr           | Vergänglichkeit; die bereits vergangene Lebenszeit.                         |
 | Tritonsmuschel       | erotischen Verlangen                                 |
 | Blumen, Verwelkte Blumen     | Vergänglichkeit der Schönheit, Jugend und des Lebens.                               |
-| Globus               | die Zerbrechlichkeit der Welt. die Tatsache, dass die Welt eines Tages untergehen wird |
+| Globus               | die Tatsache, dass die Welt eines Tages untergehen wird |
 | Machtinsignien       | Repräsentieren das verwerfliche Streben nach materiellen Reichtümern.       |
 | Luxusgüter           | Das Streben nach Luxus und dessen Vergänglichkeit. Gier.                           |
 | Musikinstrumente     | Vergänglichkeit irdischer Freuden und Künste. Konzentration/ungesunde Fixierung auf weltliche, niedere Freuden und Vergnügungen.  |
