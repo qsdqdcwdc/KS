@@ -57,9 +57,11 @@ Der Begriff **Rokoko** leitet sich vom französischen „rocaille“ ab, was „
 
 # Vanitas-Stillleben
 
-[Video](https://www.youtube.com/watch?v=z5jG4BXKIGg)
+[Video: Vanitas](https://www.youtube.com/watch?v=z5jG4BXKIGg)
 
-[Video 2](https://www.youtube.com/watch?v=uRYgnvUl-Is)
+[Video-2: Vanitas](https://www.youtube.com/watch?v=uRYgnvUl-Is)
+
+[Video: Niederländisches Goldenes Zeitalter](https://www.youtube.com/watch?v=35PinDPNPw0) 
 
 Vanitas-Stillleben ist eine Kategorie des Stilllebens in der Malerei, die vor allem während des Barocks populär war. Diese Kunstform verwendet leblose Objekte, um die Vergänglichkeit des Lebens und die Sinnlosigkeit weltlicher Güter und Bestrebungen zu symbolisieren. Der Begriff **Vanitas** stammt aus dem Lateinischen und bedeutet 'Eitelkeit' oder 'Nichtigkeit'. 
 
@@ -72,37 +74,37 @@ Vanitas-Stillleben ist eine Kategorie des Stilllebens in der Malerei, die vor al
 
 [Video](https://www.youtube.com/watch?v=xUpwenYB5eE)
 
+Vanitas-Symbole stammen aus der christlich-jüdischen Vorstellungswelt und weisen auf die Vergänglichkeit alles Irdischen hin.
+
 | Symbol               | Bedeutung                                                                   |
 |----------------------|-----------------------------------------------------------------------------|
-| Buch                 | Symbol für den Lauf des Lebens und dessen Ende. Das Buch des Lebens repräsentiert alle Sünden und Errungenschaften des Menschen      |
 | Seifenblase          | Symbol der Vergänglichkeit, Zerbrechlichkeit des Glücks                     |
-| Goldener Pokal       | Eitelkeit und Prunksucht des Besitzers.                                     |
-| Pfeife, Kelche mit Wein, Tabak, Spielkarten, Spielwürfel       | Unmäßigkeit, der Konsum  und Sucht.                                       |
-| Reflexion in Gläsern, Kugeln, glänzenden Objekten | erinnern den Betrachter der Gemälde an Selbstreflexion |
-| Austern              | Vulgarität, Verderbtheit, Wolllust |
-| Zitronen | Täuschung, Verrat/ oder Mäßigung |
-| Sanduhr, Stundenglas  | Kurze Dauer des Lebens, flüchtiges Verstreichen der Zeit.                   |
-| Flusskrebs, Hummer, Essensreste | Völlerei, Fresssucht                                                        |
-| Schmuck              | Funktionslosigkeit und Vergessen von materiellen Gütern. Gier.                     |
-| Taschenuhr           | Vergänglichkeit; die bereits vergangene Lebenszeit.                         |
-| Tritonsmuschel       | erotischen Verlangen                                 |
-| Blumen, Verwelkte Blumen     | Vergänglichkeit der Schönheit, Jugend und des Lebens.                               |
-| Globus               | die Tatsache, dass die Welt eines Tages untergehen wird |
-| Machtinsignien       | Repräsentieren das verwerfliche Streben nach materiellen Reichtümern.       |
-| Luxusgüter           | Das Streben nach Luxus und dessen Vergänglichkeit. Gier.                           |
-| Musikinstrumente     | Vergänglichkeit irdischer Freuden und Künste. Konzentration/ungesunde Fixierung auf weltliche, niedere Freuden und Vergnügungen.  |
-| Wissenschaftliche Instrumente | Vergänglichkeit des irdischen Wissens und Strebens.                |
-| Schädel              | Symbol des Todes und der menschlichen Vergänglichkeit.                      |
-| Sanduhren            | Die unaufhaltsame und flüchtige Zeit, die das menschliche Leben begrenzt.   |
-| Kerze               | Das Verlöschen der Flamme symbolisiert den Tod.                             |
-|Erloschene Kerze mit Rauch | Eine Person, die gerade gestorben ist |
-| Zerbrochenes Glas    | Zerbrechlichkeit und Endgültigkeit des Lebens. Fahrlässigkeit.              |
-| halb gefülltes Glas  | Leere/Sinnlosigkeit des materiellen Wohlstands. |
-| Früchte              | Vergänglichkeit, da sie verderben.                                          |
-| Tulpen               | Wirtschaftlicher Boom und darauf folgender Niedergang; Vergänglichkeit wirtschaftlicher Werte. |
 | Mäuse                | Vernichtung von Lebensmitteln; Vergänglichkeit des Nahrungsangebots.        |
 | Schnecken |                                     Steht für der Gottesmutter Maria,  Unschuldigkeit. |
+| Austern              | Vulgarität, Verderbtheit, Wolllust |
+| Flusskrebs, Hummer, Essensreste | Völlerei, Fresssucht                                                        |
+| Zitronen | Täuschung, Verrat/ oder Mäßigung |
 | Konfekt, Zuckerzeug  | Vergänglichkeit von Genuss und Freuden des Lebens.                          |
+| Kelch, Raupe, Schmetterling, Nelke, Salz, Ei, Perle| Überwindung des Todes |
+| Früchte              | Vergänglichkeit, da sie verderben.                                          |
+| Pfeife, Kelche mit Wein, Tabak, Spielkarten, Spielwürfel       | Unmäßigkeit, der Konsum  und Sucht.                                       |
+| Reflexion in Gläsern, Kugeln, glänzenden Objekten, Spiegel | erinnern den Betrachter der Gemälde an Selbstreflexion |
+| Sanduhr, Taschenuhr  | Kurze Dauer des Lebens, flüchtiges Verstreichen der Zeit.               |
+| Tritonsmuschel       | Erotischen Verlangen                                 |
+| Luxusgüter, Goldener Pokal   |  Luxusgüter waren im Barock der [calvinistisch](https://youtu.be/axXstSjtOfw?feature=shared&t=35) geprägten Niederländer ein Zeichen göttlicher Belohnung für Fromme, verbunden mit der Pflicht zu tugendhaftem Handeln. Gleichzeitig mahnte ihre Vanitas-Symbolik zur Vergänglichkeit, denn maßloser Luxusgenuss galt als sündhaft und führte zum Verlust. Funktionslosigkeit und Vergessen von materiellen Gütern. Auch symbol für as Streben nach Luxus. Gier. Eitelkeit und Prunksucht des Besitzers.    |
+| Schmuck | Schmuck und Kosmetik stehen für Schönheit, weibliche Anziehungskraft, aber auch für die Vergänglichkeit, Eitelkeit, Selbstverliebtheit ihrer Träger und die Todsünde der Hoffart. Ebenso thematisieren sie die Abwesenheit der Geschmückten.|
+| Musikinstrumente     | Vergänglichkeit irdischer Freuden und Künste. Konzentration/ungesunde Fixierung auf weltliche, niedere Freuden und Vergnügungen.  |
+| Wissenschaftliche Instrumente | Vergänglichkeit des irdischen Wissens und Strebens.                |
+| Buch                 | Symbol für den Lauf des Lebens und dessen Ende. Das Buch des Lebens repräsentiert alle Sünden und Errungenschaften des Menschen      |
+| Globus               | Die Tatsache, dass die Welt eines Tages untergehen wird |
+| Schädel              | Symbol des Todes und der menschlichen Vergänglichkeit.                      |
+| Kerze               | Das Verlöschen der Flamme symbolisiert den Tod.                             |
+| Erloschene Kerze mit Rauch | Eine Person, die gerade gestorben ist |
+| Zerbrochenes Glas    | Zerbrechlichkeit und Endgültigkeit des Lebens. Fahrlässigkeit.              |
+| Halb gefülltes Glas  | Leere/Sinnlosigkeit des materiellen Wohlstands. |
+| Tulpen               | Wirtschaftlicher Boom und darauf folgender Niedergang; Vergänglichkeit wirtschaftlicher Werte. |
+| Blumen, Verwelkte Blumen     | Vergänglichkeit der Schönheit, Jugend und des Lebens.                               |
+| Masken | Abwesenheit des Maskenträgers, festliches Vergnügen, verantwortungslose Anonymität. |
 
 
 
