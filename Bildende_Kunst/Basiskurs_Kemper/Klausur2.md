@@ -18,7 +18,7 @@ Der Begriff Barock stammt vom portugiesischen Wort „barroco“, das „unregel
 - Szenen mit intensiver Emotionalität und Bewegung.
 - Darstellung von Gewalt, Leidenschaft und Ekstase.
 - Religiöse, Mythische Motive.
-- Starker Kontrast zwischen Licht und Schatten: **Chiaroscuro**.
+- Starker Kontrast zwischen Licht und Schatten: [Chiaroscuro](https://youtu.be/7uwR14oG7qA?feature=shared&t=9).
 - Reiche Farbigkeit und Detailfülle.
 - Oft übertriebene, expressive Gestik und Mimik.
 - Realistische Darstellung von Menschen, Kleidung und Umgebung.
