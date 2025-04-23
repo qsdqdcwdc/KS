@@ -109,6 +109,7 @@ Vanitas-Symbole stammen aus der christlich-jüdischen Vorstellungswelt und weise
 | Tulpen               | Wirtschaftlicher Boom und darauf folgender Niedergang; Vergänglichkeit wirtschaftlicher Werte. |
 | Blumen, Verwelkte Blumen     | Vergänglichkeit der Schönheit, Jugend und des Lebens.                               |
 | Masken | Abwesenheit des Maskenträgers, festliches Vergnügen, verantwortungslose Anonymität. |
+| Brille | Abwesenheit/Tod des Brillenträgers |
 
 
 
