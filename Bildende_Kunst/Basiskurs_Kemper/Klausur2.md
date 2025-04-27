@@ -78,7 +78,7 @@ Die niederländische Stilllebenmalerei entwickelte sich im Kontext der wirtschaf
 
 [Video](https://www.youtube.com/watch?v=xUpwenYB5eE)
 
-Vanitas-Symbole stammen aus der christlich-jüdischen Vorstellungswelt und weisen auf die Vergänglichkeit alles Irdischen hin.
+Vanitas-Symbole stammen aus der christlich Vorstellungswelt und weisen auf die Vergänglichkeit alles Irdischen hin.
 
 | Symbol               | Bedeutung                                                                   |
 |----------------------|-----------------------------------------------------------------------------|
