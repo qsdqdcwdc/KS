@@ -89,7 +89,7 @@ Vanitas-Symbole stammen aus der christlich-jüdischen Vorstellungswelt und weise
 | Flusskrebs, Hummer, Essensreste | Völlerei, Fresssucht                                                        |
 | Zitronen | Täuschung, Verrat/ oder Mäßigung |
 | Konfekt, Zuckerzeug  | Vergänglichkeit von Genuss und Freuden des Lebens.                          |
-| Kelch, Raupe, Schmetterling, Nelke, Salz, Ei, Perle| Überwindung des Todes |
+| Raupe, Schmetterling, Nelke, Salz, Ei, Perle| Überwindung des Todes |
 | Früchte              | Vergänglichkeit, da sie verderben.                                          |
 | Pfeife, Kelche mit Wein, Tabak, Spielkarten, Spielwürfel       | Unmäßigkeit, der Konsum  und Sucht.                                       |
 | Reflexion in Gläsern, Kugeln, glänzenden Objekten, Spiegel | erinnern den Betrachter der Gemälde an Selbstreflexion |
