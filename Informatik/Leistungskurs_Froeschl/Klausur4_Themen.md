@@ -46,3 +46,7 @@ wurde gesagt: man muss Operationen wie .hasnext() .next() .remove() mit Iterator
 
 - man muss können die erweiterte for schleife ` for( int value : intArray )`
 - man muss .equals() verwenden können. und verstehen was ist das Unterschied zwischen a==b und a.equals(b)  wenn a und b Objekte sind.
+
+wurde gesagt: es wurde gesagt man muss algorithmische Komplexität O() mich kennen oder berechnen können.
+
+wurde gesagt: es kommen keine Interfaces dran aber generell muss man wissen Interfaces sind. *keine Ahnung was das bedeuten soll*
