@@ -122,9 +122,6 @@ Die Herrschaftsweise in Demokratien basiert auf drei zentralen Prinzipien:
 - **Transparenz**: Politische Entscheidungen und Prozesse sind öffentlich nachvollziehbar. 
 - **Rechenschaftspflicht**: Gewählte Vertreter und staatliche Institutionen müssen ihr Handeln gegenüber der Öffentlichkeit rechtfertigen und sind für ihre Entscheidungen verantwortlich.
 
-
-
-
 ## Demokratietypen nach institutionellen Dimensionen
 
 Um verschiedene **Typen von Demokratien** systematisch zu unterscheiden, können drei zentrale institutionelle Dimensionen herangezogen werden. Jede dieser Dimensionen bildet ein Kontinuum mit zwei idealtypischen Polen. Die Kombination dieser Merkmale erlaubt eine Einordnung demokratischer Systeme. Viele realen Demokratien lassen sich nicht eindeutig einem dieser Pole zuordnen. Stattdessen kombinieren sie Elemente aus verschiedenen Modellen.
@@ -199,6 +196,48 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 **Merkmale**: Es gibt einen parlamentarischen Wettbewerb zwischen Parteien (Element der Konkurrenzdemokratie), gleichzeitig erfolgt politische Entscheidungsfindung stark über Verhandlungen und Konsensprozesse (Element der Konkordanzdemokratie).  Einbindung von Interessengruppen, Verwaltung und politischen Entscheidungsträgern in formelle oder informelle Aushandlungsnetzwerke.
 
 **Beispiel**: Deutschland gilt in vielen Politikfeldern (z. B. Sozialpolitik, Bildung) als Verhandlungsdemokratie, da dort trotz parteipolitischer Konkurrenz umfangreiche Konsensprozesse zwischen Regierung, Opposition, Verbänden und Bundesländern stattfinden.
+
+
+
+
+# Diktatur  
+  
+**Definition:** Eine Diktatur ist eine Herrschaftsform, in der eine Person oder eine kleine Gruppe die absolute Macht innehat. Diese Macht wird ohne effektive Beschränkungen durch Gesetze oder gesellschaftliche Kräfte ausgeübt. Diktaturen sind oft durch die Unterdrückung politischer Gegner und die Einschränkung der Freiheiten und Rechte der Bürger gekennzeichnet. Weitere Merkmale von Diktaturen:
+
+## Merkmale von Diktaturen  
+- **Gewalt**: Einsatz von physischer Gewalt oder Drohungen als Mittel zur Unterdrückung und Kontrolle der Bevölkerung.  
+- **Machtmonopol**: Die Macht ist in den Händen einer Person oder einer kleinen Gruppe zentralisiert, ohne effektive Checks and Balances.  
+- **Willkürherrschaft**: Gesetze und Regeln werden unbeständig angewendet und dienen oft dem Machterhalt der Herrschenden.  
+- **Gleichschaltung**: Staatliche und gesellschaftliche Institutionen werden gleichgeschaltet und unterliegen der Kontrolle der herrschenden Partei oder Gruppe.  
+- **Ideologie**: Eine dominante Ideologie, die oft von der Staatsführung propagiert wird, rechtfertigt die Machtkonzentration und unterdrückt abweichende Meinungen.   
+
+
+## Formen von Diktaturen  
+  
+#### Autoritäre Diktatur  
+In autoritären Diktaturen wird die Macht von einer einzelnen Person oder einer dominanten Partei ausgeübt. Wahlen, wenn sie stattfinden, sind oft manipuliert und dienen nur der Scheinlegitimation. Die politische Pluralität ist stark eingeschränkt, und kritisches Engagement der Bürger gegen das Regime ist nicht erwünscht.  
+
+- **Herrschaftslegitimation in autoritären Systemen**:  In autoritären Systemen wird die Legitimation der Herrschaft oft durch die Ideologie, Tradition oder charismatische Führungspersönlichkeiten begründet. Wahlen, wenn vorhanden, sind typischerweise manipuliert.     
+- **Herrschaftszugang in autoritären Systemen:** Der Zugang zu politischen Ämtern ist stark eingeschränkt und wird durch die herrschende Elite kontrolliert. Politischer Aufstieg ist oft nur durch Loyalität zur Elite möglich.  
+- **Herrschaftsanspruch:** Autoritäre Regime beanspruchen oft umfassende Kontrolle über das öffentliche und teilweise auch das private Leben der Bürger, mit dem Ziel, Opposition und Nichtkonformität zu unterdrücken.  
+- **Herrschaftsmonopol in autoritären Systemen:**  Der Staat, oft personifiziert durch eine dominante Führungsperson oder Partei, hält das Monopol auf physische Gewalt und setzt dieses zur Unterdrückung von Widerstand und zur Aufrechterhaltung der Macht ein.  
+- **Herrschaftsstruktur in autoritären Systeme**: Die Herrschaftsstruktur in autoritären Systemen ist typischerweise hierarchisch und zentralisiert. Entscheidungen werden von der Spitze getroffen und ohne Raum für Diskussion oder Widerspruch durchgesetzt.  
+- **Herrschaftsweise in autoritären Systemen** Die Herrschaftsweise ist durch geringe Transparenz und minimale Rechenschaftspflicht gekennzeichnet. Bürgerbeteiligung ist in der Regel auf die Unter
+  
+#### Totalitäre Diktatur  
+Totalitäre Diktaturen streben nach Kontrolle über jeden Aspekt des öffentlichen und privaten Lebens der Bürger. Sie nutzen intensive Propaganda und Überwachung, um Loyalität und Konformität zu erzwingen. Opposition wird nicht toleriert, und die Regierung versucht, das Denken, Verhalten und sogar die Überzeugungen der Menschen zu kontrollieren.  
+
+- **Herrschaftslegitimation in totalitären Systemen**: Legitimation erfolgt durch eine umfassende Ideologie (z. B. Kommunismus, Faschismus), die als allein gültige Wahrheit gilt. Führer werden als unfehlbar inszeniert. Wahlen sind entweder abgeschafft oder reine Propaganda.
+- **Herrschaftszugang in totalitären Systemen:** Der Zugang zu politischer Macht erfolgt ausschließlich über die herrschende Partei. Kriterien sind Loyalität und ideologische Übereinstimmung. Politische Konkurrenz existiert nicht.
+- **Herrschaftsanspruch:** Totalitäre Regime beanspruchen vollständige Kontrolle – nicht nur über Politik und Wirtschaft, sondern auch über Kultur, Erziehung und private Überzeugungen.
+- **Herrschaftsmonopol in totalitären Systemen:** Der Staat hält das absolute Gewalt- und Informationsmonopol. Überwachung, Zensur, Geheimpolizei und Propaganda sichern die Machterhaltung.
+- **Herrschaftsstruktur in totalitären Systemen:** Hochgradig zentralisiert und hierarchisch. Staat und Partei sind verschmolzen, Führerprinzip dominiert. Institutionen sind reine Erfüllungsorgane.
+- **Herrschaftsweise in totalitären Systemen:** Gekennzeichnet durch totale Kontrolle, ideologische Indoktrination, systematische Repression und erzwungene Mobilisierung der Bevölkerung.
+
+
+
+
+
 
 
 # Urteilskriterien 
