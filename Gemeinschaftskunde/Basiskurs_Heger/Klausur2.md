@@ -84,6 +84,7 @@ Wolfgang Merkel unterscheidet in seiner Regimetypologie sechs analytische Dimens
 **Intransparent**: Politische Entscheidungsprozesse sind für die Öffentlichkeit nicht einsehbar oder nachvollziehbar.
 </details>
 
+_(Dies Scheiß steht nicht im Buch und wurde im Unterricht nie behandelt aber diese Dimensionen sind verdächtlich nah an die die Inkompetenzcheck genannt sind.)_
 # Demokratie
 
 **Definition:** Demokratie bezeichnet eine Herrschaftsform, in der die politische Macht vom Volk ausgeht. Die Bürgerinnen und Bürger haben das Recht auf politische Teilhabe und bestimmen durch Wahlen und Abstimmungen über die Zusammensetzung der Regierung und die Gesetzgebung.[^1] Wesentliche Merkmale einer Demokratie sind: 
