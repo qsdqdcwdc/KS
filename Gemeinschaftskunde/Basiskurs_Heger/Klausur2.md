@@ -35,13 +35,6 @@ Mo­del­le der De­mo­kra­tie cha­rak­te­ri­sie­ren (ple­bis­zi­tär 
 Staats­struk­tur­prin­zi­pi­en nach Art. 20, 23, 24 GG er­läu­tern (De­mo­kra­tie, Rechts­staat, Bun­des­staat, Re­pu­blik, So­zi­al­staat, of­fe­ne Staat­lich­keit)
 
 
-# Operatoren 
-
-## Vergleichen (Anforderungsbereich III)
-**Beschreibung aus Bingsplan**: Vergleichskriterien festlegen, Gemeinsamkeiten und Unterschiede gewichtend einander gegenüberstellen sowie ein Ergebnis formulieren.
-**Interpretation**: 
-
-
 # Urteilskriterien 
  **Hinweis:** Ausdrücke wie beschreiben, analysieren, prüfen, vergleichen und weitere werden in dieser Abteilung nicht als Bidungsplan Operatoren verwendet.
 
@@ -52,10 +45,42 @@ Staats­struk­tur­prin­zi­pi­en nach Art. 20, 23, 24 GG er­läu­tern (De�
 - **Menschenwürde:** Prüfen, inwiefern Freiheiten durch Maßnahme eingeschränkt oder erweitert werden (z.B. Meinungsfreiheit, Bewegungsfreiheit, wirtschaftliche Freiheit, Versammlungsfreiheit). Abwägen, ob Einschränkungen angemessen und verhältnismäßig sind.
 - **Partizipation:** Beschreiben, wie Betroffene am Entscheidungsprozess beteiligt wurden/werden. Prüfen, ob alle betroffene Gruppen angehört wurden und welche Mitbestimmungsmöglichkeiten bestehen.
 - **Frieden:** Prüfen, ob die Maßnahme bestehende Konflikte verstärkt oder entschärft. Darlegen, inwiefern sie zum sozialen Frieden beiträgt oder diesen gefährdet.
-- **Gerechtigkeit:** Prüfen, ob die Maßnahme als fair und ausgewogen betrachtet werden kann. Beschreiben, wie Rechte, Pflichten und Ressourcen verteilt werden. Darlegen, ob die Maßnahme bestehende Ungerechtigkeiten abbaut oder neue schafft. Analysieren, inwiefern die Maßnahme verschiedene Gerechtigkeitsprinzipien (Verteilungsgerechtigkeit, Verfahrensgerechtigkeit, ausgleichende Gerechtigkeit) berücksichtigt und welche sozialen Gruppen bevorzugt oder benachteiligt werden könnten.
 - **Bedarfsgerechtigkeit:** Beschreiben, welche Bedürfnisse verschiedener Gruppen berücksichtigt oder vernachlässigt werden.
 - **Chancengerechtigkeit:** Beschreiben, welche Gruppen Vorteile erhalten oder benachteiligt werden und ob Zugangshürden bestehen.
 - **Generationengerechtigkeit**: Prüfen, wie sich die Maßnahme auf zukünftige Generationen auswirkt. Beschreiben, ob Ressourcen nachhaltig genutzt werden und ob finanzielle Lasten auf kommende Generationen verschoben werden.
 - **Verursacherprinzip**: Darlegen, ob diejenigen zur Verantwortung gezogen werden, die das Problem verursacht haben. Beschreiben, wie Kosten zwischen Verursachern und Allgemeinheit verteilt werden.
+- **Gerechtigkeit:** Analysieren, inwiefern die Maßnahme verschiedene Gerechtigkeitsprinzipien (Bedarfsgerechtigkeit, Chancengerechtigkeit, Generationengerechtigkeit, Verursacherprinzip, ...) berücksichtigt.
 
+# Operatoren 
+
+### Vergleichen (Anforderungsbereich III/Reflexion und Problemlösung)
+**Beschreibung aus Bidungsplan**: Vergleichskriterien festlegen, Gemeinsamkeiten und Unterschiede gewichtend einander gegenüberstellen sowie ein Ergebnis formulieren.
+#### Interpretation: 
+- Falls nicht angegeben passende Urteilskriterien auswählen.
+- Gemeinsamkeiten und Unterschiede von vorgegebenen Optionen anhand von Urteilskriterien beschreiben. Gewicht/Relevanz/Bedeutung der Gemeinsamkeiten und Unterschiede in jedem Kriterium
+ bewerten.
+- Anhang von früherer Argumentation eine allgemeine Bewertung/Vergleich der beiden Optionen machen.
+- Anhang von früherer Argumentation ein Fazit ziehen und falls möglich eine Entscheidung treffen welche Option die relevante besser Kriterien erfüllt.
+
+### Bewerten (Anforderungsbereich III/Reflexion und Problemlösung)
+**Beschreibung aus Bidungsplan**: Aussagen, Vorschläge oder Maßnahmen beurteilen, ein begründetes Werturteil formulieren und die dabei zugrunde gelegten Wertmaßstäbe offenlegen.
+#### Interpretation: 
+- Relevante Urteilskriterien auswählen oder vorgegebene nutzen.
+- Argumente für/gegen die Maßnahme/Aussage anhand der Kriterien sammeln und gewichten (z. B. Stärke der Evidenz, Relevanz).  
+- Wertmaßstäbe transparent machen: z. B. Warum ist Nachhaltigkeit in diesem Fall wichtiger als Effizienz? Warum überwiegt Menschenwürde gegenüber Kosten?
+- Eine begründete Schlussfolgerung formulieren, das deutlich macht, ob die Maßnahme insgesamt als sinnvoll/vertretbar zu bewerten ist.
+
+### Erläutern (Anforderungsbereich II/Reorganisation und Transfer)
+**Beschreibung aus Bidungsplan**: Sachverhalte mit Beispielen oder Belegen veranschaulichen.
+#### Interpretation: 
+- Den zentralen Thema benennen.
+- Fakten und Beispiele anführen, um das Thema zu veranschaulichen/(verständlicher zu machen). 
+
+### Erörtern (Anforderungsbereich III/Reflexion und Problemlösung)
+**Beschreibung aus Bidungsplan**: zu einer vorgegebenen These oder Problemstellung durch Abwägen von Pro- und Kontra-Argumenten ein begründetes Ergebnis formulieren
+#### Interpretation:
+- These identifizieren.  
+- Pro- und Kontra-Argumente anhand passender Urteilskriterien sammeln.  
+- Argumente gegeneinander abwägen: Stärke, Evidenzgrad und gesellschaftliche Relevanz bewerten.  
+- Eine begründete Schlussfolgerung formulieren, die die Abwägung zusammenfast und ein Gesamturteil ableitet.
 
