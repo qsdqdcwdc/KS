@@ -222,7 +222,7 @@ In autoritären Diktaturen wird die Macht von einer einzelnen Person oder einer 
 - **Herrschaftsanspruch:** Autoritäre Regime beanspruchen oft umfassende Kontrolle über das öffentliche und teilweise auch das private Leben der Bürger, mit dem Ziel, Opposition und Nichtkonformität zu unterdrücken.  
 - **Herrschaftsmonopol in autoritären Systemen:**  Der Staat, oft personifiziert durch eine dominante Führungsperson oder Partei, hält das Monopol auf physische Gewalt und setzt dieses zur Unterdrückung von Widerstand und zur Aufrechterhaltung der Macht ein.  
 - **Herrschaftsstruktur in autoritären Systeme**: Die Herrschaftsstruktur in autoritären Systemen ist typischerweise hierarchisch und zentralisiert. Entscheidungen werden von der Spitze getroffen und ohne Raum für Diskussion oder Widerspruch durchgesetzt.  
-- **Herrschaftsweise in autoritären Systemen** Die Herrschaftsweise ist durch geringe Transparenz und minimale Rechenschaftspflicht gekennzeichnet. Bürgerbeteiligung ist in der Regel auf die Unter
+- **Herrschaftsweise in autoritären Systemen** Die Herrschaftsweise ist durch geringe Transparenz und minimale Rechenschaftspflicht gekennzeichnet. Bürgerbeteiligung ist in der Regel auf die Unter. Klientelistisch und intransparent.
   
 #### Totalitäre Diktatur  
 Totalitäre Diktaturen streben nach Kontrolle über jeden Aspekt des öffentlichen und privaten Lebens der Bürger. Sie nutzen intensive Propaganda und Überwachung, um Loyalität und Konformität zu erzwingen. Opposition wird nicht toleriert, und die Regierung versucht, das Denken, Verhalten und sogar die Überzeugungen der Menschen zu kontrollieren.  
