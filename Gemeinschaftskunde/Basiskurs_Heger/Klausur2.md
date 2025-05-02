@@ -49,15 +49,6 @@ Staats­struk­tur­prin­zi­pi­en nach Art. 20, 23, 24 GG er­läu­tern (De�
 
 
 
-
-
-
-
-
-
-
-
-
 # Regimetypologie
 Wolfgang Merkel unterscheidet in seiner Regimetypologie sechs analytische Dimensionen, die zur systematischen Klassifikation politischer Systeme dienen. Diese Kriterien ermöglichen eine differenzierte Analyse von Demokratien, Autokratien und hybriden Regimen:
 - **Herrschaftslegitimation**: Bezeichnet die Art und Weise, wie politische Herrschaft begründet und vom Volk akzeptiert wird – etwa durch Wahlen, Ideologie, Tradition oder Religion.
@@ -96,6 +87,8 @@ _(Dies Scheiß steht nicht im Buch und wurde im Unterricht nie behandelt aber di
 - **Volkssouveränität**: politisches Prinzip, das besagt, dass die höchste Gewalt vom Volk ausgeht und durch dessen direkte oder mittelbare Partizipation legitimiert ist.
 - **Meinungs- und Pressefreiheit**: Das Recht, eigene Ansichten öffentlich zu äußern sowie Informationen frei zu verbreiten und zu empfangen. 
 - **Achtung der Menschenrechte**: Der Schutz grundlegender Rechte wie Leben, Freiheit und Gleichheit jedes Menschen.
+- **Herrschaft auf Zeit** Prinzip, nach dem politische Machtinhaber nur für eine begrenzte Amtsdauer gewählt werden und[^2].  
+
 
 [^1]: https://www.bmz.de/de/service/lexikon/demokratie-14208
 
@@ -206,9 +199,6 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 **Merkmale**: Es gibt einen parlamentarischen Wettbewerb zwischen Parteien (Element der Konkurrenzdemokratie), gleichzeitig erfolgt politische Entscheidungsfindung stark über Verhandlungen und Konsensprozesse (Element der Konkordanzdemokratie).  Einbindung von Interessengruppen, Verwaltung und politischen Entscheidungsträgern in formelle oder informelle Aushandlungsnetzwerke.
 
 **Beispiel**: Deutschland gilt in vielen Politikfeldern (z. B. Sozialpolitik, Bildung) als Verhandlungsdemokratie, da dort trotz parteipolitischer Konkurrenz umfangreiche Konsensprozesse zwischen Regierung, Opposition, Verbänden und Bundesländern stattfinden.
-
-
-
 
 
 # Urteilskriterien 
