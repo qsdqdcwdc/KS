@@ -231,50 +231,37 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
  
 ### Beschreiben (Anforderungsbereich I/ Reproduktion)
 **Beschreibung aus Bildungsplan**: Sachverhalte schlüssig wiedergeben
-#### Interpretation: 
-- Vorhandene Wissen zur Thema wiedergeben.
+
+Interpretation: Vorhandene Wissen zur Thema wiedergeben.
 
 ### Nennen (Anforderungsbereich I/ Reproduktion)
 **Beschreibung aus Bildungsplan**: Sachverhalte in knapper Form anführen
-#### Interpretation: 
-- Vorhandene Wissen zur Thema kurz wiedergeben.
+
+Interpretation: Vorhandene Wissen zur Thema kurz wiedergeben.
 
 ### Erläutern (Anforderungsbereich II/Reorganisation und Transfer)
 **Beschreibung aus Bildungsplan**: Sachverhalte mit Beispielen oder Belegen veranschaulichen.
-#### Interpretation: 
-- Den zentralen Thema benennen.
-- Fakten und Beispiele anführen, um das Thema zu veranschaulichen/(verständlicher zu machen).
+
+Interpretation: Den zentralen Thema benennen. Fakten und Beispiele anführen, um das Thema zu veranschaulichen/(verständlicher zu machen).
 
 ### Erklären (Anforderungsbereich II/Reorganisation und Transfer)
 **Beschreibung aus Bildungsplan**: Sachverhalte schlüssig aus Kenntnissen in einen Zusammenhang stellen (zum Beispiel Theorie, Modell, Gesetz, Regel, Funktions-‚ Entwicklungs- und/oder Kausalzusammenhang)
-#### Interpretation: 
-- Den zu erklärenden Thema benennen, definieren und falls möglich in einen übergeordneten Kontext einordnen (z.B. Theorie, Modell, Regel).
-- Zusammenhänge zu bestehendem Wissen herstellen: Theoriebezug, Modelle, Gesetze oder Regeln als Erklärungsrahmen nutzen.  
-- Ursache, Wirkung und Entwicklungsprozess von dem Thema nennen.  
+
+Interpretation: Den zu erklärenden Thema benennen, definieren und falls möglich in einen übergeordneten Kontext einordnen (z.B. Theorie, Modell, Regel). Zusammenhänge zu bestehendem Wissen herstellen: Theoriebezug, Modelle, Gesetze oder Regeln als Erklärungsrahmen nutzen. Ursache, Wirkung und Entwicklungsprozess von dem Thema nennen.  
 
 ### Vergleichen (Anforderungsbereich III/Reflexion und Problemlösung)
 **Beschreibung aus Bildungsplan**: Vergleichskriterien festlegen, Gemeinsamkeiten und Unterschiede gewichtend einander gegenüberstellen sowie ein Ergebnis formulieren.
-#### Interpretation: 
-- Falls nicht angegeben passende Urteilskriterien auswählen.
-- Gemeinsamkeiten und Unterschiede von vorgegebenen Optionen anhand von Urteilskriterien beschreiben. Gewicht/Relevanz/Bedeutung der Gemeinsamkeiten und Unterschiede in jedem Kriterium
- bewerten.
-- Anhang von früherer Argumentation eine allgemeinen Vergleich der beiden Optionen machen.
-- Falls möglich eine Entscheidung treffen welche Option die relevante Kriterien besser erfüllt. Anhang von früherer Argumentation ein Fazit ziehen.
+
+Interpretation: Falls nicht angegeben passende Urteilskriterien auswählen. Gemeinsamkeiten und Unterschiede von vorgegebenen Optionen anhand von Urteilskriterien beschreiben. Gewicht/Relevanz/Bedeutung der Gemeinsamkeiten und Unterschiede in jedem Kriterium bewerten. Anhang von früherer Argumentation eine allgemeinen Vergleich der beiden Optionen machen.  Falls möglich eine Entscheidung treffen welche Option die relevante Kriterien besser erfüllt. Anhang von früherer Argumentation ein Fazit ziehen.
 
 ### Bewerten (Anforderungsbereich III/Reflexion und Problemlösung)
 **Beschreibung aus Bildungsplan**: Aussagen, Vorschläge oder Maßnahmen beurteilen, ein begründetes Werturteil formulieren und die dabei zugrunde gelegten Wertmaßstäbe offenlegen.
-#### Interpretation: 
-- Relevante Urteilskriterien auswählen oder vorgegebene nutzen.
-- Maßnahme/Aussage anhand der einzelnen Urteilskriterien bewerten und gewichten (z. B. Stärke der Evidenz, Relevanz).  
-- Wertmaßstäbe transparent machen: gewichten welche Kriterinen wichtiger sind (z.B Nachhaltigkeit oder Effizienz).
-- Eine begründete Schlussfolgerung formulieren, das deutlich macht, ob die Maßnahme insgesamt als sinnvoll/vertretbar zu bewerten ist.
+
+Interpretation:  Relevante Urteilskriterien auswählen oder vorgegebene nutzen. Maßnahme/Aussage anhand der einzelnen Urteilskriterien bewerten und gewichten (z. B. Stärke der Evidenz, Relevanz).   Wertmaßstäbe transparent machen: gewichten welche Kriterinen wichtiger sind (z.B Nachhaltigkeit oder Effizienz). Eine begründete Schlussfolgerung formulieren, das deutlich macht, ob die Maßnahme insgesamt als sinnvoll/vertretbar zu bewerten ist.
 
 ### Erörtern (Anforderungsbereich III/Reflexion und Problemlösung)
 **Beschreibung aus Bildungsplan**: zu einer vorgegebenen These oder Problemstellung durch Abwägen von Pro- und Kontra-Argumenten ein begründetes Ergebnis formulieren
-#### Interpretation:
-- These identifizieren.  
-- Pro- und Kontra-Argumente anhand passender Urteilskriterien sammeln.  
-- Argumente gegeneinander abwägen: Stärke, Evidenzgrad und gesellschaftliche Relevanz bewerten.  
-- Eine begründete Schlussfolgerung formulieren, die die Abwägung zusammenfast und ein Gesamturteil ableitet.
+
+Interpretation: These identifizieren. Pro- und Kontra-Argumente anhand passender Urteilskriterien sammeln.  Argumente gegeneinander abwägen: Stärke, Evidenzgrad und gesellschaftliche Relevanz bewerten. Eine begründete Schlussfolgerung formulieren, die die Abwägung zusammenfast und ein Gesamturteil ableitet.
 
 
