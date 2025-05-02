@@ -59,22 +59,16 @@ Staats­struk­tur­prin­zi­pi­en nach Art. 20, 23, 24 GG er­läu­tern (De�
 - Falls nicht angegeben passende Urteilskriterien auswählen.
 - Gemeinsamkeiten und Unterschiede von vorgegebenen Optionen anhand von Urteilskriterien beschreiben. Gewicht/Relevanz/Bedeutung der Gemeinsamkeiten und Unterschiede in jedem Kriterium
  bewerten.
-- Anhang von früherer Argumentation eine allgemeine Bewertung/Vergleich der beiden Optionen machen.
-- Anhang von früherer Argumentation ein Fazit ziehen und falls möglich eine Entscheidung treffen welche Option die relevante besser Kriterien erfüllt.
+- Anhang von früherer Argumentation eine allgemeinen Vergleich der beiden Optionen machen.
+- Falls möglich eine Entscheidung treffen welche Option die relevante Kriterien besser erfüllt. Anhang von früherer Argumentation ein Fazit ziehen.
 
 ### Bewerten (Anforderungsbereich III/Reflexion und Problemlösung)
 **Beschreibung aus Bidungsplan**: Aussagen, Vorschläge oder Maßnahmen beurteilen, ein begründetes Werturteil formulieren und die dabei zugrunde gelegten Wertmaßstäbe offenlegen.
 #### Interpretation: 
 - Relevante Urteilskriterien auswählen oder vorgegebene nutzen.
-- Argumente für/gegen die Maßnahme/Aussage anhand der Kriterien sammeln und gewichten (z. B. Stärke der Evidenz, Relevanz).  
-- Wertmaßstäbe transparent machen: z. B. Warum ist Nachhaltigkeit in diesem Fall wichtiger als Effizienz? Warum überwiegt Menschenwürde gegenüber Kosten?
+- Maßnahme/Aussage anhand der einzelnen Urteilskriterien bewerten und gewichten (z. B. Stärke der Evidenz, Relevanz).  
+- Wertmaßstäbe transparent machen: gewichten welche Kriterinen wichtiger sind (z.B Nachhaltigkeit oder Effizienz).
 - Eine begründete Schlussfolgerung formulieren, das deutlich macht, ob die Maßnahme insgesamt als sinnvoll/vertretbar zu bewerten ist.
-
-### Erläutern (Anforderungsbereich II/Reorganisation und Transfer)
-**Beschreibung aus Bidungsplan**: Sachverhalte mit Beispielen oder Belegen veranschaulichen.
-#### Interpretation: 
-- Den zentralen Thema benennen.
-- Fakten und Beispiele anführen, um das Thema zu veranschaulichen/(verständlicher zu machen). 
 
 ### Erörtern (Anforderungsbereich III/Reflexion und Problemlösung)
 **Beschreibung aus Bidungsplan**: zu einer vorgegebenen These oder Problemstellung durch Abwägen von Pro- und Kontra-Argumenten ein begründetes Ergebnis formulieren
@@ -83,4 +77,10 @@ Staats­struk­tur­prin­zi­pi­en nach Art. 20, 23, 24 GG er­läu­tern (De�
 - Pro- und Kontra-Argumente anhand passender Urteilskriterien sammeln.  
 - Argumente gegeneinander abwägen: Stärke, Evidenzgrad und gesellschaftliche Relevanz bewerten.  
 - Eine begründete Schlussfolgerung formulieren, die die Abwägung zusammenfast und ein Gesamturteil ableitet.
+
+### Erläutern (Anforderungsbereich II/Reorganisation und Transfer)
+**Beschreibung aus Bidungsplan**: Sachverhalte mit Beispielen oder Belegen veranschaulichen.
+#### Interpretation: 
+- Den zentralen Thema benennen.
+- Fakten und Beispiele anführen, um das Thema zu veranschaulichen/(verständlicher zu machen). 
 
