@@ -131,41 +131,65 @@ Die Herrschaftsweise in Demokratien basiert auf drei zentralen Prinzipien:
 
 
 
-# Demokratietypen nach institutionellen Dimensionen
+## Demokratietypen nach institutionellen Dimensionen
 
-Um verschiedene **Typen von Demokratien** systematisch zu unterscheiden, können drei zentrale institutionelle Dimensionen herangezogen werden. Jede dieser Dimensionen bildet ein Kontinuum mit zwei idealtypischen Polen. Die Kombination dieser Merkmale erlaubt eine differenzierte Einordnung demokratischer Systeme. ich brauche keine Übergänge weniger Laberei nur auf sachliche konzentrieren aber in Form von Fließtext
+Um verschiedene **Typen von Demokratien** systematisch zu unterscheiden, können drei zentrale institutionelle Dimensionen herangezogen werden. Jede dieser Dimensionen bildet ein Kontinuum mit zwei idealtypischen Polen. Die Kombination dieser Merkmale erlaubt eine Einordnung demokratischer Systeme. Viele realen Demokratien lassen sich nicht eindeutig einem dieser Pole zuordnen. Stattdessen kombinieren sie Elemente aus verschiedenen Modellen.
+
+### 1. Direkte vs. Repräsentative Demokratie
+
+#### Direkte Demokratie
+
+**Definition**: Form der Demokratie, in der politische Entscheidungen direkt vom Volk getroffen werden.
+**Merkmale**: Entscheidungen werden durch Volksabstimmungen getroffen. Instrumente: Volksbegehren, Volksentscheid, Referendum.
+**Beispiel**: Die Schweiz  ist nahr an direkte Demokratie weden regelmäßige Volksabstimmungen. 
+
+Reine Formen der Direktendemokratie kommen fast nicht vor.
+
+#### Repräsentative Demokratie
+
+**Definition**: In der repräsentativen Demokratie wählt das Volk Vertreter, die politische Entscheidungen in seinem Namen treffen.
+**Merkmale**: Entscheidungen werden von gewählten Parlamenten getroffen. Bürgerbeteiligung erfolgt hauptsächlich durch Wahlen. 
+**Beispiel**: Deutschland – Bürger wählen Bundestagsabgeordnete, die Gesetze beschließen.
+In der Realität bestehen viele Demokratien aus einer Mischform beider Elemente, jedoch dominiert meist eine Ausprägung.
 
 
-## 1. Direkte – Mischform – Repräsentative Demokratie
+### 2. Parlamentarisches vs. Präsidiales Regierungssystem
 
-**Direkte Demokratie** bezeichnet ein System, in dem Bürgerinnen und Bürger unmittelbar über politische Sachfragen abstimmen. Anstelle von gewählten Vertreter*innen entscheiden die Stimmberechtigten selbst, meist in Form von Referenden, Volksabstimmungen oder Volksinitiativen. Dieses Modell wird besonders stark in der Schweiz praktiziert, wo regelmäßig nationale, kantonale und kommunale Abstimmungen stattfinden[^11].
+#### Parlamentarisches System
 
-**Mischformen** kombinieren direktdemokratische Elemente mit einem repräsentativen System. Die Bevölkerung kann unter bestimmten Bedingungen in politische Prozesse eingreifen, etwa durch Bürgerbegehreno oder Petitionen. Obwohl die Entscheidungsgewalt bei gewählten Institutionen liegt, ermöglichen solche Instrumente Mitbestimmung. Deutschland erlaubt auf Landes- und kommunaler Ebene solche Beteiligungsformen[^12].
+**Definition**: Die Regierung (Exekutive) geht aus dem Parlament hervor und ist diesem gegenüber verantwortlich.
+**Merkmale**: Der Regierungschef wird vom Parlament gewählt. Möglichkeit des Misstrauensvotums gegen die Regierung. Enge Verbindung zwischen Legislative und Exekutive. 
+**Beispiel**: Das Vereinigte Königreich ist ein parlamentarisches System, in dem der Premierminister vom Parlament gewählt wird.  Auch Deutschland gilt als eine parlamentarische Demokratie.
 
-**Repräsentative Demokratien** beruhen auf dem Prinzip der Stellvertretung: Bürger*innen wählen in regelmäßigen Abständen Abgeordnete, die im Parlament politische Entscheidungen treffen. Zentrale Merkmale sind Gewaltenteilung, Pluralismus im Parteiensystem sowie die Möglichkeit eines politischen Machtwechsels durch Wahlen. Die meisten modernen Demokratien wie Deutschland oder das Vereinigte Königreich folgen diesem Modell in unterschiedlicher Ausprägung.
+#### Präsidiales System
 
-## 2. Parlamentarisch – Semipräsidentiell – Präsidial
+**Definition**: In einem präsidialen System ist die Exekutive unabhängig vom Parlament und wird direkt vom Volk gewählt.
+**Merkmale**: Der Präsident ist sowohl Staatsoberhaupt als auch Regierungschef. Klare Trennung zwischen Legislative und Exekutive. Feste Amtszeiten für den Präsidenten. Präsident darf nicht dem Parlament angehören und ist, ungeachtet der parlamentarischen Mehr-heitsverhältnisse, auch nicht vom Parlament absetzbar.
+**Beispiel**: Die USA sind ein präsidiales System mit einem direkt gewählten Präsidenten. 
 
-**Parlamentarische Systeme** zeichnen sich dadurch aus, dass die Exekutive – also die Regierung – aus dem Parlament hervorgeht und diesem gegenüber rechenschaftspflichtig ist. Die Regierung kann durch ein Misstrauensvotum abgesetzt werden, wobei in Deutschland das Prinzip des konstruktiven Misstrauensvotums gilt: Eine Regierung kann nur abgewählt werden, wenn gleichzeitig eine neue gewählt wird. Die Machtverteilung ist eng verflochten, der Kanzler oder Premierminister steht typischerweise an der Spitze der Exekutive und benötigt die Unterstützung der Parlamentsmehrheit[^13].
+### 3. Konkurrenz- Verhandlungs-, Konkordanzdemokratie
 
-**Semipräsidentielle Systeme** kombinieren parlamentarische und präsidiale Elemente. Charakteristisch ist die Doppelspitze der Exekutive: ein direkt gewählter Präsident teilt sich die Macht mit einem Premierminister, der vom Parlament abhängt. Der Präsident hat meist bedeutende Kompetenzen in Außen- und Sicherheitspolitik, während der Premierminister die alltägliche Regierungsarbeit koordiniert. Bei Kohabitation – also wenn Präsident und Parlamentsmehrheit unterschiedlichen politischen Lagern angehören – kann es zu Spannungen kommen. Frankreich ist das bekannteste Beispiel für dieses System.
+#### Konkurrenzdemokratie
 
-**Präsidiale Systeme** trennen die Gewalten strikt. Der Präsident wird unabhängig vom Parlament direkt gewählt, ist sowohl Staatsoberhaupt als auch Regierungschef. Es gelten feste Amtszeiten, und die Minister unterstehen ausschließlich dem Präsidenten. Dieses Modell findet sich etwa in den USA oder Brasilien, wo die Gewaltenteilung besonders ausgeprägt ist und politische Blockaden zwischen Exekutive und Legislative häufiger vorkommen können.
+**Definition**: In einer Konkurrenzdemokratie stehen sich politische Parteien im Wettbewerb gegenüber, wobei Entscheidungen durch Mehrheitsentscheidungen getroffen werden.
+**Merkmale**: Zwei große Parteien dominieren das politische System. Klare Trennung zwischen Regierung und Opposition. Starke Opposition als Regierungsalternative gegenübersteht. Ofte Politikwechseln und der Gefahr einer Dominanz von Mehrheiten über Minderheiten.
+**Beispiel**: Das politische System des USA ist nahr an eine Konkurrenzdemokratie.
 
-## 3. Konkordanz – Verhandlungsdemokratie – Konkurrenz
+#### Konkordanzdemokratie
 
-**Konkordanzdemokratien** setzen auf umfassende Einbindung und Konsens. Entscheidungen sollen unter Beteiligung möglichst vieler gesellschaftlicher Gruppen getroffen werden, wodurch ein hohes Maß an politischer Stabilität erreicht wird. Charakteristisch sind Proporzwahlen (Verhältniswahlrecht), föderale Strukturen sowie der Schutz von Minderheitenrechten. In der Schweiz etwa sitzen Vertreter verschiedener Parteien und Sprachgruppen gemeinsam in der Regierung, um einen Ausgleich herzustellen[^14].
+**Definition**: In einer Konkordanzdemokratie werden politische Entscheidungen durch Konsens und Einbindung möglichst vieler gesellschaftlicher Gruppen getroffen.
+**Merkmale**: Breite Koalitionen und Einbindung verschiedener Parteien in die Regierung.  Entscheidungen durch Verhandlungen und Kompromisse. Schutz von Minderheiten durch Proporzsysteme.  Langwierige Aushandlungs prozesse, hohen Konsensbildungsbedarf.
+**Beispiel**: Die Schweiz  ist nahr an Konkordanzdemokratie
 
-**Verhandlungsdemokratien** bilden eine Mischform, in der zwar Mehrheitsentscheidungen möglich sind, die Politik jedoch stark durch institutionalisierte Konsensprozesse geprägt ist. Entscheidungsfindung erfolgt nicht ausschließlich im Parlament, sondern auch in Netzwerken, die Parteien, Interessengruppen, Verwaltungen und andere Akteure umfassen. Deutschland, Österreich oder die Niederlande lassen sich diesem Typ zuordnen.
+Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen Wirklichkeit nicht vor.
 
-**Konkurrenzdemokratien** beruhen dagegen primär auf dem Wettbewerb zwischen politischen Parteien. Entscheidungen werden durch einfache Mehrheiten getroffen, ein häufiger Wechsel zwischen Regierung und Opposition ist üblich. Es bestehen klare Machtverhältnisse, die durch Mehrheitswahlrecht und Zweiparteiensysteme zusätzlich verstärkt werden. Die Vereinigten Staaten und das Vereinigte Königreich gelten als klassische Konkurrenzdemokratien.
+#### Verhandlungsdemokratie
+**Definition**: Die **Verhandlungsdemokratie** ist eine Mischform zwischen Konkurrenz- und Konkordanzdemokratie. Sie kombiniert Elemente des Parteienwettbewerbs mit kooperativen Entscheidungsmechanismen.
+**Merkmale**: Es gibt einen parlamentarischen Wettbewerb zwischen Parteien (Element der Konkurrenzdemokratie), gleichzeitig erfolgt politische Entscheidungsfindung stark über Verhandlungen und Konsensprozesse (Element der Konkordanzdemokratie).  Einbindung von Interessengruppen, Verwaltung und politischen Entscheidungsträgern in formelle oder informelle Aushandlungsnetzwerke.
+**Beispiel**: Deutschland gilt in vielen Politikfeldern (z. B. Sozialpolitik, Bildung) als Verhandlungsdemokratie, da dort trotz parteipolitischer Konkurrenz umfangreiche Konsensprozesse zwischen Regierung, Opposition, Verbänden und Bundesländern stattfinden.
 
-Die meisten realen Demokratien lassen sich nicht eindeutig einem dieser Pole zuordnen. Stattdessen kombinieren sie Elemente aus verschiedenen Modellen.
 
-[^11]: https://de.wikipedia.org/wiki/Direkte_Demokratie  
-[^12]: https://de.wikipedia.org/wiki/Volksbegehren  
-[^13]: https://de.wikipedia.org/wiki/Parlamentarisches_System  
-[^14]: https://de.wikipedia.org/wiki/Konkordanzdemokratie
+
 
 
 # Urteilskriterien 
