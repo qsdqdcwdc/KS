@@ -48,8 +48,8 @@ Staats­struk­tur­prin­zi­pi­en nach Art. 20, 23, 24 GG er­läu­tern (De�
 - **Bedarfsgerechtigkeit:** Beschreiben, welche Bedürfnisse verschiedener Gruppen berücksichtigt oder vernachlässigt werden.
 - **Chancengerechtigkeit:** Beschreiben, welche Gruppen Vorteile erhalten oder benachteiligt werden und ob Zugangshürden bestehen.
 - **Generationengerechtigkeit**: Prüfen, wie sich die Maßnahme auf zukünftige Generationen auswirkt. Beschreiben, ob Ressourcen nachhaltig genutzt werden und ob finanzielle Lasten auf kommende Generationen verschoben werden.
+- **Gerechtigkeit:** Analysieren, inwiefern die Maßnahme verschiedene Gerechtigkeitsprinzipien (Bedarfsgerechtigkeit, Chancengerechtigkeit, Generationengerechtigkeit) berücksichtigt.
 - **Verursacherprinzip**: Darlegen, ob diejenigen zur Verantwortung gezogen werden, die das Problem verursacht haben. Beschreiben, wie Kosten zwischen Verursachern und Allgemeinheit verteilt werden.
-- **Gerechtigkeit:** Analysieren, inwiefern die Maßnahme verschiedene Gerechtigkeitsprinzipien (Bedarfsgerechtigkeit, Chancengerechtigkeit, Generationengerechtigkeit, Verursacherprinzip, ...) berücksichtigt.
 
 # Operatoren 
 
