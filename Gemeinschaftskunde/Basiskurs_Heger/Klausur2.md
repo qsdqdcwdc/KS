@@ -158,6 +158,16 @@ In der Realität bestehen viele Demokratien aus einer Mischform beider Elemente,
 - **Merkmale**: Der Präsident ist sowohl Staatsoberhaupt als auch Regierungschef. Klare Trennung zwischen Legislative und Exekutive. Feste Amtszeiten für den Präsidenten. Präsident darf nicht dem Parlament angehören und ist, ungeachtet der parlamentarischen Mehr-heitsverhältnisse, auch nicht vom Parlament absetzbar.
 - **Beispiel**: Die USA sind ein präsidiales System mit einem direkt gewählten Präsidenten. 
 
+### Semipräsidentielle Systeme
+
+- **Definition**: Ein Regierungssystem, in dem ein direkt gewähltes Staatsoberhaupt (Präsident) und eine vom Parlament abhängige Regierung (Premierminister + Kabinett) die Exekutivgewalt teilen.
+- **Merkmale**: 
+  - Doppelköpfige Exekutive mit Aufgabenteilung: Der Präsident übernimmt typischerweise außen- und sicherheitspolitische Leitlinien, der Premierminister die laufende Innenpolitik.  
+  - Abhängigkeit des Premierministers vom parlamentarischen Vertrauen; Absetzung der Regierung durch Misstrauensvotum möglich.  
+  - Machtbalance schwankt je nach Parteiverteilung: Bei **Kohabitation** (Präsident und Parlamentsmehrheit aus unterschiedlichen Lagern) verschiebt sich das Gewicht in Richtung Premierminister.  
+- **Beispiel**: Frankreich ein semipräsidentielles Modell mit direkt gewähltem Präsidenten und Premierminister.
+
+
 ### Parlamentarisches Vs präsidentielles Regierungssystem 
 | **Kriterium**                                          | **Parlamentarisches Regierungssystem Deutschland**                                      | **Präsidentielles Regierungssystem USA**                                                  |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
