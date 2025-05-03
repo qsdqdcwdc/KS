@@ -123,6 +123,9 @@ Die Herrschaftsweise in Demokratien basiert auf drei zentralen Prinzipien:
 - **Transparenz**: Politische Entscheidungen und Prozesse sind öffentlich nachvollziehbar. 
 - **Rechenschaftspflicht**: Gewählte Vertreter und staatliche Institutionen müssen ihr Handeln gegenüber der Öffentlichkeit rechtfertigen und sind für ihre Entscheidungen verantwortlich.
 
+
+Lehrerfortbildung Baden-Württemberg: [Modelle der Demokratie](https://lehrerfortbildung-bw.de/u_gewi/gk/gym/bp2016/fb6/2_grund/1_system/5_modelle/) 
+
 ## 1. Direkte vs. Repräsentative Demokratie
 
 #### Direkte Demokratie
