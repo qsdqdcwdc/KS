@@ -201,8 +201,6 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 **Beispiel**: Deutschland gilt in vielen Politikfeldern (z. B. Sozialpolitik, Bildung) als Verhandlungsdemokratie, da dort trotz parteipolitischer Konkurrenz umfangreiche Konsensprozesse zwischen Regierung, Opposition, Verbänden und Bundesländern stattfinden.
 
 
-
-
 # Diktatur  
   
 **Definition:** Diktatur ist eine Herrschaftsform, in der alle politischen Entscheidungen von einer einzelnen Person, einer kleinen Gruppe oder Partei getroffen werden. Diese Macht wird ohne effektive Beschränkungen durch Gesetze oder gesellschaftliche Kräfte ausgeübt. 
@@ -325,6 +323,116 @@ _(**Hoheitsrechte** sind die rechtlich anerkannten Befugnisse eines Staates, auf
 - Die Übertragung ist verfassungsrechtlich zulässig, solange die Verfassungsidentität gewahrt bleibt.
 
 
+# Wahlsysteme
+
+## Relative Mehrheitswahlsystem
+**Definition**: relative Mehrheitswahlsystem bezeichnet jedes Wahlsystem, bei dem der /die Gewinner*in eines Wahlkreises das Mandat allein aufgrund einer relativen(eine Stimme mehr als der Nächstplatziert) Mehrheit der Stimmen erhält, ohne dass Stimmenanteile anderer Bewerber proportional berücksichtigt werden.[^2]
+
+[^2]: https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/320777/mehrheitswahlrecht/
+
+### Merkmale  
+- **Personenwahl & Einerwahlkreise**: die Wähler*innen entscheiden über eine konkrete Person; dadurch sind die Abgeordneten tendenziell unabhängiger von der Parteilinie. 
+- **Winner-takes-all / „Wasted Votes“**: Stimmen für Verlierer-Kandidat*innen haben keinen Sitz-Effekt; überschüssige Stimmen des Siegers ebenfalls.
+- **Tendenz zum Zweiparteiensystem **: strategisches Wählen konzentriert Unterstützung auf zwei chancenreiche Parteien. 
+- **Klare Mehrheiten & Regierungsstabilität**: Sitzbonus für die stärkste Partei führt häufig zu Alleinregierungen und damit zu planbarer Regierungsbildung.
+- **Strategisches Wählen**: viele Wähler*innen stimmen nicht für ihre Lieblingspartei, sondern für die „wahrscheinlich Gewinnende“, um Stimmverlust zu vermeiden. 
+- **Gerrymandering-Anfälligkeit**: Zuschnitt von Wahlkreisen kann Wahlausgänge gezielt verzerren. 
+- **Einfache Stimmabgabe & Auszählung**: eine Stimme, einfache Zählregel; für Laien leichter nachvollziehbar als komplexe Verhältnis­wahlsysteme.
+
+| Land | Ebene / Organ | Typ | Kurzinfo |
+|------|---------------|-----|----------|
+| **Vereinigtes Königreich** | Unterhaus | relative Mehrheit („first-past-the-post“) | 650 Einerwahlkreise, Sieger braucht nur Stimmenpluralität. |
+| **USA** | Repräsentantenhaus & viele Bundesstaaten | relative Mehrheit | 435 Einerwahlkreise; Electoral-College‐Stimmen meist winner-take-all.  |
+| **Deutschland** | Erststimme der Bundestagswahl | relative Mehrheit (in Mischsystem) | 299 Direktmandate, kombiniert mit Verhältniswahl über Zweitstimme. |
+
+## Absolute Mehrheitswahlsystem  
+**Definition** – Ein **absolutes Mehrheitswahlsystem** verlangt, dass die/der Sieger*in eines Wahlkreises (oder einer landesweiten Direktwahl) Absolute Mehrheit (mindestens 50 % + 1 Stimme) der gültigen Stimmen erhält; wird diese Schwelle nicht erreicht, sorgt ein **Stichwahl-** oder **Präferenzverfahren** dafür, dass am Ende jemand mit absoluter Mehrheit gewählt wird.
+
+### Merkmale  
+- **Personenwahl & häufig Einerwahlkreise**: wie beim relativen System steht meist eine konkrete Person pro Wahlkreis auf dem Stimmzettel; Mehrheiten werden jedoch erst durch absolute Zustimmungswerte legitimiert.  
+- **„Majority wins“ statt „winner-takes-plurality“**: Stimmen für unterlegene Kandidat*innen können in einer zweiten Runde (Two-Round-System) oder über Präferenzübertragungen (Instant-Runoff) weiterwirken; rein „verlorene” Stimmen werden reduziert.  
+- **Moderierender Effekt**: Kandidat*innen müssen über die eigene Kernklientel hinaus Stimmen gewinnen; dadurch oft Vorteil für mittige oder konsensfähige Kandidaturen.  
+- **Tendenz zu Mehr-Parteien-Systemen**:  doppelt Mehrheits­verfahren eher Multipartismus als das relative Mehrheitsrecht.
+- **Regierungsbildung**: schafft meist klare Mehrheiten oder direkt gewählte Amtsinhaber, kann aber zusätzliche Kosten (zweiter Wahlgang) oder komplexere Auszählungen (IRV) verursachen.  
+- **Gerrymandering-Anfälligkeit**: bleibt bestehen, da in der Regel weiterhin Einpersonenwahlkreise genutzt werden.
+
+_(**Two-Round-System (TRS)**: erneute Wahl zwischen den bestplatzierten Kandidat*innen, falls niemand im ersten Wahlgang > 50 % erreicht.)_
+_(**Instant-Runoff/Alternative Vote (IRV)**: alle Präferenzen werden in einem Wahlgang erfasst; niedrigstplatzierte scheiden aus, bis jemand > 50 % kumulierter Präferenzen besitzt.)_
+
+| Land | Ebene / Organ | Typ | Kurzinfo |
+|------|---------------|-----|----------|
+| **Frankreich** | Präsident & Nationalversammlung | Two-Round (absolute Mehrheit) | > 50 % im 1. Wahlgang nötig; sonst Stichwahl. Für die Assemblée nationale zusätzlich Mindestbeteiligung (25 % der Registrierten). |
+| **Polen** | Präsident | Two-Round | 5-jährige Amtszeit; absolute Mehrheit erforderlich, sonst Stichwahl zwischen den zwei Erstplatzierten. |
+| **Österreich** | Bundespräsident | Two-Round | Sechsjährige Amtszeit; absolute Mehrheit im 1. Wahlgang, sonst zweite Runde (ggf. Ersatzkandidat möglich). |
+
+_(**Stichwahl:** bezeichnet den entscheidenden, letzten Wahlgang nach dem Mehrheitswahlrecht, wenn die Kandidaten oder Kandidatinnen in den vorangegangenen Wahlgängen nicht die erforderliche Mehrheit Vorerreicht haben)_
+
+
+
+
+## Verhältniswahlsystem
+
+**Definition** – Ein **Verhältniswahlsystem** verteilt die Sitze eines Parlaments möglichst exakt entsprechend dem Stimmenanteil der Parteien oder Kandidat*innen. Jede Stimme soll mithin (nahezu) dasselbe Gewicht bei der Mandats­zuteilung besitzen.
+
+## Merkmale  
+
+- **Mehrmandatswahlkreise / landesweite Wahlkreise** – Mandate werden in mittel- bis großflächigen Wahlkreisen (oder landesweit) vergeben; dadurch können mehrere Parteien pro Gebiet Sitze erringen.  
+- **Parteien- statt Personenfokus** – Liste oder Präferenzordnung bestimmt maßgeblich die Sitzverteilung; offene Listen erlauben jedoch persönliche Präferenz der Wählenden.  
+- **Hohe Proportionalität & geringe „Wasted Votes“** – Fast jede Stimme wirkt sich auf die Zusammensetzung des Parlaments aus; Effizienzverlust tritt vor allem erst oberhalb festgelegter **Sperrklauseln** (z. B. 5 % in Deutschland) auf.  
+- **Mehrparteiensystem & Koalitionsregierungen** – Geringe Eintrittsbarrieren fördern Parteiplenum; regierungsbildende Mehrheiten entstehen häufig durch Koalitionen.  
+- **Komplexität** – Stimmenauszählung und Mandats­berechnung sind erklärungsbedürftiger; Wahlzettel können länger sein (viele Listen/Kandidat*innen).  
+- **Geringere Gerrymandering-Anfälligkeit** – Große bzw. landesweite Wahlkreise reduzieren den Effekt parteilich optimierter Grenzziehungen.
+
+
+## Beispiele
+
+| Land / Gebiet | Ebene / Organ | Typ | Kurzinfo |
+|---------------|---------------|-----|----------|
+| **Deutschland** | Bundestag (Zweitstimme) | personalisiert | 598 Grundsitze + Überhang/Ausgleich, 5 %-Sperrklausel; Sitzverteilung mit Sainte-Laguë/Schepers.  |
+| **Niederlande** | Tweede Kamer | landesweite offene Listen-PR | 150 Sitze; **Hare-Quote** ≈ 0,67 % faktische Schwelle; Koalitionsregierungen üblich. |
+| **Spanien** | Congreso de los Diputados | Listen-PR (D’Hondt) | 52 Provinzen (Mindestsitzzahl 2), 3 % Provinz-Sperrklausel → leichte Bevorzugung größerer Parteien. |
+| **Neuseeland** | Parlament | MMP | 72 Wahlkreis- plus 48 Listensitze; 5 %-Schwelle **oder** 1 Direktmandat für Listen­beteiligung. |
+
+
+
+
+## Bundestagswahl – Personalisiertes Verhältniswahlrecht  
+
+bpb: [Personalisiertes Verhältniswahlrecht](https://www.bpb.de/themen/politisches-system/wahlen-in-deutschland/558535/personalisiertes-verhaeltniswahlrecht/)
+
+**Personalisiertes Verhältniswahlsystem** bezeichnet das Verfahren, mit dem die Abgeordneten des Deutschen Bundestages gewählt werden. Es verbindet eine mehrheitswahl in Wahlkreisen (Erststimme) mit einer proportionalen Sitzverteilung nach Parteienlisten auf Bundesebene (Zweitstimme). Die Zweitstimme bestimmt allein, wie viele Sitze jeder Partei insgesamt zustehen; die Erststimme entscheidet lediglich, welche Personen diese Sitze besetzen. 
+
+
+### Ablauf der Bundestagswahl  
+
+- **Aufstellung der Kandidaturen**  Jede Partei nominiert für jeden Wahlkreis genau eine Direktkandidatin oder einen Direktkandidaten sowie eine Landesliste.
+
+- **Stimmabgabe**  Am Wahltag erhält jede wahlberechtigte Person einen Stimmzettel mit zwei Wahlentscheidungen:  
+	- **Erststimme:** Wahl einer Person im eigenen Wahlkreis; die Bewerberin oder der Bewerber mit relative Mehrheit gewinnt das Direktmandat.  
+	- **Zweitstimme:** Wahl einer Partei; sie entscheidet über die Zahl der Parteisitze im Bundestag.
+
+- **Auszählung und Sitzberechnung**  Zuerst werden sämt­liche Zweitstimmen bundesweit addiert. Unter Anwendung des proportionales Verfahren werden 630 (früher 735) Mandate verteilt. 
+
+- **Sperrklausel und Grundmandatsklausel**  Parteien, die bundesweit weniger als fünf Prozent der Zweitstimmen erzielen(Sperrklausel), erhalten keine Sitze außer eine Partei hat mindestens drei direktmand Daten bekommen dann bleibt sie im Bundestag(Grundmandatsklausel). 
+
+- **Zuweisung der Direktmandate**  Jedes errungene Direktmandat einer Partei wird auf ihr proportionales Sitzkontingent angerechnet. Erhält eine Partei mehr Direktmandate, als ihr nach Zweitstimmen zustehen, zählen nur so viele Wahlkreissiegerinnen oder -sieger, wie durch das Zweitstimmenergebnis gedeckt sind; die übrigen Wahlkreise bleiben ohne direkt gewählte Vertretung. Die Direktmandate die den niedrigsten Erststimmen Anteil haben(in ihren entsprechenden Bundesländern) fallen raus.
+
+- **Mandatsannahme und Konstituierung**  Nach Feststellung des endgültigen Ergebnisses durch den Bundeswahlausschuss nehmen die gewählten Personen ihr Mandat an. Der neue Bundestag tritt spätestens dreißig Tage nach der Wahl erstmals zusammen und wählt seine Präsidentin oder seinen Präsidenten.  
+
+
+### Neueste Veränderungen 
+Mit der **Wahlrechtsreform vom 17. März 2023** gilt ab der Bundestagswahl 2025 ein fester Bundestag von 630 Sitzen(**Überhang- und Ausgleichsmandate** wurden gestrichen) das **Zweitstimmendeckungsverfahren** eingeführt, bei dem Direktmandate nur wirksam werden, wenn sie durch das Zweitstimmenergebnis der jeweiligen Partei gedeckt sind. In denselben Wallrechtsreform von 2023 hob der Gesetzgeber zunächst die **Grundmandatsklausel** auf. Aber Am **30. Juli 2024** bestätigte das **Bundesverfassungsgericht** die Verkleinerung des Parlaments grundsätzlich, erklärte aber die Abschaffung der Grundmandatsklausel für verfassungswidrig; sie bleibt daher vorerst bestehen und wurde auch in den Wahlen von 2025 angewendet.
+
+Effekte:  
+- **Verkleinerung & Kostenbremse:** Das Parlament schrumpft voraussichtlich um rund 100 Mandate, was Sitzkosten, Büroflächen und Ausschussgrößen reduziert.  
+- **Stimmengewicht:**  Ohne Überhangmandate zählt nur noch das Verhältnis der Zweitstimmen. Das macht die Sitzverteilung gerechter aus Sicht der Verhältniswahl, schwächt aber stark regionale Parteien(CDU), die bisher von vielen Direktmandaten profitiert haben. 
+- **Direktwahl-Repräsentation:** Überschüssige Wahlkreissieger verlieren ihr Mandat; einzelne Wahlkreise könnten ohne direkt gewählte Vertretung bleiben.  
+- **Fortbestehende Grundmandatsklausel:** Parteien mit konzentrierter regionaler Unterstützung (z. B. Die Linke) behalten trotz Unter-5-%-Ergebnissen eine Eintrittschance.  
+
+### Wie die letzte Bundestagswahl durchgeführt wurde
+
+Nachdem der Kanzler die Vertrauensfrage verloren hat, löste Bundespräsident Frank-Walter Steinmeier den zwanzigsten Bundestag am 27. Dezember 2024 auf und setzte Neuwahlen für **Sonntag, den 23. Februar 2025**, an. Diese vorgezogene Wahl folgte bereits den neuen Wahlrechtsreform vom 2023  aber wegen der Entscheidung von dem Bundesverfassungsgericht wurde Grundmandatsklausel trotzdem angewendet Dadurch zog etwa **Die Linke** mit knapp unter fünf Prozent Zweitstimmen und vier Berliner Direktmandaten in mit 64 Sitze den Bundestag ein. Besonders auffällig war der Aufstieg der AfD (20,8 % der Zweitstimmen), die ihren Sitzanteil fast verdoppelte und mit 152 Mandaten zweitstärkste Kraft wurde, während die FDP an der Fünf-Prozent-Hürde scheiterte und gar nicht mehr im Parlament vertreten ist. Zugleich erreichte die Wahlbeteiligung mit 82,5 Prozent den höchsten Wert seit der Wiedervereinigung.
+
 # Urteilskriterien 
  **Hinweis:** Ausdrücke wie beschreiben, analysieren, prüfen, vergleichen und weitere werden in dieser Abteilung nicht als Bidungsplan Operatoren verwendet.
 
@@ -340,6 +448,8 @@ _(**Hoheitsrechte** sind die rechtlich anerkannten Befugnisse eines Staates, auf
 - **Generationengerechtigkeit**: Prüfen, wie sich die Maßnahme auf zukünftige Generationen auswirkt. Beschreiben, ob Ressourcen nachhaltig genutzt werden und ob finanzielle Lasten auf kommende Generationen verschoben werden.
 - **Gerechtigkeit:** Analysieren, inwiefern die Maßnahme verschiedene Gerechtigkeitsprinzipien (Bedarfsgerechtigkeit, Chancengerechtigkeit, Generationengerechtigkeit) berücksichtigt.
 - **Verursacherprinzip**: Darlegen, ob diejenigen zur Verantwortung gezogen werden, die das Problem verursacht haben. Beschreiben, wie Kosten zwischen Verursachern und Allgemeinheit verteilt werden.
+
+
 
 
 # Operatoren 
