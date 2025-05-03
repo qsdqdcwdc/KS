@@ -123,71 +123,67 @@ Die Herrschaftsweise in Demokratien basiert auf drei zentralen Prinzipien:
 - **Transparenz**: Politische Entscheidungen und Prozesse sind öffentlich nachvollziehbar. 
 - **Rechenschaftspflicht**: Gewählte Vertreter und staatliche Institutionen müssen ihr Handeln gegenüber der Öffentlichkeit rechtfertigen und sind für ihre Entscheidungen verantwortlich.
 
-## Demokratietypen nach institutionellen Dimensionen
-
-Um verschiedene **Typen von Demokratien** systematisch zu unterscheiden, können drei institutionelle Dimensionen herangezogen werden. Jede dieser Dimensionen bildet ein Kontinuum mit zwei idealtypischen Polen. Die Kombination dieser Merkmale erlaubt eine Einordnung demokratischer Systeme. Viele realen Demokratien lassen sich nicht eindeutig einem dieser Pole zuordnen. Stattdessen kombinieren sie Elemente aus verschiedenen Modellen.
-
-### 1. Direkte vs. Repräsentative Demokratie
+## 1. Direkte vs. Repräsentative Demokratie
 
 #### Direkte Demokratie
 
-**Definition**: Form der Demokratie, in der politische Entscheidungen direkt vom Volk getroffen werden.
-
-**Merkmale**: Entscheidungen werden durch Volksabstimmungen getroffen. Instrumente: Volksbegehren, Volksentscheid, Referendum.
-
-**Beispiel**: Die Schweiz  ist nahr an direkte Demokratie weden regelmäßige Volksabstimmungen. 
+- **Definition**: Form der Demokratie, in der politische Entscheidungen direkt vom Volk getroffen werden.
+- **Merkmale**: Entscheidungen werden durch Volksabstimmungen getroffen. Instrumente: Volksbegehren, Volksentscheid, Referendum.
+- **Beispiel**: Die Schweiz  ist nahr an direkte Demokratie weden regelmäßige Volksabstimmungen. 
 
 Reine Formen der Direktendemokratie kommen fast nicht vor.
 
 #### Repräsentative Demokratie
 
-**Definition**: In der repräsentativen Demokratie wählt das Volk Vertreter, die politische Entscheidungen in seinem Namen treffen.
-
-**Merkmale**: Entscheidungen werden von gewählten Parlamenten getroffen. Bürgerbeteiligung erfolgt hauptsächlich durch Wahlen. 
-
-**Beispiel**: Deutschland – Bürger wählen Bundestagsabgeordnete, die Gesetze beschließen.
+- **Definition**: In der repräsentativen Demokratie wählt das Volk Vertreter, die politische Entscheidungen in seinem Namen treffen.
+- **Merkmale**: Entscheidungen werden von gewählten Parlamenten getroffen. Bürgerbeteiligung erfolgt hauptsächlich durch Wahlen. 
+- **Beispiel**: Deutschland – Bürger wählen Bundestagsabgeordnete, die Gesetze beschließen.
 
 In der Realität bestehen viele Demokratien aus einer Mischform beider Elemente, jedoch dominiert meist eine Ausprägung.
 
----
 
-### 2. Parlamentarisches vs. Präsidiales Regierungssystem
+
+
+## 2. Parlamentarisches vs. Präsidiales Regierungssystem
 
 ### Parlamentarisches System
 
-**Definition**: Die Regierung (Exekutive) geht aus dem Parlament hervor und ist diesem gegenüber verantwortlich.
-
-**Merkmale**: Der Regierungschef wird vom Parlament gewählt. Möglichkeit des Misstrauensvotums gegen die Regierung. Enge Verbindung zwischen Legislative und Exekutive. 
-
-**Beispiel**: Das Vereinigte Königreich ist ein parlamentarisches System, in dem der Premierminister vom Parlament gewählt wird.  Auch Deutschland gilt als eine parlamentarische Demokratie.
+- **Definition**: Die Regierung (Exekutive) geht aus dem Parlament hervor und ist diesem gegenüber verantwortlich.
+- **Merkmale**: Der Regierungschef wird vom Parlament gewählt. Möglichkeit des Misstrauensvotums gegen die Regierung. Enge Verbindung zwischen Legislative und Exekutive. 
+- **Beispiel**: Das Vereinigte Königreich ist ein parlamentarisches System, in dem der Premierminister vom Parlament gewählt wird.  Auch Deutschland gilt als eine parlamentarische Demokratie.
 
 ### Präsidiales System
 
-**Definition**: In einem präsidialen System ist die Exekutive unabhängig vom Parlament und wird direkt vom Volk gewählt.
+- **Definition**: In einem präsidialen System ist die Exekutive unabhängig vom Parlament und wird direkt vom Volk gewählt.
+- **Merkmale**: Der Präsident ist sowohl Staatsoberhaupt als auch Regierungschef. Klare Trennung zwischen Legislative und Exekutive. Feste Amtszeiten für den Präsidenten. Präsident darf nicht dem Parlament angehören und ist, ungeachtet der parlamentarischen Mehr-heitsverhältnisse, auch nicht vom Parlament absetzbar.
+- **Beispiel**: Die USA sind ein präsidiales System mit einem direkt gewählten Präsidenten. 
 
-**Merkmale**: Der Präsident ist sowohl Staatsoberhaupt als auch Regierungschef. Klare Trennung zwischen Legislative und Exekutive. Feste Amtszeiten für den Präsidenten. Präsident darf nicht dem Parlament angehören und ist, ungeachtet der parlamentarischen Mehr-heitsverhältnisse, auch nicht vom Parlament absetzbar.
+### Parlamentarisches Vs präsidentielles Regierungssystem 
+| **Kriterium**                                          | **Parlamentarisches Regierungssystem Deutschland**                                      | **Präsidentielles Regierungssystem USA**                                                  |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Verhältnis Legislative – Exekutive                     | Mehrheit des Bundestages und Kabinett bilden Regierungsmehrheit                         | Gewaltenteilung – Präsident hat keine Mehrheit im Kongress                                |
+| Kabinett                                               | Kollegialorgan; n Deutschland sind die Mitglieder oft auch Abgeordnete im Parlament                | Minister dürfen nicht zugleich Mitglieder des Kongresses sein   |
+| Abwahl des Chefs der Exekutive                         | Konstruktives Misstrauensvotum: Der Bundestag kann den Kanzler nur abwählen, wenn gleichzeitig ein neuer Kanzler mit Mehrheit gewählt wird | Nicht möglich: Der Präsident bleibt bis zum Ende der Amtszeit im Amt, es sei denn ein Impeachment-Verfahren hat Erfolg       |
+| Vertrauensfrage; Parlamentsauflösung                  | Möglich: Der Kanzler kann dem Bundestag die Vertrauensfrage stellen; bei negativem Ausgang kann der Bundestag aufgelöst werden             | Nicht möglich: Der Präsident kann den Kongress nicht auflösen und ist auch nicht vom Vertrauen des Kongresses abhängig        || Vertrauensfrage; Parlamentsauflösung                  | möglich                                                                                  | nicht möglich                                                                              |
+| Opposition                                              | Vorhanden: Die Minderheit im Bundestag bildet eine klar organisierte Opposition mit festgelegten Rechten und Kontrollfunktionen           | Nicht vorhanden: Es gibt keine fest organisierte parlamentarische Opposition; Machtverteilung ergibt sich aus Wahlmehrheiten  |
+| Rolle der Parteien in der Verfassungswirklichkeit     | Zentral: Parteien strukturieren den politischen Prozess und bestimmen maßgeblich Regierung und Gesetzgebung (Parteienstaat)               | Marginal: Parteien spielen eine geringere Rolle im Regierungshandeln; politische Macht ist stärker personalisiert |
+| Exekutive:  Staatsoberhaupt/Regierungschef Rolle        | Geteilt: Kanzler führt die Regierung, Bundespräsident ist vor allem repräsentatives Staatsoberhaupt mit begrenzten politischen Befugnissen            | Geschlossen: Präsident vereint Regierungs- und Staatsoberhauptfunktion in einer Person und leitet allein die Exekutive                 |
 
-**Beispiel**: Die USA sind ein präsidiales System mit einem direkt gewählten Präsidenten. 
+_(**Kabinett**: Das Kabinett ist die Gesamtheit der Minister*innen unter Vorsitz des Regierungschefs (z. B. Kanzler oder Präsident). Es dient der politischen Koordinierung und Entscheidungsfindung innerhalb der Exekutive.)_
 
----
-
-### 3. Konkurrenz- Verhandlungs-, Konkordanzdemokratie
+## 3. Konkurrenz- Verhandlungs-, Konkordanzdemokratie
 
 ### Konkurrenzdemokratie
 
-**Definition**: In einer Konkurrenzdemokratie stehen sich politische Parteien im Wettbewerb gegenüber, wobei Entscheidungen durch Mehrheitsentscheidungen getroffen werden.
-
-**Merkmale**: Klare Trennung zwischen Regierung und Opposition. Starke Opposition als Regierungsalternative gegenübersteht. Ofte Politikwechseln und der Gefahr einer Dominanz von Mehrheiten über Minderheiten.
-
-**Beispiel**: Das politische System des USA ist nahr an eine Konkurrenzdemokratie.
+- **Definition**: In einer Konkurrenzdemokratie stehen sich politische Parteien im Wettbewerb gegenüber, wobei Entscheidungen durch Mehrheitsentscheidungen getroffen werden.
+- **Merkmale**: Klare Trennung zwischen Regierung und Opposition. Starke Opposition als Regierungsalternative gegenübersteht. Ofte Politikwechseln und der Gefahr einer Dominanz von Mehrheiten über Minderheiten.
+- **Beispiel**: Das politische System des USA ist nahr an eine Konkurrenzdemokratie.
 
 ### Konkordanzdemokratie
 
-**Definition**: In einer Konkordanzdemokratie werden politische Entscheidungen durch Konsens und Einbindung möglichst vieler gesellschaftlicher Gruppen getroffen.
-
-**Merkmale**: Breite Koalitionen und Einbindung verschiedener Parteien in die Regierung.  Entscheidungen durch Verhandlungen und Kompromisse. Schutz von Minderheiten durch Proporzsysteme.  Langwierige Aushandlungs prozesse, hohen Konsensbildungsbedarf.
-
-**Beispiel**: Die Schweiz  ist nahr an Konkordanzdemokratie
+- **Definition**: In einer Konkordanzdemokratie werden politische Entscheidungen durch Konsens und Einbindung möglichst vieler gesellschaftlicher Gruppen getroffen.
+- **Merkmale**: Breite Koalitionen und Einbindung verschiedener Parteien in die Regierung.  Entscheidungen durch Verhandlungen und Kompromisse. Schutz von Minderheiten durch Proporzsysteme.  Langwierige Aushandlungs prozesse, hohen Konsensbildungsbedarf.
+- **Beispiel**: Die Schweiz  ist nahr an Konkordanzdemokratie
 
 Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen Wirklichkeit nicht vor.
 
@@ -281,7 +277,7 @@ Video: [5 Staatsstrukturprinzipien einfach erklärt](https://www.youtube.com/wat
 
 Lehrerfortbildung Baden-Württemberg: [Staatstrukturprinzipien](https://lehrerfortbildung-bw.de/u_gewi/gk/gym/bp2016/fb6/2_grund/1_system/6_struktur/) 
 
-### 1. Demokratiesprinzip
+### Demokratiesprinzip
 Das Demokratieprinzip definiert, dass Deutschland eine parlamentarische Demokratie ist. Alle Staatsgewalt geht vom Volk aus (Volksherrschaft). Die Wahl politischer Repräsentanten erfolgt in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl. Das Grundgesetz gibt den Bürgern das **Widerstandsrecht**: das Recht aller Deutschen, gegen jeden Widerstand zu leisten, der die freiheitlich-demokratische Grundordnung beseitigen will. (Art. 20 GG)
 
 ### Republiksprinzip
