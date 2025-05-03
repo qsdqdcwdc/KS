@@ -54,7 +54,7 @@ Wolfgang Merkel unterscheidet in seiner Regimetypologie sechs analytische Dimens
 - **Herrschaftslegitimation**: Bezeichnet die Art und Weise, wie politische Herrschaft begründet und vom Volk akzeptiert wird – etwa durch Wahlen, Ideologie, Tradition oder Religion.
 - **Herrschaftszugang**: Beschreibt, wie politische Macht erlangt werden kann – ob dieser Zugang offen, wettbewerblich und reguliert ist oder durch Machtmonopole und Ausschlüsse geprägt wird.
 - **Herrschaftsanspruch**: Bestimmt den Umfang, in dem politische Herrschaft das gesellschaftliche Leben durchdringt – von begrenzt (z. B. nur Politik) bis total (z. B. auch Privatleben).
-- **Herrschaftsmonopol**: Meint das Gewaltmonopol des Staates, also ob nur staatliche Akteure zur Anwendung physischer Gewalt legitimiert sind oder ob konkurrierende Gewaltakteure (z. B. Milizen) existieren.
+- **Herrschaftsmonopol**:  Beschreibt, bei wem das ausschließliche Recht zur politischer Machtausübung liegt(Z.b. demokratisch legitimierte Institutionen, einzelne Führer oder Eliten). 
 - **Herrschaftsstruktur**: Bezieht sich auf die institutionelle Organisation der Macht, insbesondere auf die Verteilung, Begrenzung und Kontrolle staatlicher Autorität (z. B. durch Gewaltenteilung oder zentrale Machtkonzentration).
 - **Herrschaftsweise**: Beschreibt die Form der Machtausübung – etwa rechtsstaatlich, partizipativ und transparent oder repressiv, klientelistisch und intransparent.
 
@@ -75,6 +75,7 @@ Wolfgang Merkel unterscheidet in seiner Regimetypologie sechs analytische Dimens
 **Intransparent**: Politische Entscheidungsprozesse sind für die Öffentlichkeit nicht einsehbar oder nachvollziehbar.
 </details>
 
+
 _(Dies Scheiß steht nicht im Buch und wurde im Unterricht nie behandelt aber diese Dimensionen sind verdächtlich nah an die die Inkompetenzcheck genannt sind.)_
 # Demokratie
 
@@ -87,7 +88,7 @@ _(Dies Scheiß steht nicht im Buch und wurde im Unterricht nie behandelt aber di
 - **Volkssouveränität**: politisches Prinzip, das besagt, dass die höchste Gewalt vom Volk ausgeht und durch dessen direkte oder mittelbare Partizipation legitimiert ist.
 - **Meinungs- und Pressefreiheit**: Das Recht, eigene Ansichten öffentlich zu äußern sowie Informationen frei zu verbreiten und zu empfangen. 
 - **Achtung der Menschenrechte**: Der Schutz grundlegender Rechte wie Leben, Freiheit und Gleichheit jedes Menschen.
-- **Herrschaft auf Zeit** Prinzip, nach dem politische Machtinhaber nur für eine begrenzte Amtsdauer gewählt werden und[^2].  
+- **Herrschaft auf Zeit** Prinzip, nach dem politische Machtinhaber nur für eine begrenzte Amtsdauer gewählt werden.  
 
 
 [^1]: https://www.bmz.de/de/service/lexikon/demokratie-14208
@@ -101,10 +102,10 @@ In Demokratien basiert die Legitimation der Herrschaft auf der Zustimmung des Vo
 Der Zugang zu politischen Ämtern in Demokratien erfolgt durch transparente und geregelte Verfahren (Wahlen). Jede Bürgerin und jeder Bürger hat das Recht, sich politisch zu engagieren, Parteien zu gründen oder beizutreten und für öffentliche Ämter zu kandidieren, sofern die gesetzlichen Voraussetzungen erfüllt sind.
 
 ### Herrschaftsanspruch
-Demokratien beanspruchen keine totale Kontrolle über das gesamte gesellschaftliche Leben. Ihr Herrschaftsanspruch ist auf öffentliche Angelegenheiten begrenzt – z. B. Gesetzgebung, Verwaltung und öffentliche Ordnung. Privates Leben bleibt geschützt.
+Liegt exklusiv bei verfassungsgemäß legitimierten Organen – Parlament, Regierung und unabhängige Gerichte –, die sich gegenseitig kontrollieren; keine Einzelperson, Partei oder private Macht darf außerhalb dieses Rahmens politische Herrschaft ausüben.
 
 ### Herrschaftsmonopol in Demokratien
-In Demokratien besitzt der Staat das Gewaltmonopol, das heißt, nur staatliche Institutionen sind befugt, physische Gewalt auszuüben, beispielsweise durch Polizei.
+In Demokratien liegt das Herrschaftsmonopol bei demokratisch legitimierten Institutionen. Diese üben politische Macht auf Grundlage von Gesetzen aus und sind durch Wahlen und Gewaltenteilung kontrolliert.
 
 ### Herrschaftsstruktur in Demokratien
 Die Herrschaftsstruktur in Demokratien beruht auf dem Prinzip der **Gewaltenteilung**, das eine gegenseitige Kontrolle und Begrenzung der Macht sicherstellen soll. Dabei werden die staatlichen Aufgaben in drei voneinander unabhängige Bereiche unterteilt:
@@ -124,7 +125,7 @@ Die Herrschaftsweise in Demokratien basiert auf drei zentralen Prinzipien:
 
 ## Demokratietypen nach institutionellen Dimensionen
 
-Um verschiedene **Typen von Demokratien** systematisch zu unterscheiden, können drei zentrale institutionelle Dimensionen herangezogen werden. Jede dieser Dimensionen bildet ein Kontinuum mit zwei idealtypischen Polen. Die Kombination dieser Merkmale erlaubt eine Einordnung demokratischer Systeme. Viele realen Demokratien lassen sich nicht eindeutig einem dieser Pole zuordnen. Stattdessen kombinieren sie Elemente aus verschiedenen Modellen.
+Um verschiedene **Typen von Demokratien** systematisch zu unterscheiden, können drei institutionelle Dimensionen herangezogen werden. Jede dieser Dimensionen bildet ein Kontinuum mit zwei idealtypischen Polen. Die Kombination dieser Merkmale erlaubt eine Einordnung demokratischer Systeme. Viele realen Demokratien lassen sich nicht eindeutig einem dieser Pole zuordnen. Stattdessen kombinieren sie Elemente aus verschiedenen Modellen.
 
 ### 1. Direkte vs. Repräsentative Demokratie
 
@@ -202,38 +203,59 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 
 # Diktatur  
   
-**Definition:** Eine Diktatur ist eine Herrschaftsform, in der eine Person oder eine kleine Gruppe die absolute Macht innehat. Diese Macht wird ohne effektive Beschränkungen durch Gesetze oder gesellschaftliche Kräfte ausgeübt. Diktaturen sind oft durch die Unterdrückung politischer Gegner und die Einschränkung der Freiheiten und Rechte der Bürger gekennzeichnet. Weitere Merkmale von Diktaturen:
+**Definition:** Diktatur ist eine Herrschaftsform, in der alle politischen Entscheidungen von einer einzelnen Person, einer kleinen Gruppe oder Partei getroffen werden. Diese Macht wird ohne effektive Beschränkungen durch Gesetze oder gesellschaftliche Kräfte ausgeübt. 
 
-## Merkmale von Diktaturen  
-- **Gewalt**: Einsatz von physischer Gewalt oder Drohungen als Mittel zur Unterdrückung und Kontrolle der Bevölkerung.  
-- **Machtmonopol**: Die Macht ist in den Händen einer Person oder einer kleinen Gruppe zentralisiert, ohne effektive Checks and Balances.  
-- **Willkürherrschaft**: Gesetze und Regeln werden unbeständig angewendet und dienen oft dem Machterhalt der Herrschenden.  
-- **Gleichschaltung**: Staatliche und gesellschaftliche Institutionen werden gleichgeschaltet und unterliegen der Kontrolle der herrschenden Partei oder Gruppe.  
-- **Ideologie**: Eine dominante Ideologie, die oft von der Staatsführung propagiert wird, rechtfertigt die Machtkonzentration und unterdrückt abweichende Meinungen.   
-
-
+### Allgemeine Merkmale einer Diktatur  
+- **Machtmonopol**: Eine Person oder kleine Elite kontrolliert alle staatlichen Institutionen ohne wirksame Konkurrenz.  
+- **Aufhebung der Gewaltenteilung**: Legislative, Exekutive und Judikative sind nicht unabhängig.  
+- **Repressionsapparat**: Geheimpolizei, Militär oder Milizen sichern oft den Machterhalt durch Überwachung, Einschüchterung oder Gewalt.  
+- **Eingeschränkte oder keine politischen Freiheiten**: Keine freien Wahlen, Zensur der Medien, Verbot oppositioneller Parteien und Organisationen.  
+- **Ideologische oder charismatische Legitimation**: Herrschaft wird durch Ideologie, Religion, Tradition oder Führerkult gerechtfertigt.  
+- **Fehlende Rechtsstaatlichkeit**: Regierung handelt oft willkürlich; Gesetze dienen oft dem Machterhalt.
+   
 ## Formen von Diktaturen  
   
-#### Autoritäre Diktatur  
-In autoritären Diktaturen wird die Macht von einer einzelnen Person oder einer dominanten Partei ausgeübt. Wahlen, wenn sie stattfinden, sind oft manipuliert und dienen nur der Scheinlegitimation. Die politische Pluralität ist stark eingeschränkt, und kritisches Engagement der Bürger gegen das Regime ist nicht erwünscht.  
+### Autoritäre Diktatur  
+[Video](https://www.youtube.com/watch?v=j1h4A5aY00E)
 
-- **Herrschaftslegitimation in autoritären Systemen**:  In autoritären Systemen wird die Legitimation der Herrschaft oft durch die Ideologie, Tradition oder charismatische Führungspersönlichkeiten begründet. Wahlen, wenn vorhanden, sind typischerweise manipuliert.     
-- **Herrschaftszugang in autoritären Systemen:** Der Zugang zu politischen Ämtern ist stark eingeschränkt und wird durch die herrschende Elite kontrolliert. Politischer Aufstieg ist oft nur durch Loyalität zur Elite möglich.  
-- **Herrschaftsanspruch:** Autoritäre Regime beanspruchen oft umfassende Kontrolle über das öffentliche und teilweise auch das private Leben der Bürger, mit dem Ziel, Opposition und Nichtkonformität zu unterdrücken.  
-- **Herrschaftsmonopol in autoritären Systemen:**  Der Staat, oft personifiziert durch eine dominante Führungsperson oder Partei, hält das Monopol auf physische Gewalt und setzt dieses zur Unterdrückung von Widerstand und zur Aufrechterhaltung der Macht ein.  
-- **Herrschaftsstruktur in autoritären Systeme**: Die Herrschaftsstruktur in autoritären Systemen ist typischerweise hierarchisch und zentralisiert. Entscheidungen werden von der Spitze getroffen und ohne Raum für Diskussion oder Widerspruch durchgesetzt.  
-- **Herrschaftsweise in autoritären Systemen** Die Herrschaftsweise ist durch geringe Transparenz und minimale Rechenschaftspflicht gekennzeichnet. Bürgerbeteiligung ist in der Regel auf die Unter. Klientelistisch und intransparent.
+**Definition:** Autoritäre Diktatur ist ein Regime, das politische Macht auf eine Führungsperson oder eine kleine Gruppe konzentriert, ohne jedoch jeden Aspekt des gesellschaftlichen Lebens total zu kontrollieren.
+
+**Typische Merkmale**
+- **Privatleben** bleibt teilweise unbehelligt, solange es die politische Ordnung nicht bedroht.
+- **Begrenzter Pluralismus:** Opposition, Medien und Zivilgesellschaft werden kontrolliert, aber nicht vollständig ausgelöscht.  
+- **Politische Passivität**: Bevölkerung soll loyal oder apathisch bleiben; keine Massenmobilisierung.  
+- **Selektive Repression**: Gewalt richtet sich gezielt gegen Regimegegner. 
+- **Führer/Oligarchie**: Macht basiert auf Militär, Sicherheitsapparat, Klientelismus.  
+- **Keine umfassende Ideologie:** Legitimation erfolgt oft durch Ordnung, Tradition oder wirtschaftliche Leistungsversprechen.   
+
+**Beispiele:** Chile unter Pinochet (1973-1990), heutiges Weißrussland.
+
+### Totalitäre Diktatur  
+[Video](https://www.youtube.com/watch?v=EzvqIrs7Quc)
+
+**Definition:** Totalitäre Diktatur ist ein Regime, das einen unbegrenzten Herrschaftsanspruch erhebt und versucht, jeden Lebensbereich – Politik, Wirtschaft, Kultur und Privatleben – im Sinne einer allumfassenden Ideologie zu kontrollieren.
+
+**Typische Merkmale**
+- **Allumfassende Ideologie:** Eine einzige, staatlich verordnete Weltanschauung bestimmt Politik und Privatleben. Sie beansprucht Deutungshoheit über Geschichte, Moral und Zukunft. 
+- **Einparteienherrschaft:** Nur eine Partei mit einem Führer kontrolliert alle Ämter; konkurrierende Kräfte sind verboten.
+- **Gleichschaltung:** Medien, Verbände und Länder werden zwangsweise „auf Linie“ gebracht und direkt dem Regime unterstellt.
+- **Totale Kontrolle & Propaganda:** Geheimpolizei, Überwachung und Dauerpropaganda formen Denken und Verhalten der Bevölkerung. 
+- **Zwanghafte Massenmobilisierung:** Permanente Kampagnen, Organisationszwang für Bürger.  
+- **Systematischer Terror:** Willkürliche Verhaftungen, Lager und Gewalt verbreiten Angst und zerschlagen jede Opposition.
   
-#### Totalitäre Diktatur  
-Totalitäre Diktaturen streben nach Kontrolle über jeden Aspekt des öffentlichen und privaten Lebens der Bürger. Sie nutzen intensive Propaganda und Überwachung, um Loyalität und Konformität zu erzwingen. Opposition wird nicht toleriert, und die Regierung versucht, das Denken, Verhalten und sogar die Überzeugungen der Menschen zu kontrollieren.  
+**Beispiele:** Nazi-Deutschland (1933 – 1945), Sowjetunion unter Stalin (1928 – 1953), heutiges Nordkorea
 
-- **Herrschaftslegitimation in totalitären Systemen**: Legitimation erfolgt durch eine umfassende Ideologie (z. B. Kommunismus, Faschismus), die als allein gültige Wahrheit gilt. Führer werden als unfehlbar inszeniert. Wahlen sind entweder abgeschafft oder reine Propaganda.
-- **Herrschaftszugang in totalitären Systemen:** Der Zugang zu politischer Macht erfolgt ausschließlich über die herrschende Partei. Kriterien sind Loyalität und ideologische Übereinstimmung. Politische Konkurrenz existiert nicht.
-- **Herrschaftsanspruch:** Totalitäre Regime beanspruchen vollständige Kontrolle – nicht nur über Politik und Wirtschaft, sondern auch über Kultur, Erziehung und private Überzeugungen.
-- **Herrschaftsmonopol in totalitären Systemen:** Der Staat hält das absolute Gewalt- und Informationsmonopol. Überwachung, Zensur, Geheimpolizei und Propaganda sichern die Machterhaltung.
-- **Herrschaftsstruktur in totalitären Systemen:** Hochgradig zentralisiert und hierarchisch. Staat und Partei sind verschmolzen, Führerprinzip dominiert. Institutionen sind reine Erfüllungsorgane.
-- **Herrschaftsweise in totalitären Systemen:** Gekennzeichnet durch totale Kontrolle, ideologische Indoktrination, systematische Repression und erzwungene Mobilisierung der Bevölkerung.
+**Typische Merkmale**
 
+## Regimetypologie angewandt auf Diktaturen
+| Dimension           | Autoritäre Diktatur | Totalitäre Diktatur |
+|---------------------|---------------------|---------------------|
+| **Herrschaftslegitimation** | häufig traditionell, militärisch oder charismatisch begründet (z. B. Putsch, Dynastie) | ideologisch begründet, umfassende Weltanschauung legitimiert Macht (z. B. Marxismus-Leninismus, Faschismus) |
+| **Herrschaftszugang** | begrenzt bzw. geschlossen; Machtübernahme oft durch Militär, Coup oder Erbfolge | völlig geschlossen; Partei/Führer erlangt Macht meist revolutionär oder per Gleichschaltung |
+| **Herrschaftsanspruch** | umfangreich, aber primär politisch; Eingriffe in Privatleben selektiv | unbegrenzt; politisches, soziales und privates Leben sollen ideologisch durchdrungen werden |
+| **Herrschaftsmonopol** | bei Führer/Oligarchie, gesichert durch Repression | bei ideologisch legitimiertem Führer oder Einheitspartei, gesichert durch umfassende Repression |
+| **Herrschaftsstruktur** | eingeschränkte Pluralität (Militär, Partei-Eliten); begrenzte Institutionalisierung | monistisches System; Partei, Staat und Gesellschaft verschmelzen |
+| **Herrschaftsweise** | von partiell rechtsstaatlich bis repressiv; Gewalt selektiv | systematisch repressiv, Terror als Herrschaftsinstrument, Umerziehung und Massenmobilisierung |
 
 
 
