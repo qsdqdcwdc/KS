@@ -43,7 +43,7 @@ das Mo­dell der li­be­ra­len De­mo­kra­tie cha­rak­te­ri­sie­ren
 
 
 # Regimetypologie
-Wolfgang Merkel unterscheidet in seiner Regimetypologie sechs analytische Dimensionen, die zur systematischen Klassifikation politischer Systeme dienen. Diese Kriterien ermöglichen eine differenzierte Analyse von Demokratien, Autokratien und hybriden Regimen:
+Wolfgang Merkel unterscheidet in seiner Regimetypologie sechs Dimensionen, die zur systematischen Klassifikation politischer Systeme dienen. Diese Kriterien ermöglichen eine differenzierte Analyse von Demokratien, Autokratien und hybriden Regimen:
 - **Herrschaftslegitimation**: Bezeichnet die Art und Weise, wie politische Herrschaft begründet und vom Volk akzeptiert wird – etwa durch Wahlen, Ideologie, Tradition oder Religion.
 - **Herrschaftszugang**: Beschreibt, wie politische Macht erlangt werden kann – ob dieser Zugang offen, wettbewerblich und reguliert ist oder durch Machtmonopole und Ausschlüsse geprägt wird.
 - **Herrschaftsanspruch**: Bestimmt den Umfang, in dem politische Herrschaft das gesellschaftliche Leben durchdringt – von begrenzt (z. B. nur Politik) bis total (z. B. auch Privatleben).
