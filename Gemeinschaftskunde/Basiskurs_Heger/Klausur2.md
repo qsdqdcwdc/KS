@@ -451,6 +451,7 @@ Nachdem der Kanzler die Vertrauensfrage verloren hat, löste Bundespräsident Fr
 - **Mehrheitsmodelle** bieten **klare Verantwortlichkeit** und meist stabile Regierungen, erkaufen dies jedoch mit **verzerrter Repräsentation** und vielen „verlorenen“ Stimmen.  
 - **Verhältnismodelle** gewährleisten **exakte Stimmen-Sitz-Relationen** und starke Pluralität, müssen dafür **komplexe Koalitionen** aushandeln, bevor handlungsfähige Regierungen stehen.
 
+so ein rumgrabber
 
 # Urteilskriterien 
  **Hinweis:** Ausdrücke wie beschreiben, analysieren, prüfen, vergleichen und weitere werden in dieser Abteilung nicht als Bidungsplan Operatoren verwendet.
