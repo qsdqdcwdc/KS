@@ -40,14 +40,6 @@ das Mo­dell der li­be­ra­len De­mo­kra­tie cha­rak­te­ri­sie­ren
 - Welche Bedeutung haben demokratische Konfliktlösungsverfahren für die Gesellschaft?
 
 
-### Demtypen
-Mo­del­le der De­mo­kra­tie cha­rak­te­ri­sie­ren (ple­bis­zi­tär – re­prä­sen­ta­tiv, par­la­men­ta­risch – prä­si­den­ti­ell, Kon­kor­danz – Kon­kur­renz)
-
-### Staats­struk­tur­prin­zi­pi­en
-Staats­struk­tur­prin­zi­pi­en nach Art. 20, 23, 24 GG er­läu­tern (De­mo­kra­tie, Rechts­staat, Bun­des­staat, Re­pu­blik, So­zi­al­staat, of­fe­ne Staat­lich­keit)
-
-
-
 
 # Regimetypologie
 Wolfgang Merkel unterscheidet in seiner Regimetypologie sechs analytische Dimensionen, die zur systematischen Klassifikation politischer Systeme dienen. Diese Kriterien ermöglichen eine differenzierte Analyse von Demokratien, Autokratien und hybriden Regimen:
