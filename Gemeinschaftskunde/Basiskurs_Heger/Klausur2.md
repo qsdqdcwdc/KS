@@ -261,12 +261,13 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 
 
 ## Weitere Typen von nicht demokratischen Regierungsformen (weiterführendes wissen)
-### Klassische und moderne Varianten
+### Diktaruren
 
 - **Personalistische Diktatur:** Macht liegt fast ausschließlich in den Händen eines einzelnen Führers; Institutionen dienen primär seiner persönlichen Herrschaft. *Beispiel:* Turkmenistan unter Saparmurat Niyazov.
 - **Militärdiktatur:** Offiziere / eine Junta übernehmen nach einem Putsch die Kontrolle; das Militär besetzt Schlüsselpositionen von Regierung und Verwaltung. *Beispiel:* Chile 1973 – 1990 unter Augusto Pinochet. 
 - **Parteidiktatur (Einparteienstaat):**  Eine einzige Partei monopolisiert politische Macht; Opposition ist verboten oder strikt reguliert. *Beispiel:* Volksrepublik China (KPCh). 
-- **Überwachungs- bzw. Digitale Diktatur:** Flächendeckende elektronische Überwachung, Big-Data-Analyse und KI dienen der Echtzeit-Kontrolle von Gesellschaft und Opposition (z. B. Sozialkreditsystem in China). 
+- **Digitale Diktatur:** Flächendeckende elektronische Überwachung, Big-Data-Analyse und KI dienen der Echtzeit-Kontrolle von Gesellschaft und Opposition (z. B. Sozialkreditsystem in China).
+- **Überwachungsstaat** bezeichnet einen Staat, der seine Bevölkerung systematisch und großflächig mittels technischer Überwachung (z. B. Kameras, Telefon- / Internet-Monitoring, KI-gestützter Gesichtserkennung) kontrolliert; die Überwachung wird dabei zu einem zentralen Herrschaftsinstrument und gefährdet Privatsphäre wie Bürgerrechte. *Beispiele:* Chinas Programm „Sharp Eyes“.
 - **Theokratische Diktatur:** Geistliche legitimieren und führen den Staat; religiöse Normen dominieren das Recht. *Beispiel:* Islamische Republik Iran.
 
 ### Hybride Regime (Mischformen zwischen Autokratie und Demokratie)
