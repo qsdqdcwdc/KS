@@ -131,7 +131,7 @@ Lehrerfortbildung Baden-Württemberg: [Modelle der Demokratie](https://lehrerfor
 #### Direkte Demokratie
 
 - **Definition**: Form der Demokratie, in der politische Entscheidungen direkt vom Volk getroffen werden.
-- **Merkmale**: Entscheidungen werden durch Volksabstimmungen getroffen. Instrumente: Volksbegehren, Volksentscheid, Referendum.
+- **Merkmale**:  Ständige unmittelbare Beteiligung der Aktivbürgerschaft an der Staatstätigkeit durch Volksinitiativen, Volksbegehren und Volks abstimmungen.  Die Träger des Volkswillens sind mündige Bürger. 
 - **Beispiel**: Die Schweiz  ist nahr an direkte Demokratie weden regelmäßige Volksabstimmungen. 
 
 Reine Formen der Direktendemokratie kommen fast nicht vor.
@@ -139,7 +139,7 @@ Reine Formen der Direktendemokratie kommen fast nicht vor.
 #### Repräsentative Demokratie
 
 - **Definition**: In der repräsentativen Demokratie wählt das Volk Vertreter, die politische Entscheidungen in seinem Namen treffen.
-- **Merkmale**: Entscheidungen werden von gewählten Parlamenten getroffen. Bürgerbeteiligung erfolgt hauptsächlich durch Wahlen. 
+- **Merkmale**: Mittelbare Beteiligung der Bürger an der Staatstätigkeit durch Wahl der Parlament, die für die Dauer der Wahlperiode in Vertretung des Volkes handelt.
 - **Beispiel**: Deutschland – Bürger wählen Bundestagsabgeordnete, die Gesetze beschließen.
 
 In der Realität bestehen viele Demokratien aus einer Mischform beider Elemente, jedoch dominiert meist eine Ausprägung.
