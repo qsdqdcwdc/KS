@@ -249,7 +249,7 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 
 **Typische Merkmale**
 
-## Regimetypologie angewandt auf Diktaturen
+## Regimetypologie Vergleich
 | **Dimension** | **Demokratie** | **Autoritäre Diktatur** | **Totalitäre Diktatur** |
 |---------------|---------------|-------------------------|-------------------------|
 | **Herrschafts­legitimation** | Legitimation durch Volkssouveränität – regelmäßige, freie und faire Wahlen, Mehrparteien-Wettbewerb, Schutz der Grund- und Menschenrechte  | Stützt sich auf Ordnung, Sicherheit oder Tradition; ideologische Begründung ist oberflächlich oder fehlt | Beruft sich auf eine allumfassende Ideologie und Führerkult (z. B. Marxismus-Leninismus, Faschismus) |
