@@ -250,14 +250,15 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 **Typische Merkmale**
 
 ## Regimetypologie angewandt auf Diktaturen
-| Dimension           | Autoritäre Diktatur | Totalitäre Diktatur |
-|---------------------|---------------------|---------------------|
-| **Herrschaftslegitimation** | Stützt sich auf Ordnung, Sicherheit oder Tradition. Ideologische Begründung ist oberflächlich oder fehlt. | Beruft sich auf eine umfassende Ideologie, die alle Lebensbereiche erklärt, Führerkult. (z. B. Marxismus-Leninismus, Faschismus) |
-| **Herrschaftszugang** | begrenzt bzw. geschlossen; Machtwechsel läuft informell in Elite- oder Militärkreisen. Wettbewerbswahlen sind ausgeschlossen oder bedeutungslos. | völlig geschlossen; Partei/Führer erlangt Macht meist revolutionär oder per Gleichschaltung |
-| **Herrschaftsanspruch** | Regime kontrolliert Politik, toleriert weitgehend das Privatleben. Eingriffe erfolgen bei Bedrohung der Stabilität.| unbegrenzt; politisches, soziales und privates Leben sollen ideologisch durchdrungen werden |
-| **Herrschaftsmonopol** | bei Führer/Oligarchie, gesichert durch Repression | bei ideologisch legitimiertem Führer oder Einheitspartei, gesichert durch umfassende Repression |
-| **Herrschaftsstruktur** | eingeschränkte Pluralität; begrenzte Institutionalisierung: Personalisiert, schwach formalisiert, aber Verwaltung arbeitet pragmatisch. | monistisches System; Partei, Staat und Gesellschaft verschmelzen |
-| **Herrschaftsweise** |Repression trifft gezielt Regimegegner; Mehrheit bleibt unbehelligt, solange sie passiv ist. Propaganda ergänzt Zwang, ist aber nicht allgegenwärtig.| systematisch repressiv, Terror als Herrschaftsinstrument, Umerziehung und Massenmobilisierung |
+| **Dimension** | **Demokratie** | **Autoritäre Diktatur** | **Totalitäre Diktatur** |
+|---------------|---------------|-------------------------|-------------------------|
+| **Herrschafts­legitimation** | Legitimation durch Volkssouveränität – regelmäßige, freie und faire Wahlen, Mehrparteien-Wettbewerb, Schutz der Grund- und Menschenrechte  | Stützt sich auf Ordnung, Sicherheit oder Tradition; ideologische Begründung ist oberflächlich oder fehlt | Beruft sich auf eine allumfassende Ideologie und Führerkult (z. B. Marxismus-Leninismus, Faschismus) |
+| **Herrschafts­zugang** | Offener, wettbewerblicher Zugang zu Ämtern über transparente Wahlen; jede/r Wahlberechtigte kann kandidieren  | Begrenzt bzw. geschlossen; Machtwechsel informell in Elite- oder Militärkreisen; Wettbewerbs­wahlen bedeutungslos | Völlig geschlossen; Partei/Führer gelangt meist revolutionär oder per Gleichschaltung an die Macht |
+| **Herrschafts­anspruch** | Verfassungsgemäß eng begrenzt und verteilt (Gewalten­teilung); keine Instanz steht über der Verfassung  | Regime kontrolliert Politik, toleriert weitgehend Privatleben; Eingriffe bei Bedrohung der Stabilität | Unbegrenzt; politisches, soziales und privates Leben sollen ideologisch durchdrungen werden |
+| **Herrschafts­monopol** | Liegt bei demokratisch legitimierten Organen | Führer/Oligarchie hält Monopol, gesichert durch Repression | Einheitspartei bzw. ideologisch legitimierter Führer; umfassende Repression sichert Monopol |
+| **Herrschafts­struktur** | Pluralistisch: ausgeprägte Gewalten­teilung, Rechtsstaatlichkeit, starke Zivilgesellschaft | Semipluralistisch; personalisiert, schwach formalisiert, Verwaltung arbeitet pragmatisch | Monistisches System; Partei, Staat und Gesellschaft verschmelzen |
+| **Herrschafts­weise** | Partizipativ, transparent, rechenschaftspflichtig | Selektive Repression gegen Regimegegner; Propaganda ergänzend, aber nicht allgegenwärtig | Systematisch repressiv; Terror, Umerziehung und Zwangs­mobilisierung sind Herrschafts­instrumente |
+
 
 # Staatsstrukturprinzipien des Grundgesetzes  
 
