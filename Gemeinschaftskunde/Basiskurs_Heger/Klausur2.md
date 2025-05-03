@@ -4,7 +4,7 @@
 	<em>QR-Code scannen um dieses Dokument auf dem iPad zu öffnen</em>
 </p>
 
-1. <code>Dieses Dokument kann Fehler, Unvollständigkeiten oder Auslassungen enthalten. Ich übernehme keine Gewähr dafür, dass es alle für die Klausur relevanten Themen abdeckt. </code>
+1. <code>Dieses Dokument kann Fehler, Unvollständigkeiten oder Auslassungen enthalten. </code>
 
 2. <code>Korrekturen und Ergänzungen zu diesem Dokument sind erwünscht. Bitte fügen Sie diese in [Google Docs](https://docs.google.com/document/d/12Gqtnn5DdQmN6GDQs-ADqzZjTsvVcVF5w9dpGsSQXM4/edit?usp=sharing) (oder mir persönlich senden) ein. Ich werde versuchen, sie so schnell wie möglich zu integrieren.</code>
 
