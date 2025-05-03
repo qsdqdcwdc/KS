@@ -194,7 +194,7 @@ _(**Kabinett**: Das Kabinett ist die Gesamtheit der Minister*innen unter Vorsitz
 
 ### Konkordanzdemokratie
 
-- **Definition**: In einer Konkordanzdemokratie werden politische Entscheidungen durch Konsens und Einbindung möglichst vieler gesellschaftlicher Gruppen getroffen.
+- **Definition**: In der Konkordanzdemokratie werden Konfliktregelungen und politische Entscheidungen weniger über den Wettbewerb als vielmehr über Verhandlung, Kompromiss  und Einbindung möglichst vieler gesellschaftlicher Gruppen getroffen.
 - **Merkmale**: Breite Koalitionen und Einbindung verschiedener Parteien in die Regierung.  Entscheidungen durch Verhandlungen und Kompromisse. Schutz von Minderheiten durch Proporzsysteme.  Langwierige Aushandlungs prozesse, hohen Konsensbildungsbedarf.
 - **Beispiel**: Die Schweiz  ist nahr an Konkordanzdemokratie
 
