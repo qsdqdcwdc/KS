@@ -260,6 +260,22 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 | **Herrschafts­weise** | Partizipativ, transparent, rechenschaftspflichtig | Selektive Repression gegen Regimegegner; Propaganda ergänzend, aber nicht allgegenwärtig | Systematisch repressiv; Terror, Umerziehung und Zwangs­mobilisierung sind Herrschafts­instrumente |
 
 
+## Weitere Typen von nicht demokratischen Regierungsformen (weiterführendes wissen)
+### Klassische und moderne Varianten
+
+- **Personalistische Diktatur:** Macht liegt fast ausschließlich in den Händen eines einzelnen Führers; Institutionen dienen primär seiner persönlichen Herrschaft. *Beispiel:* Turkmenistan unter Saparmurat Niyazov.
+- **Militärdiktatur:** Offiziere / eine Junta übernehmen nach einem Putsch die Kontrolle; das Militär besetzt Schlüsselpositionen von Regierung und Verwaltung. *Beispiel:* Chile 1973 – 1990 unter Augusto Pinochet. 
+- **Parteidiktatur (Einparteienstaat):**  Eine einzige Partei monopolisiert politische Macht; Opposition ist verboten oder strikt reguliert. *Beispiel:* Volksrepublik China (KPCh). 
+- **Überwachungs- bzw. Digitale Diktatur:** Flächendeckende elektronische Überwachung, Big-Data-Analyse und KI dienen der Echtzeit-Kontrolle von Gesellschaft und Opposition (z. B. Sozialkreditsystem in China). 
+- **Theokratische Diktatur:** Geistliche legitimieren und führen den Staat; religiöse Normen dominieren das Recht. *Beispiel:* Islamische Republik Iran.
+
+### Hybride Regime (Mischformen zwischen Autokratie und Demokratie)
+**Hybride-Regime** bezeichnet ein politisches System, das gleichzeitig demokratische Elemente (etwa Wahlen und begrenzten Pluralismus) mit autoritären Praktiken (z. B. politischer Repression, eingeschränkten Freiheitsrechten) verbindet; es entsteht häufig aus einer unvollständigen Demokratisierung oder einer schrittweisen Autokratisierung. 
+- **Elektorale Autokratie / Elektoraler Autoritarismus** Regelmäßige Wahlen finden statt, genügen jedoch nicht den Mindeststandards von Freiheit und Fairness; ein Machtwechsel ist faktisch ausgeschlossen. 
+- **Illiberale Demokratie** Wahlen werden abgehalten, doch Bürger- und Freiheitsrechte, Gewaltenteilung und Rechtsstaatlichkeit sind systematisch eingeschränkt. 
+- **Dominant-Party-System** Mehrparteienwahlen bestehen, aber eine Partei bleibt langfristig nahezu unangefochten an der Macht. 
+
+
 # Staatsstrukturprinzipien des Grundgesetzes  
 
 **Staatsstrukturprinzipien** sind die verfassungsrechtlichen Grundpfeiler, die Aufbau, Machtverteilung und Aufgaben des deutschen Staates bestimmen (Art. 20 GG). Die Prinzipien stehen unter der **Ewigkeitsgarantie** des Art. 79 Abs. 3 GG ihr Wesenskern darf niemals abgeschafft werden. Darüber hinaus öffnet das Grundgesetz den Staat nach außen: **Art. 23 GG** verankert die Mitwirkung an der Europäischen Union, **Art. 24 GG** erlaubt die Übertragung von Hoheitsrechten auf internationale Organisationen – Grundlage der sog. **offenen Staatlichkeit**.
