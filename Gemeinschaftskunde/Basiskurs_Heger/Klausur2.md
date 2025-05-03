@@ -277,28 +277,16 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 - **Dominant-Party-System** Mehrparteienwahlen bestehen, aber eine Partei bleibt langfristig nahezu unangefochten an der Macht. 
 
 
-# Staatsstrukturprinzipien des Grundgesetzes  
-
-**Staatsstrukturprinzipien** sind die verfassungsrechtlichen Grundpfeiler, die Aufbau, Machtverteilung und Aufgaben des deutschen Staates bestimmen (Art. 20 GG). Die Prinzipien stehen unter der **Ewigkeitsgarantie** des Art. 79 Abs. 3 GG ihr Wesenskern darf niemals abgeschafft werden. Darüber hinaus öffnet das Grundgesetz den Staat nach außen: **Art. 23 GG** verankert die Mitwirkung an der Europäischen Union, **Art. 24 GG** erlaubt die Übertragung von Hoheitsrechten auf internationale Organisationen – Grundlage der sog. **offenen Staatlichkeit**.
-
-### Artikel 20 GG – „das Staatsfundament“
-1. Verankert die fünf Staatsstrukturprinzipien: Demokratie, Republik, Bundesstaat(Föderalismus), Sozialstaat, Rechtsstaat.  
-2. Enthält das Widerstandsrecht (Abs. 4) gegen jeden, der diese Ordnung zu beseitigen versucht.
-   
-### Artikel 23 GG – Europäische Integration
-- Verpflichtet den Bund, **an der Entwicklung der Europäischen Union mitzuwirken**, sofern die EU demokratische, rechts-, sozial- und föderalstaatliche Standards sowie einen ähnlichen Grundrechtsschutz gewährleistet.  
-- Jeder Integrationsschritt braucht ein **Zustimmungsgesetz** des Bundestages und eine starke Beteiligung des Bundesrates (Länderinteressen).  
-
-### Artikel 24 GG – Übertragung von Hoheitsrechten
-- Ermächtigt den Bund, **Hoheitsrechte auf zwischenstaatliche Einrichtungen** (z. B. UN, NATO) zu übertragen, um Frieden und Sicherheit zu fördern.  
-- Durch Abs. 1a können auch Länder begrenzt Hoheitsrechte auf grenznachbarschaftliche Einrichtungen übertragen.  
-- Die Übertragung ist verfassungsrechtlich zulässig, solange die Verfassungsidentität gewahrt bleibt.
 
 
-## Staatsstrukturprinzipien
+
+# Staatsstrukturprinzipien
+
 Video: [5 Staatsstrukturprinzipien einfach erklärt](https://www.youtube.com/watch?v=qEWRhNOkphg)
 
-Lehrerfortbildung Baden-Württemberg: [Staatstrukturprinzipien](https://lehrerfortbildung-bw.de/u_gewi/gk/gym/bp2016/fb6/2_grund/1_system/6_struktur/) 
+Lehrerfortbildung Baden-Württemberg: [Staatstrukturprinzipien](https://lehrerfortbildung-bw.de/u_gewi/gk/gym/bp2016/fb6/2_grund/1_system/6_struktur/)
+
+**Staatsstrukturprinzipien** sind die verfassungsrechtlichen Grundpfeiler, die Aufbau, Machtverteilung und Aufgaben des deutschen Staates bestimmen. Die Prinzipien stehen unter der **Ewigkeitsgarantie** des Art. 79 Abs. 3 GG ihr Wesenskern darf niemals abgeschafft werden. Darüber hinaus öffnet das Grundgesetz den Staat nach außen: **Art. 23 GG** verankert die Mitwirkung an der Europäischen Union, **Art. 24 GG** erlaubt die Übertragung von Hoheitsrechten auf internationale Organisationen – Grundlage der sog. **offenen Staatlichkeit**.
 
 ### Demokratiesprinzip
 Das Demokratieprinzip definiert, dass Deutschland eine parlamentarische Demokratie ist. Alle Staatsgewalt geht vom Volk aus (Volksherrschaft). Die Wahl politischer Repräsentanten erfolgt in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl. Das Grundgesetz gibt den Bürgern das **Widerstandsrecht**: das Recht aller Deutschen, gegen jeden Widerstand zu leisten, der die freiheitlich-demokratische Grundordnung beseitigen will. (Art. 20 GG)
@@ -319,6 +307,22 @@ Das Rechtsstaatsprinzip bedeutet, dass die Staatsgewalt an Gesetz und Recht gebu
 **Offene Staatlichkeit** beschreibt das verfassungsrechtliche Prinzip, nach dem Deutschland bereit ist, Hoheitsrechte auf zwischen- oder überstaatliche Institutionen (z. B. EU,  NATO, Internationaler Strafgerichtshof) zu übertragen. Die Bundesrepublik versteht sich dabei nicht als abgeschlossener Nationalstaat, sondern als Teil einer internationalen Werte- und Rechtsgemeinschaft. (Art. 23 und 24 GG)
 
 _(**Hoheitsrechte** sind die rechtlich anerkannten Befugnisse eines Staates, auf seinem Territorium verbindliche Entscheidungen zu treffen und durchzusetzen. Dazu zählen insbesondere: die Gesetzgebung, die Ausübung der vollziehenden Gewalt und die Rechtsprechung)_
+
+# Relevante Artikel des Grundgesetzes  
+
+### Artikel 20 GG – „das Staatsfundament“
+1. Verankert die fünf Staatsstrukturprinzipien: Demokratie, Republik, Bundesstaat(Föderalismus), Sozialstaat, Rechtsstaat.  
+2. Enthält das Widerstandsrecht (Abs. 4) gegen jeden, der diese Ordnung zu beseitigen versucht.
+   
+### Artikel 23 GG – Europäische Integration
+- Verpflichtet den Bund, **an der Entwicklung der Europäischen Union mitzuwirken**, sofern die EU demokratische, rechts-, sozial- und föderalstaatliche Standards sowie einen ähnlichen Grundrechtsschutz gewährleistet.  
+- Jeder Integrationsschritt braucht ein **Zustimmungsgesetz** des Bundestages und eine starke Beteiligung des Bundesrates (Länderinteressen).  
+
+### Artikel 24 GG – Übertragung von Hoheitsrechten
+- Ermächtigt den Bund, **Hoheitsrechte auf zwischenstaatliche Einrichtungen** (z. B. UN, NATO) zu übertragen, um Frieden und Sicherheit zu fördern.  
+- Durch Abs. 1a können auch Länder begrenzt Hoheitsrechte auf grenznachbarschaftliche Einrichtungen übertragen.  
+- Die Übertragung ist verfassungsrechtlich zulässig, solange die Verfassungsidentität gewahrt bleibt.
+
 
 # Urteilskriterien 
  **Hinweis:** Ausdrücke wie beschreiben, analysieren, prüfen, vergleichen und weitere werden in dieser Abteilung nicht als Bidungsplan Operatoren verwendet.
