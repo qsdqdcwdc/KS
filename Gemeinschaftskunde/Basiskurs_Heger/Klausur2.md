@@ -250,12 +250,12 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 ## Regimetypologie angewandt auf Diktaturen
 | Dimension           | Autoritäre Diktatur | Totalitäre Diktatur |
 |---------------------|---------------------|---------------------|
-| **Herrschaftslegitimation** | häufig traditionell, militärisch oder charismatisch begründet (z. B. Putsch, Dynastie) | ideologisch begründet, umfassende Weltanschauung legitimiert Macht (z. B. Marxismus-Leninismus, Faschismus) |
-| **Herrschaftszugang** | begrenzt bzw. geschlossen; Machtübernahme oft durch Militär, Coup oder Erbfolge | völlig geschlossen; Partei/Führer erlangt Macht meist revolutionär oder per Gleichschaltung |
-| **Herrschaftsanspruch** | umfangreich, aber primär politisch; Eingriffe in Privatleben selektiv | unbegrenzt; politisches, soziales und privates Leben sollen ideologisch durchdrungen werden |
+| **Herrschaftslegitimation** | Stützt sich auf Ordnung, Sicherheit oder Tradition. Ideologische Begründung ist oberflächlich oder fehlt. | Beruft sich auf eine umfassende Ideologie, die alle Lebensbereiche erklärt, Führerkult. (z. B. Marxismus-Leninismus, Faschismus) |
+| **Herrschaftszugang** | begrenzt bzw. geschlossen; Machtwechsel läuft informell in Elite- oder Militärkreisen. Wettbewerbswahlen sind ausgeschlossen oder bedeutungslos. | völlig geschlossen; Partei/Führer erlangt Macht meist revolutionär oder per Gleichschaltung |
+| **Herrschaftsanspruch** | Regime kontrolliert Politik, toleriert weitgehend das Privatleben. Eingriffe erfolgen bei Bedrohung der Stabilität.| unbegrenzt; politisches, soziales und privates Leben sollen ideologisch durchdrungen werden |
 | **Herrschaftsmonopol** | bei Führer/Oligarchie, gesichert durch Repression | bei ideologisch legitimiertem Führer oder Einheitspartei, gesichert durch umfassende Repression |
-| **Herrschaftsstruktur** | eingeschränkte Pluralität (Militär, Partei-Eliten); begrenzte Institutionalisierung | monistisches System; Partei, Staat und Gesellschaft verschmelzen |
-| **Herrschaftsweise** | von partiell rechtsstaatlich bis repressiv; Gewalt selektiv | systematisch repressiv, Terror als Herrschaftsinstrument, Umerziehung und Massenmobilisierung |
+| **Herrschaftsstruktur** | eingeschränkte Pluralität; begrenzte Institutionalisierung: Personalisiert, schwach formalisiert, aber Verwaltung arbeitet pragmatisch. | monistisches System; Partei, Staat und Gesellschaft verschmelzen |
+| **Herrschaftsweise** |Repression trifft gezielt Regimegegner; Mehrheit bleibt unbehelligt, solange sie passiv ist. Propaganda ergänzt Zwang, ist aber nicht allgegenwärtig.| systematisch repressiv, Terror als Herrschaftsinstrument, Umerziehung und Massenmobilisierung |
 
 
 
