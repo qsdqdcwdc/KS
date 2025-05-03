@@ -276,9 +276,6 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 - **Dominant-Party-System** Mehrparteienwahlen bestehen, aber eine Partei bleibt langfristig nahezu unangefochten an der Macht. 
 
 
-
-
-
 # Staatsstrukturprinzipien
 
 Video: [5 Staatsstrukturprinzipien einfach erklärt](https://www.youtube.com/watch?v=qEWRhNOkphg)
@@ -368,8 +365,6 @@ _(**Instant-Runoff/Alternative Vote (IRV)**: alle Präferenzen werden in einem W
 _(**Stichwahl:** bezeichnet den entscheidenden, letzten Wahlgang nach dem Mehrheitswahlrecht, wenn die Kandidaten oder Kandidatinnen in den vorangegangenen Wahlgängen nicht die erforderliche Mehrheit Vorerreicht haben)_
 
 
-
-
 ## Verhältniswahlsystem
 
 **Definition** – Ein **Verhältniswahlsystem** verteilt die Sitze eines Parlaments möglichst exakt entsprechend dem Stimmenanteil der Parteien oder Kandidat*innen. Jede Stimme soll mithin (nahezu) dasselbe Gewicht bei der Mandats­zuteilung besitzen.
@@ -429,9 +424,33 @@ Effekte:
 - **Direktwahl-Repräsentation:** Überschüssige Wahlkreissieger verlieren ihr Mandat; einzelne Wahlkreise könnten ohne direkt gewählte Vertretung bleiben.  
 - **Fortbestehende Grundmandatsklausel:** Parteien mit konzentrierter regionaler Unterstützung (z. B. Die Linke) behalten trotz Unter-5-%-Ergebnissen eine Eintrittschance.  
 
-### Wie die letzte Bundestagswahl durchgeführt wurde
+### letzte Bundestagswahl
 
 Nachdem der Kanzler die Vertrauensfrage verloren hat, löste Bundespräsident Frank-Walter Steinmeier den zwanzigsten Bundestag am 27. Dezember 2024 auf und setzte Neuwahlen für **Sonntag, den 23. Februar 2025**, an. Diese vorgezogene Wahl folgte bereits den neuen Wahlrechtsreform vom 2023  aber wegen der Entscheidung von dem Bundesverfassungsgericht wurde Grundmandatsklausel trotzdem angewendet Dadurch zog etwa **Die Linke** mit knapp unter fünf Prozent Zweitstimmen und vier Berliner Direktmandaten in mit 64 Sitze den Bundestag ein. Besonders auffällig war der Aufstieg der AfD (20,8 % der Zweitstimmen), die ihren Sitzanteil fast verdoppelte und mit 152 Mandaten zweitstärkste Kraft wurde, während die FDP an der Fünf-Prozent-Hürde scheiterte und gar nicht mehr im Parlament vertreten ist. Zugleich erreichte die Wahlbeteiligung mit 82,5 Prozent den höchsten Wert seit der Wiedervereinigung.
+
+
+# Vergleich des Bundestagswahlsystems mit reinen Mehrheits- und Verhältniswahlsystemen  
+
+### Legitimation
+- **Bundestag:** Jede Stimme hat zweifachen Ausdruck – lokale Bindung + proportionaler Fairnessausgleich. Ergebnis gilt als breit legitimiert, weil kaum Stimmen vollständig verloren gehen.  
+- **Mehrheitswahl:** Legitimität entsteht aus der Einfachheit des „Wer zuerst im Ziel ist“; Kritiker verweisen auf geringe Stimmen-/Sitz-Kongruenz.  
+- **Verhältniswahl:** Legitimität durch rechnerische Genauigkeit; Risiko fragmentierter Parlamente, wenn sehr viele Kleinstparteien einziehen.
+
+### Repräsentation  
+- **Bundestag:** Geringe Verzerrung.  
+- **Mehrheitswahl:** Oft unterrepräsentiert: geografisch gestreute Minderheiten; überrepräsentiert: regional konzentrierte Großparteien.  
+- **Verhältniswahl:** Geringe Verzerrung; ermöglicht neuen oder nischigen Parteien den Einzug.
+
+### Regierungsbildung  
+- **Bundestag:** Hohe Koalitionskultur; jederzeit mögliches konstruktives Misstrauensvotum stärkt Stabilität durchs „Regierung-auf-Zeit“-Prinzip.  
+- **Mehrheitswahl:** Sitzbonus liefert häufig sofortige Mehrheitsregierungen.  
+- **Verhältniswahl:** Ausgleichender, konsens-orientierter Stil; Regierungsbildung zeitintensiver, aber Minderheiten besser eingebunden.
+
+### Fazit
+- **Bundestagsmodell** kombiniert Vorteile beider Prinzipien: **hohe Proportionalität** bei gleichzeitig **persönlicher Direktlegitimation**. Reform 2023 reduziert Übergröße, erhält aber Listenproportionalität.
+- **Mehrheitsmodelle** bieten **klare Verantwortlichkeit** und meist stabile Regierungen, erkaufen dies jedoch mit **verzerrter Repräsentation** und vielen „verlorenen“ Stimmen.  
+- **Verhältnismodelle** gewährleisten **exakte Stimmen-Sitz-Relationen** und starke Pluralität, müssen dafür **komplexe Koalitionen** aushandeln, bevor handlungsfähige Regierungen stehen.
+
 
 # Urteilskriterien 
  **Hinweis:** Ausdrücke wie beschreiben, analysieren, prüfen, vergleichen und weitere werden in dieser Abteilung nicht als Bidungsplan Operatoren verwendet.
