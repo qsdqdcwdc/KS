@@ -76,7 +76,7 @@ Wolfgang Merkel unterscheidet in seiner Regimetypologie sechs analytische Dimens
 </details>
 
 
-_(Dies Scheiß steht nicht im Buch und wurde im Unterricht nie behandelt aber diese Dimensionen sind verdächtlich nah an die die Inkompetenzcheck genannt sind.)_
+_(Dieses Thema steht nicht im Buch und wurde im Unterricht nie behandelt aber diese Dimensionen sind verdächtlich nah an die die Inkompetenzcheck genannt sind.)_
 # Demokratie
 
 **Definition:** Demokratie bezeichnet eine Herrschaftsform, in der die politische Macht vom Volk ausgeht. Die Bürgerinnen und Bürger haben das Recht auf politische Teilhabe und bestimmen durch Wahlen und Abstimmungen über die Zusammensetzung der Regierung und die Gesetzgebung.[^1] Wesentliche Merkmale einer Demokratie sind: 
@@ -222,7 +222,8 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 
 **Typische Merkmale**
 - **Privatleben** bleibt teilweise unbehelligt, solange es die politische Ordnung nicht bedroht.
-- **Begrenzter Pluralismus:** Opposition, Medien und Zivilgesellschaft werden kontrolliert, aber nicht vollständig ausgelöscht.  
+- **Begrenzter Pluralismus:** Opposition, Medien und Zivilgesellschaft werden kontrolliert, aber nicht vollständig ausgelöscht.
+- **Gewaltenteilung stark eingeschränkt** oder nur auf dem Papier vorhanden.
 - **Politische Passivität**: Bevölkerung soll loyal oder apathisch bleiben; keine Massenmobilisierung.  
 - **Selektive Repression**: Gewalt richtet sich gezielt gegen Regimegegner. 
 - **Führer/Oligarchie**: Macht basiert auf Militär, Sicherheitsapparat, Klientelismus.  
