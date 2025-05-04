@@ -304,6 +304,8 @@ Das Rechtsstaatsprinzip bedeutet, dass die Staatsgewalt an Gesetz und Verfassung
 
 _(**Hoheitsrechte** sind die rechtlich anerkannten Befugnisse eines Staates, auf seinem Territorium verbindliche Entscheidungen zu treffen und durchzusetzen. Dazu zählen insbesondere: die Gesetzgebung, die Ausübung der vollziehenden Gewalt und die Rechtsprechung)_
 
+_(Meistens werden auf dem Internet nur die ersten fünf (Demokratie, Republik, Bundesstaat, Sozialstaat, Rechtsstaat) als Staatsstrukturprinzipien gekennzeichnet aber die Tabelle aus Lehrerfortbildung hat dazu auch offene Staatlichkeit addiert.)_
+
 # Relevante Artikel des Grundgesetzes  
 
 ### Artikel 20 GG – „das Staatsfundament“
