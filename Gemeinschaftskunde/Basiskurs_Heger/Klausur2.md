@@ -11,17 +11,7 @@
 3. <code>Korrekturen und Ergänzungen zu diesem Dokument sind erwünscht. Bitte fügen Sie diese in [Google Docs](https://docs.google.com/document/d/12Gqtnn5DdQmN6GDQs-ADqzZjTsvVcVF5w9dpGsSQXM4/edit?usp=sharing) ein (oder senden Sie mir die persönlich). Ich werde versuchen, sie so schnell wie möglich zu integrieren.</code>
 
 
-
-
-## Grundlagen des politischen Systems
-
-### Ordnung und Struktur:
-- Welche unterschiedlichen Formen politischer Systeme gibt es?
-
-- Nach welchen Strukturprinzipien kann man politische Systeme gestalten?
-- Wie wirken politische Institutionen zusammen?
-- Welche unterschiedlichen Wirtschafts und Gesellschaftsordnungen gibt es?
-
+```
 das Mo­dell der li­be­ra­len De­mo­kra­tie cha­rak­te­ri­sie­ren
 (Li­be­ra­lis­mus: Men­schen- und Bür­ger­rech­te, Par­ti­zi­pa­ti­on, Plu­ra­lis­mus, Ver­fas­sung, Ge­wal­ten­tei­lung, Par­la­men­ta­ri­sie­rung, In­di­vi­dua­lis­mus, Markt­wirt­schaft)
 
@@ -41,7 +31,7 @@ das Mo­dell der li­be­ra­len De­mo­kra­tie cha­rak­te­ri­sie­ren
 - Nach welchen Werten und Interessen soll unsere Gesellschaft gestaltet werden?
 - Worin besteht das Gemeinwohl und wie kann man es messen?
 - Welche Bedeutung haben demokratische Konfliktlösungsverfahren für die Gesellschaft?
-
+```
 
 
 # Regimetypologie
