@@ -455,7 +455,6 @@ Damit liefert das Bundestagsmodell einen **ausgewogenen Kompromiss** zwischen Re
 
 # Ursachen des Nichtwählens 
 
-
 ### Zufriedenheit 
 Einige Demokratieforscher interpretieren eine moderate Wahlabstinenz nicht als Krisensymptom, sondern vielmehr als Indikator für ein funktionierendes demokratisches System, in dem Bürgerinnen und Bürger so großes Vertrauen in die Stabilität und Leistungsfähigkeit der politischen Institutionen haben, dass sie ihre demokratische Kontrollmöglichkeit durch Wahlen zeitweise nicht ausüben müssen. 
 
@@ -474,6 +473,37 @@ _(Unter **Stammparteien** versteht man Parteien, zu denen Wählerinnen und Wähl
 
 ###  Neue Beteiligungsformen
 Bürgerinnen und Bürger nutzen neue Beteiligungsformen (NGOs, Online-Aktivismus) und bewerten institutionelle Wahlen weniger als einziges Mitbestimmungsinstrument.  **Beispiel:** Die junge Generation engagiert sich eher bei Organisationen wie Greenpeace als in Parteien.  
+
+
+
+# Folgen der Niedrigen Wahlbeteiligung
+
+### Fehlende Legitimation
+Eine geringe Wahlbeteiligung kann die demokratische Legitimation gewählter Regierungen schwächen. Kritiker argumentieren dann oft, dass die Mehrheit der Bevölkerung den Mandatsträger gar nicht unterstützt habe und seine Entscheidungen daher nicht den wahren Volkswillen repräsentierten. Dies kann zu einer Kluft zwischen Bürgern und politischen Entscheidungsträgern führen.
+
+**Beispiel:** Wenn in einer Gemeinde nur 35% der Wahlberechtigten zur Kommunalwahl gehen und der siegreiche Bürgermeisterkandidat 40% dieser Stimmen erhält, wurde er effektiv nur von 14% der Wahlberechtigten gewählt. Bei kontroversen Entscheidungen, wie etwa dem Bau einer Umgehungsstraße durch ein Naturschutzgebiet, kann dieses Legitimationsdefizit zu verstärktem Widerstand führen.
+
+### Interessendurchsetzung aktiverer Minderheiten
+Niedrige Wahlbeteiligung begünstigt jene gesellschaftlichen Gruppen, die zuverlässig zur Wahl gehen. In der Praxis sind dies häufig ältere, wohlhabendere und höher gebildete Bürger. Die überproportionale politische Repräsentation bestimmter Interessen kann so zu einer verzerrten Ressourcenverteilung führen und bestehende soziale Ungleichheiten verstärken. Besonders ideologisch motivierte Wählergruppen haben oft eine höhere Wahlbeteiligung als moderate Wähler. Dies kann eine Radikalisierung des politischen Diskurses begünstigen und den gesellschaftlichen Zusammenhalt gefährden, da extremere Positionen überrepräsentiert werden.
+
+**Beispiel:** Bei einer Landtagswahl mit einer Gesamtwahlbeteiligung von nur 54% blieben moderate Wähler der Mitte aus Politikverdrossenheit zunehmend zu Hause, während Parteien an den Rändern des politischen Spektrums ihre Anhänger erfolgreich mobilisierten. Eine Partei mit nationalistischer Ausrichtung erreichte dadurch 18% der Stimmen, obwohl Nachwahlbefragungen ergaben, dass ihr Anteil bei vollständiger Wahlbeteiligung voraussichtlich nur bei 11% gelegen hätte.
+
+
+# Zusammenhang von sozialem Status (Milieuzugehörigkeit, Bildung) auf der Partizipation der Bürger
+
+### Status und Partizipation  
+Höherer sozialer Status schafft **Ressourcen** (Zeit, Geld, Wissen, Netzwerke) und ein stärkeres Gefühl politischer Kompetenz. Diese Ressourcen erleichtern Informationssuche, Senkung tatsächlicher oder wahrgenommener Beteiligungskosten und erhöhen die Aussicht, dass Engagement wirksam ist. Umgekehrt erleben Personen in prekären bzw. statusniedrigen Milieus Teilhabebarrieren: unsichere Erwerbsverhältnisse lassen weniger freie Zeit; zugleich verstärken wiederholte Erfahrungen fehlender Responsivität politischer Institutionen das Gefühl, „nichts ändern zu können“.  
+
+### Bildung und Partizipation  
+Höhere Bildung steigert erstens das politische Wissen, zweitens die Fähigkeit, komplexe Informationen einzuordnen, und drittens das Empfinden politischer Selbstwirksamkeit. In der deutschen Langzeitstudie *Politische Partizipation 2019* lag die Wahlbeteiligung unter Menschen mit Hochschulabschluss um 18 Prozentpunkte über jener ohne Abschluss.
+
+### Folgen für die Demokratie  
+- **Repräsentationslücke:** Wenn statusniedrige Gruppen systematisch seltener mitreden oder wählen, spiegeln Parlamente eher die Präferenzen ressourcenstarker Milieus.  
+- **Legitimitätsrisiko:** Wahrgenommenes „Überhört-Werden“ kann das Vertrauen in demokratische Institutionen verringern.  
+- **Politik-Bias:** Entscheidungsträger reagieren stärker auf organisierte, gut informierte Akteure; so werden etwa Bildungs- oder Steuerpolitik eher entlang der Interessen höherer Schichten gestaltet.  
+- **Populistische Mobilisierung:** Unrepräsentierte Bürger lassen sich leichter durch Parteien oder Bewegungen ansprechen, die versprechen, „die Stimme der Abgehängten“ zu sein.
+
+
 
 
 # Urteilskriterien 
