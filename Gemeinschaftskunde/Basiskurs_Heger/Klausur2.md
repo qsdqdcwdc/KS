@@ -616,7 +616,9 @@ Bei einem Nachbarschaftskonflikt über Lärmbelästigung vermittelte ein Mediato
 
 
 # Operatoren 
- 
+
+ist nicht fertig
+``` 
 ### Beschreiben (Anforderungsbereich I/ Reproduktion)
 **Beschreibung aus Bildungsplan**: Sachverhalte schlüssig wiedergeben
 
@@ -645,11 +647,11 @@ Interpretation: Falls nicht angegeben passende Urteilskriterien auswählen. Geme
 ### Bewerten (Anforderungsbereich III/Reflexion und Problemlösung)
 **Beschreibung aus Bildungsplan**: Aussagen, Vorschläge oder Maßnahmen beurteilen, ein begründetes Werturteil formulieren und die dabei zugrunde gelegten Wertmaßstäbe offenlegen.
 
-Interpretation:  Relevante Urteilskriterien auswählen oder vorgegebene nutzen. Maßnahme/Aussage anhand der einzelnen Urteilskriterien bewerten und gewichten (z. B. Stärke der Evidenz, Relevanz).   Wertmaßstäbe transparent machen: gewichten welche Kriterinen wichtiger sind (z.B Nachhaltigkeit oder Effizienz). Eine begründete Schlussfolgerung formulieren, das deutlich macht, ob die Maßnahme insgesamt als sinnvoll/vertretbar zu bewerten ist.
+Interpretation:  Relevante Urteilskriterien auswählen oder vorgegebene nutzen. Maßnahme/Aussage anhand der einzelnen Urteilskriterien bewerten und gewichten (z. B. Stärke der Evidenz, Relevanz).   Wertmaßstäbe transparent machen: gewichten welche Kriterinen wichtiger sind (z.B Nachhaltigkeit oder Effizienz). Eine begründete Schlussfolgerung formulieren, das deutlich macht, ob die Maßnahme insgesamt als sinnvoll/vertretbar zu bewerten ist. Eigene Meinung äußern.
 
 ### Erörtern (Anforderungsbereich III/Reflexion und Problemlösung)
 **Beschreibung aus Bildungsplan**: zu einer vorgegebenen These oder Problemstellung durch Abwägen von Pro- und Kontra-Argumenten ein begründetes Ergebnis formulieren
 
 Interpretation: These identifizieren. Pro- und Kontra-Argumente anhand passender Urteilskriterien sammeln.  Argumente gegeneinander abwägen: Stärke, Evidenzgrad und gesellschaftliche Relevanz bewerten. Eine begründete Schlussfolgerung formulieren, die die Abwägung zusammenfast und ein Gesamturteil ableitet.
-
+```
 
