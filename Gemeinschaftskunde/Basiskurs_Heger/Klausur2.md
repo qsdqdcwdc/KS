@@ -495,17 +495,28 @@ Niedrige Wahlbeteiligung begünstigt jene gesellschaftlichen Gruppen, die zuverl
 Höherer sozialer Status schafft **Ressourcen** (Zeit, Geld, Wissen, Netzwerke) und ein stärkeres Gefühl politischer Kompetenz. Diese Ressourcen erleichtern Informationssuche, Senkung tatsächlicher oder wahrgenommener Beteiligungskosten und erhöhen die Aussicht, dass Engagement wirksam ist. Umgekehrt erleben Personen in prekären bzw. statusniedrigen Milieus Teilhabebarrieren: unsichere Erwerbsverhältnisse lassen weniger freie Zeit; zugleich verstärken wiederholte Erfahrungen fehlender Responsivität politischer Institutionen das Gefühl, „nichts ändern zu können“.  
 
 ### Bildung und Partizipation  
-Höhere Bildung steigert erstens das politische Wissen, zweitens die Fähigkeit, komplexe Informationen einzuordnen, und drittens das Empfinden politischer Selbstwirksamkeit. In der deutschen Langzeitstudie *Politische Partizipation 2019* lag die Wahlbeteiligung unter Menschen mit Hochschulabschluss um 18 Prozentpunkte über jener ohne Abschluss.
+Höhere Bildung steigert das politische Wissen und das Empfinden politischer Selbstwirksamkeit. In der deutschen Langzeitstudie *Politische Partizipation 2019* lag die Wahlbeteiligung unter Menschen mit Hochschulabschluss um 18 Prozentpunkte über jener ohne Abschluss. Gleichzeitig schafft Bildung **soziale Netzwerke** (Schule, Universität) und ein Zugehörigkeitsgefühl zu politisch aktiven Gruppen.  
 
-### Folgen für die Demokratie  
-- **Repräsentationslücke:** Wenn statusniedrige Gruppen systematisch seltener mitreden oder wählen, spiegeln Parlamente eher die Präferenzen ressourcenstarker Milieus.  
-- **Legitimitätsrisiko:** Wahrgenommenes „Überhört-Werden“ kann das Vertrauen in demokratische Institutionen verringern.  
-- **Politik-Bias:** Entscheidungsträger reagieren stärker auf organisierte, gut informierte Akteure; so werden etwa Bildungs- oder Steuerpolitik eher entlang der Interessen höherer Schichten gestaltet.  
-- **Populistische Mobilisierung:** Unrepräsentierte Bürger lassen sich leichter durch Parteien oder Bewegungen ansprechen, die versprechen, „die Stimme der Abgehängten“ zu sein.
+### Jung/Alt und Partizipation  
+**Altersspezifische Ressourcenverteilung** prägt Partizipationsmuster:  
+- **Junge Menschen** verfügen über **digitale Kompetenzen** (Soziale Medien, Online-Petitionen) und flexible Zeitressourcen (Schule/Studium), nutzen aber seltener institutionalisierte Formen (Wahlen, Parteimitgliedschaft).
+- **Ältere Menschen** bringen **Erfahrungswissen** (politische Prozesse), finanzielle Stabilität und höhere Wahlbeteiligung, zeigen jedoch geringere Adaption neuer Beteiligungsformen.
+
+### West/Ost und Partizipation  
+**Historisch geprägte Teilhabekulturen** wirken nach:
+- **Westdeutschland**: Stärkere Verankerung in **traditionellen Institutionen** (Vereine, Kirchen) und höhere politische Grundzufriedenheit. 
+- **Ostdeutschland**: Geprägt durch **Transformationserfahrungen** (Wende, Deindustrialisierung), führt zu höherer Skepsis gegenüber etablierten Parteien und stärkerer Affinität für Protestformen (Pegida, Querdenken).  Ost-Kommunen haben im Schnitt 15% weniger Steuereinnahmen → begrenzte lokale Partizipationsbudgets.  
+
+Wahlbeteiligung 2021: West 79% vs. Ost 74%. Bei unter 30-Jährigen vergrößert sich die Kluft auf 12 Prozentpunkte.
 
 
+### Folgen für die Demokratie   
+- **Repräsentationslücke:** Wenn statusniedrige Gruppen systematisch seltener mitreden oder wählen, spiegeln Parlamente eher die Präferenzen ressourcenstarker Milieus.
+- **Generationenkonflikt**: Unterrepräsentation junger Stimmen in Parlamenten begünstigt kurzfristige Politikzyklen (Rentenerhöhungen statt Klimainvestitionen).  
+- **Vertrauensverlust**: Prekäre Milieus und Ostdeutsche zweifeln an der Responsivität des Systems → sinkende Wahlbeteiligung verstärkt den Teufelskreis geringer Repräsentation (*Politische Partizipation 2019*).  
+- **Populistische Mobilisierung:** Unrepräsentierte Bürger lassen sich leichter durch extreme oder populistische Parteien/Bewegungen ansprechen.
 
-
+ 
 # Urteilskriterien 
  **Hinweis:** Ausdrücke wie beschreiben, analysieren, prüfen, vergleichen und weitere werden in dieser Abteilung nicht als Bidungsplan Operatoren verwendet.
 
