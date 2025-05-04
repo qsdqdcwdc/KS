@@ -89,7 +89,7 @@ In Demokratien basiert die Legitimation der Herrschaft auf der Zustimmung des Vo
 Der Zugang zu politischen Ämtern in Demokratien erfolgt durch transparente und geregelte Verfahren (Wahlen). Jede Bürgerin und jeder Bürger hat das Recht, sich politisch zu engagieren, Parteien zu gründen oder beizutreten und für öffentliche Ämter zu kandidieren, sofern die gesetzlichen Voraussetzungen erfüllt sind.
 
 ### Herrschaftsanspruch
-Liegt exklusiv bei verfassungsgemäß legitimierten Organen – Parlament, Regierung und unabhängige Gerichte –, die sich gegenseitig kontrollieren; keine Einzelperson, Partei oder private Macht darf außerhalb dieses Rahmens politische Herrschaft ausüben.
+Regierung kontrolliert nur die gesetzehaltung.
 
 ### Herrschaftsmonopol in Demokratien
 In Demokratien liegt das Herrschaftsmonopol bei demokratisch legitimierten Institutionen. Diese üben politische Macht auf Grundlage von Gesetzen aus und sind durch Wahlen und Gewaltenteilung kontrolliert.
@@ -247,7 +247,7 @@ Reine Formen der Konkurrenz- und Konordanzdemokratie kommen in der politischen W
 |---------------|---------------|-------------------------|-------------------------|
 | **Herrschafts­legitimation** | Legitimation durch Volkssouveränität – regelmäßige, freie und faire Wahlen | Stützt sich auf Ordnung, Sicherheit oder Tradition; ideologische Begründung ist oberflächlich oder fehlt | Beruft sich auf eine allumfassende Ideologie und Führerkult (z. B. Marxismus-Leninismus, Faschismus) |
 | **Herrschafts­zugang** | Offener, wettbewerblicher Zugang zu Ämtern über transparente Wahlen; jede/r Wahlberechtigte kann kandidieren  | Begrenzt bzw. geschlossen; Machtwechsel informell in Elite- oder Militärkreisen; Wettbewerbs­wahlen bedeutungslos | Völlig geschlossen; Partei/Führer gelangt meist revolutionär an die Macht |
-| **Herrschafts­anspruch** | Verfassungsgemäß eng begrenzt und verteilt (Gewalten­teilung); keine Instanz steht über der Verfassung  | Regime kontrolliert Politik, toleriert weitgehend Privatleben; Eingriffe bei Bedrohung der Stabilität | Unbegrenzt; politisches, soziales und privates Leben sollen ideologisch durchdrungen werden |
+| **Herrschafts­anspruch** | Eng begrenzt, Regierung kontrolliert nur die gesetzehaltung.  | Regime kontrolliert Politik, toleriert weitgehend Privatleben; Eingriffe bei Bedrohung der Stabilität | Unbegrenzt; politisches, soziales und privates Leben sollen ideologisch durchdrungen werden |
 | **Herrschafts­monopol** | Liegt bei demokratisch legitimierten Organen | Führer/Oligarchie hält Monopol, gesichert durch Repression | Einheitspartei bzw. ideologisch legitimierter Führer; umfassende Repression sichert Monopol |
 | **Herrschafts­struktur** | Pluralistisch: ausgeprägte Gewalten­teilung, Rechtsstaatlichkeit, starke Zivilgesellschaft | Semipluralistisch; personalisiert, schwach formalisiert, Verwaltung arbeitet pragmatisch | Monistisches System; Partei, Staat und Gesellschaft verschmelzen |
 | **Herrschafts­weise** | Partizipativ, transparent, rechenschaftspflichtig | Selektive Repression gegen Regimegegner; Propaganda ergänzend, aber nicht allgegenwärtig | Systematisch repressiv; Terror, Umerziehung und Zwangs­mobilisierung sind Herrschafts­instrumente |
