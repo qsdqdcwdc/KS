@@ -80,36 +80,6 @@ _(Dieses Thema steht nicht im Buch und wurde im Unterricht nie behandelt aber di
 
 [^1]: https://www.bmz.de/de/service/lexikon/demokratie-14208
 
-## Regimetypologie angewandt auf Demokratien
-
-### Herrschaftslegitimation in Demokratien
-In Demokratien basiert die Legitimation der Herrschaft auf der Zustimmung des Volkes. Dies wird durch regelmäßige, freie und faire Wahlen sichergestellt, bei denen die Bürgerinnen und Bürger ihre Vertreter bestimmen. Die gewählten Repräsentanten sind dem Volk gegenüber verantwortlich und können bei Missachtung ihrer Pflichten abgewählt werden. Diese Legitimation gründet auf den Prinzip der Volkssouveränität.
-
-### Herrschaftszugang in Demokratien
-Der Zugang zu politischen Ämtern in Demokratien erfolgt durch transparente und geregelte Verfahren (Wahlen). Jede Bürgerin und jeder Bürger hat das Recht, sich politisch zu engagieren, Parteien zu gründen oder beizutreten und für öffentliche Ämter zu kandidieren, sofern die gesetzlichen Voraussetzungen erfüllt sind.
-
-### Herrschaftsanspruch
-Regierung kontrolliert nur die gesetzehaltung.
-
-### Herrschaftsmonopol in Demokratien
-In Demokratien liegt das Herrschaftsmonopol bei demokratisch legitimierten Institutionen. Diese üben politische Macht auf Grundlage von Gesetzen aus und sind durch Wahlen und Gewaltenteilung kontrolliert.
-
-### Herrschaftsstruktur in Demokratien
-Die Herrschaftsstruktur in Demokratien beruht auf dem Prinzip der **Gewaltenteilung**, das eine gegenseitige Kontrolle und Begrenzung der Macht sicherstellen soll. Dabei werden die staatlichen Aufgaben in drei voneinander unabhängige Bereiche unterteilt:
-
-- **Legislative (gesetzgebende Gewalt)**: Diese Gewalt liegt in den Händen des Parlaments (z. B. Bundestag und Bundesrat in Deutschland). Es ist zuständig für die Beratung und Verabschiedung von Gesetzen sowie für die Kontrolle der Exekutive. Durch öffentliche Debatten und Abstimmungen trägt sie zur demokratischen Meinungsbildung bei.
-- **Exekutive (ausführende Gewalt)**: Hierzu zählen die Regierung (z. B. Bundeskanzler*in und Ministerien) und die öffentliche Verwaltung. Sie ist verantwortlich für die Umsetzung der vom Parlament beschlossenen Gesetze und sorgt für die tägliche Verwaltung des Staates. Sie kann Verordnungen erlassen und trifft konkrete Entscheidungen zur Ausführung der Politik.
-- **Judikative (rechtsprechende Gewalt)**: Diese Gewalt liegt bei unabhängigen Gerichten, die Streitfälle klären, Gesetze auslegen und die Einhaltung der Verfassung überwachen. Sie schützt Grundrechte und sorgt dafür, dass die Regierung und Verwaltung sich an Recht und Gesetz halten (Rechtsstaatlichkeit).
-
-Ziel dieser Trennung ist es, Machtmissbrauch zu verhindern.
-
-### Herrschaftsweise in Demokratien
-Die Herrschaftsweise in Demokratien basiert auf drei zentralen Prinzipien:
-
-- **Partizipation**: Bürgerinnen und Bürger nehmen aktiv am politischen Prozess teil, z. B. durch Wahlen, Volksentscheide oder Bürgerforen. 
-- **Transparenz**: Politische Entscheidungen und Prozesse sind öffentlich nachvollziehbar. 
-- **Rechenschaftspflicht**: Gewählte Vertreter und staatliche Institutionen müssen ihr Handeln gegenüber der Öffentlichkeit rechtfertigen und sind für ihre Entscheidungen verantwortlich.
-
 
 Lehrerfortbildung Baden-Württemberg: [Modelle der Demokratie](https://lehrerfortbildung-bw.de/u_gewi/gk/gym/bp2016/fb6/2_grund/1_system/5_modelle/) 
 
