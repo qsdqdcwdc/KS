@@ -282,7 +282,7 @@ Das Demokratieprinzip definiert, dass Deutschland eine parlamentarische Demokrat
 Deutschland ist eine Republik (Art.20 GG): Eine Republik ist eine Staatsform, bei der die Macht vom Volk ausgeht und durch gewählte Vertreter ausgeübt wird. Sie zeichnet sich durch die Abwesenheit einer Monarchie und die Existenz einer Verfassung aus, die die Rechte der Bürger sowie die Gewaltenteilung garantiert.
 
 ### Bundesstaatsprinzip
-Jedem Bundesland kommt der bei Staatzqualität zu: die Länder haben eigene Verfassungen, institutionen Landesparlamente, Regierungen und eigene zuständigkeiten (z.b. die Bildung und Polizei). Länder wirken über den Bundesrat an Bundesgesetzen mit.
+Jedem Bundesland kommt der bei Staatzqualität zu: die Länder haben eigene Verfassungen, institutionen Landesparlamente, Regierungen und eigene zuständigkeiten (z.b. die Bildung und Polizei). Länder wirken über den [Bundesrat](https://www.youtube.com/watch?v=y4nO9r2ApuI) an Bundesgesetzen mit (Etwa ein Drittel der erlassenen Gesetze bedürfen der Zustimmung des Bundesrates.).
 
 ### Sozialstaatsprinzip
 **Sozialstaatsprinzip** - Verfassungsrechtlich verankertes Staatsziel, das Bund und Länder verpflichtet, soziale Gerechtigkeit und Sicherheit zu fördern (z.B. Armutsbekämpfung, Unterstützung von Kranken / Pflegebedürftigen und Chancengleichheit im Bildungswesen, Mindestlohn). Die hierfür notwendigen Leistungen werden solidarisch finanziert, indem alle Bürger als **Solidargemeinschaft** regelmäßig in die Sozialversicherungen einzahlen und im Bedarfsfall füreinander einstehen. Das Prinzip wirkt als politischer Handlungsauftrag zur Ausgestaltung sozialstaatlicher Maßnahmen. (Art.20 GG)  
