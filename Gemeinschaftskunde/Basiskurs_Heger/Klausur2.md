@@ -502,14 +502,6 @@ Höhere Bildung steigert das politische Wissen und das Empfinden politischer Sel
 - **Junge Menschen** verfügen über **digitale Kompetenzen** (Soziale Medien, Online-Petitionen) und flexible Zeitressourcen (Schule/Studium), nutzen aber seltener institutionalisierte Formen (Wahlen, Parteimitgliedschaft).
 - **Ältere Menschen** bringen **Erfahrungswissen** (politische Prozesse), finanzielle Stabilität und höhere Wahlbeteiligung, zeigen jedoch geringere Adaption neuer Beteiligungsformen.
 
-### West/Ost und Partizipation  
-**Historisch geprägte Teilhabekulturen** wirken nach:
-- **Westdeutschland**: Stärkere Verankerung in **traditionellen Institutionen** (Vereine, Kirchen) und höhere politische Grundzufriedenheit. 
-- **Ostdeutschland**: Geprägt durch **Transformationserfahrungen** (Wende, Deindustrialisierung), führt zu höherer Skepsis gegenüber etablierten Parteien und stärkerer Affinität für Protestformen (Pegida, Querdenken).  Ost-Kommunen haben im Schnitt 15% weniger Steuereinnahmen → begrenzte lokale Partizipationsbudgets.  
-
-Wahlbeteiligung 2021: West 79% vs. Ost 74%. Bei unter 30-Jährigen vergrößert sich die Kluft auf 12 Prozentpunkte.
-
-
 ### Folgen für die Demokratie   
 - **Repräsentationslücke:** Wenn statusniedrige Gruppen systematisch seltener mitreden oder wählen, spiegeln Parlamente eher die Präferenzen ressourcenstarker Milieus.
 - **Generationenkonflikt**: Unterrepräsentation junger Stimmen in Parlamenten begünstigt kurzfristige Politikzyklen (Rentenerhöhungen statt Klimainvestitionen).  
