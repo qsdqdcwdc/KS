@@ -370,8 +370,9 @@ _(**Stichwahl:** bezeichnet den entscheidenden, letzten Wahlgang nach dem Mehrhe
 - **Parteien- statt Personenfokus** – Liste oder Präferenzordnung bestimmt maßgeblich die Sitzverteilung; offene Listen erlauben jedoch persönliche Präferenz der Wählenden.  
 - **geringe „Wasted Votes“** – Fast jede Stimme wirkt sich auf die Zusammensetzung des Parlaments aus; Effizienzverlust tritt vor allem erst oberhalb festgelegter **Sperrklauseln** (z. B. 5 % in Deutschland) auf.
 - **Proportionalität**: Anzahl der Sitze, die jede Partei erhält, verhält nah proportional zu der Anzahl ihrer Stimmen (mit der Ausnahme von ganz kleinen Parteien).
-- **Mehrparteiensystem & Koalitionsregierungen** – Geringe Eintrittsbarrieren fördern Parteiplenum; regierungsbildende Mehrheiten entstehen häufig durch Koalitionen.  
-- **Komplexität** – Stimmenauszählung und Mandats­berechnung sind erklärungsbedürftiger; Wahlzettel können länger sein (viele Listen/Kandidat*innen).  
+- **Quorum**: In der Theorie zählen alle Stimmen. In der Praxis wird oft ein "Quorum" (eine Mindeststimmenanzahl) als Sicherungslinie gegen eine Zersplitterung des Parlaments eingezogen (z.B. in Dtl: die 5%—Hürdel
+- **Mehrparteiensystem & Koalitionsregierungen** – Geringe Eintrittsbarrieren fördern Parteiplenum; regierungsbildende Mehrheiten entstehen häufig durch Koalitionen.
+- **Komplexität** – Stimmenauszählung und Mandats­berechnung sind erklärungsbedürftiger; Wahlzettel können länger sein.  
 - **Geringere Gerrymandering-Anfälligkeit** – Große bzw. landesweite Wahlkreise reduzieren den Effekt parteilich optimierter Grenzziehungen.
 
 
@@ -389,7 +390,7 @@ _(**Stichwahl:** bezeichnet den entscheidenden, letzten Wahlgang nach dem Mehrhe
 
 ## Bundestagswahl – Personalisiertes Verhältniswahlrecht  
 
-bpb: [Personalisiertes Verhältniswahlrecht](https://www.bpb.de/themen/politisches-system/wahlen-in-deutschland/558535/personalisiertes-verhaeltniswahlrecht/)
+DAS LESEN: [Wahlsystem zum Bundestag](https://www.rundumgemeinschaftskunde.de/schwerpunktthemen-abitur-gk-neu/politisches-system/wahlsystem-zum-bundestag/#cc-m-header-14733270635)
 
 **Personalisiertes Verhältniswahlsystem** ist eine Variante von Verhältniswahlsystem. Es verbindet eine mehrheitswahl in Wahlkreisen (Erststimme) mit einer proportionalen Sitzverteilung nach Parteienlisten auf Bundesebene (Zweitstimme). Die Zweitstimme bestimmt allein, wie viele Sitze jeder Partei insgesamt zustehen; die Erststimme entscheidet lediglich, welche Personen diese Sitze besetzen. 
 
@@ -427,6 +428,8 @@ Nachdem der Kanzler die Vertrauensfrage verloren hat, löste Bundespräsident Fr
 
 # Vergleich des Bundestagswahlsystems mit reinen Mehrheits- und Verhältniswahlsystemen  
 
+[Mehrheitswahl vs. Verhältniswahl](https://www.wahlrecht.de/systeme/mwgegenvw.htm)
+
 ### Legitimation
 - *Bundestagswahl (personalisiertes Verhältniswahlrecht)** kombiniert **Erststimme** (Mehrheitsprinzip im Wahlkreis) und **Zweitstimme** (proportionale Sitzverteilung). Die maßgebliche Zweitstimme sorgt dafür, dass die **Parteienstärke im Parlament dem bundesweiten Stimmenanteil entspricht**; dadurch beruht die Legitimation auf der Idee gleicher Stimm­wertigkeit. Gleichzeitig vermittelt die Direktwahl einzelner Abgeordneter in 299 Wahlkreisen ein personelles Verantwortungs­verhältnis zwischen Wahlkreis und Parlament.  
 - **Mehrheitswahlsystem** stützt sich auf das Prinzip, **dass der relative oder absolute Sieger eines Wahlkreises das Mandat erhält**. Legitimation entsteht vor allem aus der **klaren Wahlkreisbindung**; doch Stimmen für unterlegene Kandidat*innen bleiben ohne parlamentarische Wirkung. 
@@ -451,12 +454,14 @@ Das deutsche **personalisierte Verhältniswahlrecht** steht **zwischen** den Pol
 
 Damit liefert das Bundestagsmodell einen **ausgewogenen Kompromiss** zwischen Repräsentations­gerechtigkeit und Regierungs­effizienz, den weder reine Mehrheits- noch reine Verhältnis­systeme vollständig bieten. so ein Rumgelaber
 
+# Wahlbeteiligung
 
+DAS LESEN!!!: [Nichtwähler](https://www.rundumgemeinschaftskunde.de/schwerpunktthemen-abitur-gk-neu/politisches-system/nichtw%C3%A4hler/)
 
-# Ursachen des Nichtwählens 
+## Ursachen des Nichtwählens 
 
-### Zufriedenheit 
-Einige Demokratieforscher interpretieren eine moderate Wahlabstinenz nicht als Krisensymptom, sondern vielmehr als Indikator für ein funktionierendes demokratisches System, in dem Bürgerinnen und Bürger so großes Vertrauen in die Stabilität und Leistungsfähigkeit der politischen Institutionen haben, dass sie ihre demokratische Kontrollmöglichkeit durch Wahlen zeitweise nicht ausüben müssen. 
+###  Politische Verdrossenheit  
+Enttäuschung über Parteien und Akteure führt dazu, dass Wahlen als unwirksam oder „immer gleich“ wahrgenommen werden.  Allgemeine Distanz oder Ablehnung gegenüber Parteien, Politikern und politischen Prozessen; zeigt sich in sinkender Partei­mitgliederzahl und Wahlbeteiligung.
 
 ###  Protest  
 Die Nichtteilnahme an Wahlen kann als bewusste Form des Protests gegen die vorhandenen Kandidaten oder gegen politische Entscheidungen eingesetzt werden. In solchen Fällen tritt diese Wahlenthaltung an die Stelle einer "Protestwahl", bei der Wähler ihre Unzufriedenheit durch die Wahl oppositioneller oder extremer Parteien ausdrücken würden.
@@ -465,6 +470,9 @@ Die Nichtteilnahme an Wahlen kann als bewusste Form des Protests gegen die vorha
 
 ### Politikferne
 Mangelndes Interesse an oder fehlendes Verständnis für politische Themen und Prozesse kann bei Wahlberechtigten zur Wahlabstinenz führen. Diese Distanz zum politischen Geschehen resultiert häufig aus einer Kombination von unzureichender politischer Bildung, komplexen politischen Strukturen und einer wahrgenommenen Irrelevanz politischer Entscheidungen für das eigene Leben.
+
+### Zufriedenheit 
+Einige Demokratieforscher interpretieren eine moderate Wahlabstinenz nicht als Krisensymptom, sondern vielmehr als Indikator für ein funktionierendes demokratisches System, in dem Bürgerinnen und Bürger so großes Vertrauen in die Stabilität und Leistungsfähigkeit der politischen Institutionen haben, dass sie ihre demokratische Kontrollmöglichkeit durch Wahlen zeitweise nicht ausüben müssen. 
 
 ### Erosion von Parteibindungen und des „Bürgerpflicht“-Gefühls  
 Historisch fest verankerte Bindungen an Stammparteien, sowie das Verständnis von Wählen als Pflicht verlieren an Bedeutung.  
@@ -476,7 +484,7 @@ Bürgerinnen und Bürger nutzen neue Beteiligungsformen (NGOs, Online-Aktivismus
 
 
 
-# Folgen der Niedrigen Wahlbeteiligung
+## Folgen der Niedrigen Wahlbeteiligung
 
 ### Fehlende Legitimation
 Eine geringe Wahlbeteiligung kann die demokratische Legitimation gewählter Regierungen schwächen. Kritiker argumentieren dann oft, dass die Mehrheit der Bevölkerung den Mandatsträger gar nicht unterstützt habe und seine Entscheidungen daher nicht den wahren Volkswillen repräsentierten. Dies kann zu einer Kluft zwischen Bürgern und politischen Entscheidungsträgern führen.
@@ -491,6 +499,8 @@ Niedrige Wahlbeteiligung begünstigt jene gesellschaftlichen Gruppen, die zuverl
 
 # Zusammenhang von sozialem Status (Milieuzugehörigkeit, Bildung) auf der Partizipation der Bürger
 
+[Soziale Milieus](https://youtu.be/6YJzg4dtBBc)
+
 ### Status und Partizipation  
 Höherer sozialer Status schafft **Ressourcen** (Zeit, Geld, Wissen, Netzwerke) und ein stärkeres Gefühl politischer Kompetenz. Diese Ressourcen erleichtern Informationssuche, Senkung tatsächlicher oder wahrgenommener Beteiligungskosten und erhöhen die Aussicht, dass Engagement wirksam ist. Umgekehrt erleben Personen in prekären bzw. statusniedrigen Milieus Teilhabebarrieren: unsichere Erwerbsverhältnisse lassen weniger freie Zeit; zugleich verstärken wiederholte Erfahrungen fehlender Responsivität politischer Institutionen das Gefühl, „nichts ändern zu können“.  
 
@@ -501,6 +511,13 @@ Höhere Bildung steigert das politische Wissen und das Empfinden politischer Sel
 **Altersspezifische Ressourcenverteilung** prägt Partizipationsmuster:  
 - **Junge Menschen** verfügen über **digitale Kompetenzen** (Soziale Medien, Online-Petitionen) und flexible Zeitressourcen (Schule/Studium), nutzen aber seltener institutionalisierte Formen (Wahlen, Parteimitgliedschaft).
 - **Ältere Menschen** bringen **Erfahrungswissen** (politische Prozesse), finanzielle Stabilität und höhere Wahlbeteiligung, zeigen jedoch geringere Adaption neuer Beteiligungsformen.
+
+### West/Ost und Partizipation  
+ **Historisch geprägte Teilhabekulturen** wirken nach:
+ - **Westdeutschland**: Stärkere Verankerung in **traditionellen Institutionen** (Vereine, Kirchen) und höhere politische Grundzufriedenheit. 
+ - **Ostdeutschland**: Geprägt durch **Transformationserfahrungen** (Wende, Deindustrialisierung), führt zu höherer Skepsis gegenüber etablierten Parteien und stärkerer Affinität für Protestformen (Pegida, Querdenken).  Ost-Kommunen haben im Schnitt 15% weniger Steuereinnahmen → begrenzte lokale Partizipationsbudgets.  
+ 
+ Wahlbeteiligung 2021: West 79% vs. Ost 74%. Bei unter 30-Jährigen vergrößert sich die Kluft auf 12 Prozentpunkte.
 
 ### Folgen für die Demokratie   
 - **Repräsentationslücke:** Wenn statusniedrige Gruppen systematisch seltener mitreden oder wählen, spiegeln Parlamente eher die Präferenzen ressourcenstarker Milieus.
@@ -524,6 +541,50 @@ Höhere Bildung steigert das politische Wissen und das Empfinden politischer Sel
 - **Generationengerechtigkeit**: Prüfen, wie sich die Maßnahme auf zukünftige Generationen auswirkt. Beschreiben, ob Ressourcen nachhaltig genutzt werden und ob finanzielle Lasten auf kommende Generationen verschoben werden.
 - **Gerechtigkeit:** Analysieren, inwiefern die Maßnahme verschiedene Gerechtigkeitsprinzipien (Bedarfsgerechtigkeit, Chancengerechtigkeit, Generationengerechtigkeit) berücksichtigt.
 - **Verursacherprinzip**: Darlegen, ob diejenigen zur Verantwortung gezogen werden, die das Problem verursacht haben. Beschreiben, wie Kosten zwischen Verursachern und Allgemeinheit verteilt werden.
+
+
+# Partizipationsformen
+
+## Zukunftswerkstatt
+
+[Video](https://youtu.be/Gj7bsX2U8c0)
+Definition: **Zukunftswerkstatt** ist eine von Robert Jungk in den 1960er-Jahren entwickelte partizipative Methode, bei der alle Beteiligten als gleichberechtigte Experten einen kreativen Problemlösungsprozess durchlaufen, um gemeinsam Lösungen für gesellschaftliche Herausforderungen zu entwickeln. 
+
+### Vorgehen
+
+#### 1. Kritikphase
+- Offene Sammlung aller Kritikpunkte zum behandelten Thema
+- Präzise Problemformulierung ohne Einschränkungen
+
+#### 2. Fantasiephase
+- Zentrale Spielregel: "Alles ist möglich" - keine Einwände oder Sachzwänge
+- Positive Umformulierung der Kritikpunkte
+- Kreatives Brainstorming ohne Bewertung oder Selbstzensur
+- Entwicklung utopischer Entwürfe und Zukunftsvisionen
+
+#### 3. Verwirklichungsphase
+- Konfrontation der Utopien mit der Realität
+- Anpassung der Entwürfe hinsichtlich Machbarkeit
+- Entwicklung konkreter Handlungspläne mit Zeitrahmen und Verantwortlichkeiten
+
+### Anwendungsbeispiel: Bürgerpartizipation zur Stadtgestaltung
+
+In einer mittleren Großstadt sollte ein brachliegendes Industriegelände neu gestaltet werden. Statt die Planung ausschließlich Experten zu überlassen, initiierte die Stadtverwaltung eine Zukunftswerkstatt mit 30 Bürgerinnen und Bürgern verschiedener Alters- und Sozialgruppen:
+
+- **Kritikphase:** Die Teilnehmenden benannten Probleme wie "Mangel an Grünflächen im Stadtteil", "Fehlende Begegnungsorte für Jung und Alt" und "Unzureichende kulturelle Angebote".
+- **Fantasiephase:** Es entstanden Visionen wie eine "Stadt der kurzen Wege mit Wohn-, Arbeits- und Freizeitmöglichkeiten", "Schwimmender Bürgerpark mit Solardächern" und "Intergenerationelles Kulturzentrum mit Werkstätten".
+- **Verwirklichungsphase:** Die Ideen wurden zu konkreten Vorschlägen weiterentwickelt, darunter ein "Multifunktionales Quartiershaus mit Kulturräumen und Gemeinschaftsgarten" sowie ein "Genossenschaftliches Wohnmodell mit integrierter Nahversorgung".
+
+Die Ergebnisse flossen direkt in den städtischen Planungsprozess ein und führten zu einem modifizierten Bebauungsplan, der wesentliche Bürgerideen berücksichtigte.
+
+### Beteiligungshaushalt
+
+**Bürgerhaushalt** ist ein primär online durchgeführtes konsultatives Verfahren der informellen Bürgerbeteiligung auf kommunaler Ebene, bei dem Bürgerinnen und Bürger zur Verteilung verfügbarer Mittel und Ressourcen ihrer Gemeinde konsultiert werde(die Bürger und Bürger werden nicht über Pflichtausgaben konsultiert). 
+
+_(**Pflichtausgaben** sind gesetzlich oder vertraglich festgelegte Ausgaben, die eine Kommune leisten muss, z. B. für Sozialhilfe oder Bildung.)_
+
+### Anwendungsbeispiel
+In einer mittelgroßen Stadt wurde ein Bürgerhaushalt für einen Stadtteil mit 300.000€ Budget eingeführt. Bürger konnten über die Verteilung von 200.000€ mitentscheiden. Die meisten Stimmen erhielten die Sanierung eines Spielplatzes und die Einrichtung eines Nachbarschaftsgartens, die daraufhin vom Gemeinderat umgesetzt wurden.
 
 
 
