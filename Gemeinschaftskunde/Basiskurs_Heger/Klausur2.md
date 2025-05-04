@@ -10,6 +10,29 @@
 
 3. <code>Korrekturen und Ergänzungen zu diesem Dokument sind erwünscht. Bitte fügen Sie diese in [Google Docs](https://docs.google.com/document/d/12Gqtnn5DdQmN6GDQs-ADqzZjTsvVcVF5w9dpGsSQXM4/edit?usp=sharing) ein (oder senden Sie mir die persönlich). Ich werde versuchen, sie so schnell wie möglich zu integrieren.</code>
 
+# Inhaltsangabe
+
+2. [Regimetypologie](#regimetypologie)  
+3. [Demokratie](#demokratie)  
+4. [Diktatur](#diktatur)  
+5. [Staatsstrukturprinzipien](#staatsstrukturprinzipien)  
+6. [Relevante Artikel des Grundgesetzes](#relevante-artikel-des-grundgesetzes)  
+7. [Wahlsysteme](#wahlsysteme)  
+8. [Vergleich des Bundestagswahlsystems mit reinen Mehrheits- und Verhältniswahlsystemen](#vergleich-des-bundestagswahlsystems-mit-reinen-mehrheits--und-verhältniswahlsystemen)  
+9. [Wahlbeteiligung](#wahlbeteiligung)  
+10. [Zusammenhang von sozialem Status (Milieuzugehörigkeit, Bildung) auf der Partizipation der Bürger](#zusammenhang-von-sozialem-status-milieuzugehörigkeit-bildung-auf-der-partizipation-der-bürger)  
+11. [Partizipationsformen](#partizipationsformen)  
+12. [Politische Beteiligungsmöglichkeiten in der Bundesrepublik Deutschland](#politische-beteiligungsmöglichkeiten-in-der-bundesrepublik-deutschland)  
+13. [Urteilskriterien](#urteilskriterien)  
+14. [Operatoren](#operatoren)
+
+
+Schauen Sie noch:
+Das kriteriengestützten Urteil aus dem ersten Informationen Sammlung: [Link](https://github.com/qsdqdcwdc/KS/blob/main/Gemeinschaftskunde/Basiskurs_Heger/Klausur1.md#kriteriengest%C3%BCtztes-urteil) 
+Diese Seite zu dem karikaturanalyse [Link](https://www.rundumgemeinschaftskunde.de/arbeitstechniken/karikaturen/)
+Diese Seite zur statistik-analyse: [Link](https://www.rundumgemeinschaftskunde.de/arbeitstechniken/statistiken/)
+
+Dieses Dokument enthält keine Informationen über aktuelle Nachrichten es wurde empfohlen zeit.de, Tagesschau und Tagesschau in 100 Sekunden anzuschauen.
 
 
 # Regimetypologie
@@ -557,6 +580,21 @@ Bei der Planung einer Umgehungsstraße wurde ein Beteiligungsscoping durchgefüh
 
 ### Anwendungsbeispiel
 Bei einem Nachbarschaftskonflikt über Lärmbelästigung vermittelte ein Mediator zwischen den Parteien. Nach Klärung der gegenseitigen Bedürfnisse (Ruhe vs. soziales Leben) erarbeiteten die Konfliktparteien selbständig eine Vereinbarung mit festgelegten Ruhezeiten und vorheriger Ankündigung von Feiern.
+
+
+# Politische Beteiligungsmöglichkeiten in der Bundesrepublik Deutschland
+[Video](https://www.youtube.com/watch?v=BMz4dkwWnnk)
+
+- **Wahlen**:Volljährige Bürger*innen beeinflussen die Zusammensetzung von Parlamenten, indem sie bei **Bundestags-**, **Landtags-** oder **Kommunalwahlen** ihre Stimme abgeben.
+- **Parteienarbeit** Durch den **Beitritt zu einer Partei** oder die **Gründung einer neuen Partei** gestalten Bürger*innen politische Programme und stellen Kandidat*innen auf.  
+- **Petitionen** Jeder mit festem Wohnsitz in Deutschland kann Bitten oder Beschwerden an staatliche Stellen richten. **Bundestagspetitionen** mit 50.000 Unterschriften müssen im Petitionsausschuss öffentlich beraten werden (z. B. Online-Petition für ein Tempolimit auf Autobahnen).  
+-  **Demonstrationen und Versammlungen:** Öffentliche Kundgebungen ermöglichen kollektiven Protest und müssen in der Regel **48 Stunden vorher angemeldet** werden (Beispiel: Fridays-for-Future-Klimastreiks).  Ziel ist es, in der Öffentlichkeit Aufmerksamkeit für Anliegen zu generieren – etwa durch Medienberichterstattung oder direkte Ansprache von Politiker*innen.  
+- **Bürgerbegehren und Bürgerentscheide:** Auf kommunaler Ebene können Bürger*innen **verbindliche Abstimmungen** über lokale Fragen initiieren.  **Voraussetzung**: Je nach Bundesland müssen 5–10 % der Stimmberechtigten mobilisiert werden (z. B. 10 % in Bayern, 7 % in Berlin). Erfolgreiche Beispiele: Stopp von Großprojekten wie *Stuttgart 21* oder Einführung von Tempo-30-Zonen.  
+-  **Blog schreiben:** Blogs dienen als unabhängige Plattformen, um Meinungen zu verbreiten und Diskurse anzustoßen.  
+- **Bürgerbegehren und Bürgerentscheide**: Auf kommunaler Ebene können Bürger*innen verbindliche Abstimmungen über lokale Fragen initiieren, sobald sie je nach Bundesland etwa 5–10 % der Stimmberechtigten mobilisieren.  
+- **Gründung oder Beitritt in Vereine:** Vereine schaffen einen dauerhaften, rechtlich abgesicherten Rahmen, in dem Bürger*innen ihre gemeinsamen Interessen wirkungsvoll vertreten können. Beispiele reichen vom bundesweiten Umweltverband NABU bis zu kleinen, lokalen Initiativen für Denkmalschutz. Für eine Neugründung braucht es mindestens sieben Personen, die eine Satzung verabschieden und den Verein beim Amtsgericht als e.V. eintragen lassen. Wer zusätzlich die Gemeinnützigkeit anerkennen lässt, profitiert von Steuervergünstigungen und höherer Spendenbereitschaft.
+
+
  
 # Urteilskriterien 
  **Hinweis:** Ausdrücke wie beschreiben, analysieren, prüfen, vergleichen und weitere werden in dieser Abteilung nicht als Bidungsplan Operatoren verwendet.
@@ -575,17 +613,6 @@ Bei einem Nachbarschaftskonflikt über Lärmbelästigung vermittelte ein Mediato
 - **Verursacherprinzip**: Darlegen, ob diejenigen zur Verantwortung gezogen werden, die das Problem verursacht haben. Beschreiben, wie Kosten zwischen Verursachern und Allgemeinheit verteilt werden.
 
 
-# Politische Beteiligungsmöglichkeiten in der Bundesrepublik Deutschland
-[Video](https://www.youtube.com/watch?v=BMz4dkwWnnk)
-
-- **Wahlen**:Volljährige Bürger*innen beeinflussen die Zusammensetzung von Parlamenten, indem sie bei **Bundestags-**, **Landtags-** oder **Kommunalwahlen** ihre Stimme abgeben.
-- **Parteienarbeit** Durch den **Beitritt zu einer Partei** oder die **Gründung einer neuen Partei** gestalten Bürger*innen politische Programme und stellen Kandidat*innen auf.  
-- **Petitionen** Jeder mit festem Wohnsitz in Deutschland kann Bitten oder Beschwerden an staatliche Stellen richten. **Bundestagspetitionen** mit 50.000 Unterschriften müssen im Petitionsausschuss öffentlich beraten werden (z. B. Online-Petition für ein Tempolimit auf Autobahnen).  
--  **Demonstrationen und Versammlungen:** Öffentliche Kundgebungen ermöglichen kollektiven Protest und müssen in der Regel **48 Stunden vorher angemeldet** werden (Beispiel: Fridays-for-Future-Klimastreiks).  Ziel ist es, in der Öffentlichkeit Aufmerksamkeit für Anliegen zu generieren – etwa durch Medienberichterstattung oder direkte Ansprache von Politiker*innen.  
-- **Bürgerbegehren und Bürgerentscheide:** Auf kommunaler Ebene können Bürger*innen **verbindliche Abstimmungen** über lokale Fragen initiieren.  **Voraussetzung**: Je nach Bundesland müssen 5–10 % der Stimmberechtigten mobilisiert werden (z. B. 10 % in Bayern, 7 % in Berlin). Erfolgreiche Beispiele: Stopp von Großprojekten wie *Stuttgart 21* oder Einführung von Tempo-30-Zonen.  
--  **Blog schreiben:** Blogs dienen als unabhängige Plattformen, um Meinungen zu verbreiten und Diskurse anzustoßen.  
-- **Bürgerbegehren und Bürgerentscheide**: Auf kommunaler Ebene können Bürger*innen verbindliche Abstimmungen über lokale Fragen initiieren, sobald sie je nach Bundesland etwa 5–10 % der Stimmberechtigten mobilisieren.  
-- **Gründung oder Beitritt in Vereine:** Vereine schaffen einen dauerhaften, rechtlich abgesicherten Rahmen, in dem Bürger*innen ihre gemeinsamen Interessen wirkungsvoll vertreten können. Beispiele reichen vom bundesweiten Umweltverband NABU bis zu kleinen, lokalen Initiativen für Denkmalschutz. Für eine Neugründung braucht es mindestens sieben Personen, die eine Satzung verabschieden und den Verein beim Amtsgericht als e.V. eintragen lassen. Wer zusätzlich die Gemeinnützigkeit anerkennen lässt, profitiert von Steuervergünstigungen und höherer Spendenbereitschaft.
 
 # Operatoren 
  
