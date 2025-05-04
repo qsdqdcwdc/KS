@@ -11,28 +11,6 @@
 3. <code>Korrekturen und Ergänzungen zu diesem Dokument sind erwünscht. Bitte fügen Sie diese in [Google Docs](https://docs.google.com/document/d/12Gqtnn5DdQmN6GDQs-ADqzZjTsvVcVF5w9dpGsSQXM4/edit?usp=sharing) ein (oder senden Sie mir die persönlich). Ich werde versuchen, sie so schnell wie möglich zu integrieren.</code>
 
 
-```
-das Mo­dell der li­be­ra­len De­mo­kra­tie cha­rak­te­ri­sie­ren
-(Li­be­ra­lis­mus: Men­schen- und Bür­ger­rech­te, Par­ti­zi­pa­ti­on, Plu­ra­lis­mus, Ver­fas­sung, Ge­wal­ten­tei­lung, Par­la­men­ta­ri­sie­rung, In­di­vi­dua­lis­mus, Markt­wirt­schaft)
-
-
-
-### Macht und Entscheidung:
-- Wie werden in den verschiedenen politischen Systemen politische Entscheidungen getroffen?
-
-- Welche Instanzen entscheiden mit welchen Verfahren?
-- Wer kann mit welcher Legitimation Entscheidungen treffen?
-- Welche Möglichkeiten haben die Bürgerinnen und Bürger, auf den politischen Willensbildungsprozess und den politischen Entscheidungsprozess Einfluss zu nehmen?
-
-### Interessen und Gemeinwohl:
-- Wie wird politische Herrschaft in den unterschiedlichen Systemen legitimiert?
-
-- Was ist „gute" Politik?
-- Nach welchen Werten und Interessen soll unsere Gesellschaft gestaltet werden?
-- Worin besteht das Gemeinwohl und wie kann man es messen?
-- Welche Bedeutung haben demokratische Konfliktlösungsverfahren für die Gesellschaft?
-```
-
 
 # Regimetypologie
 Wolfgang Merkel unterscheidet in seiner Regimetypologie sechs Dimensionen, die zur systematischen Klassifikation politischer Systeme dienen. Diese Kriterien ermöglichen eine differenzierte Analyse von Demokratien, Autokratien und hybriden Regimen:
@@ -525,24 +503,6 @@ Höhere Bildung steigert das politische Wissen und das Empfinden politischer Sel
 - **Vertrauensverlust**: Statusniedrigen Milieus  zweifeln an der Responsivität des Systems → sinkende Wahlbeteiligung verstärkt den Teufelskreis geringer Repräsentation.  
 - **Populistische Mobilisierung:** Unrepräsentierte Bürger lassen sich leichter durch extreme oder populistische Parteien/Bewegungen ansprechen.
 
- 
-# Urteilskriterien 
- **Hinweis:** Ausdrücke wie beschreiben, analysieren, prüfen, vergleichen und weitere werden in dieser Abteilung nicht als Bidungsplan Operatoren verwendet.
-
-- **Effektivität:** Prüfen, ob die Maßnahme das angestrebte Ziel tatsächlich erreicht/(erreichen kann).
-- **Effizienz:**  Die Kosten/Ressourceneinsatz der Maßnahme beschreiben (Zeit, Finanzen, Kollateralschaden). Maßnahme mit altenativen Lösungen nach [Kosten-Nutzen-Verhältnis](https://www.youtube.com/watch?v=7tdKkeNClPE) vergleichen. 
-- **Legalität:**  Es ist zu prüfen, ob die Maßnahme mit geltenden Gesetzen und der Verfassung vereinbar ist.
-- **Nachhaltigkeit:** Es ist zu beschreiben, ob Maßnahme langfristig wirksam bleibt und keine neuen Probleme schafft (Langzeitwirkungen, Umweltverträglichkeit, ökonomische/soziale Stabilität).
-- **Menschenwürde:** Prüfen, inwiefern Freiheiten durch Maßnahme eingeschränkt oder erweitert werden (z.B. Meinungsfreiheit, Bewegungsfreiheit, wirtschaftliche Freiheit, Versammlungsfreiheit). Abwägen, ob Einschränkungen angemessen und verhältnismäßig sind.
-- **Partizipation:** Beschreiben, wie Betroffene am Entscheidungsprozess beteiligt wurden/werden. Prüfen, ob alle betroffene Gruppen angehört wurden und welche Mitbestimmungsmöglichkeiten bestehen.
-- **Frieden:** Prüfen, ob die Maßnahme bestehende Konflikte verstärkt oder entschärft. Darlegen, inwiefern sie zum sozialen Frieden beiträgt oder diesen gefährdet.
-- **Bedarfsgerechtigkeit:** Beschreiben, welche Bedürfnisse verschiedener Gruppen berücksichtigt oder vernachlässigt werden.
-- **Chancengerechtigkeit:** Beschreiben, welche Gruppen Vorteile erhalten oder benachteiligt werden und ob Zugangshürden bestehen.
-- **Generationengerechtigkeit**: Prüfen, wie sich die Maßnahme auf zukünftige Generationen auswirkt. Beschreiben, ob Ressourcen nachhaltig genutzt werden und ob finanzielle Lasten auf kommende Generationen verschoben werden.
-- **Gerechtigkeit:** Analysieren, inwiefern die Maßnahme verschiedene Gerechtigkeitsprinzipien (Bedarfsgerechtigkeit, Chancengerechtigkeit, Generationengerechtigkeit) berücksichtigt.
-- **Verursacherprinzip**: Darlegen, ob diejenigen zur Verantwortung gezogen werden, die das Problem verursacht haben. Beschreiben, wie Kosten zwischen Verursachern und Allgemeinheit verteilt werden.
-
-
 # Partizipationsformen
 
 ## Zukunftswerkstatt
@@ -577,7 +537,7 @@ In einer mittleren Großstadt sollte ein brachliegendes Industriegelände neu ge
 
 Die Ergebnisse flossen direkt in den städtischen Planungsprozess ein und führten zu einem modifizierten Bebauungsplan, der wesentliche Bürgerideen berücksichtigte.
 
-### Beteiligungshaushalt
+## Beteiligungshaushalt
 
 **Bürgerhaushalt** ist ein primär online durchgeführtes konsultatives Verfahren der informellen Bürgerbeteiligung auf kommunaler Ebene, bei dem Bürgerinnen und Bürger zur Verteilung verfügbarer Mittel und Ressourcen ihrer Gemeinde konsultiert werde(die Bürger und Bürger werden nicht über Pflichtausgaben konsultiert). 
 
@@ -586,8 +546,46 @@ _(**Pflichtausgaben** sind gesetzlich oder vertraglich festgelegte Ausgaben, die
 ### Anwendungsbeispiel
 In einer mittelgroßen Stadt wurde ein Bürgerhaushalt für einen Stadtteil mit 300.000€ Budget eingeführt. Bürger konnten über die Verteilung von 200.000€ mitentscheiden. Die meisten Stimmen erhielten die Sanierung eines Spielplatzes und die Einrichtung eines Nachbarschaftsgartens, die daraufhin vom Gemeinderat umgesetzt wurden.
 
+## Beteiligungsscoping
+**Beteiligungsscoping** bezeichnet das gemeinsame Erarbeiten eines strukturierten Fahrplans für einen Beteiligungsprozess, bei dem Vorhabenträger, Verwaltung, Bürgerschaft und Zivilgesellschaft zusammen den Rahmen und die Methoden der Beteiligung festlegen. Ergebnis des Prozesses ist ein gemeinsam entwickelter Beteiligungsfahrplan. Ergebnis kann aber auch sein, dass man die frühe formelle Beteiligung als ausreichend einstuft und von weiteren, informellen Beteiligungsformen absieht.
+
+### Anwendungsbeispiel
+Bei der Planung einer Umgehungsstraße wurde ein Beteiligungsscoping durchgeführt. Vertreter der Stadtverwaltung, der Planungsbehörde, lokaler Umweltverbände und Bürgervertretungen erarbeiteten gemeinsam einen Fahrplan, der Informationsveranstaltungen, Online-Befragungen und moderierte Workshops zu verschiedenen Planungsstadien vorsah. 
+
+## Mediation
+**Mediation** ist ein verhandlungsbasiertes, konsensorientiertes Konfliktlösungsverfahren mit freiwilliger Beteiligung unter Vorsitz eines neutralen Mediators. Mediator vermittelt zwischen den Konfliktparteien. Er besitzt keine Entscheidungskompetenz und formuliert in der Regel auch keine Lösungsvorschläge.
+
+### Anwendungsbeispiel
+Bei einem Nachbarschaftskonflikt über Lärmbelästigung vermittelte ein Mediator zwischen den Parteien. Nach Klärung der gegenseitigen Bedürfnisse (Ruhe vs. soziales Leben) erarbeiteten die Konfliktparteien selbständig eine Vereinbarung mit festgelegten Ruhezeiten und vorheriger Ankündigung von Feiern.
+ 
+# Urteilskriterien 
+ **Hinweis:** Ausdrücke wie beschreiben, analysieren, prüfen, vergleichen und weitere werden in dieser Abteilung nicht als Bidungsplan Operatoren verwendet.
+
+- **Effektivität:** Prüfen, ob die Maßnahme das angestrebte Ziel tatsächlich erreicht/(erreichen kann).
+- **Effizienz:**  Die Kosten/Ressourceneinsatz der Maßnahme beschreiben (Zeit, Finanzen, Kollateralschaden). Maßnahme mit altenativen Lösungen nach [Kosten-Nutzen-Verhältnis](https://www.youtube.com/watch?v=7tdKkeNClPE) vergleichen. 
+- **Legalität:**  Es ist zu prüfen, ob die Maßnahme mit geltenden Gesetzen und der Verfassung vereinbar ist.
+- **Nachhaltigkeit:** Es ist zu beschreiben, ob Maßnahme langfristig wirksam bleibt und keine neuen Probleme schafft (Langzeitwirkungen, Umweltverträglichkeit, ökonomische/soziale Stabilität).
+- **Menschenwürde:** Prüfen, inwiefern Freiheiten durch Maßnahme eingeschränkt oder erweitert werden (z.B. Meinungsfreiheit, Bewegungsfreiheit, wirtschaftliche Freiheit, Versammlungsfreiheit). Abwägen, ob Einschränkungen angemessen und verhältnismäßig sind.
+- **Partizipation:** Beschreiben, wie Betroffene am Entscheidungsprozess beteiligt wurden/werden. Prüfen, ob alle betroffene Gruppen angehört wurden und welche Mitbestimmungsmöglichkeiten bestehen.
+- **Frieden:** Prüfen, ob die Maßnahme bestehende Konflikte verstärkt oder entschärft. Darlegen, inwiefern sie zum sozialen Frieden beiträgt oder diesen gefährdet.
+- **Bedarfsgerechtigkeit:** Beschreiben, welche Bedürfnisse verschiedener Gruppen berücksichtigt oder vernachlässigt werden.
+- **Chancengerechtigkeit:** Beschreiben, welche Gruppen Vorteile erhalten oder benachteiligt werden und ob Zugangshürden bestehen.
+- **Generationengerechtigkeit**: Prüfen, wie sich die Maßnahme auf zukünftige Generationen auswirkt. Beschreiben, ob Ressourcen nachhaltig genutzt werden und ob finanzielle Lasten auf kommende Generationen verschoben werden.
+- **Gerechtigkeit:** Analysieren, inwiefern die Maßnahme verschiedene Gerechtigkeitsprinzipien (Bedarfsgerechtigkeit, Chancengerechtigkeit, Generationengerechtigkeit) berücksichtigt.
+- **Verursacherprinzip**: Darlegen, ob diejenigen zur Verantwortung gezogen werden, die das Problem verursacht haben. Beschreiben, wie Kosten zwischen Verursachern und Allgemeinheit verteilt werden.
 
 
+# Politische Beteiligungsmöglichkeiten in der Bundesrepublik Deutschland
+[Video](https://www.youtube.com/watch?v=BMz4dkwWnnk)
+
+- **Wahlen**:Volljährige Bürger*innen beeinflussen die Zusammensetzung von Parlamenten, indem sie bei **Bundestags-**, **Landtags-** oder **Kommunalwahlen** ihre Stimme abgeben.
+- **Parteienarbeit** Durch den **Beitritt zu einer Partei** oder die **Gründung einer neuen Partei** gestalten Bürger*innen politische Programme und stellen Kandidat*innen auf.  
+- **Petitionen** Jeder mit festem Wohnsitz in Deutschland kann Bitten oder Beschwerden an staatliche Stellen richten. **Bundestagspetitionen** mit 50.000 Unterschriften müssen im Petitionsausschuss öffentlich beraten werden (z. B. Online-Petition für ein Tempolimit auf Autobahnen).  
+-  **Demonstrationen und Versammlungen:** Öffentliche Kundgebungen ermöglichen kollektiven Protest und müssen in der Regel **48 Stunden vorher angemeldet** werden (Beispiel: Fridays-for-Future-Klimastreiks).  Ziel ist es, in der Öffentlichkeit Aufmerksamkeit für Anliegen zu generieren – etwa durch Medienberichterstattung oder direkte Ansprache von Politiker*innen.  
+- **Bürgerbegehren und Bürgerentscheide:** Auf kommunaler Ebene können Bürger*innen **verbindliche Abstimmungen** über lokale Fragen initiieren.  **Voraussetzung**: Je nach Bundesland müssen 5–10 % der Stimmberechtigten mobilisiert werden (z. B. 10 % in Bayern, 7 % in Berlin). Erfolgreiche Beispiele: Stopp von Großprojekten wie *Stuttgart 21* oder Einführung von Tempo-30-Zonen.  
+-  **Blog schreiben:** Blogs dienen als unabhängige Plattformen, um Meinungen zu verbreiten und Diskurse anzustoßen.  
+- **Bürgerbegehren und Bürgerentscheide**: Auf kommunaler Ebene können Bürger*innen verbindliche Abstimmungen über lokale Fragen initiieren, sobald sie je nach Bundesland etwa 5–10 % der Stimmberechtigten mobilisieren.  
+- **Gründung oder Beitritt in Vereine:** Vereine schaffen einen dauerhaften, rechtlich abgesicherten Rahmen, in dem Bürger*innen ihre gemeinsamen Interessen wirkungsvoll vertreten können. Beispiele reichen vom bundesweiten Umweltverband NABU bis zu kleinen, lokalen Initiativen für Denkmalschutz. Für eine Neugründung braucht es mindestens sieben Personen, die eine Satzung verabschieden und den Verein beim Amtsgericht als e.V. eintragen lassen. Wer zusätzlich die Gemeinnützigkeit anerkennen lässt, profitiert von Steuervergünstigungen und höherer Spendenbereitschaft.
 
 # Operatoren 
  
