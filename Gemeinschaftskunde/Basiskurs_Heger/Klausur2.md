@@ -391,7 +391,7 @@ _(**Stichwahl:** bezeichnet den entscheidenden, letzten Wahlgang nach dem Mehrhe
 
 bpb: [Personalisiertes Verhältniswahlrecht](https://www.bpb.de/themen/politisches-system/wahlen-in-deutschland/558535/personalisiertes-verhaeltniswahlrecht/)
 
-**Personalisiertes Verhältniswahlsystem** bezeichnet das Verfahren, mit dem die Abgeordneten des Deutschen Bundestages gewählt werden. Es verbindet eine mehrheitswahl in Wahlkreisen (Erststimme) mit einer proportionalen Sitzverteilung nach Parteienlisten auf Bundesebene (Zweitstimme). Die Zweitstimme bestimmt allein, wie viele Sitze jeder Partei insgesamt zustehen; die Erststimme entscheidet lediglich, welche Personen diese Sitze besetzen. 
+**Personalisiertes Verhältniswahlsystem** ist eine Variante von Verhältniswahlsystem. Es verbindet eine mehrheitswahl in Wahlkreisen (Erststimme) mit einer proportionalen Sitzverteilung nach Parteienlisten auf Bundesebene (Zweitstimme). Die Zweitstimme bestimmt allein, wie viele Sitze jeder Partei insgesamt zustehen; die Erststimme entscheidet lediglich, welche Personen diese Sitze besetzen. 
 
 
 ### Ablauf der Bundestagswahl  
@@ -418,11 +418,11 @@ Effekte:
 - **Verkleinerung & Kostenbremse:** Das Parlament schrumpft voraussichtlich um rund 100 Mandate, was Sitzkosten, Büroflächen und Ausschussgrößen reduziert.  
 - **Stimmengewicht:**  Ohne Überhangmandate zählt nur noch das Verhältnis der Zweitstimmen. Das macht die Sitzverteilung gerechter aus Sicht der Verhältniswahl, schwächt aber stark regionale Parteien(CDU), die bisher von vielen Direktmandaten profitiert haben. 
 - **Direktwahl-Repräsentation:** Überschüssige Wahlkreissieger verlieren ihr Mandat; einzelne Wahlkreise könnten ohne direkt gewählte Vertretung bleiben.  
-- **Fortbestehende Grundmandatsklausel:** Parteien mit konzentrierter regionaler Unterstützung (z. B. Die Linke) behalten trotz Unter-5-%-Ergebnissen eine Eintrittschance.  
+- **Fortbestehende Grundmandatsklausel:** Parteien mit konzentrierter regionaler Unterstützung behalten trotz Unter-5-%-Ergebnissen eine Eintrittschance.  
 
 ### letzte Bundestagswahl
 
-Nachdem der Kanzler die Vertrauensfrage verloren hat, löste Bundespräsident Frank-Walter Steinmeier den zwanzigsten Bundestag am 27. Dezember 2024 auf und setzte Neuwahlen für **Sonntag, den 23. Februar 2025**, an. Diese vorgezogene Wahl folgte bereits den neuen Wahlrechtsreform vom 2023  aber wegen der Entscheidung von dem Bundesverfassungsgericht wurde Grundmandatsklausel trotzdem angewendet Dadurch zog etwa **Die Linke** mit knapp unter fünf Prozent Zweitstimmen und vier Berliner Direktmandaten in mit 64 Sitze den Bundestag ein. Besonders auffällig war der Aufstieg der AfD (20,8 % der Zweitstimmen), die ihren Sitzanteil fast verdoppelte und mit 152 Mandaten zweitstärkste Kraft wurde, während die FDP an der Fünf-Prozent-Hürde scheiterte und gar nicht mehr im Parlament vertreten ist. Zugleich erreichte die Wahlbeteiligung mit 82,5 Prozent den höchsten Wert seit der Wiedervereinigung.
+Nachdem der Kanzler die Vertrauensfrage verloren hat, löste Bundespräsident Frank-Walter Steinmeier den zwanzigsten Bundestag am 27. Dezember 2024 auf und setzte Neuwahlen für **Sonntag, den 23. Februar 2025**, an. Diese vorgezogene Wahl folgte bereits den neuen Wahlrechtsreform vom 2023  aber wegen der Entscheidung von dem Bundesverfassungsgericht wurde Grundmandatsklausel trotzdem angewendet Dadurch zog etwa **Die Linke** mit knapp unter fünf Prozent Zweitstimmen und vier Berliner Direktmandaten in mit 64 Sitze den Bundestag ein. Besonders auffällig war der Aufstieg der AfD (20,8 % der Zweitstimmen), die ihren Sitzanteil fast verdoppelte und mit 152 Mandaten zweitstärkste Kraft wurde, während die FDP an der Fünf-Prozent-Hürde scheiterte und gar nicht mehr im Parlament vertreten ist. Zugleich erreichte die Wahlbeteiligung mit 82,5 Prozent den höchsten Wert seit der Wiedervereinigung (historisch höchsteWahlbeteiligung im Jahr 1972 mit einem 91%).
 
 
 # Vergleich des Bundestagswahlsystems mit reinen Mehrheits- und Verhältniswahlsystemen  
@@ -450,6 +450,32 @@ Das deutsche **personalisierte Verhältniswahlrecht** steht **zwischen** den Pol
 - In der **Regierungsbildung** sichert es kooperative Mehrparteien­koalitionen, die zwar Verhandlungen erfordern, aber extreme Macht­konzentration oder chronische Instabilität vermeiden.  
 
 Damit liefert das Bundestagsmodell einen **ausgewogenen Kompromiss** zwischen Repräsentations­gerechtigkeit und Regierungs­effizienz, den weder reine Mehrheits- noch reine Verhältnis­systeme vollständig bieten. so ein Rumgelaber
+
+
+
+# Ursachen des Nichtwählens 
+
+### 1. Politische Verdrossenheit  
+Die Enttäuschung über politische Parteien und deren Vertreter kann dazu führen, dass Bürger Wahlen als wirkungslos oder gleichförmig wahrnehmen. Diese Wahrnehmung verstärkt eine generelle Distanzierung oder Ablehnung gegenüber dem politischen System und seinen Akteuren, was wiederum in Wahlabstinenz resultieren kann.
+**Beispiel**: Eine Bürgerin, die über mehrere Wahlperioden beobachtet hat, dass trotz wechselnder Regierungsparteien dieselben Probleme in ihrer Stadt ungelöst bleiben, entwickelt zunehmend das Gefühl, dass ihre Stimme bedeutungslos ist. Bei der nächsten Kommunalwahl bleibt sie der Urne fern, da sie überzeugt ist, dass unabhängig vom Wahlergebnis keine substanziellen Veränderungen eintreten werde
+
+### 2. Wirtschaftliche Situation.
+Menschen in wirtschaftlich prekären Verhältnissen beteiligen sich statistisch seltener an Wahlen, häufig aufgrund ihrer Frustration über ein System, das ihre schwierige Lebenssituation nicht verbessert. Diese Wahlabstinenz wird zusätzlich verstärkt durch empirische Erkenntnisse, dass politische Versprechen gegenüber einkommensschwachen Bevölkerungsgruppen mit geringerer Wahrscheinlichkeit umgesetzt werden, was zu einer sich vertiefenden Unzufriedenheit und politischen Entfremdung führt.
+
+### 3. Erosion von Parteibindungen und des „Bürgerpflicht“-Gefühls  
+Historisch fest verankerte Bindungen an Stammparteien, sowie das Verständnis von Wählen als Pflicht verlieren an Bedeutung.  
+
+Unter **Stammparteien** versteht man Parteien, zu denen Wählerinnen und Wähler über längere Zeit eine feste, oft familiär oder regional geprägte Loyalität entwickelt haben.
+
+### 4. Neue Beteiligungsformen
+Bürgerinnen und Bürger nutzen neue Beteiligungsformen (NGOs, Online-Aktivismus) und bewerten institutionelle Wahlen weniger als einziges Mitbestimmungsinstrument.  **Beispiel:** Die junge Generation engagiert sich eher bei Organisationen wie Greenpeace als in Parteien.  
+
+### 5. Zufriedenheit 
+Einige Demokratieforscher interpretieren eine moderate Wahlabstinenz nicht als Krisensymptom, sondern vielmehr als Indikator für ein funktionierendes demokratisches System, in dem Bürgerinnen und Bürger so großes Vertrauen in die Stabilität und Leistungsfähigkeit der politischen Institutionen haben, dass sie ihre demokratische Kontrollmöglichkeit durch Wahlen zeitweise nicht ausüben müssen. 
+
+### 6. Protest  
+Die Nichtteilnahme an Wahlen kann als bewusste Form des Protests gegen die vorhandenen Kandidaten oder gegen politische Entscheidungen eingesetzt werden. In solchen Fällen tritt diese Wahlenthaltung an die Stelle einer "Protestwahl", bei der Wähler ihre Unzufriedenheit durch die Wahl oppositioneller oder extremer Parteien ausdrücken würden.
+Beispiel: Nach einer umstrittenen Steuerreform, die von allen großen Parteien unterstützt wurde, entscheiden sich einige Bürger bewusst dafür, bei der nächsten Wahl nicht abzustimmen. Sie sehen keine Partei, die ihre Kritik an der Reform vertritt, und wollen durch ihre Nichtteilnahme ein Zeichen gegen den parteiübergreifenden Konsens setzen, statt für eine kleine Protestpartei zu stimmen, deren sonstige Positionen sie nicht unterstützen. 
 
 # Urteilskriterien 
  **Hinweis:** Ausdrücke wie beschreiben, analysieren, prüfen, vergleichen und weitere werden in dieser Abteilung nicht als Bidungsplan Operatoren verwendet.
