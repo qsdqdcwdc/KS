@@ -455,13 +455,6 @@ Damit liefert das Bundestagsmodell einen **ausgewogenen Kompromiss** zwischen Re
 
 # Ursachen des Nichtwählens 
 
-### Erosion von Parteibindungen und des „Bürgerpflicht“-Gefühls  
-Historisch fest verankerte Bindungen an Stammparteien, sowie das Verständnis von Wählen als Pflicht verlieren an Bedeutung.  
-
-_(Unter **Stammparteien** versteht man Parteien, zu denen Wählerinnen und Wähler über längere Zeit eine feste, oft familiär oder regional geprägte Loyalität entwickelt haben.)_
-
-###  Neue Beteiligungsformen
-Bürgerinnen und Bürger nutzen neue Beteiligungsformen (NGOs, Online-Aktivismus) und bewerten institutionelle Wahlen weniger als einziges Mitbestimmungsinstrument.  **Beispiel:** Die junge Generation engagiert sich eher bei Organisationen wie Greenpeace als in Parteien.  
 
 ### Zufriedenheit 
 Einige Demokratieforscher interpretieren eine moderate Wahlabstinenz nicht als Krisensymptom, sondern vielmehr als Indikator für ein funktionierendes demokratisches System, in dem Bürgerinnen und Bürger so großes Vertrauen in die Stabilität und Leistungsfähigkeit der politischen Institutionen haben, dass sie ihre demokratische Kontrollmöglichkeit durch Wahlen zeitweise nicht ausüben müssen. 
@@ -473,6 +466,14 @@ Die Nichtteilnahme an Wahlen kann als bewusste Form des Protests gegen die vorha
 
 ### Politikferne
 Mangelndes Interesse an oder fehlendes Verständnis für politische Themen und Prozesse kann bei Wahlberechtigten zur Wahlabstinenz führen. Diese Distanz zum politischen Geschehen resultiert häufig aus einer Kombination von unzureichender politischer Bildung, komplexen politischen Strukturen und einer wahrgenommenen Irrelevanz politischer Entscheidungen für das eigene Leben.
+
+### Erosion von Parteibindungen und des „Bürgerpflicht“-Gefühls  
+Historisch fest verankerte Bindungen an Stammparteien, sowie das Verständnis von Wählen als Pflicht verlieren an Bedeutung.  
+
+_(Unter **Stammparteien** versteht man Parteien, zu denen Wählerinnen und Wähler über längere Zeit eine feste, oft familiär oder regional geprägte Loyalität entwickelt haben.)_
+
+###  Neue Beteiligungsformen
+Bürgerinnen und Bürger nutzen neue Beteiligungsformen (NGOs, Online-Aktivismus) und bewerten institutionelle Wahlen weniger als einziges Mitbestimmungsinstrument.  **Beispiel:** Die junge Generation engagiert sich eher bei Organisationen wie Greenpeace als in Parteien.  
 
 
 # Urteilskriterien 
