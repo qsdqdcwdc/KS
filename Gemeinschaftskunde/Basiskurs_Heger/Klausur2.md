@@ -479,6 +479,10 @@ Die Nichtteilnahme an Wahlen kann als bewusste Form des Protests gegen die vorha
 
 **Beispiel:** Nach einer umstrittenen Steuerreform, die von allen großen Parteien unterstützt wurde, entscheiden sich einige Bürger bewusst dafür, bei der nächsten Wahl nicht abzustimmen. Sie sehen keine Partei, die ihre Kritik an der Reform vertritt, und wollen durch ihre Nichtteilnahme ein Zeichen gegen den parteiübergreifenden Konsens setzen, statt für eine kleine Protestpartei zu stimmen, deren sonstige Positionen sie nicht unterstützen. 
 
+### 7. Politikferne
+Mangelndes Interesse an oder fehlendes Verständnis für politische Themen und Prozesse kann bei Wahlberechtigten zur Wahlabstinenz führen. Diese Distanz zum politischen Geschehen resultiert häufig aus einer Kombination von unzureichender politischer Bildung, komplexen politischen Strukturen und einer wahrgenommenen Irrelevanz politischer Entscheidungen für das eigene Leben.
+
+
 # Urteilskriterien 
  **Hinweis:** Ausdrücke wie beschreiben, analysieren, prüfen, vergleichen und weitere werden in dieser Abteilung nicht als Bidungsplan Operatoren verwendet.
 
