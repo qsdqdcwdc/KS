@@ -456,7 +456,8 @@ Damit liefert das Bundestagsmodell einen **ausgewogenen Kompromiss** zwischen Re
 # Ursachen des Nichtwählens 
 
 ### 1. Politische Verdrossenheit  
-Die Enttäuschung über politische Parteien und deren Vertreter kann dazu führen, dass Bürger Wahlen als wirkungslos oder gleichförmig wahrnehmen. Diese Wahrnehmung verstärkt eine generelle Distanzierung oder Ablehnung gegenüber dem politischen System und seinen Akteuren, was wiederum in Wahlabstinenz resultieren kann.
+Enttäuschung über Parteien und Akteure führt dazu, dass Wahlen als unwirksam oder „immer gleich“ wahrgenommen werden.  Allgemeine Distanz oder Ablehnung gegenüber Parteien, Politikern und politischen Prozessen; zeigt sich in sinkender Partei­mitgliederzahl und Wahlbeteiligung.
+
 **Beispiel**: Eine Bürgerin, die über mehrere Wahlperioden beobachtet hat, dass trotz wechselnder Regierungsparteien dieselben Probleme in ihrer Stadt ungelöst bleiben, entwickelt zunehmend das Gefühl, dass ihre Stimme bedeutungslos ist. Bei der nächsten Kommunalwahl bleibt sie der Urne fern, da sie überzeugt ist, dass unabhängig vom Wahlergebnis keine substanziellen Veränderungen eintreten werde
 
 ### 2. Wirtschaftliche Situation.
@@ -465,7 +466,7 @@ Menschen in wirtschaftlich prekären Verhältnissen beteiligen sich statistisch 
 ### 3. Erosion von Parteibindungen und des „Bürgerpflicht“-Gefühls  
 Historisch fest verankerte Bindungen an Stammparteien, sowie das Verständnis von Wählen als Pflicht verlieren an Bedeutung.  
 
-Unter **Stammparteien** versteht man Parteien, zu denen Wählerinnen und Wähler über längere Zeit eine feste, oft familiär oder regional geprägte Loyalität entwickelt haben.
+_(Unter **Stammparteien** versteht man Parteien, zu denen Wählerinnen und Wähler über längere Zeit eine feste, oft familiär oder regional geprägte Loyalität entwickelt haben.)_
 
 ### 4. Neue Beteiligungsformen
 Bürgerinnen und Bürger nutzen neue Beteiligungsformen (NGOs, Online-Aktivismus) und bewerten institutionelle Wahlen weniger als einziges Mitbestimmungsinstrument.  **Beispiel:** Die junge Generation engagiert sich eher bei Organisationen wie Greenpeace als in Parteien.  
@@ -475,7 +476,8 @@ Einige Demokratieforscher interpretieren eine moderate Wahlabstinenz nicht als K
 
 ### 6. Protest  
 Die Nichtteilnahme an Wahlen kann als bewusste Form des Protests gegen die vorhandenen Kandidaten oder gegen politische Entscheidungen eingesetzt werden. In solchen Fällen tritt diese Wahlenthaltung an die Stelle einer "Protestwahl", bei der Wähler ihre Unzufriedenheit durch die Wahl oppositioneller oder extremer Parteien ausdrücken würden.
-Beispiel: Nach einer umstrittenen Steuerreform, die von allen großen Parteien unterstützt wurde, entscheiden sich einige Bürger bewusst dafür, bei der nächsten Wahl nicht abzustimmen. Sie sehen keine Partei, die ihre Kritik an der Reform vertritt, und wollen durch ihre Nichtteilnahme ein Zeichen gegen den parteiübergreifenden Konsens setzen, statt für eine kleine Protestpartei zu stimmen, deren sonstige Positionen sie nicht unterstützen. 
+
+**Beispiel:** Nach einer umstrittenen Steuerreform, die von allen großen Parteien unterstützt wurde, entscheiden sich einige Bürger bewusst dafür, bei der nächsten Wahl nicht abzustimmen. Sie sehen keine Partei, die ihre Kritik an der Reform vertritt, und wollen durch ihre Nichtteilnahme ein Zeichen gegen den parteiübergreifenden Konsens setzen, statt für eine kleine Protestpartei zu stimmen, deren sonstige Positionen sie nicht unterstützen. 
 
 # Urteilskriterien 
  **Hinweis:** Ausdrücke wie beschreiben, analysieren, prüfen, vergleichen und weitere werden in dieser Abteilung nicht als Bidungsplan Operatoren verwendet.
