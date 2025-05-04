@@ -321,13 +321,16 @@ _(Meistens werden auf dem Internet nur die ersten fünf (Demokratie, Republik, B
 [^2]: https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/320777/mehrheitswahlrecht/
 
 ### Merkmale  
-- **Personenwahl & Einerwahlkreise**: die Wähler*innen entscheiden über eine konkrete Person; dadurch sind die Abgeordneten tendenziell unabhängiger von der Parteilinie. 
-- **Winner-takes-all / „Wasted Votes“**: Stimmen für Verlierer-Kandidat*innen haben keinen Sitz-Effekt; überschüssige Stimmen des Siegers ebenfalls.
-- **Tendenz zum Zweiparteiensystem **: strategisches Wählen konzentriert Unterstützung auf zwei chancenreiche Parteien. 
-- **Klare Mehrheiten & Regierungsstabilität**: Sitzbonus für die stärkste Partei führt häufig zu Alleinregierungen und damit zu planbarer Regierungsbildung.
+- Bei der relativen Mehrheitswahl wird das Wahlgebiet in so viele Wahlkreise unterteilt, wie Abgeordnete zu wählen sind.
+- **Personenwahl**: die Wähler*innen entscheiden über eine konkrete Person; dadurch sind die Abgeordneten tendenziell unabhängiger von der Parteilinie. 
+- **Winner-takes-all“**: Stimmen für Verlierer-Kandidat*innen haben keinen Sitz-Effekt; überschüssige Stimmen des Siegers ebenfalls.
 - **Strategisches Wählen**: viele Wähler*innen stimmen nicht für ihre Lieblingspartei, sondern für die „wahrscheinlich Gewinnende“, um Stimmverlust zu vermeiden. 
+- **Unterrepräsentation** von geographisch verteilten Minderheiten.
+- **Tendenz zum Zweiparteiensystem**: Strategisches Wählen konzentriert Unterstützung auf zwei chancenreiche Parteien. 
+- **Klare Mehrheiten & Regierungsstabilität**: Sitzbonus für die stärkste Partei führt häufig zu Alleinregierungen und damit zu planbarer Regierungsbildung.
 - **Gerrymandering-Anfälligkeit**: Zuschnitt von Wahlkreisen kann Wahlausgänge gezielt verzerren. 
-- **Einfache Stimmabgabe & Auszählung**: eine Stimme, einfache Zählregel; für Laien leichter nachvollziehbar als komplexe Verhältnis­wahlsysteme.
+- **Hochburgen** sind Wahlkreise wo die Wählerschaft sich regelmäßig für eine und dieselbe Partei entscheidet. Mit der Zeit geben die Oppositionsparteien immer weniger Mühe diesen Wahlkreis zu gewinnen was zu Verringerung der Konkurrenz führt.
+- **Einfache Auszählung**: eine Stimme, einfache Zählregel, leichter nachvollziehbar als komplexe Verhältnis­wahlsysteme. Billiger durchführen als zwei Runden von absoluten Mehrheitswahl
 
 | Land | Ebene / Organ | Typ | Kurzinfo |
 |------|---------------|-----|----------|
@@ -336,18 +339,17 @@ _(Meistens werden auf dem Internet nur die ersten fünf (Demokratie, Republik, B
 | **Deutschland** | Erststimme der Bundestagswahl | relative Mehrheit (in Mischsystem) | 299 Direktmandate, kombiniert mit Verhältniswahl über Zweitstimme. |
 
 ## Absolute Mehrheitswahlsystem  
-**Definition** – Ein **absolutes Mehrheitswahlsystem** verlangt, dass die/der Sieger*in eines Wahlkreises (oder einer landesweiten Direktwahl) Absolute Mehrheit (mindestens 50 % + 1 Stimme) der gültigen Stimmen erhält; wird diese Schwelle nicht erreicht, sorgt ein **Stichwahl-** oder **Präferenzverfahren** dafür, dass am Ende jemand mit absoluter Mehrheit gewählt wird.
+**Definition** – Ein **absolutes Mehrheitswahlsystem** verlangt, dass die/der Sieger*in eines Wahlkreises (oder einer landesweiten Direktwahl) Absolute Mehrheit (mindestens 50 % + 1 Stimme) der gültigen Stimmen erhält. Da dies selten gelingt, fällt gewöhnlich ein zweiter Wahlgang an. In ihm ist die relative Mehrheit der Stimmen ausreichend.
 
 ### Merkmale  
-- **Personenwahl & häufig Einerwahlkreise**: wie beim relativen System steht meist eine konkrete Person pro Wahlkreis auf dem Stimmzettel; Mehrheiten werden jedoch erst durch absolute Zustimmungswerte legitimiert.  
-- **„Majority wins“ statt „winner-takes-plurality“**: Stimmen für unterlegene Kandidat*innen können in einer zweiten Runde (Two-Round-System) oder über Präferenzübertragungen (Instant-Runoff) weiterwirken; rein „verlorene” Stimmen werden reduziert.  
-- **Moderierender Effekt**: Kandidat*innen müssen über die eigene Kernklientel hinaus Stimmen gewinnen; dadurch oft Vorteil für mittige oder konsensfähige Kandidaturen.  
-- **Tendenz zu Mehr-Parteien-Systemen**:  doppelt Mehrheits­verfahren eher Multipartismus als das relative Mehrheitsrecht.
-- **Regierungsbildung**: schafft meist klare Mehrheiten oder direkt gewählte Amtsinhaber, kann aber zusätzliche Kosten (zweiter Wahlgang) oder komplexere Auszählungen (IRV) verursachen.  
-- **Gerrymandering-Anfälligkeit**: bleibt bestehen, da in der Regel weiterhin Einpersonenwahlkreise genutzt werden.
+- **Einerwahlkreise**: Bei der absoluten Mehrheitswahl wird wie bei der relativen Mehrheitswahl in Einpersonenwahlkreisen gewählt. 
+- **Wahlabsprachen**: Im zweiten Wahlgang kommt es meist zu Wahlabsprachen. Parteien, deren Chancen von vornherein gering sind, empfehlen ihrer Wählerschaft die Wahl eines ihnen genehmen und aussichtsreichen Kandidaten oder einer Kandidatin. 
+- **Moderierender Effekt**: Kandidat*innen müssen in der zweiten Runde über die eigene Kernklientel hinaus Stimmen gewinnen; dadurch oft Vorteil für mittige oder konsensfähige Kandidaturen.  
+- **Regierungsbildung**: Die absolute Mehrheitswahl soll wie die relative Mehrheitswahl zu klaren Mehrheiten im Parlament führen. Der mehrheitsbildende Effekt ist in diesem Fall aber nicht so stark wie bei der relativen Mehrheitswahl.
+- Ein Zweiparteiensystem bildet sich gewöhnlich nicht aus. 
+- **Hochburgen** bestehen.
+- **Gerrymandering-Anfälligkeit**: bleibt bestehen, da in weiterhin Einpersonenwahlkreise genutzt werden.
 
-_(**Two-Round-System (TRS)**: erneute Wahl zwischen den bestplatzierten Kandidat*innen, falls niemand im ersten Wahlgang > 50 % erreicht.)_
-_(**Instant-Runoff/Alternative Vote (IRV)**: alle Präferenzen werden in einem Wahlgang erfasst; niedrigstplatzierte scheiden aus, bis jemand > 50 % kumulierter Präferenzen besitzt.)_
 
 | Land | Ebene / Organ | Typ | Kurzinfo |
 |------|---------------|-----|----------|
@@ -364,9 +366,10 @@ _(**Stichwahl:** bezeichnet den entscheidenden, letzten Wahlgang nach dem Mehrhe
 
 ## Merkmale  
 
-- **Mehrmandatswahlkreise / landesweite Wahlkreise** – Mandate werden in mittel- bis großflächigen Wahlkreisen (oder landesweit) vergeben; dadurch können mehrere Parteien pro Gebiet Sitze erringen.  
+- **Mehrmandatswahlkreise / landesweite Wahlkreise** – Mandate werden in mittel- bis großflächigen Wahlkreisen (oder landesweit) vergeben 
 - **Parteien- statt Personenfokus** – Liste oder Präferenzordnung bestimmt maßgeblich die Sitzverteilung; offene Listen erlauben jedoch persönliche Präferenz der Wählenden.  
-- **Hohe Proportionalität & geringe „Wasted Votes“** – Fast jede Stimme wirkt sich auf die Zusammensetzung des Parlaments aus; Effizienzverlust tritt vor allem erst oberhalb festgelegter **Sperrklauseln** (z. B. 5 % in Deutschland) auf.  
+- **geringe „Wasted Votes“** – Fast jede Stimme wirkt sich auf die Zusammensetzung des Parlaments aus; Effizienzverlust tritt vor allem erst oberhalb festgelegter **Sperrklauseln** (z. B. 5 % in Deutschland) auf.
+- **Proportionalität**: Anzahl der Sitze, die jede Partei erhält, verhält nah proportional zu der Anzahl ihrer Stimmen (mit der Ausnahme von ganz kleinen Parteien).
 - **Mehrparteiensystem & Koalitionsregierungen** – Geringe Eintrittsbarrieren fördern Parteiplenum; regierungsbildende Mehrheiten entstehen häufig durch Koalitionen.  
 - **Komplexität** – Stimmenauszählung und Mandats­berechnung sind erklärungsbedürftiger; Wahlzettel können länger sein (viele Listen/Kandidat*innen).  
 - **Geringere Gerrymandering-Anfälligkeit** – Große bzw. landesweite Wahlkreise reduzieren den Effekt parteilich optimierter Grenzziehungen.
