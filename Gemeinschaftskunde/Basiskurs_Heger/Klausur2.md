@@ -505,7 +505,7 @@ Höhere Bildung steigert das politische Wissen und das Empfinden politischer Sel
 ### Folgen für die Demokratie   
 - **Repräsentationslücke:** Wenn statusniedrige Gruppen systematisch seltener mitreden oder wählen, spiegeln Parlamente eher die Präferenzen ressourcenstarker Milieus.
 - **Generationenkonflikt**: Unterrepräsentation junger Stimmen in Parlamenten begünstigt kurzfristige Politikzyklen (Rentenerhöhungen statt Klimainvestitionen).  
-- **Vertrauensverlust**: Prekäre Milieus und Ostdeutsche zweifeln an der Responsivität des Systems → sinkende Wahlbeteiligung verstärkt den Teufelskreis geringer Repräsentation (*Politische Partizipation 2019*).  
+- **Vertrauensverlust**: Statusniedrigen Milieus  zweifeln an der Responsivität des Systems → sinkende Wahlbeteiligung verstärkt den Teufelskreis geringer Repräsentation.  
 - **Populistische Mobilisierung:** Unrepräsentierte Bürger lassen sich leichter durch extreme oder populistische Parteien/Bewegungen ansprechen.
 
  
