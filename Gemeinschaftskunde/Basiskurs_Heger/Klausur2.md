@@ -28,9 +28,10 @@
 
 
 Schauen Sie noch:
-Das kriteriengestützten Urteil aus dem ersten Informationen Sammlung: [Link](https://github.com/qsdqdcwdc/KS/blob/main/Gemeinschaftskunde/Basiskurs_Heger/Klausur1.md#kriteriengest%C3%BCtztes-urteil) 
-Diese Seite zu dem karikaturanalyse [Link](https://www.rundumgemeinschaftskunde.de/arbeitstechniken/karikaturen/)
-Diese Seite zur statistik-analyse: [Link](https://www.rundumgemeinschaftskunde.de/arbeitstechniken/statistiken/)
+
+- Das kriteriengestützten Urteil aus dem ersten Informationen Sammlung: [Link](https://github.com/qsdqdcwdc/KS/blob/main/Gemeinschaftskunde/Basiskurs_Heger/Klausur1.md#kriteriengest%C3%BCtztes-urteil) 
+- Diese Seite zu dem karikaturanalyse [Link](https://www.rundumgemeinschaftskunde.de/arbeitstechniken/karikaturen/)
+- Diese Seite zur statistik-analyse: [Link](https://www.rundumgemeinschaftskunde.de/arbeitstechniken/statistiken/)
 
 Dieses Dokument enthält keine Informationen über aktuelle Nachrichten es wurde empfohlen zeit.de, Tagesschau und Tagesschau in 100 Sekunden anzuschauen.
 
