@@ -141,5 +141,5 @@ public void printList(List<?> list) {
     }
 }
 ```
-Man kann auch Schranken an wirecards anwenden: `<? extends Animal>`
+Man kann auch Schranken an Wirecards anwenden: `<? extends Animal>`
 
