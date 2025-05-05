@@ -267,36 +267,83 @@ In Java ist **Java Collections Framework** eine Sammlung von Interfaces, Impleme
 - Weiterer wichtiger Bestandteil des Frameworks ist eine Sammlung von hocheffizienten Algorithmen, etwa Sortieren oder Suchen, die auf den verschiedenen Datenstrukturen angewendet werden können. 
 
 
-
-
-
 ## ArrayList
-**ArrayList** ist eine dynamische Liste, die Elemente in der Reihenfolge ihrer Einfügung speichert. Sie erlaubt Duplikate und bietet schnellen Zugriff auf Elemente per Index.
-
-### Import und Deklaration
+**ArrayList** ist eine dynamische Liste, die Elemente in der Reihenfolge ihrer Einfügung speichert. Sie erlaubt Duplikate und bietet schnellen Zugriff auf Elemente per Index. 
 ```java
 import java.util.ArrayList;
 ArrayList<String> liste = new ArrayList<>();
 ```
-## HashSet
-**HashSet** ist eine Sammlung, die **keine Duplikate** erlaubt und die Einfügereihenfolge **nicht garantiert**(die Reihenfolge von Elementen kann sich nach der Addition von neuen Elementen komplett verändern die neuen Elementen werden an eine zufällige Stelle addiert).
+
+
+## Set
+[Video](https://www.youtube.com/watch?v=QvHBHuuddYk)
+
+**Menge(Set)** ist eine Sammlung, die **keine Duplikate** erlaubt. Nachfolgend finden Sie drei verschiedene Implementierungen des Sets mit leicht unterschiedlichen Eigenschaften.
+
+
+### HashSet
+**HashSet** ist ein Set, das die Einfügereihenfolge **nicht garantiert**(die Reihenfolge von Elementen kann sich nach der Addition von neuen Elementen komplett verändern die neuen Elementen werden an eine zufällige Stelle addiert).
+
 ```java
 import java.util.HashSet;
 HashSet<Integer> zahlen = new HashSet<>();
 ```
-## TreeSet
-**TreeSet** ist ein Set, das die Elemente **automatisch sortiert** (aufsteigend) speichert. Intern wird ein **Balanced Tree (Red-Black Tree)** verwendet.
+### TreeSet
+**TreeSet** ist ein Set, das die Elemente **automatisch sortiert** (aufsteigend) speichert.
 
 ```java
 import java.util.TreeSet;
 TreeSet<String> namen = new TreeSet<>();
 ```
 
-
-## LinkedHashSet
-
-**LinkedHashSet** ist wie HashSet, aber **erhält die Einfügereihenfolge**. Es verbindet einen Hash mit einer verketteten Liste.
+### LinkedHashSet
+**LinkedHashSet** ist wie HashSet, aber **erhält die Einfügereihenfolge**.
 ```java
 import java.util.LinkedHashSet;
 LinkedHashSet<String> tiere = new LinkedHashSet<>();
 ```
+
+## Hilfsoperationen
+| Operation                            | ArrayList | HashSet | TreeSet | LinkedHashSet |
+|-------------------------------------|-----------|---------|---------|----------------|
+| `.add(E e)`                          | ✅        | ✅      | ✅      | ✅             |
+| `.get(int index)`                    | ✅        | ❌      | ❌      | ❌             |
+| `.contains(Object o)`                | ✅ | ✅  | ✅ | ✅      |
+| `.remove(Object o)`                  | ✅        | ✅      | ✅      | ✅             |
+| `.remove(int index)`                  | ✅        | ❌      | ❌      | ❌             |
+|`.isEmpty()`                         | ✅        | ✅      | ✅      | ✅             |
+|`.clear()`                         | ✅        | ✅      | ✅      | ✅             |
+| Duplikate erlaubt                   | ✅        | ❌      | ❌      | ❌             |
+| Reihenfolge erhalten                | ✅        | ❌      | ❌  | ✅         |
+| automatisch Sortiert                | ❌        | ❌      | ✅      | ❌             |
+| Zugriff nach Index möglich          | ✅        | ❌      | ❌      | ❌             |
+| Null erlaubt                        | ✅        | ✅        | ❌     | ✅             |
+
+## Beschreibung der Hilfsoperationen
+
+- **`.add(E e)`**  Fügt ein Element zur Sammlung hinzu. Gibt `true` zurück, wenn das Element erfolgreich eingefügt wurde (bei `Set` nur wenn es nicht schon enthalten war).
+- **`.get(int index)`**  Gibt das Element am angegebenen Index zurück. Nur bei Listen wie `ArrayList` verfügbar. Rückgabewert: das Element an der Position.
+- **`.contains(Object o)`**   Prüft, ob ein bestimmtes Element enthalten ist. Gibt `true` zurück, wenn das Element vorhanden ist, sonst `false`.
+- **`.remove(Object o)`**  Entfernt das angegebene Objekt, falls es enthalten ist. Gibt `true` zurück, wenn ein Element entfernt wurde.
+- **`.remove(int index)`**  Entfernt das Element am angegebenen Index. Nur bei `ArrayList` möglich. Rückgabewert: das entfernte Element.
+- **`.isEmpty()`**  Prüft, ob die Sammlung leer ist. Gibt `true` zurück, wenn keine Elemente vorhanden sind.
+- **`.clear()`**  Entfernt alle Elemente aus der Sammlung. Rückgabewert: keiner (void).
+
+
+
+
+### For-Each
+Die `for-each`-Schleife, auch bekannt als erweiterte `for`-Schleife, wird verwendet, um durch Elemente in einem Array oder Set zu iterieren. Man braucht die `for-each`-Schleife, für Iteration durch Mengen weil, Mengen Zugang durch Index nicht erlauben.
+```java
+import java.util.HashSet;
+
+HashSet<String> namen = new HashSet<>();
+namen.add("Anna");
+namen.add("Ben");
+namen.add("Clara");
+
+for (String name : namen) {
+    System.out.println("Name ist " + name);
+}
+```
+
