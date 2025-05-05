@@ -73,6 +73,7 @@ Utility.print(3.14);
 ```  
 
 
+
 ### Begrenzung von Generischen Typen (Generic Bounds)
 
 **Bounded Type Parameters**: Mit **Bounds** kann man einschränken, welche Typen für den Platzhalter zulässig sind. Man kann sicherstellen, dass ein generischer Typ nur Klassen oder Interfaces einer bestimmten Hierarchie verwendet.
@@ -96,6 +97,9 @@ DataProcessor<Double> dp2 = new DataProcessor<>();
 DataProcessor<String> dp3 = new DataProcessor<>();  // Fehler, da String nicht von Number erbt
 ```
 
+
+
+
 ### Mehrere Schranken (Multiple Bounds)
 Ein generischer Typ kann **eine Klasse** und **beliebig viele Interfaces** erben/implementieren – **die Klasse muss zuerst stehen**.
 
@@ -107,6 +111,9 @@ public class KlassName<T extends Klass1 & Interface1 & Interface> {
     }
 }
 ```
+
+
+
 
 ## Mehrere Generische Typen
 Man kann einer Klasse oder Methode **mehrere Typ-Platzhalter** geben.
@@ -136,11 +143,66 @@ public void printList(List<?> list) {
 ```
 Man kann auch Schranken an Wirecards anwenden: `<? extends Animal>`
 
-### Fachbegriffe zu generischen Datentypen
+### Untere Schranke – `super`
+
+**Unterschranke** (Lower Bound) in Generics wird mit dem Schlüsselwort `super` angegeben. Sie wird hauptsächlich bei **Wildcards (`<?>`)** verwendet und bedeutet: "Akzeptiere den angegebenen Typ oder einen seiner Obertypen".
+
+Dabei steht `T` für eine bestimmte Klasse, und `? super T` erlaubt:
+- `T`
+- Oberklassen von `T` (z. B. `Object`, `Number`, …)
+
+#### Beispiel: Verwendung in Methodenparametern
+```java
+public static void addNumbers(List<? super Integer> list) {
+    list.add(42);  // Hinzufügen ist erlaubt
+}
+```
+
+### Fachbegriffe zu generischen Datentypen 
 | Begriff                                  | Beispiel                                                 |
 |------------------------------------------|----------------------------------------------------------|
 | parametrisierter Typ<br>(engl. parameterized type)     | `List<Integer>`                                          |
 | formaler Typparameter<br>(engl. formal type parameter) | `E`  in `List<>`                                        |
 | konkreter Typparameter<br>(engl. actual type parameter)| `Integer` in  `List<Integer>`                            |
 | Originaltyp<br>(engl. raw type)                        | `List`                                                   |
+
+
+
+# Rekursion
+
+[Video](https://www.youtube.com/watch?v=k-7jJP7QFEM)
+
+**Definition**: Rekursive Funktionen zeichnen sich dadurch aus, dass sie sich in ihrem Verlauf selbst aufrufen können. Bei einem rekursiven Aufruf (**Rekursionsschritt**) wird das zu lösende Problem (d.h. die Parameter des Aufrufs) typischerweise verkleinert, bis die Problemgröße irgendwann so gering ist, dass das Problem direkt gelöst werden kann (**Rekursionsbasis**).
+
+Der **Rekursionsbasisfall** einer rekursiven Funktion $R(p)$ mit einem oder mehreren Parametern $p$ beschreibt jene Werte von $p$, für die $R(p)$ ohne weitere direkte oder indirekte Selbstaufrufe ausgeführt wird. z.B für eine rekursive Funktion der fibonacci Reihe $Fib(n)$ sind $Fib(0)$ und $Fib(1)$ die Basisfälle, weil die einfach nach Definition gleich 0 und gleich 1 sind. 
+
+Man kann garantieren dass eine rekursive Funktion  $R(p)$  für irgendeine spezifischen parametenwert $p$  terminieren wird, nur dann wenn man zeigt dass alle Rekursionszweige die bei Aufrufen von $R(p)$ entstehen in einem Basisfall enden. Daher lohnt es sich, beim Entwurf einer rekursiven Funktion darauf zu achten, dass jeder rekursive Aufruf mit einem kleineren Parameterwert erfolgt und der Basisfall dem kleinsten möglichen Wert entspricht, mit dem die Funktion aufgerufen werden kann. So lässt sich die Termination der Rekursion zuverlässig garantieren. 
+
+Eine rekursive Funktion, die bei einem Durchlauf höchstens einen rekursiven Aufruf ausführt, wird **lineare Rekursion** genannt. Sind mehrere Rekursionsaufrufe möglich, spricht man von **kaskadenförmiger Rekursion**.
+
+## Was passiert beim rekursiven Aufruf im Speicher?
+
+Wenn eine rekursive Funktion ausgeführt wird, merkt sich der Computer bestimmte Informationen über jeden Funktionsaufruf, bevor der nächste beginnt. Dies passiert automatisch und folgt dem sogenannten **Stack-Prinzip**.
+
+### Stack (Stapelprinzip)
+
+**Stack** bezeichnet eine spezielle Speicherstruktur, bei der das **Last-In-First-Out (LIFO)**-Prinzip gilt: Die zuletzt gespeicherte Information wird als erstes wieder entfernt.
+
+Bei jedem Funktionsaufruf – ob rekursiv oder nicht – wird folgendes gespeichert:
+- Die Stelle im Programm, an der es nach dem Funktionsaufruf weitergehen soll.
+- Die Werte der Parameter, die an die Funktion übergeben wurden.
+- Die lokalen Variablen innerhalb der Funktion.
+
+Diese Informationen werden **aufeinander gestapelt**, d.h. jeder neue Aufruf wird oben auf dem Stapel gelegt. Sobald eine Funktion fertig ist, wird sie vom Stack entfernt, und das Programm setzt an der gespeicherten Rücksprungstelle fort.
+
+### Stack-Überlauf (Stack Overflow)
+
+Da bei jedem rekursiven Aufruf Speicherplatz im Stack belegt wird, kann es passieren, dass der Stack voll wird – besonders wenn:
+- keine **Abbruchbedingung** existiert (Endlosschleife)
+- die Parameter sehr groß sind (viel Speicherbedarf pro Aufruf)
+
+Das führt zu einem **Stack Overflow**, einer Laufzeitfehler-Meldung, die signalisiert, dass zu viele Funktionsaufrufe gleichzeitig im Speicher liegen. 
+
+
+
 
