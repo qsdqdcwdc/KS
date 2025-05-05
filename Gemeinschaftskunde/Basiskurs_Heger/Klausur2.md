@@ -326,8 +326,8 @@ _(Meistens werden auf dem Internet nur die ersten fünf (Demokratie, Republik, B
 | Land | Ebene / Organ | Typ | Kurzinfo |
 |------|---------------|-----|----------|
 | **Frankreich** | Präsident & Nationalversammlung | Two-Round (absolute Mehrheit) | > 50 % im 1. Wahlgang nötig; sonst Stichwahl. Für die Assemblée nationale zusätzlich Mindestbeteiligung (25 % der Registrierten). |
-| **Polen** | Präsident | Two-Round | 5-jährige Amtszeit; absolute Mehrheit erforderlich, sonst Stichwahl zwischen den zwei Erstplatzierten. |
-| **Österreich** | Bundespräsident | Two-Round | Sechsjährige Amtszeit; absolute Mehrheit im 1. Wahlgang, sonst zweite Runde (ggf. Ersatzkandidat möglich). |
+| **Polen** | Präsident | Two-Round |  absolute Mehrheit erforderlich, sonst Stichwahl zwischen den zwei Erstplatzierten. |
+| **Österreich** | Bundespräsident | Two-Round | Sechsjährige Amtszeit; absolute Mehrheit im 1. Wahlgang, sonst zweite Runde. |
 
 _(**Stichwahl:** bezeichnet den entscheidenden, letzten Wahlgang nach dem Mehrheitswahlrecht, wenn die Kandidaten oder Kandidatinnen in den vorangegangenen Wahlgängen nicht die erforderliche Mehrheit Vorerreicht haben)_
 
@@ -342,7 +342,7 @@ _(**Stichwahl:** bezeichnet den entscheidenden, letzten Wahlgang nach dem Mehrhe
 - **Parteien- statt Personenfokus** – Liste oder Präferenzordnung bestimmt maßgeblich die Sitzverteilung; offene Listen erlauben jedoch persönliche Präferenz der Wählenden.  
 - **geringe „Wasted Votes“** – Fast jede Stimme wirkt sich auf die Zusammensetzung des Parlaments aus; Effizienzverlust tritt vor allem erst oberhalb festgelegter **Sperrklauseln** (z. B. 5 % in Deutschland) auf.
 - **Proportionalität**: Anzahl der Sitze, die jede Partei erhält, verhält nah proportional zu der Anzahl ihrer Stimmen (mit der Ausnahme von ganz kleinen Parteien).
-- **Quorum**: In der Theorie zählen alle Stimmen. In der Praxis wird oft ein "Quorum" (eine Mindeststimmenanzahl) als Sicherungslinie gegen eine Zersplitterung des Parlaments eingezogen (z.B. in Dtl: die 5%—Hürdel
+- **Quorum**: In der Theorie zählen alle Stimmen. In der Praxis wird oft ein "Quorum" (eine Mindeststimmenanzahl) als Sicherungslinie gegen eine Zersplitterung des Parlaments eingezogen (z.B. in Dtl: die 5%—Hürdel).
 - **Mehrparteiensystem & Koalitionsregierungen** – Geringe Eintrittsbarrieren fördern Parteiplenum; regierungsbildende Mehrheiten entstehen häufig durch Koalitionen.
 - **Komplexität** – Stimmenauszählung und Mandats­berechnung sind erklärungsbedürftiger; Wahlzettel können länger sein.  
 - **Geringere Gerrymandering-Anfälligkeit** – Große bzw. landesweite Wahlkreise reduzieren den Effekt parteilich optimierter Grenzziehungen.
@@ -352,10 +352,10 @@ _(**Stichwahl:** bezeichnet den entscheidenden, letzten Wahlgang nach dem Mehrhe
 
 | Land / Gebiet | Ebene / Organ | Typ | Kurzinfo |
 |---------------|---------------|-----|----------|
-| **Deutschland** | Bundestag (Zweitstimme) | personalisiert | 598 Grundsitze + Überhang/Ausgleich, 5 %-Sperrklausel; Sitzverteilung mit Sainte-Laguë/Schepers.  |
-| **Niederlande** | Tweede Kamer | landesweite offene Listen-PR | 150 Sitze; **Hare-Quote** ≈ 0,67 % faktische Schwelle; Koalitionsregierungen üblich. |
-| **Spanien** | Congreso de los Diputados | Listen-PR (D’Hondt) | 52 Provinzen (Mindestsitzzahl 2), 3 % Provinz-Sperrklausel → leichte Bevorzugung größerer Parteien. |
-| **Neuseeland** | Parlament | MMP | 72 Wahlkreis- plus 48 Listensitze; 5 %-Schwelle **oder** 1 Direktmandat für Listen­beteiligung. |
+| **Deutschland** | Bundestag (Zweitstimme) | personalisiert | 598 Grundsitze + Überhang/Ausgleich, 5 %-Sperrklausel;|
+| **Niederlande** | Tweede Kamer | landesweite offene Listen-PR | 150 Sitze; **Hare-Quote** ≈ 0,67 % faktische Schwelle |
+| **Spanien** | Congreso de los Diputados | Listen-PR (D’Hondt) | 52 Provinzen (Mindestsitzzahl 2), 3 % Provinz-Sperrklausel|
+| **Neuseeland** | Parlament | MMP | 72 Wahlkreis- plus 48 Listensitze; 5 %-Schwelle oder 1 Direktmandat. |
 
 
 
