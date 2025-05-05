@@ -136,3 +136,11 @@ public void printList(List<?> list) {
 ```
 Man kann auch Schranken an Wirecards anwenden: `<? extends Animal>`
 
+### Fachbegriffe zu generischen Datentypen
+| Begriff                                  | Beispiel                                                 |
+|------------------------------------------|----------------------------------------------------------|
+| parametrisierter Typ<br>(engl. parameterized type)     | `List<Integer>`                                          |
+| formaler Typparameter<br>(engl. formal type parameter) | `E`  in `List<>`                                        |
+| konkreter Typparameter<br>(engl. actual type parameter)| `Integer` in  `List<Integer>`                            |
+| Originaltyp<br>(engl. raw type)                        | `List`                                                   |
+
