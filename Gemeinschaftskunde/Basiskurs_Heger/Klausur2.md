@@ -375,7 +375,7 @@ DAS LESEN: [Wahlsystem zum Bundestag](https://www.rundumgemeinschaftskunde.de/sc
 	- **Erststimme:** Wahl einer Person im eigenen Wahlkreis; die Bewerberin oder der Bewerber mit relative Mehrheit gewinnt das Direktmandat.  
 	- **Zweitstimme:** Wahl einer Partei; sie entscheidet über die Zahl der Parteisitze im Bundestag.
 
-- **Auszählung und Sitzberechnung**  Zuerst werden sämt­liche Zweitstimmen bundesweit addiert. Unter Anwendung des proportionales Verfahren werden 630 (früher 735) Mandate verteilt. 
+- **Auszählung und Sitzberechnung**  Zuerst werden sämt­liche Zweitstimmen bundesweit addiert. Unter Anwendung des proportionales Verfahren werden 630  Mandate verteilt. 
 
 - **Sperrklausel und Grundmandatsklausel**  Parteien, die bundesweit weniger als fünf Prozent der Zweitstimmen erzielen(Sperrklausel), erhalten keine Sitze außer eine Partei hat mindestens drei direktmand Daten bekommen dann bleibt sie im Bundestag(Grundmandatsklausel). 
 
