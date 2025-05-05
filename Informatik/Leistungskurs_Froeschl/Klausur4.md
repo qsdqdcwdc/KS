@@ -216,7 +216,6 @@ Das führt zu einem **Stack Overflow**, einer Laufzeitfehler-Meldung, die signal
 - Unterstützen Mehrfachvererbung (eine Klasse kann mehrere Interfaces implementieren).  
 - Können nicht instanziiert werden.
 - Können nicht Konstruktoren enthalten.
-- 
 
 ### Unterschiede zwischen Interface und abstrakter Klasse
 
