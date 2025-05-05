@@ -35,7 +35,15 @@ public class Box<T> {
    
 Deklaration und Initialisierung von einer generischer Klasse:
 ```java  
-Box<Integer> integerBox = new Box<>();  // Den Typ muss man zweites Mal nicht wiederholen Box<>()
+// Deklaration
+Box<Integer> integerBox;
+
+// Initialisierung
+integerBox = new Box<>()
+
+// Deklaration und Initialisierung
+Box<Integer> integerBox = new Box<>();  // Den Typ muss man in Box<>() zweites Mal nicht wiederholen 
+
 integerBox.set(123);  
 Integer someInteger = integerBox.get();  
 ```  
@@ -70,3 +78,68 @@ Utility.print("Hello");
 Utility.print(10);  
 Utility.print(3.14);  
 ```  
+
+
+### Begrenzung von Generischen Typen (Generic Bounds)
+
+**Bounded Type Parameters**: Mit **Bounds** kann man einschränken, welche Typen für den Platzhalter zulässig sind. Man kann sicherstellen, dass ein generischer Typ nur Klassen oder Interfaces einer bestimmten Hierarchie verwendet.
+Verwendet man `extends`, beschränkt man den generischen Typ auf eine Oberklasse oder ein Interface.
+
+**Syntax:** `<T extends KlasseOderInterface>`
+
+**Beispiel:**
+```java
+public class DataProcessor<T extends Number> {
+    public double doubleValue(T value) {
+        return value.doubleValue();  // Nur möglich, weil T garantiert ein Number ist
+    }
+}
+```
+
+**Verwendung:**
+```java
+DataProcessor<Integer> dp1 = new DataProcessor<>();
+DataProcessor<Double> dp2 = new DataProcessor<>();
+DataProcessor<String> dp3 = new DataProcessor<>();  // Fehler, da String nicht von Number erbt
+```
+
+### Mehrere Schranken (Multiple Bounds)
+Ein generischer Typ kann **eine Klasse** und **beliebig viele Interfaces** erben/implementieren – **die Klasse muss zuerst stehen**.
+
+**Beispiel:**
+```java
+public class KlassName<T extends Klass1 & Interface1 & Interface> {
+    public void process(T doc) {
+        ...
+    }
+}
+```
+
+## Mehrere Generische Typen
+Man kann einer Klasse oder Methode **mehrere Typ-Platzhalter** geben.
+
+**Syntax:** `<T, U, V>`
+
+**Beispiel – Klasse mit mehreren Typen:**
+```java
+public class Pair<T, U> {
+    private T first;
+    private U second;
+    ...
+}
+
+Pair<String, Integer> p = new Pair<>("Alter", 30);
+```
+### Wildcards in Generics
+**Wildcards** (`<?>`) sind Platzhalter für unbekannte Typen in generischen Typangaben. Ohne Wildcards kann man z. B. keine Methode schreiben, die **alle** `List<T>`-Typen akzeptiert, z. B. `List<Integer>`, `List<Double>` usw., da `List<Object>` **nicht** Oberklasse von `List<Integer>` ist. Wildcards lösen dieses Problem mit `List<?>`.
+
+Akzeptiert **beliebigen Typ**.
+```java
+public void printList(List<?> list) {
+    for (Object elem : list) {
+        System.out.println(elem);
+    }
+}
+```
+Man kann auch Schranken an wirecards anwenden: `<? extends Animal>`
+
