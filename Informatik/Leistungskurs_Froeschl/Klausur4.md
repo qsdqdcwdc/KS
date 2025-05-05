@@ -39,7 +39,7 @@ Box<Integer> integerBox = new Box<>();  // Den Typ muss man zweites Mal nicht wi
 integerBox.set(123);  
 Integer someInteger = integerBox.get();  
 ```  
-Achtung: Generische Klassen darf man nicht einfach mit elementaren Datentypen (int, float, boolean) deklarieren dafür braucht man sog. „Wrapper Classes” für elementare Datentypen. Wrapper-Klassen ermöglichen die Verwendung von primitiven Datentypen (`int`, `boolean`, etc..) als Objekte.  Die folgende Tabelle zeigt den primitiven Datentyp und die entsprechende Wrapper-Klasse:
+Achtung: Generische Klassen darf man nicht einfach mit elementaren Datentypen (int, float, boolean) deklarieren dafür braucht man sog. „Wrapper Classes” für elementare Datentypen. Wrapper-Klassen ermöglichen die Verwendung von primitiven Datentypen als Objekte.  Die folgende Tabelle zeigt den primitiven Datentyp und die entsprechende Wrapper-Klasse:
 | Primitive Data Type | Wrapper Class |
 |---------------------|---------------|
 | byte                | Byte          |
