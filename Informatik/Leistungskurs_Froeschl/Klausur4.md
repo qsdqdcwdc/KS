@@ -170,7 +170,8 @@ public static void addNumbers(List<? super Integer> list) {
 
 # Rekursion
 
-[Video](https://www.youtube.com/watch?v=k-7jJP7QFEM)
+[Video](https://www.youtube.com/watch?v=k-7jJP7QFEM)[
+
 
 **Definition**: Rekursive Funktionen zeichnen sich dadurch aus, dass sie sich in ihrem Verlauf selbst aufrufen können. Bei einem rekursiven Aufruf (**Rekursionsschritt**) wird das zu lösende Problem (d.h. die Parameter des Aufrufs) typischerweise verkleinert, bis die Problemgröße irgendwann so gering ist, dass das Problem direkt gelöst werden kann (**Rekursionsbasis**).
 
@@ -199,9 +200,70 @@ Diese Informationen werden **aufeinander gestapelt**, d.h. jeder neue Aufruf wir
 
 Da bei jedem rekursiven Aufruf Speicherplatz im Stack belegt wird, kann es passieren, dass der Stack voll wird – besonders wenn:
 - keine **Abbruchbedingung** existiert (Endlosschleife)
-- die Parameter sehr groß sind (viel Speicherbedarf pro Aufruf)
+- die Startparameter sehr groß sind 
 
 Das führt zu einem **Stack Overflow**, einer Laufzeitfehler-Meldung, die signalisiert, dass zu viele Funktionsaufrufe gleichzeitig im Speicher liegen. 
+
+
+## Interface in Java
+**Interface**: Ein Interface in Java ist eine Referenztyp-Definition, die nur Konstanten, abstrakte Methoden (ohne Implementierung), statische Methoden oder `default`-Methoden enthalten kann. Es dient als Vertrag, den implementierende Klassen erfüllen müssen.
+
+### Eigenschaften von Interfaces
+- Konnen Abstrakte Methoden/(Methodensignaturen) enthalten. **Abstrakte Methoden** sind Methodendeklarationen ohne Implementierung. Sie zwingen Unterklassen oder implementierende Klassen dazu, eine konkrete Implementierung bereitzustellen.
+- Konnen Default-Methoden enthalten. Default-Methoden sind Methoden mit einer Standardimplementierung in einem Interface. Wenn eine Klasse ein Interface mit einer Default-Methode implementiert, muss sie diese Methode nicht überschreiben, sofern sie die Standardimplementierung verwenden will.
+- Konnen Statische Methoden enthalten. **Statische Methoden** sind Methoden, die zur Klasse und nicht zur Instanz gehören. Sie können über den Interfacenamen direkt aufgerufen werden und haben Zugriff nur auf andere statische Mitglieder. Die implementieren den Klassen vererben nicht statische Methoden von dem Interface.
+- Können Konstanten (`public static final`) enthalten. **Konstanten** sind unveränderliche Werte, die mit den Modifizierern `public static final` deklariert werden. Sie sind zur Compile-Zeit festgelegt und können nicht mehr geändert werden. Die implementieren den Klassen vererben nicht Konstanten von dem Interface. Aber die Konstanten sind ohne Namenpräfix innerhalb von der Klasse zugänglich.
+- Unterstützen Mehrfachvererbung (eine Klasse kann mehrere Interfaces implementieren).  
+- Können nicht instanziiert werden.
+- Können nicht Konstruktoren enthalten.
+- 
+
+### Unterschiede zwischen Interface und abstrakter Klasse
+
+| Kriterium                | Interface                           | Abstrakte Klasse                    |
+|-------------------------|-------------------------------------|-------------------------------------|
+| Schlüsselwort           | `interface`                         | `abstract class`                    |
+| Methoden                | Standardmäßig alle abstrakt         | Kann konkrete und abstrakte Methoden enthalten |
+| Felder                  | Nur Konstanten                      | Instanzvariablen und Konstanten     |
+| Konstruktoren           | Keine                               | Kann Konstruktoren enthalten        |
+| Mehrfachvererbung       | Ja (mehrere Interfaces)             | Nein (nur eine Klasse)              |
+| Zugriffsmodifikatoren   | Methoden sind implizit `public`     | Frei wählbar                        |
+
+
+### Syntax eines Interface
+```java
+public interface BeispielInterface {
+  // Konstante
+  int KONSTANTE = 100; // automatisch public static final
+
+  // Abstrakte Methode
+  void macheEtwas(); // automatisch abstrakt
+
+  // Default-Methode
+  default void macheStandard() {
+    System.out.println("Standardverhalten");
+  }
+
+  // Statische Methode
+  static void hilfsMethode() {
+    System.out.println("Hilfsmethode");
+  }
+}
+
+class MyClass implements BeispielInterface, SecondInterface {
+
+    // muss abstrakte-Methoden implementieren
+    // hat default-methode vererbt
+    // hat statische Methode nicht vererbt
+    // hat zugang ohne namenspräfix auf die Konstanten von dem Interface aber vererbt die nicht.
+}
+```
+
+
+
+
+
+
 
 
 
