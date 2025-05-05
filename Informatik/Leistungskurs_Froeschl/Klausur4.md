@@ -270,7 +270,33 @@ In Java ist **Java Collections Framework** eine Sammlung von Interfaces, Impleme
 
 
 
+## ArrayList
+**ArrayList** ist eine dynamische Liste, die Elemente in der Reihenfolge ihrer Einfügung speichert. Sie erlaubt Duplikate und bietet schnellen Zugriff auf Elemente per Index.
+
+### Import und Deklaration
+```java
+import java.util.ArrayList;
+ArrayList<String> liste = new ArrayList<>();
+```
+## HashSet
+**HashSet** ist eine Sammlung, die **keine Duplikate** erlaubt und die Einfügereihenfolge **nicht garantiert**(die Reihenfolge von Elementen kann sich nach der Addition von neuen Elementen komplett verändern die neuen Elementen werden an eine zufällige Stelle addiert).
+```java
+import java.util.HashSet;
+HashSet<Integer> zahlen = new HashSet<>();
+```
+## TreeSet
+**TreeSet** ist ein Set, das die Elemente **automatisch sortiert** (aufsteigend) speichert. Intern wird ein **Balanced Tree (Red-Black Tree)** verwendet.
+
+```java
+import java.util.TreeSet;
+TreeSet<String> namen = new TreeSet<>();
+```
 
 
+## LinkedHashSet
 
-
+**LinkedHashSet** ist wie HashSet, aber **erhält die Einfügereihenfolge**. Es verbindet einen Hash mit einer verketteten Liste.
+```java
+import java.util.LinkedHashSet;
+LinkedHashSet<String> tiere = new LinkedHashSet<>();
+```
