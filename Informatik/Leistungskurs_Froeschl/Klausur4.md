@@ -303,7 +303,7 @@ import java.util.LinkedHashSet;
 LinkedHashSet<String> tiere = new LinkedHashSet<>();
 ```
 
-## Hilfsoperationen
+## Hilfsoperationen und Eigenschaften Vergleich
 | Operation                            | ArrayList | HashSet | TreeSet | LinkedHashSet |
 |-------------------------------------|-----------|---------|---------|----------------|
 | `.add(E e)`                          | ✅        | ✅      | ✅      | ✅             |
@@ -319,7 +319,6 @@ LinkedHashSet<String> tiere = new LinkedHashSet<>();
 | Zugriff nach Index möglich          | ✅        | ❌      | ❌      | ❌             |
 | Null erlaubt                        | ✅        | ✅        | ❌     | ✅             |
 
-## Beschreibung der Hilfsoperationen
 
 - **`.add(E e)`**  Fügt ein Element zur Sammlung hinzu. Gibt `true` zurück, wenn das Element erfolgreich eingefügt wurde (bei `Set` nur wenn es nicht schon enthalten war).
 - **`.get(int index)`**  Gibt das Element am angegebenen Index zurück. Nur bei Listen wie `ArrayList` verfügbar. Rückgabewert: das Element an der Position.
