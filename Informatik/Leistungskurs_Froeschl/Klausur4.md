@@ -326,33 +326,6 @@ Bevor man diese Methoden nutzen kann, muss man das Java Collections-Paket import
 - **Set.removeAll(Collection<?> c)**  Entfernt alle Elemente aus dem Set, die auch in der angegebenen Collection vorkommen (Differenzmenge).
 - **Set.addAll(Collection<? extends E> c)**  Fügt alle Elemente aus einer anderen Collection hinzu (Vereinigungsmenge). Rückgabewert: `true`, wenn sich das Set verändert hat.
 
-### Praktische Aufgaben/Techniken mit `Set`
-
-Duplikate aus einer Liste entfernen:
-```java
-List<String> names = List.of("Anna", "Bob", "Anna", "Eli");
-Set<String> uniqueNames = new HashSet<>(names);
-```
-
-Typische Mengenoperationen (Schnittmenge, Vereinigung, Differenz):
-```java
-Set<Integer> set1 = new HashSet<>(Set.of(1, 2, 3));
-Set<Integer> set2 = new HashSet<>(Set.of(3, 4, 5));
-
-// Vereinigung
-Set<Integer> union = new HashSet<>(set1);
-union.addAll(set2);
-
-// Schnittmenge
-Set<Integer> intersection = new HashSet<>(set1);
-intersection.retainAll(set2);
-
-// Differenz
-Set<Integer> difference = new HashSet<>(set1);
-difference.removeAll(set2);
-```
-
-
 
 ## Hilfsoperationen und Eigenschaften Vergleich
 | Operation                            | ArrayList | HashSet | TreeSet | LinkedHashSet |
@@ -380,11 +353,6 @@ difference.removeAll(set2);
 - **`.clear()`**  Entfernt alle Elemente aus der Sammlung. Rückgabewert: keiner (void).
 
 
-
-
-
-
-
 ### For-Each
 Die `for-each`-Schleife, auch bekannt als erweiterte `for`-Schleife, wird verwendet, um durch Elemente in einem Array oder Set zu iterieren. Man braucht die `for-each`-Schleife, für Iteration durch Mengen weil, Mengen Zugang durch Index nicht erlauben.
 ```java
@@ -401,7 +369,7 @@ for (String name : namen) {
 ```
 
 ## Iterator
-[tutorialspoint.com](https://www.tutorialspoint.com/java/java_using_iterator.htm)
+[Documentation](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Iterator.html)
 
 **Iterator** ist ein Objekt, das verwendet wird, um **durch eine Collection** wie `List`, `Set` oder andere **iterativ durchzugehen**, ohne sich um die interne Struktur kümmern zu müssen. Ein Iterator kann auf **alle Collection-Typen** angewendet werden, die das Interface `java.util.Collection` implementieren, also z. B. `ArrayList`, `HashSet`, `LinkedHashSet`, `TreeSet`.
 
