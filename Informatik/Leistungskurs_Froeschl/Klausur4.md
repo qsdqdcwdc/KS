@@ -206,6 +206,8 @@ Das führt zu einem **Stack Overflow**, einer Laufzeitfehler-Meldung, die signal
 
 
 # Schnittstellen
+[Video](https://youtu.be/HvPlEJ3LHgE?feature=shared&t=255)
+
 **Schnittstelle (Interface)**: Eine Schnittstelle in Java ist eine Referenztyp-Definition, die nur Konstanten, abstrakte Methoden, statische Methoden oder `default`-Methoden enthalten kann. Es dient als Vertrag, den implementierende Klassen erfüllen müssen.
 
 ### Eigenschaften von Interfaces
