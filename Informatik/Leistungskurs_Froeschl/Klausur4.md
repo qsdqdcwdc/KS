@@ -205,8 +205,8 @@ Da bei jedem rekursiven Aufruf Speicherplatz im Stack belegt wird, kann es passi
 Das führt zu einem **Stack Overflow**, einer Laufzeitfehler-Meldung, die signalisiert, dass zu viele Funktionsaufrufe gleichzeitig im Speicher liegen. 
 
 
-# Interfaces
-**Interface**: Ein Interface in Java ist eine Referenztyp-Definition, die nur Konstanten, abstrakte Methoden, statische Methoden oder `default`-Methoden enthalten kann. Es dient als Vertrag, den implementierende Klassen erfüllen müssen.
+# Schnittstellen
+**Schnittstelle (Interface)**: Eine Schnittstelle in Java ist eine Referenztyp-Definition, die nur Konstanten, abstrakte Methoden, statische Methoden oder `default`-Methoden enthalten kann. Es dient als Vertrag, den implementierende Klassen erfüllen müssen.
 
 ### Eigenschaften von Interfaces
 - Konnen Abstrakte Methoden/(Methodensignaturen) enthalten. **Abstrakte Methoden** sind Methodendeklarationen ohne Implementierung. Sie zwingen implementierende Klassen dazu, eine konkrete Implementierung bereitzustellen.
@@ -227,6 +227,9 @@ Das führt zu einem **Stack Overflow**, einer Laufzeitfehler-Meldung, die signal
 | Konstruktoren           | Keine                               | Kann Konstruktoren enthalten        |
 | Mehrfachvererbung       | Ja (mehrere Interfaces)             | Nein (nur eine Klasse)              |
 | Zugriffsmodifikatoren   | Methoden sind implizit `public`     | Frei wählbar                        |
+
+- Interfaces sollte man nutzen, wenn: Mehrere Klassen dieselbe Fähigkeit teilen sollen, aber sonst nicht verwandt sind (z. B. `Comparable`, `Serializable`)
+- Abstrakte Klassen sollte man nutzen, wenn:  man **Teilimplementierungen** in einer Oberklasse bereitstellen möchte, die von Unterklassen genutzt oder überschrieben werden können.
 
 
 ### Syntax eines Interface
