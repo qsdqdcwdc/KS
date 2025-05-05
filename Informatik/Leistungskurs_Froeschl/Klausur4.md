@@ -205,11 +205,11 @@ Da bei jedem rekursiven Aufruf Speicherplatz im Stack belegt wird, kann es passi
 Das führt zu einem **Stack Overflow**, einer Laufzeitfehler-Meldung, die signalisiert, dass zu viele Funktionsaufrufe gleichzeitig im Speicher liegen. 
 
 
-## Interface in Java
-**Interface**: Ein Interface in Java ist eine Referenztyp-Definition, die nur Konstanten, abstrakte Methoden (ohne Implementierung), statische Methoden oder `default`-Methoden enthalten kann. Es dient als Vertrag, den implementierende Klassen erfüllen müssen.
+# Interfaces
+**Interface**: Ein Interface in Java ist eine Referenztyp-Definition, die nur Konstanten, abstrakte Methoden, statische Methoden oder `default`-Methoden enthalten kann. Es dient als Vertrag, den implementierende Klassen erfüllen müssen.
 
 ### Eigenschaften von Interfaces
-- Konnen Abstrakte Methoden/(Methodensignaturen) enthalten. **Abstrakte Methoden** sind Methodendeklarationen ohne Implementierung. Sie zwingen Unterklassen oder implementierende Klassen dazu, eine konkrete Implementierung bereitzustellen.
+- Konnen Abstrakte Methoden/(Methodensignaturen) enthalten. **Abstrakte Methoden** sind Methodendeklarationen ohne Implementierung. Sie zwingen implementierende Klassen dazu, eine konkrete Implementierung bereitzustellen.
 - Konnen Default-Methoden enthalten. Default-Methoden sind Methoden mit einer Standardimplementierung in einem Interface. Wenn eine Klasse ein Interface mit einer Default-Methode implementiert, muss sie diese Methode nicht überschreiben, sofern sie die Standardimplementierung verwenden will.
 - Konnen Statische Methoden enthalten. **Statische Methoden** sind Methoden, die zur Klasse und nicht zur Instanz gehören. Sie können über den Interfacenamen direkt aufgerufen werden und haben Zugriff nur auf andere statische Mitglieder. Die implementieren den Klassen vererben nicht statische Methoden von dem Interface.
 - Können Konstanten (`public static final`) enthalten. **Konstanten** sind unveränderliche Werte, die mit den Modifizierern `public static final` deklariert werden. Sie sind zur Compile-Zeit festgelegt und können nicht mehr geändert werden. Die implementieren den Klassen vererben nicht Konstanten von dem Interface. Aber die Konstanten sind ohne Namenpräfix innerhalb von der Klasse zugänglich.
