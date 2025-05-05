@@ -274,6 +274,18 @@ import java.util.ArrayList;
 ArrayList<String> liste = new ArrayList<>();
 ```
 
+### Nützliche Methoden aus `java.util.Collections` für ArrayList
+
+Bevor man diese Methoden nutzen kann, muss man das Java Collections-Paket importieren mit `import java.util.*;`.
+
+- **Collections.sort(List<T> list)** sortiert die Elemente der Liste in ihrer natürlichen Reihenfolge, wobei kein Rückgabewert (void) geliefert wird.  
+- **Collections.reverse(List<?> list)** kehrt die Reihenfolge der Elemente in der Liste um, ebenfalls ohne Rückgabewert.  
+- **Collections.shuffle(List<?> list)** mischt die Elemente der Liste zufällig durch und liefert ebenfalls keinen Rückgabewert.  
+- **Collections.swap(List<?> list, int i, int j)** vertauscht die Elemente an den angegebenen Positionen `i` und `j`, wobei die Methode keinen Rückgabewert hat.  
+- **Collections.max(Collection<? extends T>)** gibt das größte Element der übergebenen Collection zurück, basierend auf natürlicher Ordnung oder einem übergebenen Comparator.  
+- **Collections.min(Collection<? extends T>)** gibt entsprechend das kleinste Element der Collection zurück.  
+- **Collections.frequency(Collection<?> c, Object o)** zählt, wie oft das angegebene Objekt `o` in der Collection `c` vorkommt, und gibt diese Anzahl als `int` zurück.
+
 
 ## Set
 [Video](https://www.youtube.com/watch?v=QvHBHuuddYk)
@@ -303,6 +315,45 @@ import java.util.LinkedHashSet;
 LinkedHashSet<String> tiere = new LinkedHashSet<>();
 ```
 
+### Nützliche Methoden aus `java.util.Collections` für Mengen (`Set`)
+
+Bevor man diese Methoden nutzen kann, muss man das Java Collections-Paket importieren mit `import java.util.*;`.
+
+- **Collections.max(Collection<? extends T>)** gibt das größte Element der übergebenen Menge zurück, basierend auf natürlicher Ordnung oder einem angegebenen Comparator.  
+- **Collections.min(Collection<? extends T>)** gibt entsprechend das kleinste Element in der Menge zurück.  
+- **Collections.disjoint(Collection<?> c1, Collection<?> c2)** prüft, ob zwei Collections keine gemeinsamen Elemente enthalten, und gibt `true` zurück, wenn sie disjunkt sind.
+- **Set.retainAll(Collection<?> c)**  Behalte nur die Elemente im Set, die auch in der angegebenen Collection enthalten sind (Schnittmenge). Rückgabewert: `true`, wenn sich das Set dadurch verändert hat.
+- **Set.removeAll(Collection<?> c)**  Entfernt alle Elemente aus dem Set, die auch in der angegebenen Collection vorkommen (Differenzmenge).
+- **Set.addAll(Collection<? extends E> c)**  Fügt alle Elemente aus einer anderen Collection hinzu (Vereinigungsmenge). Rückgabewert: `true`, wenn sich das Set verändert hat.
+
+### Praktische Aufgaben/Techniken mit `Set`
+
+Duplikate aus einer Liste entfernen:
+```java
+List<String> names = List.of("Anna", "Bob", "Anna", "Eli");
+Set<String> uniqueNames = new HashSet<>(names);
+```
+
+Typische Mengenoperationen (Schnittmenge, Vereinigung, Differenz):
+```java
+Set<Integer> set1 = new HashSet<>(Set.of(1, 2, 3));
+Set<Integer> set2 = new HashSet<>(Set.of(3, 4, 5));
+
+// Vereinigung
+Set<Integer> union = new HashSet<>(set1);
+union.addAll(set2);
+
+// Schnittmenge
+Set<Integer> intersection = new HashSet<>(set1);
+intersection.retainAll(set2);
+
+// Differenz
+Set<Integer> difference = new HashSet<>(set1);
+difference.removeAll(set2);
+```
+
+
+
 ## Hilfsoperationen und Eigenschaften Vergleich
 | Operation                            | ArrayList | HashSet | TreeSet | LinkedHashSet |
 |-------------------------------------|-----------|---------|---------|----------------|
@@ -331,6 +382,9 @@ LinkedHashSet<String> tiere = new LinkedHashSet<>();
 
 
 
+
+
+
 ### For-Each
 Die `for-each`-Schleife, auch bekannt als erweiterte `for`-Schleife, wird verwendet, um durch Elemente in einem Array oder Set zu iterieren. Man braucht die `for-each`-Schleife, für Iteration durch Mengen weil, Mengen Zugang durch Index nicht erlauben.
 ```java
@@ -345,4 +399,46 @@ for (String name : namen) {
     System.out.println("Name ist " + name);
 }
 ```
+
+## Iterator
+[tutorialspoint.com](https://www.tutorialspoint.com/java/java_using_iterator.htm)
+
+**Iterator** ist ein Objekt, das verwendet wird, um **durch eine Collection** wie `List`, `Set` oder andere **iterativ durchzugehen**, ohne sich um die interne Struktur kümmern zu müssen. Ein Iterator kann auf **alle Collection-Typen** angewendet werden, die das Interface `java.util.Collection` implementieren, also z. B. `ArrayList`, `HashSet`, `LinkedHashSet`, `TreeSet`.
+
+### Methoden eines Iterators
+- **`.hasNext()`**  Gibt `true` zurück, wenn noch weitere Elemente im Iterator verfügbar sind.
+- **`.next()`**  Gibt das nächste Element zurück und bewegt den Iterator einen Schritt weiter.
+- **`.remove()`** entfernt das zuletzt mit .next() zurückgegebene Element aus der zugrunde liegenden Collection. Dadurch kann man während der Iteration Elemente sicher löschen, ohne eine ConcurrentModificationException zu riskieren.
+
+### Beispiel Iterator
+```java
+import java.util.HashSet;
+import java.util.Iterator;
+
+HashSet<String> namen = new HashSet<>();
+namen.add("Anna");
+namen.add("Ben");
+namen.add("Clara");
+
+Iterator<String> it = namen.iterator();
+while (it.hasNext()) {
+    String name = it.next();
+    System.out.println("Name ist " + name);
+}
+```
+
+### Beispiel .remove()
+```java
+List<String> namen = new ArrayList<>(List.of("Anna", "Bob", "Clara"));
+Iterator<String> it = namen.iterator();
+
+while (it.hasNext()) {
+    if (it.next().equals("Bob")) {
+        it.remove(); // entfernt "Bob" aus der Liste
+    }
+}
+System.out.println(namen); // Ausgabe: [Anna, Clara]
+```
+
+
 
