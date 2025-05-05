@@ -63,10 +63,7 @@ public class Utility {
         System.out.println(t);  
     }  
 }  
-```  
-
-Verwendung der Methode:
-```java  
+ 
 Utility.print("Hello");  
 Utility.print(10);  
 Utility.print(3.14);  
@@ -88,10 +85,7 @@ public class DataProcessor<T extends Number> {
         return value.doubleValue();  // Nur möglich, weil T garantiert ein Number ist
     }
 }
-```
 
-**Verwendung:**
-```java
 DataProcessor<Integer> dp1 = new DataProcessor<>();
 DataProcessor<Double> dp2 = new DataProcessor<>();
 DataProcessor<String> dp3 = new DataProcessor<>();  // Fehler, da String nicht von Number erbt
