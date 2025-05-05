@@ -257,6 +257,15 @@ class MyClass implements BeispielInterface, SecondInterface {
 }
 ```
 
+# Java Collections Framework
+**Sammlung (Collection)** ist ein allgemeiner Begriff für eine Gruppe von Objekten, die zusammen als eine Einheit behandelt werden. In Java bezeichnet eine Sammlung typischerweise eine Datenstruktur wie eine Liste, ein Set oder eine Warteschlange, die mehrere Elemente enthält.
+Eine **Datenstruktur** ist eine bestimmte Art, Daten in einem Computer so zu organisieren, zu speichern und zu verwalten, dass sie effizient genutzt und verarbeitet werden können.
+
+In Java ist **Java Collections Framework** eine Sammlung von Interfaces, Implementierungen und Algorithmen für die Arbeit mit Datenstrukturen.
+- Collections Framewo enthält Interfaces wie `List`, `Set`, `Queue` und `Map`, die definieren, was grundlegende Datenstrukturen leisten können und sollen. Diese Interfaces legen einen Standard fest, den jede Implementierung erfüllen muss. 
+- Collections Framewor bietet auch eine Reihe von hoch effizienten und gut getesteten Implementierungen dieser Interfaces, wie etwa `ArrayList`, `HashSet` oder `TreeSet`.
+- Weiterer wichtiger Bestandteil des Frameworks ist eine Sammlung von hocheffizienten Algorithmen, etwa Sortieren oder Suchen, die auf den verschiedenen Datenstrukturen angewendet werden können. 
+
 
 
 
