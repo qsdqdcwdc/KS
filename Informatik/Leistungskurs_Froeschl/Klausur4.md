@@ -22,14 +22,7 @@ Wieso kann man nicht einfach Methode mit Parameter von dem Datentyp `Objekt` def
 public class Box<T> {  
     // T steht für "Type"  
     private T t;  
-  
-    public void set(T t) {  
-        this.t = t;  
-    }  
-  
-    public T get() {  
-        return t;  
-    }  
+    ... 
 }  
 ```  
    
