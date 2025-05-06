@@ -11,7 +11,7 @@
 
 # Inhaltsangabe
 
-- [Inhaltsangabe](#inhaltsangabe)  
+- [Inhaltsangabe](#inhaltsangabe) :)
 - [Generische Datentypen](#generische-datentypen)  
 - [Rekursion](#rekursion)  
 - [Schnittstellen](#schnittstellen)  
