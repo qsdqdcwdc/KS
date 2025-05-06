@@ -529,4 +529,20 @@ public static ArrayList<Integer> insertionSort(ArrayList<Integer> list) {
 
 ```
 
+## Vergleich von `==` und `equals()`
+In Java vergleicht der Operator `==` bei Objekten **die Referenzen** (ob beide Variablen auf exakt dasselbe Objekt im Speicher zeigen), während die Methode `equals()`  den **objektinternen Zustand** vergleicht. Bei primitiven Datentypen (z. B. `int`, `boolean`) hingegen vergleicht `==` immer direkt die **Werte**.
 
+```java
+// Objektvergleich mit String
+String a = new String("hallo");
+String b = new String("hallo");
+
+System.out.println(a == b);         // false, da unterschiedliche Objekte
+System.out.println(a.equals(b));    // true, da gleiche Zeichenfolge
+
+// Vergleich von primitiven Typen
+int x = 5;
+int y = 5;
+
+System.out.println(x == y);         // true, da gleiche Werte
+```
