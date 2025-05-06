@@ -1,3 +1,23 @@
+<p align="center">
+	<img src="Img/qr_klas4.png" width="250"  title="qr code">
+	<br>
+	<em>QR-Code scannen um dieses Dokument auf dem iPad zu öffnen</em>
+</p>
+
+1. <code>Aktualisieren Sie die Seite bei jedem Aufruf, um die neueste Version dieses Dokuments zu erhalten.</code>
+
+2. <code>Korrekturen und Ergänzungen zu diesem Dokument sind erwünscht. Bitte fügen Sie diese in [Google Docs](https://docs.google.com/document/d/12Gqtnn5DdQmN6GDQs-ADqzZjTsvVcVF5w9dpGsSQXM4/edit?usp=sharing) ein (oder senden Sie mir die persönlich). Ich werde versuchen, sie so schnell wie möglich zu integrieren.</code>
+
+
+# Inhaltsangabe
+
+- [Generische Datentypen](#generische-datentypen)  
+- [Rekursion](#rekursion)  
+- [Schnittstellen](#schnittstellen)  
+- [Java Collections Framework](#java-collections-framework)  
+- [Sortierverfahren](#sortierverfahren)  
+
+
 # Generische Datentypen
 [Video](https://www.youtube.com/watch?v=K1iu1kXkVoA)
 
@@ -408,5 +428,105 @@ while (it.hasNext()) {
 System.out.println(namen); // Ausgabe: [Anna, Clara]
 ```
 
+
+# Sortierverfahren
+[Video](https://www.youtube.com/watch?v=gcRUIO-8r3U)
+
+
+## Bubblesort
+
+[info-bw.de](https://info-bw.de/faecher:informatik:oberstufe:algorithmen:sortieren:bubblesort:start)
+
+**Bubblesort** ist ein einfacher Sortieralgorithmus, der wiederholt benachbarte Elemente einer Liste vergleicht und vertauscht, wenn sie in der falschen Reihenfolge sind. Dies geschieht so lange, bis die Liste vollständig sortiert ist.
+
+
+### Verfahren
+1. Vergleiche das erste und das zweite Element. Wenn das erste größer ist als das zweite, tausche sie. Fahre fort mit dem nächsten Paar: zweites und drittes Element und so weiter, bis zum Ende des Arrays. (Nach dem ersten Durchlauf ist das größte Element am Ende) 
+2. Falls während dem Schritt-1 Elemente vertauscht wurden wiederhole den Schritt-1. Falls während dem Essen Durchlauf keine Elemente vertauscht wurden, dann ist die Liste sortiert, beende das Algorithmus.
+
+
+### Imperlimentationsbeispiel
+
+```java
+import java.util.*;
+
+public static ArrayList<Integer> bubbleSort(ArrayList<Integer> list) {
+  boolean swapped;
+  for (int i = 0; i < list.size() - 1; i++) {
+      swapped = false;
+      for (int j = 0; j < list.size() - i - 1; j++) {
+          if (list.get(j) > list.get(j + 1)) {
+              Collections.swap(list, j, j + 1);
+              swapped = true;
+          }
+      }
+      if (!swapped) {
+          break;
+      }
+  }
+  return list;
+}
+```
+
+
+
+## Selectionsort
+
+[info-bw.de](https://info-bw.de/faecher:informatik:oberstufe:algorithmen:sortieren:selectionsort:start)
+
+**Selectionsort** ist ein Sortieralgorithmus, der das gegebene Array durch wiederholtes Finden des Minimums aus einem unsortierten Teil und das Verschieben dieses Minimums an den Anfang des unsortierten Teils sortiert.  
+
+### Verfahren  
+- Suche im gesamten (unsortierten) Array das kleinste Element.
+- Tausche dieses Element mit dem ersten Element des Arrays.
+- Suche im verbleibenden (unsortierten) Teil das nächste kleinste Element.
+- Tausche es mit dem zweiten Element des Arrays.
+- Wiederhole diesen Vorgang für alle restlichen Positionen(3,4,5,...,n) im Array, bis die Liste vollständig sortiert ist.
+
+### Imperlimentationsbeispiel
+```java
+import java.util.*;
+
+public static ArrayList<Integer> selectionSort(ArrayList<Integer> list){
+  for (int i=0; i<list.size(); i++){
+      int minInd = i;
+      for (int j=i; j<list.size(); j++){
+          if (list.get(j)<list.get(minInd)){
+              minInd = j;
+          }
+      }
+      Collections.swap(list, i, minInd);
+  }
+  return list;
+}
+```
+
+## Insertionsort
+[info-bw.de](https://info-bw.de/faecher:informatik:oberstufe:algorithmen:sortieren:insertionsort:start)
+
+**Insertionsort** ist ein einfacher Sortieralgorithmus, der eine Liste sortiert, indem er jedes Element nacheinander an der richtigen Stelle in den bereits sortierten Teil der Liste einfügt.
+
+### Verfahren
+1. Beginne mit dem zweiten Element (aktuelle Element) der Liste. Das erste Element gilt als der bereits sortierte Teil.
+2. Danach muss man das aktuelle Element an der richtigen Stelle im bereits sortierten Teil einfügen.  Dabei wird das aktuelle Element von rechts nach links mit benachbarten Elementen des sortierten Bereichs vertauscht, solange es kleiner ist als diese.
+3. Nach dem Einfügen wird der Index des aktuellen Elements um eins erhöht.
+4. Die Schritte zwei und drei werden so lange wiederholt, bis alle Elemente der Liste an der richtigen Stelle eingefügt sind (also solange der Index des aktuellen Elements kleiner ist als die Länge der Liste).
+
+### Imperlimentationsbeispiel
+```java
+import java.util.*;
+public static ArrayList<Integer> insertionSort(ArrayList<Integer> list) {
+     for (int i = 1; i < list.size(); i++) {
+         int j = i;
+         while (j > 0 && list.get(j) < list.get(j - 1)) {
+             Collections.swap(list, j, j - 1);
+             j--;
+         }
+     }
+     return list;
+ }
+
+
+```
 
 
