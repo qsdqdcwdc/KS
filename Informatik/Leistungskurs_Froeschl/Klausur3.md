@@ -670,7 +670,7 @@ System.out.printf("Formatierte %s, %d, %f", "Ausgabe", 5, 1.2);
 | `-`      | Subtraktion             | `a - b`    |
 | `*`      | Multiplikation          | `a * b`    |
 | `/`      | Division                | `a / b`    |
-| `%`      | Rest der Teilung | `a % b`  |
+| `%`      | Rest der Teilung <br> (Achtung nicht dasselbe wie Modulo)  | `a % b`  |
 
 #### Inkrement und Dekrement
 
