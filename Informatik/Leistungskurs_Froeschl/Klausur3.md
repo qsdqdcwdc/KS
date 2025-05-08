@@ -250,6 +250,8 @@ class Hund extends Tier {
   ```
 
 ### new
+[Video](https://www.youtube.com/watch?v=VyPFa1Slh7A)
+
 Das Schlüsselwort `new` wird verwendet, um ein neues Objekt einer Klasse zu erstellen. Es reserviert Speicher für das Objekt und ruft den Konstruktor der Klasse auf.
 
 ```java
