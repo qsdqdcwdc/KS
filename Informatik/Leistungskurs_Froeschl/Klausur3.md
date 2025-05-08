@@ -687,7 +687,7 @@ System.out.printf("Formatierte %s, %d, %f", "Ausgabe", 5, 1.2);
 | `-=`     | Subtrahiert und weist zu              | `a -= b`   |
 | `*=`     | Multipliziert und weist zu            | `a *= b`   |
 | `/=`     | Dividiert und weist zu                | `a /= b`   |
-| `%=`     | Rest der Teilung         | `a %= b`   |
+| `%=`     | Rest der Teilung <br> (Achtung nicht dasselbe wie Modulo)    | `a %= b`   |
 
 #### Logische Operatoren
 
