@@ -18,7 +18,9 @@ Anders als sein Vorgänger überließ Kaiser Wilhelm II(Kaiser 1888-1918) _(nutz
 
 # WW1
 ### Gründe/Anlässe
+
 [Video](https://www.youtube.com/watch?v=uCGJr448RgI)
+
 - **Konkurrenz zwischen Kolonialmächten:**  Europäische Staaten konkurrierten intensiv um Kolonien und Einflussgebiete weltweit. Dieser Wettbewerb verstärkte Misstrauen und Spannungen zwischen den Großmächten, insbesondere zwischen Deutschland, Frankreich und Großbritannien.  
 - **Übersteigerter Nationalismus** beschreibt die aggressive und überhöhte Betonung nationaler Interessen. Dies führte zu Konflikten, da jede Nation ihre Interessen nahezu kompromisslos durchsetzen wollte.
 - **Wettrüsten** bezeichnet die militärische Aufrüstung konkurrierender Staaten in Erwartung eines Krieges. Staaten erhöhten massiv ihre Militärausgaben und entwickelten neue Waffentechnologien. Es stärkte das Ansehen der Großmächte, dass sie alle anderen Großmächte gewinnen konnten.
@@ -29,7 +31,9 @@ Erste Weltkrieg begann am 28. Juli 1914 (drei Tage nach dem serbischen Antwort a
 
 ### Versailler Vertrag
 
-Der **Versailler Vertrag** ist der Friedensvertrag, der offiziell den Ersten Weltkrieg zwischen dem Deutschen Reich und den Siegermächten (hauptsächlich Frankreich, Großbritannien und den USA) beendete. Unterzeichnet wurde er am 28. Juni 1919, in Kraft trat er am 10. Januar 1920. Der Vertrag zwang Deutschland, umfassende Einschränkungen hinzunehmen: militärisch wurde die Armee auf 100.000 Soldaten beschränkt, schweres Kriegsgerät wie Flugzeuge, Panzer und U-Boote mussten abgegeben werden. Zudem verlor Deutschland etwa 13 % seines Territoriums und alle Kolonien, und musste enorme Reparationszahlungen (132 Milliarden Goldmark sowie umfangreiche Sachleistungen) leisten. Der Vertrag, insbesondere die sogenannte „Kriegsschuldfrage“ (Artikel 231), belastete die Weimarer Republik schwer, führte zu politischer Instabilität und nährte nationalistische Ressentiments, welche später maßgeblich zum Aufstieg des Nationalsozialismus beitrugen.
+[Video](https://www.youtube.com/watch?v=wxUVrkbu0_o)
+
+Der **Versailler Vertrag** ist der Friedensvertrag, der offiziell den Ersten Weltkrieg zwischen dem Deutschen Reich und den Siegermächten (hauptsächlich Frankreich, Großbritannien und den USA) beendete. Unterzeichnet wurde er am 28. Juni 1919, in Kraft trat er am 10. Januar 1920. Der Vertrag zwang Deutschland, umfassende Einschränkungen hinzunehmen: militärisch wurde die Armee auf 100.000 Soldaten beschränkt, schweres Kriegsgerät wie Flugzeuge, Panzer und U-Boote mussten abgegeben werden. Zudem verlor Deutschland etwa 13 % seines Territoriums und alle Kolonien, und musste enorme Reparationszahlungen (132 Milliarden Goldmark sowie umfangreiche Sachleistungen) leisten. Der Vertrag, insbesondere die sogenannte „Kriegsschuldfrage“, belastete die Weimarer Republik schwer, führte zu politischer Instabilität und nährte nationalistische Ressentiments, welche später maßgeblich zum Aufstieg des Nationalsozialismus beitrugen.
 
 # Weimarer Republik
 
