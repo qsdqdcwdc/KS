@@ -56,7 +56,8 @@ Die **Weimare Republik** (1919–1933) war ein föderalistischer demokratische R
 
 - **Höhe der Reparationszahlungen:**  Deutschland musste immense Reparationszahlungen leisten (132 Milliarden Goldmark), was die Staatsfinanzen dauerhaft belastete und zu wirtschaftlichen Schwierigkeiten führte.
 - **Hyperinflation 1923:**  Durch massive Geldmengenausweitung zur Begleichung der Reparationszahlungen verlor die deutsche Währung 1923 rapide an Wert, wodurch Ersparnisse vernichtet wurden und das Vertrauen der Bürger in die Regierung stark sank.
-- **Weltwirtschaftskrise 1929** Die Weltwirtschaftskrise führte 1929 zum wirtschaftlichen Zusammenbruch, wodurch Millionen Menschen arbeitslos wurden.
+- **Weltwirtschaftskrise/Hohe Arbeitslosigkeit**: Die globale Wirtschaftskrise wurde durch den Börsenkrach vom *Schwarzen Freitag* am 25. Oktober 1929 an der New Yorker Börse ausgelöst, als eine jahrelang gewachsene Spekulationsblase in sich zusammenbrach. Die USA zogen daraufhin ihre kurzfristigen Kredite zurück, von denen die 
+reparationsbelastete Weimarer Republik abhängig war. Es führte zum wirtschaftlichen Zusammenbruch, wodurch Millionen Menschen arbeitslos wurden (von 1,3 Mio. in 1929 auf mehr als 6 Mio  in 1932 Arbeitslos).
 - **Zersplitterung der Parteien im Reichstag:**  Die Parteienlandschaft im Reichstag war extrem fragmentiert, was stabile Mehrheiten erschwerte. Häufige Regierungswechsel und instabile Koalitionen.
 - **Schwächen der Verfassung (Art. 48):**  Artikel 48 der Weimarer Verfassung erlaubte dem Reichspräsidenten, Notverordnungen ohne Zustimmung des Parlaments zu erlassen, was später missbraucht wurde.
 - **Kaisertreue Eliten:**  Viele Beamte, Richter und Offiziere blieben der Monarchie verbunden und standen der neuen Demokratie kritisch gegenüber. Ihre Unterstützung für rechtskonservative und monarchistische Gruppierungen schwächte die Demokratie.
@@ -65,9 +66,8 @@ Die **Weimare Republik** (1919–1933) war ein föderalistischer demokratische R
 - **Dolchstoßlegende:**  Die verbreitete Verschwörungstheorie, Deutschland sei im Ersten Weltkrieg durch demokratische Politiker und Sozialisten „verraten“ worden, wurde zur Diskreditierung von demokratischen Kräften benutzt.
 - **Aufstieg der NSDAP** 
 
-
-
-
+### Präsidialkabinett
+**Präsidialkabinette** nennt man die drei letzten Reichsregierungen der Weimarer Republik (1930-1933), die keine Mehrheit im Reichstag mehr besaßen und deshalb allein vom Reichspräsidenten Paul von Hindenburg getragen wurden. Sie entstanden nach dem Bruch der Großen Koalition im März 1930, als Hindenburg gemäß Art. 53 der Verfassung Kanzler ernannte, ohne eine Koalition zu bilden. Ihre Gesetzgebung lief über *Notverordnungen*: Die Kabinette ließen Vorlagen vom Präsidenten per Art. 48 erlassen; setzte der Reichstag eine Verordnung außer Kraft, nutzte Hindenburg Art. 25, löste das Parlament auf und stellte die Verordnung für bis zu 60 Tage bis zur Neuwahl wieder in Kraft. Auf diese Weise regierten sie praktisch ohne parlamentarische Kontrolle (Notverordnungsdiktatur).
 
 
 
