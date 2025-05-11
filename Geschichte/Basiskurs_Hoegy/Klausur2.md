@@ -64,13 +64,12 @@ reparationsbelastete Weimarer Republik abhängig war. Es führte zum wirtschaftl
 - **Schwächen der Verfassung (Art. 48):**  Artikel 48 der Weimarer Verfassung erlaubte dem Reichspräsidenten, Notverordnungen ohne Zustimmung des Parlaments zu erlassen, was später missbraucht wurde.
 - **Kaisertreue Eliten:**  Viele Beamte, Richter und Offiziere blieben der Monarchie verbunden und standen der neuen Demokratie kritisch gegenüber. Ihre Unterstützung für rechtskonservative und monarchistische Gruppierungen schwächte die Demokratie.
 - **Zweifel an der Demokratie („Demokratie ohne Demokraten“):** Viele Bürger konnten sich nicht mit dem demokratischen System identifizieren, da sie an der Monarchie und der Vergangenheit festhielten. Demokratische Prinzipien hatten deshalb wenig Rückhalt in der Bevölkerung.
-- **Reichswehr als „Staat im Staat“:**  Die Reichswehr blieb unabhängig von demokratischen Institutionen und wurde nie wirklich in die Republik integriert. Sie unterstützte konservative Kräfte.
+- **Reichswehr als „Staat im Staat“:**  Die Reichswehr blieb unabhängig von demokratischen Institutionen und wurde nie wirklich in die Republik integriert. Sie weigerte manchmal Befehle von demokratischen Regierung auszuüben.
 - **Dolchstoßlegende:**  Die verbreitete Verschwörungstheorie, Deutschland sei im Ersten Weltkrieg durch demokratische Politiker und Sozialisten „verraten“ worden, wurde zur Diskreditierung von demokratischen Kräften benutzt.
 - **Aufstieg der NSDAP** 
 
 ### Präsidialkabinett
 **Präsidialkabinette** nennt man die drei letzten Reichsregierungen der Weimarer Republik (1930-1933), die keine Mehrheit im Reichstag mehr besaßen und deshalb allein vom Reichspräsidenten Paul von Hindenburg getragen wurden. Sie entstanden nach dem Bruch der Großen Koalition im März 1930, als Hindenburg gemäß Art. 53 der Verfassung Kanzler ernannte, ohne eine Koalition zu bilden. Ihre Gesetzgebung lief über *Notverordnungen*: Die Kabinette ließen Vorlagen vom Präsidenten per Art. 48 erlassen; setzte der Reichstag eine Verordnung außer Kraft, nutzte Hindenburg Art. 25, löste das Parlament auf und stellte die Verordnung für bis zu 60 Tage bis zur Neuwahl wieder in Kraft. Auf diese Weise regierten sie praktisch ohne parlamentarische Kontrolle (Notverordnungsdiktatur).
-
 
 # Nationalsozialismus
 
@@ -79,9 +78,10 @@ Der **Hitler-putsch** fand am 8. und 9. November 1923 in München statt, als Ado
 
 
 ### Politischer Aufstieg
-Adolf Hitlers Weg zur Macht begann mit seiner Rolle als einfacher Soldat im Ersten Weltkrieg, wo er durch Tapferkeit auffiel, jedoch nach Kriegsende entwurzelt, ohne Beruf und Perspektive war. In den Wirren der Nachkriegszeit und der Münchner Räterepublik suchte er Halt, fand diesen in der Reichswehr, wo er erste politische Schulungen erhielt und antisemitisch-völkische Ideologien übernahm. 1919 trat er der Deutschen Arbeiterpartei bei, die er rasch zur NSDAP umformte und durch seine Redekunst dominierte. Nach einem gescheiterten Putschversuch 1923 und kurzer Haftzeit, setzte er auf legale Mittel. Die Weltwirtschaftskrise bot seiner Propaganda gegen Republik, Versailler Vertrag und „kommunistische Bedrohung“ fruchtbaren Boden: Die NSDAP kletterte von 12 Reichstagsmandaten 1928 auf 107 (1930) und wurde mit 37 % der Stimmen im Juli 1932 stärkste Partei. konservative Eliten überzeugten Reichspräsident Paul von Hindenburg, Hitler in einer Koalition mit National­konservativen zu installieren. Am 30. Januar 1933 ernannte Hindenburg Hitler zum Reichskanzler.
+In den Wirren der Nachkriegszeit und der Münchner Räterepublik suchte Hitler Halt, fand diesen in der Reichswehr, wo er erste politische Schulungen erhielt und antisemitisch-völkische Ideologien übernahm. 1919 trat er der Deutschen Arbeiterpartei bei, zur NSDAP um genannt wurde. Nach einem gescheiterten Putschversuch 1923 und kurzer Haftzeit, setzte er auf legale Mittel. Die Weltwirtschaftskrise bot seiner Propaganda gegen Republik, Versailler Vertrag und „kommunistische Bedrohung“ fruchtbaren Boden: Die NSDAP kletterte von 12 Reichstagsmandaten 1928 auf 107 (1930) und wurde mit 37 % der Stimmen im Juli 1932 stärkste Partei. konservative Eliten überzeugten Reichspräsident Paul von Hindenburg, Hitler in einer Koalition mit National­konservativen zu installieren. Am 30. Januar 1933 ernannte Hindenburg Hitler zum Reichskanzler.
 
 
-
+### Übergang zu Diktatur
+Die Ernennung Adolf Hitlers zum Reichskanzler markierte den Beginn des schnellen Übergangs Deutschlands von der Demokratie zur Diktatur. Reichspräsident Paul von Hindenburg löste den Reichstag bereits am 1. Februar 1933 auf und setzte Neuwahlen für den 5. März an. Mit Notverordnungen schränkte sie Presse- und Versammlungsfreiheit ein und ging im Wahlkampf brutal gegen politische Gegner vor. In der Nacht vom 27. auf den 28. Februar brannte der Reichstag; am 28. Februar erließ Hindenburg auf Hitlers Drängen die sogenannte Reichstagsbrandverordnung, die zentrale Grundrechte dauerhaft suspendierte. Trotz dieses Ausnahmezustands erhielt die NSDAP bei den Wahlen am 5. März nur 43,9 % der Stimmen. Die 81 gewählten Kommunisten wurden auf Grundlage der Brandverordnung verhaftet bzw. an der Mandatsausübung gehindert, sodass ihre Stimmen bei Beschlüssen fehlten. Unter massiver Einschüchterung SS und SA-Präsenz im Plenarsaal stimmte der Reichstag am 23. März mit der nötigen Zweidrittelmehrheit für das Ermächtigungsgesetz, das Hitler erlaubte, Gesetze ohne parlamentarische Beteiligung zu erlassen. Nur die SPD votierte dagegen. Es folgte die Gleichschaltung.
 
 
