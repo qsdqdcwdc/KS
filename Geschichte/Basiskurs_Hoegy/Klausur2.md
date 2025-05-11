@@ -56,7 +56,7 @@ Die **Weimare Republik** (1919–1933) war ein föderalistischer demokratische R
 
 - **Höhe der Reparationszahlungen:**  Deutschland musste immense Reparationszahlungen leisten (132 Milliarden Goldmark), was die Staatsfinanzen dauerhaft belastete und zu wirtschaftlichen Schwierigkeiten führte.
 - **Hyperinflation 1923:**  Durch massive Geldmengenausweitung zur Begleichung der Reparationszahlungen verlor die deutsche Währung 1923 rapide an Wert, wodurch Ersparnisse vernichtet wurden und das Vertrauen der Bürger in die Regierung stark sank.
-- **Hohe Arbeitslosigkeit ab 1929:**  Die Weltwirtschaftskrise führte 1929 zum wirtschaftlichen Zusammenbruch, wodurch Millionen Menschen arbeitslos wurden.
+- **Weltwirtschaftskrise 1929** Die Weltwirtschaftskrise führte 1929 zum wirtschaftlichen Zusammenbruch, wodurch Millionen Menschen arbeitslos wurden.
 - **Zersplitterung der Parteien im Reichstag:**  Die Parteienlandschaft im Reichstag war extrem fragmentiert, was stabile Mehrheiten erschwerte. Häufige Regierungswechsel und instabile Koalitionen.
 - **Schwächen der Verfassung (Art. 48):**  Artikel 48 der Weimarer Verfassung erlaubte dem Reichspräsidenten, Notverordnungen ohne Zustimmung des Parlaments zu erlassen, was später missbraucht wurde.
 - **Kaisertreue Eliten:**  Viele Beamte, Richter und Offiziere blieben der Monarchie verbunden und standen der neuen Demokratie kritisch gegenüber. Ihre Unterstützung für rechtskonservative und monarchistische Gruppierungen schwächte die Demokratie.
