@@ -44,10 +44,30 @@ Die **Kriegsunschuldslegende** ist die Behauptung, das Deutsche Reich trage kein
 ### Ablauf der Novemberrevolution 1918
 [Video](https://www.youtube.com/watch?v=3Md4PYvgPLU)
 
-Die **Novemberrevolution** begann Ende Oktober 1918 mit einer Meuterei von Matrosen der deutschen Hochseeflotte in Wilhelmshaven und Kiel, nachdem diese zu einer letzten aussichtslosen Schlacht gegen die britische Marine befohlen worden waren. Aus dieser Matrosenmeuterei entwickelte sich schnell ein allgemeiner Aufstand, an dem sich Arbeiter und Soldaten beteiligten. In ganz Deutschland entstanden Arbeiter- und Soldatenräte als revolutionäre Organe. Am 9. November 1918 wurde unter massivem öffentlichem Druck die Abdankung Kaiser Wilhelms II. verkündet. Noch am selben Tag rief Philipp Scheidemann (MSPD) die „Deutsche Republik“ aus, während Karl Liebknecht (Spartakusbund, USPD) kurz darauf eine sozialistische Republik proklamierte. Es entstand eine Übergangsregierung („Rat der Volksbeauftragten“), bestehend aus MSPD und USPD, die jedoch bald zerbrach. Anfang Januar 1919 kam es zum **Spartakusaufstand**, einem Versuch radikaler Linker, die Revolution weiterzutreiben, der jedoch durch regierungstreue Kräfte und Freikorps blutig niedergeschlagen wurde. Die Revolution endete faktisch mit der Niederlage der Rätebewegung und wurde formal am 11. August 1919 mit der Annahme der Weimarer Verfassung abgeschlossen. 
+Die **Novemberrevolution** begann Ende Oktober/Anfrang November 1918 mit einem Aufstand von Matrosen der deutschen Hochseeflotte in Wilhelmshaven und Kiel, nachdem diese zu einer letzten aussichtslosen Schlacht gegen die britische Marine befohlen worden waren. Aus dieser Matrosenmeuterei entwickelte sich schnell ein allgemeiner Aufstand, an dem sich Arbeiter und Soldaten beteiligten. In ganz Deutschland entstanden Arbeiter- und Soldatenräte als revolutionäre Organe. Am 9. November 1918 wurde unter öffentlichem Druck die Abdankung Kaiser Wilhelms II verkündet, die alte Regierung übergab die Rolle von Reichskanzler an Friedrich Ebert(MSPD). Noch am selben Tag rief Philipp Scheidemann (MSPD) die „Deutsche Republik“ aus, während Karl Liebknecht (USPD) kurz darauf eine sozialistische Republik proklamierte. Es entstand eine Übergangsregierung („Rat der Volksbeauftragten“), bestehend aus MSPD und USPD, die jedoch bald zerbrach. MSPD und weitere (Zentrumspartei, Liberalen) plannen eine Nationalversammlung durchführen wo die neue Verfassung erarbeiten werden sollte. Der Versuch linksrevolutionärer Kräfte, die Macht in Berlin an sich zu reißen, wurde von Reichswehr und Freikorps blutig niedergeschlagen. Nach mehreren weiteren, regionalen Räte- und Generalstreiks scheiterte die Rätebewegung endgültig. Mit der Unterzeichnung der Weimarer Verfassung am 11. August 1919 war die Novemberrevolution formal beendet und das Deutsche Reich in eine parlamentarische Republik überführt.
 
 ### Struktur der Weimarer Republik
 [Video](https://www.youtube.com/watch?v=D0CTE5mP1uo)
 
 Die **Weimare Republik** (1919–1933) war ein föderalistischer demokratische Rechtsstaat und eine parlamentarische Demokratie mit präsidialen Elementen. Zentrale Organe waren der direkt vom Volk gewählte **Reichspräsident** (Exekutive), der erhebliche Machtbefugnisse besaß, etwa Parlamentauflösung, Ernennung des Reichskanzlers, Oberbefehl über das Militär und Notstandsvollmachten („Ersatzkaiser“), und der **Reichstag** (Legislative), dessen Abgeordnete in allgemeinen, gleichen und geheimen Wahlen gewählt wurden und Gesetze verabschiedeten sowie die Regierung kontrollierten. Es gab auch keine Sperrklausel was den Parlament sehr zersplittert machte. Der Reichskanzler leitete die Regierung, benötigte aber die Unterstützung des Reichstags („Vertrauensfrage“). Zusätzlich existierten Volksentscheide zur direkten demokratischen Mitbestimmung. Allerdings fehlte ein wirksamer Verfassungsschutz durch ein Bundesverfassungsgericht, und Grundrechte (wie: Versammlungsfreiheit, Meinungsfreiheit, Brief-, Post- und Fernmeldegeheimnisse, Unverletzlichkeit der Wohnung) könnte der Reichspräsident mit Notverordnungen außer Kraft setzen (Artikel 48 Weimarer Verfassung).
+
+
+### Belastungen und Scheitern der Weimarer Republik
+
+- **Höhe der Reparationen (Reparationszahlungen):**  Deutschland musste immense Reparationszahlungen leisten (132 Milliarden Goldmark), was die Staatsfinanzen dauerhaft belastete und zu wirtschaftlichen Schwierigkeiten führte.
+- **Hyperinflation 1923:**  Durch massive Geldmengenausweitung zur Begleichung der Reparationszahlungen verlor die deutsche Währung 1923 rapide an Wert, wodurch Ersparnisse vernichtet wurden und das Vertrauen der Bürger in die Regierung stark sank.
+- **Hohe Arbeitslosigkeit ab 1929:**  Die Weltwirtschaftskrise führte 1929 zum wirtschaftlichen Zusammenbruch, wodurch Millionen Menschen arbeitslos wurden.
+- **Zersplitterung der Parteien im Reichstag:**  Die Parteienlandschaft im Reichstag war extrem fragmentiert, was stabile Mehrheiten erschwerte. Häufige Regierungswechsel und instabile Koalitionen verhinderten eine effektive Regierungspolitik.
+- **Schwächen der Verfassung (Art. 48):**  Artikel 48 der Weimarer Verfassung erlaubte dem Reichspräsidenten, Notverordnungen ohne Zustimmung des Parlaments zu erlassen, was später missbraucht wurde.
+- **Kaisertreue Eliten:**  Viele Beamte, Richter und Offiziere blieben der Monarchie verbunden und standen der neuen Demokratie kritisch gegenüber. Ihre Unterstützung für rechtskonservative und monarchistische Gruppierungen schwächte die demokratische.
+- **Zweifel an der Demokratie („Demokratie ohne Demokraten“):** Viele Bürger konnten sich nicht mit dem demokratischen System identifizieren, da sie an der Monarchie und der Vergangenheit festhielten. Demokratische Prinzipien hatten deshalb wenig Rückhalt in der Bevölkerung.
+- **Reichswehr als „Staat im Staat“:**  Die Reichswehr blieb unabhängig von demokratischen Institutionen und wurde nie wirklich in die Republik integriert. Sie unterstützte konservative Kräfte.
+- **Dolchstoßlegende:**  Die verbreitete Verschwörungstheorie, Deutschland sei im Ersten Weltkrieg durch demokratische Politiker und Sozialisten „verraten“ worden, diskreditierte die demokratischen Kräfte.
+- **Aufstieg der NSDAP** 
+
+
+
+
+
+
 
