@@ -89,6 +89,8 @@ Die Ernennung Adolf Hitlers zum Reichskanzler markierte den Beginn des schnellen
 - **Gleichschaltung** ist ein Prozess, was Hitler nach Unterbenutzung von Ermächtigungsgesetz und Reichstagsverordnung startete. Zuerst übernahm die NSDAP die Kontrolle über Länderregierungen. Danach zwingte Hitler zahlreiche Parteien zur Auflösung und verbot KPD und SDP. Er schluss alle Arbeitervereine an deutsche Arbeitsfront an. NSDAP relangte komplette Kontrolle über die Presse und Kunst. Organisation der Bevölkerung jene Massenorganisationen wie Hitlerjugend.
 
 ### NS-Ideologie
+[Video](https://www.youtube.com/watch?v=nyzCwtXqRv0&list=PLAo_j4319gfyc0AaibC7yOHX_Ar1gCdAz&index=2)
+
 Die NS-Ideologie basiert auf Rassismus, unterstützt durch Sozialderwinismus. Sozialderwinismus ist eine unwissenschaftliche Anwendung von evolutionären Theorie die Gesellschaft. Nach der Rassentheorie ist die Rasse von Arjen(die deutsche Rasse) gemacht, um zu herrschen. Und die Rasse von Juden ist die Rasse von Parasiten. Wie gesagt, es herrscht ein Rassenkampf, wo nur die stärkeren Rassen überleben, und deswegen muss die deutsche Rasse mit anderen Rassen kämpfen. 
 
 - **Rassismus** ist die Überzeugung, dass Menschen aufgrund ihrer Hautfarbe, Herkunft oder ethnischen Zugehörigkeit unterschiedliche Werte, Fähigkeiten oder Rechte besitzen.
@@ -103,7 +105,14 @@ Die NS-Ideologie basiert auf Rassismus, unterstützt durch Sozialderwinismus. So
 - **Expansionismus** bezeichnet eine politische oder militärische Strategie, bei der ein Staat bestrebt ist, seinen Einflussbereich durch territoriale Ausdehnungz zu vergrößern. 
 - **Lebensraum im Osten** ist eine Beschreibung von Gebieten außerhalb der deutschen Grenzen, vor allem im Norden, Mittel- und Osteuropa, die rechtlich auf die arische Volk das Recht hatte und die das arische Volk eröbern muss, um zu überleben.
 
+### Nationalsozialistische Organisationen
 
+- NSDAP
+- Schutzstaffel
+- Gestapo
+- Hitlerjugend
+- Deutsche Arbeitsfront 
+- Sicherheitsdienst
 
 
 
