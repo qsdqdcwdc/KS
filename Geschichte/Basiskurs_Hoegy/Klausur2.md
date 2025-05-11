@@ -39,14 +39,15 @@ Die **Kriegsunschuldslegende** ist die Behauptung, das Deutsche Reich trage kein
 
 **Dolchstoßlegende** ist eine Verschwörungstheorie, die nach dem Ersten Weltkrieg in Deutschland verbreitet wurde. Sie behauptet, die deutsche Armee sei im Felde unbesiegt geblieben, jedoch durch demokratische Politiker und revolutionäre Gruppen „von hinten erdolcht“ worden. Die Legende entstand, weil die deutsche Bevölkerung aufgrund mangelnder Informationen die militärische Niederlage nicht direkt erlebte. Die militärische Führung, insbesondere Generalfeldmarschall Paul von Hindenburg, verbreitete diese Theorie, um die Verantwortung für die Kriegsniederlage und die Unterzeichnung des von vielen als ungerecht empfundenen Versailler Vertrags den demokratischen Politikern zuzuschieben. Diese Legende schwächte die Weimarer Demokratie erheblich und wurde später von den Nationalsozialisten für Propagandazwecke verwendet. [Video](https://studyflix.de/geschichte/dolchstoslegende-3893)
 
-# Weimarer Republik
+# Weimarer Republik (1919–1933)
 
 ### Ablauf der Novemberrevolution 1918
 [Video](https://www.youtube.com/watch?v=3Md4PYvgPLU)
 
 Die **Novemberrevolution** begann Ende Oktober 1918 mit einer Meuterei von Matrosen der deutschen Hochseeflotte in Wilhelmshaven und Kiel, nachdem diese zu einer letzten aussichtslosen Schlacht gegen die britische Marine befohlen worden waren. Aus dieser Matrosenmeuterei entwickelte sich schnell ein allgemeiner Aufstand, an dem sich Arbeiter und Soldaten beteiligten. In ganz Deutschland entstanden Arbeiter- und Soldatenräte als revolutionäre Organe. Am 9. November 1918 wurde unter massivem öffentlichem Druck die Abdankung Kaiser Wilhelms II. verkündet. Noch am selben Tag rief Philipp Scheidemann (MSPD) die „Deutsche Republik“ aus, während Karl Liebknecht (Spartakusbund, USPD) kurz darauf eine sozialistische Republik proklamierte. Es entstand eine Übergangsregierung („Rat der Volksbeauftragten“), bestehend aus MSPD und USPD, die jedoch bald zerbrach. Anfang Januar 1919 kam es zum **Spartakusaufstand**, einem Versuch radikaler Linker, die Revolution weiterzutreiben, der jedoch durch regierungstreue Kräfte und Freikorps blutig niedergeschlagen wurde. Die Revolution endete faktisch mit der Niederlage der Rätebewegung und wurde formal am 11. August 1919 mit der Annahme der Weimarer Verfassung abgeschlossen. 
 
+### Struktur der Weimarer Republik
+[Video](https://www.youtube.com/watch?v=D0CTE5mP1uo)
 
-
-
+Die **Weimare Republik** (1919–1933) war ein föderalistischer demokratische Rechtsstaat und eine parlamentarische Demokratie mit präsidialen Elementen. Zentrale Organe waren der direkt vom Volk gewählte **Reichspräsident** (Exekutive), der erhebliche Machtbefugnisse besaß, etwa Parlamentauflösung, Ernennung des Reichskanzlers, Oberbefehl über das Militär und Notstandsvollmachten („Ersatzkaiser“), und der **Reichstag** (Legislative), dessen Abgeordnete in allgemeinen, gleichen und geheimen Wahlen gewählt wurden und Gesetze verabschiedeten sowie die Regierung kontrollierten. Es gab auch keine Sperrklausel was den Parlament sehr zersplittert machte. Der Reichskanzler leitete die Regierung, benötigte aber die Unterstützung des Reichstags („Vertrauensfrage“). Zusätzlich existierten Volksentscheide zur direkten demokratischen Mitbestimmung. Allerdings fehlte ein wirksamer Verfassungsschutz durch ein Bundesverfassungsgericht, und Grundrechte (wie: Versammlungsfreiheit, Meinungsfreiheit, Brief-, Post- und Fernmeldegeheimnisse, Unverletzlichkeit der Wohnung) könnte der Reichspräsident mit Notverordnungen außer Kraft setzen (Artikel 48 Weimarer Verfassung).
 
