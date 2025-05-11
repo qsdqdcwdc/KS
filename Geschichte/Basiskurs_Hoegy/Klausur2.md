@@ -62,7 +62,7 @@ Die **Weimare Republik** (1919–1933) war ein föderalistischer demokratische R
 - **Kaisertreue Eliten:**  Viele Beamte, Richter und Offiziere blieben der Monarchie verbunden und standen der neuen Demokratie kritisch gegenüber. Ihre Unterstützung für rechtskonservative und monarchistische Gruppierungen schwächte die demokratische.
 - **Zweifel an der Demokratie („Demokratie ohne Demokraten“):** Viele Bürger konnten sich nicht mit dem demokratischen System identifizieren, da sie an der Monarchie und der Vergangenheit festhielten. Demokratische Prinzipien hatten deshalb wenig Rückhalt in der Bevölkerung.
 - **Reichswehr als „Staat im Staat“:**  Die Reichswehr blieb unabhängig von demokratischen Institutionen und wurde nie wirklich in die Republik integriert. Sie unterstützte konservative Kräfte.
-- **Dolchstoßlegende:**  Die verbreitete Verschwörungstheorie, Deutschland sei im Ersten Weltkrieg durch demokratische Politiker und Sozialisten „verraten“ worden, diskreditierte die demokratischen Kräfte.
+- **Dolchstoßlegende:**  Die verbreitete Verschwörungstheorie, Deutschland sei im Ersten Weltkrieg durch demokratische Politiker und Sozialisten „verraten“ worden, wurde zur Diskreditierung von demokratischen Kräften benutzt.
 - **Aufstieg der NSDAP** 
 
 
