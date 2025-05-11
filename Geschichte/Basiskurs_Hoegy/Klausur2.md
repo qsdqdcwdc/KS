@@ -51,6 +51,8 @@ Die **Novemberrevolution** begann Ende Oktober/Anfang November 1918 mit einem Au
 
 Die **Weimare Republik** (1919–1933) war ein föderalistischer demokratische Rechtsstaat und eine parlamentarische Demokratie mit präsidialen Elementen. Zentrale Organe waren der direkt vom Volk gewählte **Reichspräsident** (Exekutive), der erhebliche Machtbefugnisse besaß, etwa Parlamentauflösung, Ernennung des Reichskanzlers, Oberbefehl über das Militär und Notstandsvollmachten („Ersatzkaiser“), und der **Reichstag** (Legislative), dessen Abgeordnete in allgemeinen, gleichen und geheimen Wahlen gewählt wurden und Gesetze verabschiedeten sowie die Regierung kontrollierten. Es gab auch keine Sperrklausel was den Parlament sehr zersplittert machte. Der Reichskanzler leitete die Regierung, benötigte aber die Unterstützung des Reichstags („Vertrauensfrage“). Zusätzlich existierten Volksentscheide zur direkten demokratischen Mitbestimmung. Allerdings fehlte ein wirksamer Verfassungsschutz durch ein Bundesverfassungsgericht, und Grundrechte (wie: Versammlungsfreiheit, Meinungsfreiheit, Brief-, Post- und Fernmeldegeheimnisse, Unverletzlichkeit der Wohnung) könnte der Reichspräsident mit Notverordnungen außer Kraft setzen (Artikel 48 Weimarer Verfassung).
 
+### Außenpolitik der Weimarer Republik  
+Die Außenpolitik der Weimarer Republik zielte darauf ab, die dem Versailler Vertrag entspringende Isolation zu überwinden und Deutschland als gleichberechtigten Staat in das europäische Staatensystem zurückzuführen.
 
 ### Belastungen und Scheitern der Weimarer Republik
 
@@ -68,6 +70,18 @@ reparationsbelastete Weimarer Republik abhängig war. Es führte zum wirtschaftl
 
 ### Präsidialkabinett
 **Präsidialkabinette** nennt man die drei letzten Reichsregierungen der Weimarer Republik (1930-1933), die keine Mehrheit im Reichstag mehr besaßen und deshalb allein vom Reichspräsidenten Paul von Hindenburg getragen wurden. Sie entstanden nach dem Bruch der Großen Koalition im März 1930, als Hindenburg gemäß Art. 53 der Verfassung Kanzler ernannte, ohne eine Koalition zu bilden. Ihre Gesetzgebung lief über *Notverordnungen*: Die Kabinette ließen Vorlagen vom Präsidenten per Art. 48 erlassen; setzte der Reichstag eine Verordnung außer Kraft, nutzte Hindenburg Art. 25, löste das Parlament auf und stellte die Verordnung für bis zu 60 Tage bis zur Neuwahl wieder in Kraft. Auf diese Weise regierten sie praktisch ohne parlamentarische Kontrolle (Notverordnungsdiktatur).
+
+
+# Nationalsozialismus
+
+### Hitlerputsch
+Der **Hitler-putsch** fand am 8. und 9. November 1923 in München statt, als Adolf Hitler und seine Anhänger versuchten, die Macht in Bayern gewaltsam zu übernehmen. Hitler stürmte mit bewaffneten Sturmabteilung-Leuten eine politische Veranstaltung, erklärte die bestehende Regierung für abgesetzt und zwang die führenden bayerischen Politiker, den Putsch zu unterstützen. Der Putsch scheiterte allerdings, da weder Polizei noch Reichswehr sich auf die Seite der Putschisten stellten. Bei einem Marsch durch München am folgenden Tag kam es zu einem Feuergefecht, bei dem mehrere Personen starben. Hitler wurde verhaftet und anschließend wegen Hochverrats zu einer zur einer Haftstrafe von 5 Jahren verurteilt wurde aber weniger als einem Jahr entlassen. Hitler nutzte den Prozess Gerichtsprozess als Propagandaplattform, um sich als Führer der nationalistischen Bewegung zu positionieren. Während seiner kurzen Festungshaft verfasste er das Buch *Mein Kampf*.
+
+
+### Politischer Aufstieg
+Adolf Hitlers Weg zur Macht begann mit seiner Rolle als einfacher Soldat im Ersten Weltkrieg, wo er durch Tapferkeit auffiel, jedoch nach Kriegsende entwurzelt, ohne Beruf und Perspektive war. In den Wirren der Nachkriegszeit und der Münchner Räterepublik suchte er Halt, fand diesen in der Reichswehr, wo er erste politische Schulungen erhielt und antisemitisch-völkische Ideologien übernahm. 1919 trat er der Deutschen Arbeiterpartei bei, die er rasch zur NSDAP umformte und durch seine Redekunst dominierte. Nach einem gescheiterten Putschversuch 1923 und kurzer Haftzeit, setzte er auf legale Mittel. Die Weltwirtschaftskrise bot seiner Propaganda gegen Republik, Versailler Vertrag und „kommunistische Bedrohung“ fruchtbaren Boden: Die NSDAP kletterte von 12 Reichstagsmandaten 1928 auf 107 (1930) und wurde mit 37 % der Stimmen im Juli 1932 stärkste Partei. konservative Eliten überzeugten Reichspräsident Paul von Hindenburg, Hitler in einer Koalition mit National­konservativen zu installieren. Am 30. Januar 1933 ernannte Hindenburg Hitler zum Reichskanzler.
+
+
 
 
 
