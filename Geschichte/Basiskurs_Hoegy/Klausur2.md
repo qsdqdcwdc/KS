@@ -54,12 +54,12 @@ Die **Weimare Republik** (1919–1933) war ein föderalistischer demokratische R
 
 ### Belastungen und Scheitern der Weimarer Republik
 
-- **Höhe der Reparationen (Reparationszahlungen):**  Deutschland musste immense Reparationszahlungen leisten (132 Milliarden Goldmark), was die Staatsfinanzen dauerhaft belastete und zu wirtschaftlichen Schwierigkeiten führte.
+- **Höhe der Reparationszahlungen:**  Deutschland musste immense Reparationszahlungen leisten (132 Milliarden Goldmark), was die Staatsfinanzen dauerhaft belastete und zu wirtschaftlichen Schwierigkeiten führte.
 - **Hyperinflation 1923:**  Durch massive Geldmengenausweitung zur Begleichung der Reparationszahlungen verlor die deutsche Währung 1923 rapide an Wert, wodurch Ersparnisse vernichtet wurden und das Vertrauen der Bürger in die Regierung stark sank.
 - **Hohe Arbeitslosigkeit ab 1929:**  Die Weltwirtschaftskrise führte 1929 zum wirtschaftlichen Zusammenbruch, wodurch Millionen Menschen arbeitslos wurden.
-- **Zersplitterung der Parteien im Reichstag:**  Die Parteienlandschaft im Reichstag war extrem fragmentiert, was stabile Mehrheiten erschwerte. Häufige Regierungswechsel und instabile Koalitionen verhinderten eine effektive Regierungspolitik.
+- **Zersplitterung der Parteien im Reichstag:**  Die Parteienlandschaft im Reichstag war extrem fragmentiert, was stabile Mehrheiten erschwerte. Häufige Regierungswechsel und instabile Koalitionen.
 - **Schwächen der Verfassung (Art. 48):**  Artikel 48 der Weimarer Verfassung erlaubte dem Reichspräsidenten, Notverordnungen ohne Zustimmung des Parlaments zu erlassen, was später missbraucht wurde.
-- **Kaisertreue Eliten:**  Viele Beamte, Richter und Offiziere blieben der Monarchie verbunden und standen der neuen Demokratie kritisch gegenüber. Ihre Unterstützung für rechtskonservative und monarchistische Gruppierungen schwächte die demokratische.
+- **Kaisertreue Eliten:**  Viele Beamte, Richter und Offiziere blieben der Monarchie verbunden und standen der neuen Demokratie kritisch gegenüber. Ihre Unterstützung für rechtskonservative und monarchistische Gruppierungen schwächte die Demokratie.
 - **Zweifel an der Demokratie („Demokratie ohne Demokraten“):** Viele Bürger konnten sich nicht mit dem demokratischen System identifizieren, da sie an der Monarchie und der Vergangenheit festhielten. Demokratische Prinzipien hatten deshalb wenig Rückhalt in der Bevölkerung.
 - **Reichswehr als „Staat im Staat“:**  Die Reichswehr blieb unabhängig von demokratischen Institutionen und wurde nie wirklich in die Republik integriert. Sie unterstützte konservative Kräfte.
 - **Dolchstoßlegende:**  Die verbreitete Verschwörungstheorie, Deutschland sei im Ersten Weltkrieg durch demokratische Politiker und Sozialisten „verraten“ worden, wurde zur Diskreditierung von demokratischen Kräften benutzt.
