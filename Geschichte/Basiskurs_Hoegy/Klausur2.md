@@ -105,8 +105,10 @@ Die NS-Ideologie basiert auf Rassismus, unterstützt durch Sozialderwinismus. So
 - **Expansionismus** bezeichnet eine politische oder militärische Strategie, bei der ein Staat bestrebt ist, seinen Einflussbereich durch territoriale Ausdehnungz zu vergrößern. 
 - **Lebensraum im Osten** ist eine Beschreibung von Gebieten außerhalb der deutschen Grenzen, vor allem im Norden, Mittel- und Osteuropa, auf die arische Volk das "Recht" hatte und die das arische Volk eröbern muss, um zu überleben.
 
-### Nationalsozialistische Organisationen
 
+
+
+### Nationalsozialistische Organisationen
 - Die NSDAP (Nationalsozialistische Deutsche Arbeiterpartei) war eine rechtsextreme, nationalistische und antisemitische Partei in Deutschland, die von Adolf Hitler geführt wurde. Sie regierte von 1933 bis 1945 diktatorisch und war verantwortlich für den Zweiten Weltkrieg sowie den Holocaust.
 - Die Schutzstaffel (SS) war eine paramilitärische Organisation der NSDAP, die eine zentrale Rolle im nationalsozialistischen Terror- und Repressionsapparat spielte. Sie war maßgeblich an der Durchführung des Holocaust beteiligt und organisierte unter anderem die Deportation und Ermordung von Millionen Menschen.
 - Die Sturmabteilung (SA) war eine paramilitärische Organisation der NSDAP, die in den 1920er und frühen 1930er Jahren vor allem durch gewaltsame Einschüchterung politischer Gegner bekannt wurde. Sie spielte eine zentrale Rolle beim Aufstieg Hitlers, verlor jedoch nach der sogenannten "Nacht der langen Messer" 1934 stark an Bedeutung.
@@ -116,6 +118,17 @@ Die NS-Ideologie basiert auf Rassismus, unterstützt durch Sozialderwinismus. So
 -  Der SD (Sicherheitsdienst) war der Geheimdienst der SS und diente vor allem der Überwachung politischer Gegner und der Informationsbeschaffung im In- und Ausland.
 - Kraft durch Freude (KdF) war eine nationalsozialistische Organisation, die ab 1933 Freizeit- und Kulturangebote wie Reisen, Theaterbesuche und Sportveranstaltungen für Arbeiter organisierte, um deren Loyalität zum Regime zu stärken. Sie diente der ideologischen Kontrolle und der Integration der Bevölkerung in die nationalsozialistische Volksgemeinschaft.
 
+# Terror in der NS-Diktatu Merkmale
+- **Schutzhaft** im Nationalsozialismus war eine willkürliche Inhaftierung politischer Gegner, Juden, Homosexueller und anderer als „staatsfeindlich“ betrachteter Personen ohne Gerichtsverfahren. Sie basierte auf dem Ermächtigungsgesetz und Reichstagsbrandverordnung.
+- **Polykratie** ist eine Herrschaftsform, in der mehrere konkurrierende Machtzentren oder Autoritäten nebeneinander existieren, ohne klare hierarchische Ordnung. Dies führt häufig zu ineffizienter Entscheidungsfindung und Machtkämpfen innerhalb des politischen Systems.
+
+
+1. **Willkürliche Verhaftungen** Personen wurden ohne konkreten Anlass oder Beweise festgenommen – häufig aus politischen, rassistischen oder ideologischen Gründen.
+2. **Verhaftete ohne Rechte** Inhaftierte hatten keinen Zugang zu rechtlichem Beistand, kein faires Verfahren und keine Möglichkeit, gegen ihre Inhaftierung vorzugehen.
+3. **Aushebelung der Rechtsstaatlichkeit**  Grundrechte wurden abgeschafft, Gerichte unterlagen der politischen Kontrolle, und die Gewaltenteilung wurde aufgehoben.
+4. **Unbegrenzte Schutzhaft**  Die sogenannte „Schutzhaft“ erlaubte unbegrenzte Inhaftierung ohne Gerichtsurteil – oft in Konzentrationslagern.
+5. **Verfolgung politischer Gegner** Vor allem Kommunisten, Sozialdemokraten und Gewerkschafter wurden systematisch verfolgt, misshandelt oder getötet.
+7. **Systematische Einschüchterung der Bevölkerung** Durch Spitzelwesen, Denunziation und öffentliche Gewaltakte wurde Angst erzeugt und Widerstand unterdrückt.
 
 
 ### überzeugungstaktiken
