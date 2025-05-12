@@ -49,7 +49,7 @@ Die **Novemberrevolution** begann Ende Oktober/Anfang November 1918 mit einem Au
 ### Struktur der Weimarer Republik
 [Video](https://www.youtube.com/watch?v=D0CTE5mP1uo)
 
-Die **Weimare Republik** (1919–1933) war ein föderalistischer demokratische Rechtsstaat und eine parlamentarische Demokratie mit präsidialen Elementen. Zentrale Organe waren der direkt vom Volk gewählte **Reichspräsident** (Exekutive), der erhebliche Machtbefugnisse besaß, etwa Parlamentauflösung, Ernennung des Reichskanzlers, Oberbefehl über das Militär und Notstandsvollmachten („Ersatzkaiser“), und der **Reichstag** (Legislative), dessen Abgeordnete in allgemeinen, gleichen und geheimen Wahlen gewählt wurden und Gesetze verabschiedeten sowie die Regierung kontrollierten. Es gab auch keine Sperrklausel was den Parlament sehr zersplittert machte. Der Reichskanzler leitete die Regierung, benötigte aber die Unterstützung des Reichstags („Vertrauensfrage“). Zusätzlich existierten Volksentscheide zur direkten demokratischen Mitbestimmung. Allerdings fehlte ein wirksamer Verfassungsschutz durch ein Bundesverfassungsgericht, und Grundrechte (wie: Versammlungsfreiheit, Meinungsfreiheit, Brief-, Post- und Fernmeldegeheimnisse, Unverletzlichkeit der Wohnung) könnte der Reichspräsident mit Notverordnungen außer Kraft setzen (Artikel 48 Weimarer Verfassung).
+Die **Weimare Republik** (1919–1933) war ein föderalistischer demokratische Rechtsstaat und eine parlamentarische Demokratie mit präsidialen Elementen. Zentrale Organe waren der direkt vom Volk gewählte **Reichspräsident** (Exekutive), der erhebliche Machtbefugnisse besaß, etwa Parlamentauflösung, Ernennung des Reichskanzlers, Oberbefehl über das Militär und Notstandsvollmachten („Ersatzkaiser“), und der **Reichstag** (Legislative), dessen Abgeordnete in allgemeinen, gleichen und geheimen Wahlen gewählt wurden und Gesetze verabschiedeten sowie die Regierung kontrollierten. Es gab auch keine Sperrklausel was den Parlament sehr zersplittert machte. Der Reichskanzler leitete die Regierung, benötigte aber die Unterstützung des Reichstags („Vertrauensfrage“). Zusätzlich existierten Volksentscheide zur direkten demokratischen Mitbestimmung. Allerdings fehlte ein wirksamer Verfassungsschutz durch ein Bundesverfassungsgericht, und Grundrechte (wie: Versammlungsfreiheit, Meinungsfreiheit, Brief-, Post- und Fernmeldegeheimnisse, Unverletzlichkeit der Wohnung, Freiheit der Person) könnte der Reichspräsident mit Notverordnungen außer Kraft setzen (Artikel 48 Weimarer Verfassung).
 
 ### Außenpolitik der Weimarer Republik  
 Die Außenpolitik der Weimarer Republik zielte darauf ab, die dem Versailler Vertrag entspringende Isolation zu überwinden und Deutschland als gleichberechtigten Staat in das europäische Staatensystem zurückzuführen.
@@ -82,11 +82,11 @@ In den Wirren der Nachkriegszeit und der Münchner Räterepublik suchte Hitler H
 
 
 ### Übergang zu Diktatur/Machtergreifung
-Die Ernennung Adolf Hitlers zum Reichskanzler markierte den Beginn des schnellen Übergangs Deutschlands von der Demokratie zur Diktatur. Reichspräsident Paul von Hindenburg löste den Reichstag bereits im Februar 1933 auf und setzte Neuwahlen für den 5. März an. Mit Notverordnungen schränkte sie Presse- und Versammlungsfreiheit ein und ging im Wahlkampf brutal gegen politische Gegner vor. In der Nacht vom 27. auf den 28. Februar brannte der Reichstag; am 28. Februar erließ Hindenburg auf Hitlers Drängen die sogenannte Reichstagsbrandverordnung, die zentrale Grundrechte dauerhaft suspendierte. Trotz dieses Ausnahmezustands erhielt die NSDAP bei den Wahlen am 5. März nur 43,9 % der Stimmen. Die 81 gewählten Kommunisten wurden auf Grundlage der Brandverordnung verhaftet bzw. an der Mandatsausübung gehindert, sodass ihre Stimmen bei Beschlüssen fehlten. Unter massiver Einschüchterung SS und SA-Präsenz im Plenarsaal stimmte der Reichstag am 23. März mit der nötigen Zweidrittelmehrheit für das Ermächtigungsgesetz, das Hitler erlaubte, Gesetze ohne parlamentarische Beteiligung zu erlassen. Nur die SPD votierte dagegen. Es folgte die Gleichschaltung. 
+Die Ernennung Adolf Hitlers zum Reichskanzler markierte den Beginn des schnellen Übergangs Deutschlands von der Demokratie zur Diktatur. Reichspräsident Paul von Hindenburg löste den Reichstag bereits im Februar 1933 auf und setzte Neuwahlen für den 5. März an. Mit Notverordnungen schränkte sie Presse- und Versammlungsfreiheit ein und ging im Wahlkampf brutal gegen politische Gegner vor. In der Nacht vom 27. auf den 28. Februar brannte der Reichstag; am 28. Februar erließ Hindenburg auf Hitlers Drängen die sogenannte Reichstagsbrandverordnung, die zentrale Grundrechte dauerhaft suspendierte. Trotz dieses Ausnahmezustands erhielt die NSDAP bei den Wahlen am 5. März nur 43,9 % der Stimmen. Die 81 gewählten Kommunisten wurden auf Grundlage der Brandverordnung verhaftet bzw. an der Mandatsausübung gehindert, sodass ihre Stimmen bei Beschlüssen fehlten. Unter massiver Einschüchterung SS und SA-Präsenz im Plenarsaal stimmte der Reichstag am 23. März mit der nötigen Zweidrittelmehrheit für das Ermächtigungsgesetz, das Hitler erlaubte, Gesetze ohne parlamentarische Beteiligung zu erlassen. Nur die SPD votierte dagegen. Es folgte die Gleichschaltung.  Im Jahr 1934 starb der Reichspräsident Hindenburg und Hitler Übernimmt seine Rolle
 
-- **Reichstagsbrandverordnung** erlassen am 28 März 1933 von Reichspräsident Hinderburg als eine Notverordnung hebte wesentliche Bürgerrechte auf. Die wurde von den Nationalsozialisten benutzt, um Repressionen gegen kommunistische Parteien durchzuführen und die zu verbieten.
+- **Reichstagsbrandverordnung** erlassen am 28 Februar 1933 von Reichspräsident Hinderburg als eine Notverordnung hebte wesentliche Bürgerrechte auf. Die wurde von den Nationalsozialisten benutzt, um Repressionen gegen kommunistische Parteien durchzuführen und die zu verbieten.
 - **Ermächtigungsgesetz**: Am 23. März 1933 erlaubte  unter Druck gestellte Parlament in einer pseudolegalen Prozedur mit dem Ermächtigungsgesetz der Regierung allein Gesetze zu erlassen, die sogar gegen die Verfassung verstoßen könnten. Die SPD haben als einzige dagegen gestimmt. Die KPD wurde ausgeschlossen.
-- **Gleichschaltung** ist ein Prozess, was Hitler nach Unterbenutzung von Ermächtigungsgesetz und Reichstagsverordnung startete. Zuerst übernahm die NSDAP die Kontrolle über Länderregierungen. Danach zwingte Hitler zahlreiche Parteien zur Auflösung und verbot KPD und SDP. Er schluss alle Arbeitervereine an deutsche Arbeitsfront an. NSDAP relangte komplette Kontrolle über die Presse und Kunst. Organisation der Bevölkerung jene Massenorganisationen wie Hitlerjugend.
+- **Gleichschaltung** ist ein Prozess, was Hitler nach Unterbenutzung von Ermächtigungsgesetz und Reichstagsverordnung startete. Zuerst übernahm die NSDAP die Kontrolle über Länderregierungen. Danach zwingte Hitler zahlreiche Parteien zur Auflösung und verbot KPD und SDP. Er schluss alle Arbeitervereine an deutsche Arbeitsfront an. NSDAP relangte komplette Kontrolle über die Presse und Kunst. Organisation der Bevölkerung jene Massenorganisationen wie Hitlerjugend. Im 1933 wurde "die Einheit von Parteien und Stadt" gesetzlich festgeschrieben.
 
 ### NS-Ideologie
 [Video](https://www.youtube.com/watch?v=nyzCwtXqRv0&list=PLAo_j4319gfyc0AaibC7yOHX_Ar1gCdAz&index=2)
@@ -107,12 +107,32 @@ Die NS-Ideologie basiert auf Rassismus, unterstützt durch Sozialderwinismus. So
 
 ### Nationalsozialistische Organisationen
 
-- NSDAP
-- Schutzstaffel
-- Gestapo
-- Hitlerjugend
-- Deutsche Arbeitsfront 
-- Sicherheitsdienst
+- Die NSDAP (Nationalsozialistische Deutsche Arbeiterpartei) war eine rechtsextreme, nationalistische und antisemitische Partei in Deutschland, die von Adolf Hitler geführt wurde. Sie regierte von 1933 bis 1945 diktatorisch und war verantwortlich für den Zweiten Weltkrieg sowie den Holocaust.
+- Die Schutzstaffel (SS) war eine paramilitärische Organisation der NSDAP, die eine zentrale Rolle im nationalsozialistischen Terror- und Repressionsapparat spielte. Sie war maßgeblich an der Durchführung des Holocaust beteiligt und organisierte unter anderem die Deportation und Ermordung von Millionen Menschen.
+- Die Sturmabteilung (SA) war eine paramilitärische Organisation der NSDAP, die in den 1920er und frühen 1930er Jahren vor allem durch gewaltsame Einschüchterung politischer Gegner bekannt wurde. Sie spielte eine zentrale Rolle beim Aufstieg Hitlers, verlor jedoch nach der sogenannten "Nacht der langen Messer" 1934 stark an Bedeutung.
+- Die Gestapo (Geheime Staatspolizei) war die politische Geheimpolizei im nationalsozialistischen Deutschland, verantwortlich für die Verfolgung von Regimegegnern, Juden und anderen als „feindlich“ betrachteten Gruppen. Sie agierte ohne rechtsstaatliche Kontrolle und nutzte systematisch Überwachung, Folter und Einschüchterung, um den Terror des NS-Regimes durchzusetzen.
+- Die Hitlerjugend (HJ) war die Jugendorganisation der NSDAP im nationalsozialistischen Deutschland, die Jungen ideologisch und militärisch auf den Dienst für das NS-Regime vorbereiten sollte. Sie wurde 1933 zur Staatsjugendorganisation erklärt und ab 1936 war die Mitgliedschaft für alle „arischen“ Jungen ab 10 Jahren verpflichtend.
+- Die Deutsche Arbeitsfront (DAF) war die nationalsozialistische Einheitsorganisation für Arbeitnehmer und Arbeitgeber im Dritten Reich, die nach der Zerschlagung der freien Gewerkschaften 1933 gegründet wurde. Sie diente der Kontrolle der Arbeiterschaft, der Förderung der NS-Ideologie in der Arbeitswelt und der Ausschaltung von Klassenkonflikten zugunsten einer angeblichen "Volksgemeinschaft".
+-  Der SD (Sicherheitsdienst) war der Geheimdienst der SS und diente vor allem der Überwachung politischer Gegner und der Informationsbeschaffung im In- und Ausland.
+- Kraft durch Freude (KdF) war eine nationalsozialistische Organisation, die ab 1933 Freizeit- und Kulturangebote wie Reisen, Theaterbesuche und Sportveranstaltungen für Arbeiter organisierte, um deren Loyalität zum Regime zu stärken. Sie diente der ideologischen Kontrolle und der Integration der Bevölkerung in die nationalsozialistische Volksgemeinschaft.
+
+
+
+### überzeugungstaktiken
+1. **Sagen, was viele denken**  
+2. **Zweifel an der Demokratie säen**  
+3. **Sündenböcke schaffen**  
+4. **Einfache Lösungen**  
+5. **Terror**  
+6. **Vorteile**  
+7. **Politische Indoktrinierung**  
+8. **Profit durch Leid anderer**  
+9. **Ängste schüren**
+
+
+
+
+
 
 
 
