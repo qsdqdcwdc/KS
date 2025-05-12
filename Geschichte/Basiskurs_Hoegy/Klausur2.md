@@ -124,10 +124,15 @@ Die NS-Ideologie basiert auf Rassismus, unterstützt durch Sozialderwinismus. So
 
 **Konzentrationslager** im Nationalsozialismus waren Einrichtungen zur systematischen Inhaftierung, Folter und Ermordung von Regimegegnern, Juden, Sinti und Roma sowie anderen als „unerwünscht“ angesehenen Gruppen. Sie unterstanden der SS, wurde zu einem rechtsfreien Raum und dienten der Durchsetzung totalitärer Kontrolle durch Terror, Gewalt und Einschüchterung.
 
-- Die **Schutzhaft** war ein Mittel staatlicher Willkür, bei dem Personen ohne Gerichtsurteil, ohne Rechtsbeistand und auf unbestimmte Zeit inhaftiert werden konnten. Ihre rechtliche Grundlage bildete die Reichstagsbrandverordnung.
-- **Polykratie** ist eine Herrschaftsform, in der mehrere konkurrierende Machtzentren oder Autoritäten nebeneinander existieren, ohne klare hierarchische Ordnung. Dies führt häufig zu ineffizienter Entscheidungsfindung und Machtkämpfen innerhalb des politischen Systems.
+Die **Schutzhaft** war ein Mittel staatlicher Willkür, bei dem Personen ohne Gerichtsurteil, ohne Rechtsbeistand und auf unbestimmte Zeit inhaftiert werden konnten. Ihre rechtliche Grundlage bildete die Reichstagsbrandverordnung.
 
+**Polykratie** ist eine Herrschaftsform, in der mehrere konkurrierende Machtzentren oder Autoritäten nebeneinander existieren, ohne klare hierarchische Ordnung. Dies führt häufig zu ineffizienter Entscheidungsfindung und Machtkämpfen innerhalb des politischen Systems.
 
+- **Normenstaat**: Regierungssystem, das mit weitgehenden Herrschaftsbefugnissen zwecks Aufrechterhaltung der Rechtsordnung ausgestattet ist, wie sie in Gesetzen, Gerichtsentscheidungen und Verwaltungsakten der Exekutive zum Ausdruck gelangen.
+- **Maßnahmenstaat**: Herrschaftssystem der unbeschränkten Willkür und Gewalt, das durch keinerlei rechtliche Garantien eingeschränkt ist.
+- **Doppelstaat**: Nebeneinander eines seine eigenen Gesetze im Allgemeinen respektierenden ,Normenstaates‘ und eines die gleichen Gesetze missachtenden ‚Maßnahmenstaates"
+
+---
 1. **Willkürliche Verhaftungen** Personen wurden ohne konkreten Anlass oder Beweise festgenommen – häufig aus politischen, rassistischen oder ideologischen Gründen.
 2. **Verhaftete ohne Rechte** Inhaftierte hatten keinen Zugang zu rechtlichem Beistand, kein faires Verfahren und keine Möglichkeit, gegen ihre Inhaftierung vorzugehen.
 3. **Aushebelung der Rechtsstaatlichkeit**  Grundrechte wurden abgeschafft, Gerichte unterlagen der politischen Kontrolle, und die Gewaltenteilung wurde aufgehoben.
