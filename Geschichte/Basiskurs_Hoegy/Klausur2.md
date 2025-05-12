@@ -120,6 +120,8 @@ Die NS-Ideologie basiert auf Rassismus, unterstützt durch Sozialderwinismus. So
 - **Kraft durch Freude** (KdF) war eine nationalsozialistische Organisation, die ab 1933 Freizeit- und Kulturangebote wie Reisen, Theaterbesuche und Sportveranstaltungen für Arbeiter organisierte, um deren Loyalität zum Regime zu stärken. Sie diente der ideologischen Kontrolle und der Integration der Bevölkerung in die nationalsozialistische Volksgemeinschaft.
 - **Volksgerichtshof** war ein Sondergericht, das 1934 zur Aburteilung politischer Gegner des NS-Regimes gegründet wurde und insbesondere für Verfahren wegen Hochverrats und Landesverrats zuständig war. Es basierte nicht auf rechtsstaatlichen Prinzipien, sondern auf dem Führerprinzip, und seine rechtliche Grundlage bildeten Verordnungen wie die "Verordnung über das Sondergericht beim Reichsgericht" vom 24. April 1934.
 
+Paramilitärische Organisationen sind bewaffnete Gruppen, die militärische Strukturen und Taktiken nutzen, aber nicht offiziell Teil der regulären Streitkräfte eines Staates sind.
+
 # Terror in der NS-Diktatur
 **Terror** im Nationalsozialismus bezeichnete den systematischen Einsatz von Gewalt, Einschüchterung und Verfolgung durch den NS-Staat, um Gegner auszuschalten und die Gesellschaft im Sinne der NS-Ideologie zu formen. Ab 1933 zielte dieser Terror zunächst auf politische Gegner und Juden, weitete sich jedoch bald auf als „rassisch“ oder „sozial“ unerwünscht geltende Gruppen aus, um die sogenannte „Volksgemeinschaft“ zu sichern.
 
