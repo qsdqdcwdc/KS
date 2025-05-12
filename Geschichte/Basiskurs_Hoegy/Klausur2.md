@@ -103,7 +103,7 @@ Die NS-Ideologie basiert auf Rassismus, unterstützt durch Sozialderwinismus. So
 - **Antiliberalismus** bezeichnet eine ideologische Haltung, die sich gegen die zentralen Prinzipien des Liberalismus richtet, wie individuelle Freiheitsrechte, Rechtsstaatlichkeit, Pluralismus und Marktwirtschaft.
 - **Antipluralismus** bezeichnet eine politische Haltung, die die Vielfalt an Meinungen, Identitäten und Lebensentwürfen in einer Gesellschaft ablehnt oder als Bedrohung betrachtet.
 - **Expansionismus** bezeichnet eine politische oder militärische Strategie, bei der ein Staat bestrebt ist, seinen Einflussbereich durch territoriale Ausdehnungz zu vergrößern. 
-- **Lebensraum im Osten** ist eine Beschreibung von Gebieten außerhalb der deutschen Grenzen, vor allem im Norden, Mittel- und Osteuropa, die rechtlich auf die arische Volk das Recht hatte und die das arische Volk eröbern muss, um zu überleben.
+- **Lebensraum im Osten** ist eine Beschreibung von Gebieten außerhalb der deutschen Grenzen, vor allem im Norden, Mittel- und Osteuropa, auf die arische Volk das "Recht" hatte und die das arische Volk eröbern muss, um zu überleben.
 
 ### Nationalsozialistische Organisationen
 
