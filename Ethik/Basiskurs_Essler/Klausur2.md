@@ -10,7 +10,7 @@
 
 - **Verstandeswelt** beinhaltet hochrangige nicht sinnenbasierte mentale Operationen, die der Menschenhirn durchführt(rationales Denken, logische Schlussfolgerungen, moralische Urteile, ...) so wie ethische Konzepte(gute Wille, Talente des Geistes und Moralgesetz, ...) diese ethische Konzepte können nach Kant oben genannte mentale Operationen beeinflussen. Nach Kant wird Verstandeswelt nicht von der Sinneswelt beeinflusst und nur Menschen haben Zugang zu dem Verstandeswelt.
 
-- **Neigung** beschreibt eine Motivationsgrundlage für eine Handlung die nicht aus der Pflicht den moralischen Gesetz zu folgen resultiert sondern durch solche Motivatoren wie Egoismus, Lust, Freundschaft und weitere verursacht ist.
+- **Neigung** beschreibt eine Motivationsgrundlage für eine Handlung die nicht aus der Pflicht resultiert sondern durch solche Motivatoren wie Egoismus, Lust, Freundschaft und weitere verursacht ist.
 
 
 [^1]:  https://en.wikipedia.org/wiki/Deontology
