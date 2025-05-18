@@ -20,4 +20,6 @@
 
 - **Reich der Zwecke**: Nach Kant die systematische Verbindung verschiedener vernünftiger Wesen durch gemeinschaftliche objektive Gesetze, in der jedes sich selbst und alle anderen niemals bloß als Mittel, sondern jederzeit zugleich als Zweck behandelt.
 
+- eine Maxime ist eine generalisierte handlungsregelung die unter jeder Handlung steht
+
 [^1]:  https://en.wikipedia.org/wiki/Deontology
