@@ -3,8 +3,8 @@
 
 [Video](https://www.youtube.com/watch?v=q2Wky9MKw50) (weitergehend, optional)
 
-#### Persönliche Interpretation der kantischer Ethik (kann ihn wesentlichen Fash sein):
-Die Ethik von Kant basiert auf menschlichen Vernunft. Kant versteht darunter die Fähigkeit des Menschen, rational zu denken sowie allgemeine Prinzipien oder Handlungsregeln aufzustellen und diesen selbstbestimmten Prinzipien folgen (Im Gegensatz dazu handeln Tiere lediglich nach Instinkten und äußeren Reizen). Daraus folgt, dass Menschen über handlungs- und moral Autonomie besitzen. Deswegen soll die moralische Basis der Handlungen auf der Vernunft basieren und nicht auf der äußerlichen Autorität. In der Folge versucht Kant, ein moralisches Fundament für menschliches Handeln zu finden. Dabei untersucht er verschiedene Handlungsmotive wie Mut, Mitleid, Loyalität und andere persönliche Neigungen. Diese lehnt er jedoch ab, da sie nicht generalisierbar sind und ihre Addition an eine Handlung diese moralisch schlechter machen kann. Nach Kant bleibt daher nur eine moralisch richtige Motivation übrig: die Handlung aus Pflicht. Das bedeutet, dass man eine Handlung aus innerer Überzeugung vollzieht, weil sie einer Maxime folgt, die sowohl innerlich als auch äußerlich logisch konsistent und auf alle Menschen übertragbar ist. Ob die Maxime diese Eigenschaften besitzt kann man mit dem kategorischen Imperativ überprüfen. Wenn eine Handlung dem kategorischen Imperativ entspricht dann ist sie nicht obligatorisch sondern lediglich moralisch zulässig.
+#### Persönliche Interpretation der kantischer Ethik (kann ihn wesentlichen Falsch sein):
+Die Ethik von Kant basiert auf menschlichen Vernunft. Kant versteht darunter die Fähigkeit des Menschen, rational zu denken sowie allgemeine Prinzipien oder Handlungsregeln aufzustellen und diesen selbstbestimmten Prinzipien folgen (Im Gegensatz dazu handeln Tiere lediglich nach Instinkten und äußeren Reizen). Daraus folgt, dass Menschen über handlungs- und moral Autonomie besitzen. Deswegen soll die moralische Basis der Handlungen auf der Vernunft basieren und nicht auf der äußerlichen Autorität. In der Folge versucht Kant, ein moralisches Fundament für menschliches Handeln zu finden. Dabei untersucht er verschiedene Handlungsmotive wie Mut, Mitleid, Loyalität und andere persönliche Neigungen. Diese lehnt er jedoch ab, da sie nicht immer generalisierbar sind und ihre Addition an eine Handlung diese moralisch schlechter machen kann. Nach Kant bleibt daher nur eine moralisch richtige Motivation übrig: die Handlung aus Pflicht. Das bedeutet, dass man eine Handlung aus innerer Überzeugung vollzieht, weil sie einer Maxime folgt, die sowohl innerlich als auch äußerlich logisch konsistent und auf alle Menschen übertragbar ist. Ob die Maxime diese Eigenschaften besitzt kann man mit dem kategorischen Imperativ überprüfen. Wenn eine Handlung dem kategorischen Imperativ entspricht dann ist sie nicht obligatorisch sondern lediglich moralisch zulässig.
 
 
 ### Vokabular
@@ -28,7 +28,8 @@ Die Ethik von Kant basiert auf menschlichen Vernunft. Kant versteht darunter die
 - **Handlung aus Neigung** ist eine Handlung die durch Neigung also innere Triebe wie Emotionen, Egoismus und weitere provoziert wird, alle solche Handlungen sind unmoralisch.
 - **Pflichtgemäße Handlung** ist eine Handlung aus Neigung die dem kategorischen Imperativ nicht widerspricht, die ist trotzdem unmoralisch.
 - **Pflichtwidrige Handlung** ist eine Handlung aus Neigung die dem kategorischen Imperativ widerspricht, die ist unmoralisch. [Video: Handlung aus Pflicht, aus Neigung, Pflichtgemäße, Pflichtwidrige](https://www.youtube.com/watch?v=SLKDkxzv8VA)
-
+- **Zweck** ist irgendwas was selbst einen Wert hat.
+- **Mittel** ist irgendwas was zur Erreichung von dem Zweck dient.
 
 ### Errungenschaften von Kant
 - Kant vertritt die Ansicht, dass sowohl Sinneseindrücke als auch logische Schlussfolgerungen fehlerhaft sein können. Erkenntnis erfordert daher die Verbindung von sinnlicher Anschauung und begrifflicher Verarbeitung durch den Verstand. Deswegen hat Kant die Idee von Gott abgelehnt, weil Gott nicht durch die Sinne wahrgenommen werden kann.
