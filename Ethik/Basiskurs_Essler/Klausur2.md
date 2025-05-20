@@ -91,18 +91,24 @@ Eignen sich alle meine Maximen als allgemeingültige Regeln für das würdevolle
 # Der kategorische Imperativ als Moraltest (Maximentestverfahren)
 
 ### 1. Feststellung der konkreten **Handlung** (deskriptiv)
-Die Handlungssituation und die (moralisch zu prüfende) beabsichtigte Handlung:
+Beschreibung der Handlungssituation und die (moralisch zu prüfende) beabsichtigte Handlung.
 
 ### 2. **Formulierung der Handlungsmaxime**
-Der subjektive Handlungsgrundsatz (= Maxime), welcher der beabsichtigten Handlung zugrunde liegt, in der Form  „Immer wenn …, dann werde ich …“
+Der subjektive Handlungsgrundsatz (= Maxime), welcher der beabsichtigten Handlung zugrunde liegt, in der Form  „Immer wenn …, dann werde ich …“ formulieren.
 
 ### 3. **Verallgemeinerung** (Universalisierung) der Handlungsmaxime
-(Hypothetische) Verallgemeinerung der subjektiven Handlungsmaxime zu einem objektiv (allgemein, für alle) gültigen Handlungsgesetz
+(Hypothetische) Verallgemeinerung der subjektiven Handlungsmaxime zu einem objektiv (allgemein, für alle) gültigen Handlungsgesetz.
 
 ### 4. Moralische Beurteilung der Maxime
 
-1. Kann ich die Verallgemeinerung widerspruchsfrei **denken** → vollkommene Pflicht (= uneingeschränkte, unbedingte Pflicht, nach der Maxime zu handeln)
-2. Kann ich die Verallgemeinerung widerspruchsfrei **wollen** → unvollkommene Pflicht (= eingeschränkte, bedingte Pflicht, nach der Maxime zu handeln)
+1. Kann ich die Verallgemeinerung widerspruchsfrei **denken**: Führt die Universalisierung zu einem logischen Widerspruch oder zur Selbstaufhebung der Handlung?  
+2. Kann ich die Verallgemeinerung widerspruchsfrei **wollen**: Kann ein vernünftiges Wesen wollen, dass die verallgemeinerte Maxime Prinzip allen Handelns wird?  
+
+<!---
+→ vollkommene Pflicht (= uneingeschränkte, unbedingte Pflicht, nach der Maxime zu handeln)
+
+→ unvollkommene Pflicht (= eingeschränkte, bedingte Pflicht, nach der Maxime zu handeln)
+-->
 
 ### Beispiel:
 1. **Feststellung der konkreten Handlung:** Ein anderer sieht sich durch Not gedrungen, Geld zu borgen, von dem er weiß, dass er es nie zurückzahlen kann.
