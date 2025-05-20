@@ -58,7 +58,6 @@ Oder: **Verallgemeinerungstest**:
 „Wäre es überhaupt logisch möglich, dass dies jeder täte?“  
 „Kann ich denken und wollen, dass alle in solchen Situationen so handeln wie ich?“
 
----
 
 ### Menschheits-Zweck-Formel:
 
@@ -76,7 +75,6 @@ Geht es in meiner Maxime auch um die Autonomie, also die Fähigkeit zur Selbstbe
 Oder **Test-2**
 Achte darauf, dass jede betroffene Person den Maxime zumindest theoretisch zustimmen könnte und dass alle Betroffenen aus gutem Willen handeln könnten. 
 
----
 
 ### Naturgesetz-Formel:
 
