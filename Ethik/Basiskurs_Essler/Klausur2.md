@@ -59,6 +59,9 @@ Oder **Egoismus-Test**:
 Geht es in meiner Maxime auch um die Autonomie, also die Fähigkeit zur Selbstbestimmung der anderen Beteiligten/Betroffenen der Handlung  
 (oder lediglich um meinen Nutzen, meine Interessen, meine Ziele)?
 
+Oder **Test-2**
+Achte darauf, dass jede betroffene Person den Maxime zumindest theoretisch zustimmen könnte und dass alle Betroffenen aus gutem Willen handeln könnten.
+
 ---
 
 ### Naturgesetz-Formel:
