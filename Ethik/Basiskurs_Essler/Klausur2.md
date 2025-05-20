@@ -9,7 +9,7 @@ Der Mensch besitzt über einen Verstand der durch die Sinne wahrgenommene Eindr�
 
 ### Vokabular
 - **Maximen** sind persönliche/subjektive Verallgemeinerungen von Handlungsplänen, wo alle spezifischen Details, wie konkrete Akteure, Ort und Zeit entfernt sind. Die können in Form von: „Immer wenn ..., dann werde ich ..." definiert werden. Alternativ kann man sagen Maxime ist ein Prinzip auf die Handlung von einer Person basiert.  [Video](https://www.youtube.com/watch?v=4iQ5e9xlBM0&list=PL-8LqflfXAW4UOxV-JdeBYVYU8zKFUIme&index=2)
-- **Vernunft** ist die Fähigkeit, nach allgemeinen Prinzipien/Regeln die hinter alle einzelnen Fällen stehen/(stehen sollen) zu fragen, allgemeine Prinzipien/Regeln zu erstellen und nach diesen selbst bestimmten Prinzipien/Regeln zu handeln. Ein vernünftiges Wesen kann auch nach eigenen Willen handeln
+- **Vernunft** ist die Fähigkeit, nach allgemeinen Prinzipien/Regeln die hinter alle einzelnen Fällen stehen/(stehen sollen) zu fragen, allgemeine Prinzipien/Regeln zu erstellen und nach diesen selbst bestimmten Prinzipien/Regeln zu handeln. Ein vernünftiges Wesen kann auch nach eigenen Willen handeln.
 - **Pflicht** ist die innere, vernunftbegründete Notwendigkeit, allein aus Respekt vor dem moralischen Gesetz zu handeln. 
 - Ein **gute Wille** die feste innere Haltung, nur aus Respekt vor dem moralischen Gesetz (also aus Pflicht) zu handeln. Nach dem Kant ist das gute Wille das Einzige, was an sich gut ist, und dessen Hinzufügung zu einer Handlung diese niemals moralisch schlechter macht. [Video](https://www.youtube.com/watch?v=Z5dmvJwAjJU&list=PL-8LqflfXAW4UOxV-JdeBYVYU8zKFUIme&index=5)
 - **Moralische Autonomie** ist die Fähigkeit des vernünftigen Willens, sich selbst Gesetze zu geben, denen er zugleich unterworfen ist. Sie besteht darin, dass das moralische Subjekt nicht fremden Autoritäten oder Neigungen folgt, sondern aus eigener Vernunft Maximen bildet, die als allgemeine Gesetze für alle vernünftigen Wesen gelten können.
@@ -32,7 +32,7 @@ Der Mensch besitzt über einen Verstand der durch die Sinne wahrgenommene Eindr�
 
 ### Errungenschaften von Kant
 - Kant vertritt die Ansicht, dass sowohl Sinneseindrücke als auch logische Schlussfolgerungen fehlerhaft sein können. Erkenntnis erfordert daher die Verbindung von sinnlicher Anschauung und begrifflicher Verarbeitung durch den Verstand. Deswegen hat Kant die Idee von Gott abgelehnt, weil Gott nicht durch die Sinne wahrgenommen werden kann.
-- 
+
 
 ### Zur Menschen
 Kant meint, dass Menschen über Vernunft, moralische Autonomie und Würde verfügen. Sie haben nach ihm einen unermesslichen Wert, der über allem anderen steht, da nur sie in der Lage sind, aus freiem Willen zu handeln, moralische Entscheidungen zu treffen und ihre Handlungen durch Vernunft zu leiten. Es sind die Menschen, die Wertungen vornehmen, und nur ihr gewissenhaftes Handeln besitzt moralischen Wert. Der Mensch überragt das Reich der Dinge. Menschen gehören zur Sinnenwelt, da sie natürliche Triebe und Neigungen haben, und zugleich zur Verstandeswelt, da sie über Verstand und Vernunft verfügen.
@@ -62,14 +62,14 @@ Oder: **Verallgemeinerungstest**:
 **„Handle so, dass du die Menschheit sowohl in deiner Person, als in der Person eines jeden anderen jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst.“**
 
 **Erläuterung:**  
-Diese Formel trägt der besonderen „Würde“ des Menschen Rechnung, der allein ein Zweck-an-sich ist, also durch nichts ersetzbar ist, weil er unermessbaren Wert hat.
+Einen Mensch nur als ein Mittel zu nutzen bedeutet den Mensch allein als ein Instrument für Zielerreichung zu verwenden. Diese Formel trägt der besonderen „Würde“ des Menschen Rechnung, der allein ein Zweck-an-sich ist, also durch nichts ersetzbar ist, weil er unermessbaren Wert hat. 
 
 Oder **Egoismus-Test**:  
 Geht es in meiner Maxime auch um die Autonomie, also die Fähigkeit zur Selbstbestimmung der anderen Beteiligten/Betroffenen der Handlung  
 (oder lediglich um meinen Nutzen, meine Interessen, meine Ziele)?
 
 Oder **Test-2**
-Achte darauf, dass jede betroffene Person den Maxime zumindest theoretisch zustimmen könnte und dass alle Betroffenen aus gutem Willen handeln könnten.
+Achte darauf, dass jede betroffene Person den Maxime zumindest theoretisch zustimmen könnte und dass alle Betroffenen aus gutem Willen handeln könnten. 
 
 ---
 
