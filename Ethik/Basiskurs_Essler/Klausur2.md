@@ -5,7 +5,6 @@
 
 Die Ethik von Kant basiert auf menschlichen Vernunft. Kant versteht darunter die Fähigkeit des Menschen, rational zu denken sowie allgemeine Prinzipien oder Handlungsregeln aufzustellen und diesen selbstbestimmten Prinzipien folgen (Im Gegensatz dazu handeln Tiere lediglich nach Instinkten und äußeren Reizen). Daraus folgt, dass Menschen über handlungs- und moral Autonomie besitzen. Deswegen soll die moralische Basis der Handlungen auf der Vernunft basieren und nicht auf der äußerlichen Autorität. In der Folge versucht Kant, ein moralisches Fundament für menschliches Handeln zu finden. Dabei untersucht er verschiedene Handlungsmotive wie Mut, Mitleid, Loyalität und andere persönliche Neigungen. Diese lehnt er jedoch ab, da sie nicht generalisierbar sind und ihre Addition an eine Handlung diese moralisch schlechter machen kann. Nach Kant bleibt daher nur eine moralisch richtige Motivation übrig: die Handlung aus Pflicht. Das bedeutet, dass man eine Handlung aus innerer Überzeugung vollzieht, weil sie einer Maxime folgt, die sowohl innerlich als auch äußerlich logisch konsistent und auf alle Menschen übertragbar ist. Ob die Maxime diese Eigenschaften besitzt kann man mit dem kategorischen Imperativ überprüfen.
 
-Der Mensch besitzt über einen Verstand der durch die Sinne wahrgenommene Eindrücke vergleicht, verknüpft, trennt, zur Erkenntnissen verarbeitet und Urteile erstellt.
 
 ### Vokabular
 - **Maximen** sind persönliche/subjektive Verallgemeinerungen von Handlungsplänen, wo alle spezifischen Details, wie konkrete Akteure, Ort und Zeit entfernt sind. Die können in Form von: „Immer wenn ..., dann werde ich ..." definiert werden. Alternativ kann man sagen Maxime ist ein Prinzip auf die Handlung von einer Person basiert.  [Video](https://www.youtube.com/watch?v=4iQ5e9xlBM0&list=PL-8LqflfXAW4UOxV-JdeBYVYU8zKFUIme&index=2)
@@ -35,7 +34,10 @@ Der Mensch besitzt über einen Verstand der durch die Sinne wahrgenommene Eindr�
 
 
 ### Zur Menschen
-Kant meint, dass Menschen über Vernunft, moralische Autonomie und Würde verfügen. Sie haben nach ihm einen unermesslichen Wert, der über allem anderen steht, da nur sie in der Lage sind, aus freiem Willen zu handeln, moralische Entscheidungen zu treffen und ihre Handlungen durch Vernunft zu leiten. Es sind die Menschen, die Wertungen vornehmen, und nur ihr gewissenhaftes Handeln besitzt moralischen Wert. Der Mensch überragt das Reich der Dinge. Menschen gehören zur Sinnenwelt, da sie natürliche Triebe und Neigungen haben, und zugleich zur Verstandeswelt, da sie über Verstand und Vernunft verfügen.
+- Kant meint, dass Menschen über Vernunft, moralische Autonomie und Würde verfügen. Sie haben nach ihm einen unermesslichen Wert, der über allem anderen steht, da nur sie in der Lage sind, aus freiem Willen zu handeln, moralische Entscheidungen zu treffen und ihre Handlungen durch Vernunft zu leiten.
+- Es sind die Menschen, die Wertungen vornehmen, und nur ihr gewissenhaftes Handeln besitzt moralischen Wert. Der Mensch überragt das Reich der Dinge.
+- Menschen gehören zur Sinnenwelt, da sie natürliche Triebe und Neigungen haben, und zugleich zur Verstandeswelt, da sie über Verstand und Vernunft verfügen.
+- Der Mensch besitzt über einen Verstand der durch die Sinne wahrgenommene Eindrücke vergleicht, verknüpft, trennt, zur Erkenntnissen verarbeitet und Urteile erstellt.
 
 ## Die drei Fassungen des Kategorischen Imperativs 
 
