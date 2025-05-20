@@ -24,6 +24,10 @@ Der Mensch besitzt über einen Verstand der durch die Sinne wahrgenommene Eindr�
 - Der **kategorische Imperativ** ist ein moralisches Prinzip, das besagt, dass man nur nach derjenigen Maxime handeln soll, von der man wollen kann, dass sie ein allgemeines Gesetz wird. Er gilt unbedingt und unabhängig von persönlichen Zielen oder Wünschen.
 - **Sittengesetz**/moralisches Gesetz: allgemeines Objektives aus der Vernunft abgeleiteter Prinzip.
 - **a priori**: von vornherein.
+- **Handlung aus Pflicht** ist eine Handlung vor wir absichtlich durch Vernunft eine Maxime folgen die dem kategorischen Imperativ entspricht. Diese Handlung ist moralisch.
+- **Handlung aus Neigung** ist eine Handlung die durch Neigung also innere Triebe wie Emotionen, Egoismus und weitere provoziert wird, alle solche Handlungen sind unmoralisch.
+- **Pflichtgemäße Handlung** ist eine Handlung aus Neigung die dem kategorischen Imperativ nicht widerspricht, die ist trotzdem unmoralisch.
+- **Pflichtwidrige Handlung** ist eine Handlung aus Neigung die dem kategorischen Imperativ widerspricht, die ist unmoralisch. [Video: Handlung aus Pflicht, aus Neigung, Pflichtgemäße, Pflichtwidrige](https://www.youtube.com/watch?v=SLKDkxzv8VA)
 
 
 ### Errungenschaften von Kant
