@@ -55,6 +55,19 @@ Um bestimmen zu können, ob eine Maxime den oben genannten Kriterien entspricht 
 - Der Mensch besitzt über einen Verstand der durch die Sinne wahrgenommene Eindrücke vergleicht, verknüpft, trennt, zur Erkenntnissen verarbeitet und Urteile erstellt.
 
 
+### Dilema Situationen
+Eine ethische Dilema im kantischer Ethiken entsteht wenn zwei Pflichten kollidieren. Nach Kant kann es keine „echten“ Pflichtenkollisionen geben, weil eine moralische Pflicht per Definition eine objektiv‐notwendige Handlungsregel darstellt; zwei einander ausschließende Handlungen können also nicht beide notwendig sein. Scheinbar widersprechende Gebote löst Kant, indem er (1) die Maximen präzisiert und (2) perfekte vor imperfekten Pflichten priorisiert.
+
+1. Durch eine Präzisierung der Maxime lässt sich zeigen, dass nur diejenige Handlungsregel pflichtverbindlich ist, deren Verallgemeinerung ohne logischen Widerspruch möglich bleibt. Im berühmten Axtmörder-Szenario ersetzt der Kantianer deshalb die Maxime „Lüge, um das Opfer zu retten“ durch „Verweigere dem Gewalttäter jede Auskunft“, womit die Pflicht zur Wahrhaftigkeit gewahrt bleibt und der Freund dennoch geschützt wird.
+2. Treffen eine vollkommene Pflicht und eine unvollkommene Pflicht aufeinander, hat die vollkommene immer Vorrang. Habe ich daher zugleich versprochen, morgen als Zeuge wahrheitsgemäß auszusagen und meine kranke Mutter zu besuchen, bindet mich zuerst die Aussage-Pflicht, während der Familienbesuch lediglich eine bleibende, aber nicht absolute moralische Empfehlung ist. 
+
+### Kritik
+- Benjamin Constant legte den berühmten Berühmte Fall des Mörders an der Tür: Wer einen Verfolgten versteckt, dürfe doch aus Menschenliebe lügen. Kant antwortete, dass die Pflicht zur Wahrheit uneingeschränkt gelte; selbst eine Notlüge mache uns für unvorhersehbare Folgen mitverantwortlich und unterminiere das Rechtssystem. Kritiker sehen darin fehlende Konfliktlösung zwischen absoluten Pflichten (Lebensschutz vs. Wahrhaftigkeit).
+- Kategorische Imperativ sei letztlich nur eine Logik des Widerspruchs er nenne keine konkreten Zwecke oder Werte und könne daher reale moralische Fragen nicht beantworten.
+- Viele sehen Mitleid als Wurzel moralisches Handeln Kantische Ethik ignoriert aber diese.
+
+
+
 ## Die drei Fassungen des Kategorischen Imperativs 
 
 Der KI dient dem Test von Maximen (subjektiven Handlungsgrundsätzen), ob Handlungen moralisch erlaubt sind oder nicht, nicht aber dafür, ob bestimmte Handlungen moralisch geboten sind. D.h., das Maximentestverfahren des KI fungiert lediglich als Ausschlussverfahren: Alle Maximen, die den Test nicht bestehen, sollen nicht befolgt werden; alle anderen dürfen befolgt werden. So entsteht ein großer Raum des moralisch Erlaubten mit subjektiven Ermessensspielräumen für einzelne Handlungen. Kant stellt drei verschiedene auf der Grundformel basierende Fassungen des KI auf, die beim Test von Maximen alle zum selben Ergebnis führen (sollen), aber unterschiedliche Akzente setzen.
