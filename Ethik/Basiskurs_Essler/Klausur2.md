@@ -41,7 +41,7 @@ Um bestimmen zu können, ob eine Maxime den oben genannten Kriterien entspricht 
 - **Pflichtwidrige Handlung** ist eine Handlung aus Neigung die dem kategorischen Imperativ widerspricht, die ist unmoralisch. [Video: Handlung aus Pflicht, aus Neigung, Pflichtgemäße, Pflichtwidrige](https://www.youtube.com/watch?v=SLKDkxzv8VA)
 - **Zweck** ist irgendwas was selbst einen Wert hat.
 - **Mittel** ist irgendwas was zur Erreichung von dem Zweck dient.
-- **vollkommene Pflicht** liegt vor, wenn die zugrunde liegende Maxime schon im Gedanken als allgemeines Gesetz unmöglich ist, sie erzeugt einen „Widerspruch in der Vorstellung“ (contradictio in conceptione). Solche Pflichten gelten ohne Ausnahme und verbieten oder gebieten eine Handlung strikt, etwa das Verbot, lügenhafte Versprechen zu machen. [Video](https://www.youtube.com/watch?v=dXPCDLbG5d4)
+- **vollkommene Pflicht** liegt vor, wenn die zugrunde liegende Maxime schon im Gedanken als allgemeines Gesetz unmöglich ist, sie erzeugt einen „Widerspruch in der Vorstellung“ (contradictio in conceptione). Solche Pflichten gelten ohne Ausnahme und verbieten oder gebieten eine Handlung strikt, etwa das Verbot, lügenhafte Versprechen zu machen. [Video](https://www.youtube.com/watch?v=VKLDHOWnDrc)
 - **unvollkommene Pflicht** entsteht, wenn man die Maxime zwar denken, aber nicht vernünftigerweise als allgemeines Gesetz wollen kann, sie führt zu einem „Widerspruch im Wollen“ (contradictio in voluntate). Diese Pflichten verpflichten zu bestimmten Zielen (z. B. Wohltätigkeit), lassen aber Spielraum, wie, wann und in welchem Ausmaß man sie erfüllt. 
 
 ### Errungenschaften von Kant
