@@ -130,6 +130,12 @@ Der subjektive Handlungsgrundsatz (= Maxime), welcher der beabsichtigten Handlun
 # Freicheit
 [Video](https://www.youtube.com/watch?v=mxwfpW4OH44)
 
+``` mathematica
+Negative  →  Willensfreiheit   → Wahlfreiheit → Handlungsfreiheit
+    |             ↑                    ↑
+    └ → Positive Freiheit ─────────────┘
+```
+
 
 ### Positive Freiheit und Negative Freiheit
 
@@ -139,17 +145,16 @@ Der subjektive Handlungsgrundsatz (= Maxime), welcher der beabsichtigten Handlun
 - **Positive Freiheit** beschreibt die Fähigkeit, selbstbestimmt zu handeln und die eigenen Ziele tatsächlich verwirklichen zu können. Die Freiheit, etwas tun zu können, nicht nur zu dürfen. Sie wird als "Freiheit zu" verstanden und umfasst die inneren Voraussetzungen und äußeren Möglichkeiten, die es einer Person erlauben, ihr Leben eigenverantwortlich zu gestalten.
 - **Beilspiel-1:** Als die Sklaven in Amerika befreit wurden, erhielten sie negative Freiheit. Das heißt, sie durften nach der Befreiung tun, was sie wollten. Positive Freiheit hatten sie jedoch kaum, denn sie verfügten weder über Bildung noch über einen Beruf oder Eigentum. Deshalb war es für sie sehr schwierig, eigene Ziele tatsächlich verwirklichen zu können.
 
-### Willensfreiheit und Handlungsfreiheit
+### Willensfreiheit, Wahlfreiheit und Handlungsfreiheit
 - **Willensfreiheit** ist die Fähigkeit, den eigenen Willen selbstbestimmt zu formen, also unabhängig von inneren (Trieben, Ängsten oder Abhängigkeiten) oder äußeren Einflüssen Entscheidungen zu treffen.
-- **Handlungsfreiheit** bedeutet die äußere Möglichkeit, das zu tun oder zu unterlassen, was man will also frei von äußeren Zwängen wie Gesetzen, Verboten oder physischer Gewalt.
+- **Wahlfreiheit** bezeichnet die Fähigkeit, zwischen verschiedenen Handlungsoptionen bewusst zu wählen. Sie setzt voraus, dass Alternativen vorhanden sind und der Entscheidungsprozess nicht durch äußere Zwänge oder innere Einschränkungen beeinflusst wird. Für Wahlfreiheit braucht man positive und Willensfreiheit.
+- **Handlungsfreiheit** bedeutet die äußere Möglichkeit, das zu tun oder zu unterlassen, was man will also frei von äußeren Zwängen wie Gesetzen, Verboten oder physischer Gewalt. Für Handlungsfreiheit braucht man positive und negative Freiheit.
+
 - **Beilspiel-1:** Ein Mensch, der unter einer schweren Drogensucht leidet, kann keine Entscheidung treffen, mit dem Konsum aufzuhören, weil sein Wille von der Sucht bestimmt wird. In diesem Fall fehlt ihm die Willensfreiheit, da er seinen eigenen Willen nicht unabhängig von inneren Zwängen formen kann. Er besitzt jedoch Handlungsfreiheit, da er durch nichts Äußeres eingeschränkt wird.
 - **Beilspiel-2:** Eine Frau lebt in einem autoritären Staat, in dem es ihr gesetzlich verboten ist, ohne männliche Begleitung das Haus zu verlassen. Auch wenn sie über die Willensfreiheit verfügt, die Entscheidung zu treffen, allein spazieren zu gehen, fehlt ihr die Handlungsfreiheit, da sie durch äußere Zwänge daran gehindert wird.
 
 
----
-
 - **Freiheitsspielräume** bezeichnen die realen Handlungsmöglichkeiten, die Individuen in ihrer Lebenswelt zur Verfügung stehen, um selbstbestimmt Entscheidungen zu treffen und zu handeln. Diese Spielräume entstehen durch das Zusammenspiel von inneren und äußeren Faktoren, wie persönlichen Fähigkeiten, gesellschaftlichen Normen und institutionellen Rahmenbedingungen.
-- **Wahlfreiheit** bezeichnet die Fähigkeit, zwischen verschiedenen Handlungsoptionen bewusst zu wählen. Sie setzt voraus, dass Alternativen vorhanden sind und der Entscheidungsprozess nicht durch äußere Zwänge oder innere Einschränkungen beeinflusst wird.
 
 
 - **Naturalismus** ist eine Weltanschauung, die davon ausgeht, dass alle Phänomene, einschließlich mentaler und geistiger Vorgänge, vollständig durch die Naturwissenschaften erklärbar sind. 
