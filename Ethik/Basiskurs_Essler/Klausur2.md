@@ -78,39 +78,25 @@ Der KI dient dem Test von Maximen (subjektiven Handlungsgrundsätzen), ob Handlu
 
 **„Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.“**
 
-**Erläuterung:** Test auf logische Widerspruchsfreiheit bei Verallgemeinerung einer Maxime
-
-Oder: **Verallgemeinerungstest**:  
-„Wäre es überhaupt logisch möglich, dass dies jeder täte?“  
-„Kann ich denken und wollen, dass alle in solchen Situationen so handeln wie ich?“
-
+- **Verallgemeinerungstest**:  1. „Wäre es überhaupt logisch möglich, dass dies jeder täte?“ 2. „Kann ich denken und wollen, dass alle in solchen Situationen so handeln wie ich?“
 
 ### Menschheits-Zweck-Formel:
 
 [Video](https://www.youtube.com/watch?v=V-j1uKrN-aU&list=PLmH3H5AWQftCkvgGEqrjc5VuCMO1MoZ7J)
 
-**„Handle so, dass du die Menschheit sowohl in deiner Person, als in der Person eines jeden anderen jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst.“**
+**„Handle so, dass du die Menschheit, sowohl in deiner Person, als in der Person eines jeden andern,jederzeit zugleich als Zweck, niemals bloß als Mittel brauchest.“**
 
-**Erläuterung:**  
-Einen Mensch nur als ein Mittel zu nutzen bedeutet den Mensch allein als ein Instrument für Zielerreichung zu verwenden. Diese Formel trägt der besonderen „Würde“ des Menschen Rechnung, der allein ein Zweck-an-sich ist, also durch nichts ersetzbar ist, weil er unermessbaren Wert hat. 
-
-Oder **Egoismus-Test**:  
-Geht es in meiner Maxime auch um die Autonomie, also die Fähigkeit zur Selbstbestimmung der anderen Beteiligten/Betroffenen der Handlung  
-(oder lediglich um meinen Nutzen, meine Interessen, meine Ziele)?
-
-Oder **Test-2**
-Achte darauf, dass jede betroffene Person den Maxime zumindest theoretisch zustimmen könnte und dass alle Betroffenen aus gutem Willen handeln könnten. 
+- **Erläuterung:**  Einen Mensch nur als ein Mittel zu nutzen bedeutet den Mensch allein als ein Instrument für Zielerreichung zu verwenden. Diese Formel trägt der besonderen „Würde“ des Menschen Rechnung, der allein ein Zweck-an-sich ist, also durch nichts ersetzbar ist, weil er unermessbaren Wert hat. 
+- **Egoismus-Test**:  Geht es in meiner Maxime auch um die Autonomie, also die Fähigkeit zur Selbstbestimmung der anderen Beteiligten/Betroffenen der Handlung  (oder lediglich um meinen Nutzen, meine Interessen, meine Ziele)?
+- **Test-2** Achte darauf, dass jede betroffene Person den Maxime zumindest theoretisch zustimmen könnte und dass alle Betroffenen aus gutem Willen handeln könnten. 
 
 
 ### Naturgesetz-Formel:
 
 **„Handle so, dass alle Maximen aus eigener Gesetzgebung zu einem möglichen *Reich der Zwecke* als einem Reiche der Natur zusammenstimmen.“**
 
-**Erläuterung:**  
-Test auf logische Vereinbarkeit aller Maximen miteinander und mit der Autonomie, also der Fähigkeit zur Selbstbestimmung, aller anderen Menschen.
-
-Oder:  
-Eignen sich alle meine Maximen als allgemeingültige Regeln für das würdevolle, also selbstbestimmte, Zusammenleben aller Menschen?
+- **Erläuterung:**  Test auf logische Vereinbarkeit aller Maximen miteinander und mit der Autonomie, also der Fähigkeit zur Selbstbestimmung, aller anderen Menschen.
+-  **Test:** Eignen sich alle meine Maximen als allgemeingültige Regeln für das würdevolle, also selbstbestimmte, Zusammenleben aller Menschen?
 
 
 # Der kategorische Imperativ als Moraltest (Maximentestverfahren)
