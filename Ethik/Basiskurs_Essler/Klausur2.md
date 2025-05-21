@@ -137,4 +137,6 @@ Der subjektive Handlungsgrundsatz (= Maxime), welcher der beabsichtigten Handlun
 - **Positive Freiheit** beschreibt die Fähigkeit, selbstbestimmt zu handeln und die eigenen Ziele tatsächlich verwirklichen zu können. Die Freiheit, etwas tun zu können, nicht nur zu dürfen. 
 - **Beilspiel-1:** Als die Sklaven in Amerika befreit wurden, erhielten sie negative Freiheit. Das heißt, sie durften nach der Befreiung tun, was sie wollten. Positive Freiheit hatten sie jedoch kaum, denn sie verfügten weder über Bildung noch über einen Beruf oder Eigentum. Deshalb war es für sie sehr schwierig, eigene Ziele tatsächlich verwirklichen zu können.
 
-
+- **Naturalismus** ist eine philosophische Weltanschauung, die davon ausgeht, dass alle Phänomene, einschließlich mentaler und geistiger Vorgänge, vollständig durch die Naturwissenschaften erklärbar sind. 
+- **Willensfreiheit** bezeichnet die Fähigkeit eines Menschen, seinen eigenen Willen selbst zu bestimmen, unabhängig von inneren Zwängen wie Trieben oder äußeren Einflüssen. Sie liegt vor, wenn eine Person autonom entscheidet, alternative Handlungsmöglichkeiten hat und als Urheber ihrer Entscheidung gilt.
+- **Handlungsfreiheit** ist die Möglichkeit, das zu tun oder zu unterlassen, was man will, ohne durch äußere Zwänge oder Hindernisse daran gehindert zu werden. Sie setzt voraus, dass der Mensch seine Absichten in die Tat umsetzen kann, sofern keine äußeren Einschränkungen bestehen.
