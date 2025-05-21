@@ -137,3 +137,4 @@ Der subjektive Handlungsgrundsatz (= Maxime), welcher der beabsichtigten Handlun
 - **Positive Freiheit** beschreibt die Fähigkeit, selbstbestimmt zu handeln und die eigenen Ziele tatsächlich verwirklichen zu können. Die Freiheit, etwas tun zu können, nicht nur zu dürfen. 
 - **Beilspiel-1:** Als die Sklaven in Amerika befreit wurden, erhielten sie negative Freiheit. Das heißt, sie durften nach der Befreiung tun, was sie wollten. Positive Freiheit hatten sie jedoch kaum, denn sie verfügten weder über Bildung noch über einen Beruf oder Eigentum. Deshalb war es für sie sehr schwierig, eigene Ziele tatsächlich verwirklichen zu können.
 
+
