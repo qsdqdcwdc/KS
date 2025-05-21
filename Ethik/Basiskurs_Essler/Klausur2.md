@@ -126,3 +126,14 @@ Der subjektive Handlungsgrundsatz (= Maxime), welcher der beabsichtigten Handlun
 2. **Formulierung der Handlungsmaxime**: Immer wenn ich mich in Geldnot befinde, so will ich Geld borgen und versprechen es zurückzuzahlen, obwohl ich weiß, dass ich dies nicht können werde.
 3. **Verallgemeinerung**: Immer, wenn jemand sich in Geldnot befindet, borgt er sich Geld, obwohl er weiß, dass er es nicht zurückzahlen kann.
 4. **Moralische Beurteilung der Maxime**: Weder kann ich widerspruchsfrei denken noch wollen, dass falsche Versprechen zu geben ein allgemeines Handlungsgesetz würde, weil so die moralische Institution des Versprechens aufgehoben würde und die Möglichkeit überhaupt Versprechen zu geben, logisch unmöglich wäre. ich auf diese Weise zwei Dinge wollen würde, die einander ausschließen: Ich will zum einen ein falsches Versprechen geben und ich will zugleich, dass der andere mir mein Versprechen abnimmt.
+
+# Freicheit
+
+### Positive Freiheit und Negative Freiheit
+
+[Video](https://www.youtube.com/watch?v=pfhQhdA-zss)
+
+- **Negative Freiheit** bezeichnet die Abwesenheit äußerer Zwänge oder Einschränkungen durch andere Personen oder Institutionen. 
+- **Positive Freiheit** beschreibt die Fähigkeit, selbstbestimmt zu handeln und die eigenen Ziele tatsächlich verwirklichen zu können. Die Freiheit, etwas tun zu können, nicht nur zu dürfen. 
+- **Beilspiel-1:** Als die Sklaven in Amerika befreit wurden, erhielten sie negative Freiheit. Das heißt, sie durften nach der Befreiung tun, was sie wollten. Positive Freiheit hatten sie jedoch kaum, denn sie verfügten weder über Bildung noch über einen Beruf oder Eigentum. Deshalb war es für sie sehr schwierig, eigene Ziele tatsächlich verwirklichen zu können.
+
