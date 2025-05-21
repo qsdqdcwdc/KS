@@ -128,6 +128,8 @@ Der subjektive Handlungsgrundsatz (= Maxime), welcher der beabsichtigten Handlun
 4. **Moralische Beurteilung der Maxime**: Weder kann ich widerspruchsfrei denken noch wollen, dass falsche Versprechen zu geben ein allgemeines Handlungsgesetz würde, weil so die moralische Institution des Versprechens aufgehoben würde und die Möglichkeit überhaupt Versprechen zu geben, logisch unmöglich wäre. ich auf diese Weise zwei Dinge wollen würde, die einander ausschließen: Ich will zum einen ein falsches Versprechen geben und ich will zugleich, dass der andere mir mein Versprechen abnimmt.
 
 # Freicheit
+[Video](https://www.youtube.com/watch?v=mxwfpW4OH44)
+
 
 ### Positive Freiheit und Negative Freiheit
 
@@ -142,7 +144,10 @@ Der subjektive Handlungsgrundsatz (= Maxime), welcher der beabsichtigten Handlun
 - **Handlungsfreiheit** bedeutet die äußere Möglichkeit, das zu tun oder zu unterlassen, was man will also frei von äußeren Zwängen wie Gesetzen, Verboten oder physischer Gewalt.
 - **Beilspiel-1:** Ein Mensch, der unter einer schweren Drogensucht leidet, kann keine Entscheidung treffen, mit dem Konsum aufzuhören, weil sein Wille von der Sucht bestimmt wird. In diesem Fall fehlt ihm die Willensfreiheit, da er seinen eigenen Willen nicht unabhängig von inneren Zwängen formen kann. Er besitzt jedoch Handlungsfreiheit, da er durch nichts Äußeres eingeschränkt wird.
 - **Beilspiel-2:** Eine Frau lebt in einem autoritären Staat, in dem es ihr gesetzlich verboten ist, ohne männliche Begleitung das Haus zu verlassen. Auch wenn sie über die Willensfreiheit verfügt, die Entscheidung zu treffen, allein spazieren zu gehen, fehlt ihr die Handlungsfreiheit, da sie durch äußere Zwänge daran gehindert wird.
-  
+
+
+---
+
 - **Freiheitsspielräume** bezeichnen die realen Handlungsmöglichkeiten, die Individuen in ihrer Lebenswelt zur Verfügung stehen, um selbstbestimmt Entscheidungen zu treffen und zu handeln. Diese Spielräume entstehen durch das Zusammenspiel von inneren und äußeren Faktoren, wie persönlichen Fähigkeiten, gesellschaftlichen Normen und institutionellen Rahmenbedingungen.
 - **Wahlfreiheit** bezeichnet die Fähigkeit, zwischen verschiedenen Handlungsoptionen bewusst zu wählen. Sie setzt voraus, dass Alternativen vorhanden sind und der Entscheidungsprozess nicht durch äußere Zwänge oder innere Einschränkungen beeinflusst wird.
 
