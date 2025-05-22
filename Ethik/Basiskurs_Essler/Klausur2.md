@@ -167,6 +167,7 @@ Negative   ────→  Wahlfreiheit → Handlungsfreiheit
 - **Inkompatibilismus**: Willensfreiheit ist nicht mit Determinismus vereinbar.
 - **Kompatibilismus**: Willensfreiheit ist mit Determinismus vereinbar.
 - **Anthropologie** ist die Wissenschaft vom Menschen, die sich mit seiner biologischen Entwicklung, kulturellen Vielfalt und sozialen Organisation in Vergangenheit und Gegenwart beschäftigt. Sie vereint Erkenntnisse aus Natur-, Sozial- und Geisteswissenschaften.
+- Determinismus
 
 ##  Faktoren, die menschliches Handeln beeinflussen
 
