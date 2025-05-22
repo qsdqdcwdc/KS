@@ -207,3 +207,6 @@ Kant betrachtet den Menschen als ein Wesen mit Vernunft und moralischem Potenzia
 ### Peter Bieri
 Peter Bieri versteht den Menschen als neugieriges, narratives Wesen, das seine Identität im Dialog mit der Welt selbst hervorbringt, statt bloß Fertigkeiten zu erwerben. Bildung bedeutet für ihn nicht Wissenstürme zu stapeln, sondern die Verfeinerung von Wahrnehmung, Sprache und Urteilskraft, um innere Freiheit zu gewinnen. Ziel ist ein Leben in Autonomie und Würde, in dem man aus selbstgewählten Gründen handelt und zugleich empathisch auf andere reagieren kann. Daher empfiehlt Bieri, Literatur langsam und offen zu lesen – etwa einen Roman mehrfach auf sich wirken zu lassen –, damit sie die Vorstellungskraft vertieft und moralische Sensibilität schärft.
 
+### Libet Experiment
+[Video](https://www.youtube.com/watch?v=eW7du1s128E)
+
