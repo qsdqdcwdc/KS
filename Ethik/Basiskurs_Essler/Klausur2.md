@@ -130,12 +130,15 @@ Der subjektive Handlungsgrundsatz (= Maxime), welcher der beabsichtigten Handlun
 # Freicheit
 [Video](https://www.youtube.com/watch?v=mxwfpW4OH44)
 
+<!---
 ``` mathematica
-Negative  →  Willensfreiheit   → Wahlfreiheit → Handlungsfreiheit
-    |             ↑                    ↑
-    └ → Positive Freiheit ─────────────┘
+                 Willensfreiheit
+                       ↓
+Negative   ────→  Wahlfreiheit → Handlungsfreiheit
+    │                ↓    ↑
+    └─────────→ Positive Freiheit
 ```
-
+-->
 
 ### Positive Freiheit und Negative Freiheit
 
@@ -153,8 +156,46 @@ Negative  →  Willensfreiheit   → Wahlfreiheit → Handlungsfreiheit
 - **Beilspiel-1:** Ein Mensch, der unter einer schweren Drogensucht leidet, kann keine Entscheidung treffen, mit dem Konsum aufzuhören, weil sein Wille von der Sucht bestimmt wird. In diesem Fall fehlt ihm die Willensfreiheit, da er seinen eigenen Willen nicht unabhängig von inneren Zwängen formen kann. Er besitzt jedoch Handlungsfreiheit, da er durch nichts Äußeres eingeschränkt wird.
 - **Beilspiel-2:** Eine Frau lebt in einem autoritären Staat, in dem es ihr gesetzlich verboten ist, ohne männliche Begleitung das Haus zu verlassen. Auch wenn sie über die Willensfreiheit verfügt, die Entscheidung zu treffen, allein spazieren zu gehen, fehlt ihr die Handlungsfreiheit, da sie durch äußere Zwänge daran gehindert wird.
 
-
+--- 
 - **Freiheitsspielräume** bezeichnen die realen Handlungsmöglichkeiten, die Individuen in ihrer Lebenswelt zur Verfügung stehen, um selbstbestimmt Entscheidungen zu treffen und zu handeln. Diese Spielräume entstehen durch das Zusammenspiel von inneren und äußeren Faktoren, wie persönlichen Fähigkeiten, gesellschaftlichen Normen und institutionellen Rahmenbedingungen.
+- **Freiwilligkeit**: Eine Handlung gilt als freiwillig, wenn sie ohne Zwang geschieht. Sie stimmt dann mit dem eigenen, aktuell empfundenen Willen überein.
+- **Würde des Menschen**: die Fähigkeit, autonom, d. h. nach selbst gewählten Grundsätzen, zu handeln.
 
+---
 
 - **Naturalismus** ist eine Weltanschauung, die davon ausgeht, dass alle Phänomene, einschließlich mentaler und geistiger Vorgänge, vollständig durch die Naturwissenschaften erklärbar sind. 
+- **Inkompatibilismus**: Willensfreiheit ist nicht mit Determinismus vereinbar.
+- **Kompatibilismus**: Willensfreiheit ist mit Determinismus vereinbar.
+
+
+##  Faktoren, die menschliches Handeln beeinflussen
+
+[Video](https://www.youtube.com/watch?v=CokrImCr3IA)
+
+Unsere Entscheidungen entstehen durch ein Zusammenspiel aus biologischen, psychischen und sozialen Faktoren. Unsere Gene, Hormone und Botenstoffe bestimmen, was unser Gehirn grundsätzlich kann. Gefühle, Persönlichkeit und Denkmuster machen daraus unsere persönlichen Vorlieben. 
+Schließlich beeinflusst uns unsere Umgebung Dinge wie Kultur, Freunde, sozioökonomischer Status und Medienumgebung.
+
+### Biologische Faktoren
+- **Genetische Prädisposition:** Variationen beeinflussen Fairness- und Risikopräferenzen, weil sie die Dopaminrezeptordichte verändern. Träger des DRD4-4/4-Genotyps fordern im Ultimatumspiel deutlich höhere Angebote als andere Genotypen.
+- **Cortisol (Stresshormon):** Akuter Stress steigert Cortisol und fördert risikofreudige Wahlstrategien, besonders bei Gewinnen. *Beispiel:* In Risikospielen trafen Responder mit höheren cortisol-spiegeln mehr riskante Entscheidungen als Kontrollgruppen.
+- **Drogen:** Die Einnahme von Medikamenten beeinflusst das Verhalten Muster von Menschen, z.B. führt Einnahme von manchen Steroidentypen zu erhöhten Testosteron-Spiegel und höheren Aggressivität in den Patienten.
+- **Gehirnreifung & Alter:** Unvollständig entwickelte präfrontale Netzwerke bei Jugendlichen verschieben die Balance zu schneller Belohnung und erhöhter Risikobereitschaft.
+
+### Psychische Faktoren
+- **Emotionale Zustände:** Gefühle liefern schnelle somatische Marker, die Optionen vorsortieren und Motivation erzeugen. *Beispiel:* Wut kann eine riskante Investition trotz negativer Fakten attraktiver erscheinen lassen.
+- **Kognitive Verzerrungen** Heuristiken wie Framing verformen Wahrscheinlichkeitsabschätzungen systematisch. *Beispiel:* Dieselbe Behandlung wird häufiger akzeptiert, wenn sie als „90 % Überlebensrate“ statt „10 % Sterblichkeit“ präsentiert wird.
+- **Persönlichkeit (Big Five)** Traits wie Neurotizismus oder Gewissenhaftigkeit korrelieren mit spezifischen Entscheidungsstilen (z. B. Vermeidung vs. rationales Abwägen). *Beispiel:* In einer Studie zeigten hoch gewissenhafte Medizinstudierende signifikant öfter einen rational-analytischen Stil.
+- **Erlernte Erfahrungs­muster (psychisch)**  Der Gehirn verknüpft vergangene Erfahrungen mit aktuellen Situationen und bietet erprobte Handlungs­strategien an. Wer im Straßen­verkehr schon einmal geblitzt wurde, bremst künftig frühzeitig an bekannten Radar­stellen. 
+
+### Soziale Faktoren
+- **Kulturelle Normen** Werte- und Normsysteme bestimmen, welche Handlungen als moralisch erlaubt, verboten oder erwartet gelten.  *Beispiel:* In ostasiatischen Stichproben wurden utilitaristische Opferhandlungen häufiger abgelehnt als in US-Stichproben.
+- **Peer-Pressure** Soziale Beobachtung und explizite Gruppenerwartungen können Risikobereitschaft oder Konformität drastisch erhöhen. *Beispiel:* Jugendliche fahren im Fahrsimulator riskanter, sobald Freunde zuschauen.
+- **Sozioökonomischer Status & Scarcity** Finanzielle Knappheit bindet kognitive Ressourcen („bandwidth“) und führt zu kurzfristigen, oft suboptimalen Entscheidungen. *Beispiel:* Personen unter Armutsstress zeigen stärkere Zeitpräferenz und nehmen Hochzins-Kredite eher an.
+- **Mediale Rahmung (sozial):** Medien­framing betont bestimmte Aspekte einer Situation und lenkt damit die Wahrnehmung von Risiken und Chancen. Wird ein Gesundheits­programm als „Lebensretter“ statt als „Kostenfaktor“ präsentiert, stimmen Bürger*innen eher zu. 
+
+
+
+
+
+
+
