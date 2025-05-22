@@ -166,7 +166,7 @@ Negative   ────→  Wahlfreiheit → Handlungsfreiheit
 - **Naturalismus** ist eine Weltanschauung, die davon ausgeht, dass alle Phänomene, einschließlich mentaler und geistiger Vorgänge, vollständig durch die Naturwissenschaften erklärbar sind. 
 - **Inkompatibilismus**: Willensfreiheit ist nicht mit Determinismus vereinbar.
 - **Kompatibilismus**: Willensfreiheit ist mit Determinismus vereinbar.
-
+- **Anthropologie** ist die Wissenschaft vom Menschen, die sich mit seiner biologischen Entwicklung, kulturellen Vielfalt und sozialen Organisation in Vergangenheit und Gegenwart beschäftigt. Sie vereint Erkenntnisse aus Natur-, Sozial- und Geisteswissenschaften.
 
 ##  Faktoren, die menschliches Handeln beeinflussen
 
@@ -186,6 +186,8 @@ Schließlich beeinflusst uns unsere Umgebung Dinge wie Kultur, Freunde, sozioök
 - **Kognitive Verzerrungen** Heuristiken wie Framing verformen Wahrscheinlichkeitsabschätzungen systematisch. *Beispiel:* Dieselbe Behandlung wird häufiger akzeptiert, wenn sie als „90 % Überlebensrate“ statt „10 % Sterblichkeit“ präsentiert wird.
 - **Persönlichkeit (Big Five)** Traits wie Neurotizismus oder Gewissenhaftigkeit korrelieren mit spezifischen Entscheidungsstilen (z. B. Vermeidung vs. rationales Abwägen). *Beispiel:* In einer Studie zeigten hoch gewissenhafte Medizinstudierende signifikant öfter einen rational-analytischen Stil.
 - **Erlernte Erfahrungs­muster (psychisch)**  Der Gehirn verknüpft vergangene Erfahrungen mit aktuellen Situationen und bietet erprobte Handlungs­strategien an. Wer im Straßen­verkehr schon einmal geblitzt wurde, bremst künftig frühzeitig an bekannten Radar­stellen. 
+- **Reduktionismus** ist die philosophische Annahme, dass komplexe Phänomene vollständig durch die Zerlegung in einfachere, grundlegende Bestandteile und deren Gesetzmäßigkeiten erklärt werden können. Er geht davon aus, dass sich höhere Ebenen der Realität – etwa das Bewusstsein oder soziale Strukturen – vollständig auf physikalische oder biologische Prozesse zurückführen lassen.
+
 
 ### Soziale Faktoren
 - **Kulturelle Normen** Werte- und Normsysteme bestimmen, welche Handlungen als moralisch erlaubt, verboten oder erwartet gelten.  *Beispiel:* In ostasiatischen Stichproben wurden utilitaristische Opferhandlungen häufiger abgelehnt als in US-Stichproben.
@@ -203,3 +205,4 @@ Kant betrachtet den Menschen als ein Wesen mit Vernunft und moralischem Potenzia
 
 ### Peter Bieri
 Peter Bieri versteht den Menschen als neugieriges, narratives Wesen, das seine Identität im Dialog mit der Welt selbst hervorbringt, statt bloß Fertigkeiten zu erwerben. Bildung bedeutet für ihn nicht Wissenstürme zu stapeln, sondern die Verfeinerung von Wahrnehmung, Sprache und Urteilskraft, um innere Freiheit zu gewinnen. Ziel ist ein Leben in Autonomie und Würde, in dem man aus selbstgewählten Gründen handelt und zugleich empathisch auf andere reagieren kann. Daher empfiehlt Bieri, Literatur langsam und offen zu lesen – etwa einen Roman mehrfach auf sich wirken zu lassen –, damit sie die Vorstellungskraft vertieft und moralische Sensibilität schärft.
+
