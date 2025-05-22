@@ -193,9 +193,13 @@ Schließlich beeinflusst uns unsere Umgebung Dinge wie Kultur, Freunde, sozioök
 - **Sozioökonomischer Status & Scarcity** Finanzielle Knappheit bindet kognitive Ressourcen („bandwidth“) und führt zu kurzfristigen, oft suboptimalen Entscheidungen. *Beispiel:* Personen unter Armutsstress zeigen stärkere Zeitpräferenz und nehmen Hochzins-Kredite eher an.
 - **Mediale Rahmung (sozial):** Medien­framing betont bestimmte Aspekte einer Situation und lenkt damit die Wahrnehmung von Risiken und Chancen. Wird ein Gesundheits­programm als „Lebensretter“ statt als „Kostenfaktor“ präsentiert, stimmen Bürger*innen eher zu. 
 
+## Bildungsverständnisse
 
+### John Locke
+John Locke sieht den Menschen als ein unbeschriebenes Blatt („tabula rasa“), das durch Erfahrung und Erziehung geformt wird. Erziehung und Bildung sollen Vernunft und Tugend fördern, um ein freies und verantwortungsbewusstes Individuum zu formen. Ziel ist es, den Menschen zur Selbstständigkeit und zum rationalen Handeln zu erziehen. Ein Beispiel ist Lockes Idee, dass Kinder durch praktische Erfahrung (Gartenarbeit) moralisches Verhalten und Disziplin lernen sollen.
 
+### Immanuel Kant
+Kant betrachtet den Menschen als ein Wesen mit Vernunft und moralischem Potenzial, das jedoch erst durch Erziehung zur Reife gelangt. Bildung ist für ihn der Prozess, durch den der Mensch lernt, sich seines Verstandes ohne Anleitung eines anderen zu bedienen. Ziel ist die Entwicklung von Autonomie und moralischer Selbstbestimmung. 
 
-
-
-
+### Peter Bieri
+Peter Bieri versteht den Menschen als neugieriges, narratives Wesen, das seine Identität im Dialog mit der Welt selbst hervorbringt, statt bloß Fertigkeiten zu erwerben. Bildung bedeutet für ihn nicht Wissenstürme zu stapeln, sondern die Verfeinerung von Wahrnehmung, Sprache und Urteilskraft, um innere Freiheit zu gewinnen. Ziel ist ein Leben in Autonomie und Würde, in dem man aus selbstgewählten Gründen handelt und zugleich empathisch auf andere reagieren kann. Daher empfiehlt Bieri, Literatur langsam und offen zu lesen – etwa einen Roman mehrfach auf sich wirken zu lassen –, damit sie die Vorstellungskraft vertieft und moralische Sensibilität schärft.
