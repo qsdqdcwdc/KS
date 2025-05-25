@@ -1,4 +1,8 @@
-
+<p align="center">
+	<img src="Img/qr_klas4.png" width="250"  title="qr code">
+	<br>
+	<em>QR-Code scannen um dieses Dokument auf dem IPad zu öffnen</em>
+</p>
 
 # Лев Толстой
 
