@@ -5,6 +5,8 @@
 
 
 # Zusammenfassung
+[antikoerperchen.de](https://lyrik.antikoerperchen.de/corpus-delicti-zusammenfassung-kapitel-juli-zeh,text,891.html) 
+
 ## Vorwort S.7-8
 - Definition und Merkmale von Gesundheit aus dem Vorwort zu dem Buch von Feinrich Kramer.
 - „Gesundheit ist ein Zustand des vollkommenen körperlichen, geistigen und sozialen Wohlbefindens und nicht die bloße Abwesenheit von Krankheit.“ (S.7, Z.1ff)
