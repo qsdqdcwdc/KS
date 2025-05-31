@@ -5,7 +5,7 @@
 
 
 # Zusammenfassung
-[antikoerperchen.de](https://lyrik.antikoerperchen.de/corpus-delicti-zusammenfassung-kapitel-juli-zeh,text,891.html) 
+Zusammenfassung Kapitel: [antikoerperchen.de](https://lyrik.antikoerperchen.de/corpus-delicti-zusammenfassung-kapitel-juli-zeh,text,891.html) 
 
 ## Vorwort S.7-8
 - Definition und Merkmale von Gesundheit aus dem Vorwort zu dem Buch von Feinrich Kramer.
@@ -22,12 +22,14 @@
 - Kramer: „Das Auge der vierten Gewalt schläft nie." (S.16, Z.3)
 
 ## Pfeffer Z.20-24
-- Lizzie, Pollsche und Driss plaudern. Kramer kommt rein. Gespräch über Mia.
+- Lizzie, Pollsche und Driss plaudern. Kramer kommt rein. Gespräch über Mia und Wächterhäuser.
 
 ## Die ideale Geliebte Z.25-28
-- Mia spricht mit idealen Geliebten über Kunst, Ewigkeit, Moritz, seine Auffassung von Liebe. Sie schreibt ihre Erinnerungen von Moriz nieder. Mia zweifelt ob sie Moritz angemessen vermissen kann.
+- Mia trauert nach Moritz, spricht mit idealen Geliebten seine Auffassung von Kunst, Ewigkeit, Moritz, Liebe. Sie schreibt ihre Erinnerungen von Moriz nieder. 
 
-## Die ideale Geliebte Z.25-28
+## Eine hübsche Geste Z.29-32
+- Kramer besucht Mia. Mia macht Kramer schuldig für den Suizid von Moritz. Kramer argumentiert: „Kausalität ist keineswegs identisch mit Schuld." (S.32, Z.8). Mia bricht zusammen.
+
 
 ---
 - Umgebung und Aktionen im Gerichtssaal
