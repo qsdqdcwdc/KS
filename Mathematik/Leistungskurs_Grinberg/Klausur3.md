@@ -413,7 +413,7 @@ $$(1, 1, 1) \cdot ((x_1, x_2, x_3) - (1, 2, 3)) = 0$$
 
 [Video](https://studyflix.de/mathematik/koordinatenform-2403)
 
-Die **Koordinatenform** der Ebene ist eine algebraische Darstellung, die direkt aus der Normalenform abgeleitet wird, indem das Skalarprodukt ausmultipliziert und umgeformt wird. Sie lautet:
+Die **Koordinatenform** der Ebene ist eine algebraische Darstellung, die direkt aus der Normalenform abgeleitet ist. Sie lautet:
 
 $$a x_1 + b x_2 + c x_3 = d$$
 
@@ -425,8 +425,6 @@ $$a x_1 + b x_2 + c x_3 = d$$
 Die Koordinatenform der Ebene mit dem Normalenvektor $\vec{n} = (1, 1, 1)$ und dem Punkt $\vec{p} = (1, 2, 3)$ ist:
 
 $$1x_1 + 1x_2 + 1x_3 = 6$$
-
-Durch diese verschiedenen Formen der Gleichungen lassen sich Ebenen im Raum auf vielfältige Weise mathematisch beschreiben und untersuchen.
 
 ## Normalenvektor bestimmen
 [Video](https://studyflix.de/mathematik/normalenvektor-2431)
