@@ -1,0 +1,1 @@
+- video srashcourse nato, woldwar, west/east brocks: [link](https://www.youtube.com/watch?v=-rkIqtV07HE&list=PL8dPuuaLjXtMsMTfmRomkVQG8AqrAmJFX&index=42)
