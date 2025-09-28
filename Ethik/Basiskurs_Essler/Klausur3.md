@@ -1,6 +1,6 @@
-[Stoizism 3 min Zusamenfasung](https://www.youtube.com/watch?v=Rxzx5x7TY5M&t=1s)
-[Stanford Encyclopedia of Philosophy: Stoicism](https://plato.stanford.edu/archIves/spr2016/entries/stoicism/)
-[Internet Encyclopedia of Philosophy](https://iep.utm.edu/stoiceth/)
+- [Stoizism 3 min Zusamenfasung](https://www.youtube.com/watch?v=Rxzx5x7TY5M&t=1s)
+- [Stanford Encyclopedia of Philosophy: Stoicism](https://plato.stanford.edu/archIves/spr2016/entries/stoicism/)
+- [Internet Encyclopedia of Philosophy](https://iep.utm.edu/stoiceth/)
 
 Die Stoiker sehen die Welt als ein vernünftig geordnetes Ganzes (Logos). Der Mensch unterscheidet sich von allen anderen Lebewesen dadurch, dass er über Vernunft verfügt. Darum kann er nur dann ein wirklich zufriedenes und glückliches Leben führen, wenn er gemäß seiner Natur lebt und diese Natur ist vernünftig und sozial. Das heißt: seine Vernunft gebrauchen, die Tugenden (Weisheit, Gerechtigkeit, Tapferkeit, Maßhaltung) üben und seinen Mitmenschen gegenüber verantwortungsvoll handeln.
 
