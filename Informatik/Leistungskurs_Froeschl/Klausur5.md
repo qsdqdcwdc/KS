@@ -4,9 +4,8 @@ Inf-Schule.de: [Grundgatter](https://schuljahr.inf-schule.de/2019-20/rechner/dig
 
 <p align="center"><img src="Img/Gatter.png" width="1000"  title="Abb1:Gatter"></p>
 
-Die amerikanische Schreibweise braucht man nicht für Klausur und Albitur.
 
-### Mnemoniken für die deutsche Schaltplan Symbole:
+### Mnemoniken für die Schaltplan Symbole:
 | Gatter        | Symbol/Schreibweise       | Mnemonik                                      |
 |---------------|---------------------------|---------------------------------------------------------------|
 | UND-Gatter    | &                         | & = Und                                                       |
