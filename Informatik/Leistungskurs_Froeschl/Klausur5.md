@@ -20,7 +20,9 @@ Inf-Schule.de: [Grundgatter](https://schuljahr.inf-schule.de/2019-20/rechner/dig
 `UND (∧)` vor `ODER (∨)` / `XOR (⊕)`
 
 
-# Konjunktive Normalform
+# Manipulation von logischen Ausdruken 
+
+### Konjunktive Normalform
 Als **konjunktive Normalform (KNF)** wird in der Aussagenlogik eine bestimmte Form von Formeln bezeichnet. Vereinfacht gesagt handelt es sich um eine Reihe an (geklammerten) Oder-Termen, die nur aus eventuell negierten Variablen bestehen, und diese Oder-Terme sind wiederum mit Und-Verknüpfungen verbunden.
 
 Beilspiel:
