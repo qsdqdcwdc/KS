@@ -41,7 +41,7 @@ Beispiel für die kanonische disjunktive Normalform: `(¬A ∧ B ∧ ¬C) ∨ (A
 
 Für einen Algorithmus, wie man aus Wahrheitstabellen kanonische, disjunktive Normalform bildet, sehe erste 5 Minuten von diesem [Video](https://www.youtube.com/watch?v=2cgHa02s_SA).
 
-Woieso heißt das Zeug Normalform? - Sie heißt Normalform, weil sie eine standardisierte, eindeutig definierte/(normierte) Schreibweise für logische Formeln ist.
+Wieso heißt das Zeug Normalform? - Sie heißt Normalform, weil sie eine standardisierte, eindeutig definierte/(normierte) Schreibweise für logische Formeln ist.
 
 ### Konjunktive Normalform
 Als **konjunktive Normalform (KNF)** wird in der Aussagenlogik eine bestimmte Form von Formeln bezeichnet. Vereinfacht gesagt handelt es sich um eine Reihe an (geklammerten) Oder-Termen, die nur aus eventuell negierten Variablen bestehen, und diese Oder-Terme sind wiederum mit Und-Verknüpfungen verbunden.
