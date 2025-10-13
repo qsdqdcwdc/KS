@@ -98,3 +98,4 @@ Negation (De Morgan) Video: [De Morgan](https://www.youtube.com/watch?v=euW9JldG
 
 Video: [Beilspiele Simplifikation durch boolesche Algebra](https://www.youtube.com/watch?v=dLIfh2wj8Dk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=34)
 
+
