@@ -67,7 +67,7 @@ Eine minimierte Form einer Booleschen Formel ist eine zu ihr logisch äquivalent
 Typische Aufwandmaße sind z. B.: möglichst wenige Operatoren/Gatter, oder möglichst wenige Terme in einer gewählten Normalform (DNF bzw. KNF).
 
 ### KV-Diagramm
-KV-Diagramm ist eine visuelle Methode mit denen man logische Ausdrücke minimieren kann (Oft bildet man mit KV-Diagrammen eine minimierte disjuktive Normalform). Meistens benutzt für logische Ausdrücke mit vier oder weniger Aussagenvariablen. Für detaillierte Methodenbeschreibung und Beispiele sehe Video: [Karnaugh Maps – Introduction](https://www.youtube.com/watch?v=3vkMgTmieZI)
+KV-Diagramm ist eine visuelle Methode mit denen man logische Ausdrücke minimieren kann (Oft bildet man mit KV-Diagrammen eine minimierte disjuktive Normalform). Meistens benutzt für logische Ausdrücke mit vier oder weniger Aussagenvariablen. Für detaillierte Methodenbeschreibung sehe Video: [Karnaugh Maps – Introduction](https://www.youtube.com/watch?v=3vkMgTmieZI)
 
 ### Simplifikation durch boolesche Algebra
 
@@ -96,4 +96,5 @@ Negation (De Morgan) Video: [De Morgan](https://www.youtube.com/watch?v=euW9JldG
 - `(A * B)' = A' + B'`  
 - `(A + B)' = A' * B'`
 
+Video: [Beilspiele Simplifikation durch boolesche Algebra](https://www.youtube.com/watch?v=dLIfh2wj8Dk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=34)
 
