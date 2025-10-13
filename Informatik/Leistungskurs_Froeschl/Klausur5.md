@@ -39,16 +39,19 @@ Eine **kanonische disjunktive Normalform (KDNF)** beschreibt eine disjunktive No
 
 Beispiel für die kanonische disjunktive Normalform: `(¬A ∧ B ∧ ¬C) ∨ (A ∧ B ∧ C) ∨ (¬A ∧ ¬B ∧ C) ∨ (¬A ∧ ¬B ∧ ¬C)` (In diesem Fall beinhaltet die Aussage gesamt drei Aussagevariablen `A`, `B` und `C`. Und jeder der vier vorhandenen Konjunktionsterme beinhaltet alle Aussagevariablen.)
 
-Für einen Algorithmus, wie man aus Wahrheitstabellen kanonische, disjunktive Normalform bildet, sehe erste 5 Minuten von diesem [Video](https://www.youtube.com/watch?v=2cgHa02s_SA).
+Für einen Algorithmus, wie man aus Wahrheitstabellen kanonische disjunktive Normalform bildet, sehe erste 5 Minuten von diesem Video: [Conjunctive Normal Form (CNF) and Disjunctive Normal Form (DNF)
+](https://www.youtube.com/watch?v=2cgHa02s_SA).
 
-Wieso heißt das Zeug Normalform? - Sie heißt Normalform, weil sie eine standardisierte, eindeutig definierte/(normierte) Schreibweise für logische Formeln ist.
+Wieso heißt das Zeug Normalform? - Sie heißt **Normalform**, weil sie eine standardisierte, normierte Darstellungsweise für logische Formeln ist.
 
 ### Konjunktive Normalform
-Als **konjunktive Normalform (KNF)** wird in der Aussagenlogik eine bestimmte Form von Formeln bezeichnet. Vereinfacht gesagt handelt es sich um eine Reihe an (geklammerten) Oder-Termen, die nur aus eventuell negierten Variablen bestehen, und diese Oder-Terme sind wiederum mit Und-Verknüpfungen verbunden.
+Als **konjunktive Normalform (KNF)** wird in der Aussagenlogik eine bestimmte Form von Formeln bezeichnet. Es handelt sich um eine Reihe an geklammerten) Oder-Termen auch gennant Disjunktionstermen, die nur aus eventuell negierten Aussagenvariablen bestehen, und diese Oder-Terme/Disjunktionstermen sind wiederum mit Und-Verknüpfungen verbunden.
 
-Beilspiel:
-```
-(A ∨ ¬B ∨ ¬C) ∧ (A ∨ B ∨ ¬C) ∧ (¬A ∨ B ∨ C)
-```
+Beispiel für die konjunktive Normalform:  `(A ∨ ¬B ∨ C) ∧ (¬A ∨ B) ∧ (B ∨ ¬C)`
 
+Die **kanonische konjunktive Normalform (KKNF)** ist eine spezielle Form der KNF, in der jeder Disjunktionsterm alle in der Formel vorkommenden Aussagenvariablen enthält. Damit ist die KKNF für jede aussagenlogische Formel eindeutig bestimmbar.
 
+Beispiel für die kanonische konjunktive Normalform:  
+`(A ∨ B ∨ C) ∧ (A ∨ ¬B ∨ C) ∧ (¬A ∨ B ∨ ¬C) ∧ (¬A ∨ ¬B ∨ C)`
+
+Für einen Algorithmus, wie man aus Wahrheitstabellen kanonische Konjunktive Normalform bildet, sehe dieses Video ab 5 Minuten: [Conjunctive Normal Form (CNF) and Disjunctive Normal Form (DNF)](https://youtu.be/2cgHa02s_SA?si=z6zOmUrgBpog9pTQ&t=298)
