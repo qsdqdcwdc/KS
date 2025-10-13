@@ -107,7 +107,7 @@ Ein Alphabet **Σ** ist eine endliche Menge von Symbolen. Ein Alphabet **Σ** wi
 
 Eine **formale Sprache** **L** ist eine **Teilmengen** von **Σ\***,  für die ein Satz von **formalen Regeln** existiert, der eindeutig bestimmen kann, ob ein Wort zu **L** gehört oder nicht. (Die Bedingung der Existenz solcher **formalen Regeln** wird in vielen Quellen oft weggelassen, muss jedoch bei uns vorhanden sein.) 
 
-Eine formale Sprache kann durch eine Grammatik definiert werden. In unserem Fall verwenden wir Typ 2 Grammatik oder Kontextfreie Grammatik. Eine **kontextfreie Grammatik (KFG)** ist ein **Viertupel** (also eine geordnete Menge der Form): **G = (N, Σ, P, S)**
+Eine formale Sprache kann durch eine Grammatik definiert werden. In unserem Fall verwenden wir Typ 2 Grammatik oder Kontextfreie Grammatik. Eine **kontextfreie Grammatik (KFG)** ist ein **Viertupel** (also eine geordnete Menge der Form): **G = (V, Σ, P, S)**
 Dabei gilt:
 
 - **V** ist die endliche Menge der **Nichtterminalsymbole**.  
@@ -115,3 +115,7 @@ Dabei gilt:
 - **P** ist die Menge der **Produktionsregeln**.  
 - **S ∈ V** ist das **Startsymbol**.
 
+Bemerkungen zur Grammatik:
+
+- Das **Startsymbol S** ist keine Menge aus Symbolen, sondern ein einzelnes Symbol aus der Menge der Nichtterminalsymbole P.  
+- Die **Reihenfolge der Elemente** im Viertupel **G = (V, Σ, P, S)** ist wichtig.
