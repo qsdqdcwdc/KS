@@ -6,6 +6,12 @@
 
 1. <code>Aktualisieren Sie die Seite bei jedem Aufruf, um die neueste Version dieses Dokuments zu erhalten.</code>
 
+# Inhaltsangabe
+
+- [Logikgatter](#logikgatter)
+- [Konjunktion und Disjunktion](#konjunktion-und-disjunktion)
+- [Minimierung von logischen Ausdrücken.](#minimierung-von-logischen-ausdrücken)
+- [Formale Sprachen](#formale-sprachen)
 
 # Logikgatter
 
