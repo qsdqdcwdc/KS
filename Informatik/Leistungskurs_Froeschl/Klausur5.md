@@ -120,7 +120,7 @@ Bemerkungen zur Grammatik:
 - Das **Startsymbol S** ist keine Menge aus Symbolen, sondern ein einzelnes Symbol aus der Menge der Nichtterminalsymbole P.  
 - Die **Reihenfolge der Elemente** im Viertupel **G = (V, Σ, P, S)** ist wichtig.
 
-Syntax: Legt die formalen Regeln fest, welche Zeichenketten über einem Alphabet Σ als wohlgeformte Wörter/Sätze gelten. Die Syntax entscheidet über die Form, nicht über die Bedeutung. Syntaktische Fehler: Verletzen diese Regeln, sodass die Zeichenkette nicht wohlgeformt ist (z. B. fehlende Klammer).
+Syntax ist ein Regelwerk, der bestimmt, ob ein Wort zu der Sprache gehört oder nicht. Syntaktische Fehler: Verletzen diese Regeln, sodass die Zeichenkette nicht wohlgeformt ist (z. B. fehlende Klammer).
 
 Semantik: Ordnet wohlgeformten Ausdrücken eine Bedeutung zu, z. B. mittels einer Interpretations-/Bewertungsfunktion; in Programmiersprachen beschreibt sie, was ein syntaktisch gültiges Programm bewirkt. Semantische Fehler: Treten auf, wenn ein syntaktisch korrekter Ausdruck im gegebenen Modell eine ungültige Bedeutung at (z. B.  wenn gegebene Wort nicht interpretierbar ist). 
 
