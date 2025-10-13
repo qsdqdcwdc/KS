@@ -99,3 +99,19 @@ Negation (De Morgan) Video: [De Morgan](https://www.youtube.com/watch?v=euW9JldG
 Video: [Beilspiele Simplifikation durch boolesche Algebra](https://www.youtube.com/watch?v=dLIfh2wj8Dk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=34)
 
 
+# Formale Sprachen
+
+Ein Alphabet **Σ** ist eine endliche Menge von Symbolen. Ein Alphabet **Σ** wird in geschweiften Klammern angegeben, und jedes Symbol wird in doppelte Anführungszeichen gesetzt. Zum Beispiel: **Σ = {"a", "b", "xx"}**. Dabei ist "xx", ein einzelnes Symbol.
+
+**Σ\*** (Sigma-Stern) besteht aus allen möglichen Kombinationen von Symbolen aus **Σ**, mit einer Länge von 0 oder größer. Jede dieser Symbolkombinationen wird **Wort** genannt. Auch das Wort der Länge 0 gehört dazu das **leere Wort**, bezeichnet mit **ε** (Epsilon).
+
+Eine **formale Sprache** **L** ist eine **Teilmengen** von **Σ\***,  für die ein Satz von **formalen Regeln** existiert, der eindeutig bestimmen kann, ob ein Wort zu **L** gehört oder nicht. (Die Bedingung der Existenz solcher **formalen Regeln** wird in vielen Quellen oft weggelassen, muss jedoch bei uns vorhanden sein.) 
+
+Eine formale Sprache kann durch eine Grammatik definiert werden. In unserem Fall verwenden wir Typ 2 Grammatik oder Kontextfreie Grammatik. Eine **kontextfreie Grammatik (KFG)** ist ein **Viertupel** (also eine geordnete Menge der Form): **G = (N, Σ, P, S)**
+Dabei gilt:
+
+- **V** ist die endliche Menge der **Nichtterminalsymbole**.  
+- **Σ** ist die endliche Menge der **Terminalsymbole** (das Alphabet).  
+- **P** ist die Menge der **Produktionsregeln**.  
+- **S ∈ V** ist das **Startsymbol**.
+
