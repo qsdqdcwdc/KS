@@ -20,7 +20,11 @@ Inf-Schule.de: [Grundgatter](https://schuljahr.inf-schule.de/2019-20/rechner/dig
 `UND (∧)` vor `ODER (∨)` / `XOR (⊕)`
 
 
-# Manipulation von logischen Ausdruken 
+# Manipulation von logischen Ausdruken
+
+### Mnemoniken für Konjunktion und Disjunktion
+- **Konjunktion** kommt von lat. „verbinden“. A **und** B werden zusammen bernutzt: UND-Verknüpfung
+- **Disjunktion** kommt von lat. „trennen, unterscheiden“. A **oder** B werden getrennt bernutzt: ODER-Verknüpfung
 
 ### Disjunktive Normalform
 Die disjunktive Normalform (DNF) beschreibt einen besonderen Weg, logische Aussagen aufzuschreiben. Eine Formel der Aussagenlogik ist in disjunktiver Normalform, wenn sie eine Disjunktion (Kette aus einem oder mehreren Termen, verbunden mit ODER-Verknüpfungen; z. B. `T₁ ∨ T₂ ∨ T₃`) von Konjunktionstermen ist, wobei jeder Konjunktionsterm eine **Konjunktion** (Kette aus Verknüpfungen mit UND: Z.b:`A ∧ B ∧ C`) aus **Aussagenvariablen** bildet, die jeweils entweder unnegiert oder negiert auftreten können (`A` bzw. `¬A`).
