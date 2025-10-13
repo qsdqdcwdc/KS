@@ -93,8 +93,8 @@ Strukturgesetze  Video: [Strukturgesetze](https://www.youtube.com/watch?v=iE5fbK
 | **Distributivgesetz** | `A + (B * C) = (A + B) * (A + C)` | `A * (B + C) = A*B + A*C` |
   
 Negation (De Morgan) Video: [De Morgan](https://www.youtube.com/watch?v=euW9JldGCFk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=33)
-- `(A * B)' = A' + B'`  
-- `(A + B)' = A' * B'`
+- `¬(A * B) = ¬A + ¬B`  
+- `¬(A + B) = ¬A * vB`
 
 Video: [Beilspiele Simplifikation durch boolesche Algebra](https://www.youtube.com/watch?v=dLIfh2wj8Dk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=34)
 
