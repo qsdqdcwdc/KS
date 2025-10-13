@@ -10,7 +10,7 @@
 
 - [Logikgatter](#logikgatter)
 - [Konjunktion und Disjunktion](#konjunktion-und-disjunktion)
-- [Minimierung von logischen Ausdrücken.](#minimierung-von-logischen-ausdrücken)
+- [Minimierung von logischen Ausdrücken](#minimierung-von-logischen-ausdrücken)
 - [Formale Sprachen](#formale-sprachen)
 
 # Logikgatter
@@ -75,7 +75,7 @@ Beispiel für die kanonische konjunktive Normalform:
 
 Für einen Algorithmus, wie man aus Wahrheitstabellen kanonische Konjunktive Normalform bildet, sehe dieses Video ab 5 Minuten: [Conjunctive Normal Form (CNF) and Disjunctive Normal Form (DNF)](https://youtu.be/2cgHa02s_SA?si=z6zOmUrgBpog9pTQ&t=298)
 
-# Minimierung von logischen Ausdrücken.
+# Minimierung von logischen Ausdrücken
 
 ### Minimierte Form
 Eine minimierte Form einer Booleschen Formel ist eine zu ihr logisch äquivalente Darstellung, die nach einem gewählten Aufwandmaß keine überflüssigen Teile mehr enthält (d. h. sie ist bezüglich dieses Maßes nicht weiter kürzbar).
