@@ -1,3 +1,12 @@
+<p align="center">
+	<img src="Img/qr_klas5.png" width="250"  title="qr code">
+	<br>
+	<em>QR-Code scannen um dieses Dokument auf dem iPad zu öffnen</em>
+</p>
+
+1. <code>Aktualisieren Sie die Seite bei jedem Aufruf, um die neueste Version dieses Dokuments zu erhalten.</code>
+
+
 # Logikgatter
 
 Inf-Schule.de: [Grundgatter](https://schuljahr.inf-schule.de/2019-20/rechner/digitaltechnik/gatter)
