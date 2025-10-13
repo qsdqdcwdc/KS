@@ -68,3 +68,32 @@ Typische Aufwandmaße sind z. B.: möglichst wenige Operatoren/Gatter, oder mög
 
 ### KV-Diagramm
 KV-Diagramm ist eine visuelle Methode mit denen man logische Ausdrücke minimieren kann (Oft bildet man mit KV-Diagrammen eine minimierte disjuktive Normalform). Meistens benutzt für logische Ausdrücke mit vier oder weniger Aussagenvariablen. Für detaillierte Methodenbeschreibung und Beispiele sehe Video: [Karnaugh Maps – Introduction](https://www.youtube.com/watch?v=3vkMgTmieZI)
+
+### Simplifikation durch boolesche Algebra
+
+
+**Vorgehensweise:** Gesetzen gegebene Aussage umformen, bis eine Identität sichtbar wird (z. B. `A + ¬A = 1` oder `A * ¬A = 0`), dann mit identität Regeln kürzen. Die Prozedur wiederholen, bis die Aussage ausreichend simplifiziert ist.
+
+Identitäten Video: [Identitäten](https://www.youtube.com/watch?v=6B-SVpM8x2w&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=31)
+| Interaktion | Addition `+` | Multiplikation `*` | XOR `⊕` |
+|--------------|---------------|--------------------|----------|
+| **Mit sich selbst** | `A + A = A` | `A * A = A` | `A ⊕ A = 0` |
+| **Mit negiertem Selbst** | `A + ¬A = 1` | `A * ¬A = 0` | `A ⊕ ¬A = 1` |
+| **Mit 1** | `A + 1 = 1` | `A * 1 = A` | `A ⊕ 1 = ¬A` |
+| **Mit 0** | `A + 0 = A` | `A * 0 = 0` | `A ⊕ 0 = A` |
+
+
+
+Strukturgesetze  Video: [Strukturgesetze](https://www.youtube.com/watch?v=iE5fbKd4Ohk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=32)
+- **Kommutativ:** `A + B = B + A`, `A * B = B * A`
+- **Assoziativ:** `(A + B) + C = A + (B + C)`, `(A * B) * C = A * (B * C)`
+- **Distributiv:**  
+  `A * (B + C) = A*B + A*C`  
+  `A + (B * C) = (A + B) * (A + C)`
+- **Faktorisierung:** `A*B + A*C = A * (B + C)`
+
+Negation (De Morgan) Video: [De Morgan](https://www.youtube.com/watch?v=euW9JldGCFk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=33)
+- `(A * B)' = A' + B'`  
+- `(A + B)' = A' * B'`
+
+
