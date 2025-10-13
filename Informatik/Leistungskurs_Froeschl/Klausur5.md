@@ -85,11 +85,12 @@ Identitäten Video: [Identitäten](https://www.youtube.com/watch?v=6B-SVpM8x2w&l
 
 
 Strukturgesetze  Video: [Strukturgesetze](https://www.youtube.com/watch?v=iE5fbKd4Ohk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=32)
-- **Kommutativ:** `A + B = B + A`, `A * B = B * A`
-- **Assoziativ:** `(A + B) + C = A + (B + C)`, `(A * B) * C = A * (B * C)`
-- **Distributiv:**  
-  `A * (B + C) = A*B + A*C`  
-  `A + (B * C) = (A + B) * (A + C)`
+
+| Gesetz | ODER `+` | UND `*` |
+|---------|------------------|------------------------|
+| **Kommutativgesetz** | `A + B = B + A` | `A * B = B * A` |
+| **Assoziativgesetz** | `(A + B) + C = A + (B + C)` | `(A * B) * C = A * (B * C)` |
+| **Distributivgesetz** | `A + (B * C) = (A + B) * (A + C)` | `A * (B + C) = A*B + A*C` |
   
 Negation (De Morgan) Video: [De Morgan](https://www.youtube.com/watch?v=euW9JldGCFk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=33)
 - `(A * B)' = A' + B'`  
