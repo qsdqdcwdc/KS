@@ -20,7 +20,7 @@ Inf-Schule.de: [Grundgatter](https://schuljahr.inf-schule.de/2019-20/rechner/dig
 `UND (∧)` vor `ODER (∨)` / `XOR (⊕)`
 
 
-# Manipulation von logischen Ausdruken
+# Konjunktion und Disjunktion
 
 ### Mnemoniken für Konjunktion und Disjunktion
 - **Konjunktion** kommt von lat. „verbinden“. A **und** B werden zusammen bernutzt: UND-Verknüpfung
@@ -59,3 +59,12 @@ Beispiel für die kanonische konjunktive Normalform:
 `(A ∨ B ∨ C) ∧ (A ∨ ¬B ∨ C) ∧ (¬A ∨ B ∨ ¬C) ∧ (¬A ∨ ¬B ∨ C)`
 
 Für einen Algorithmus, wie man aus Wahrheitstabellen kanonische Konjunktive Normalform bildet, sehe dieses Video ab 5 Minuten: [Conjunctive Normal Form (CNF) and Disjunctive Normal Form (DNF)](https://youtu.be/2cgHa02s_SA?si=z6zOmUrgBpog9pTQ&t=298)
+
+# Minimierung von logischen Ausdrücken.
+
+### Minimierte Form
+Eine minimierte Form einer Booleschen Formel ist eine zu ihr logisch äquivalente Darstellung, die nach einem gewählten Aufwandmaß keine überflüssigen Teile mehr enthält (d. h. sie ist bezüglich dieses Maßes nicht weiter kürzbar).
+Typische Aufwandmaße sind z. B.: möglichst wenige, möglichst wenige Operatoren/Gatter, oder möglichst wenige Terme in einer gewählten Normalform (DNF bzw. KNF).
+
+### KV-Diagramm
+KV-Diagramm ist eine visuelle Methode mit denen man logische Ausdrücke minimieren kann (Oft bildet man mit KV-Diagrammen eine minimierte disjuktive Normalform). Meistens benutzt für logische Ausdrücke mit vier oder weniger Aussagenvariablen. Für detaillierte Methodenbeschreibung und Beispiele sehe Video: [Karnaugh Maps – Introduction](https://www.youtube.com/watch?v=3vkMgTmieZI)
