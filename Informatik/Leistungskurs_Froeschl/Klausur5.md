@@ -120,7 +120,34 @@ Bemerkungen zur Grammatik:
 - Das **Startsymbol S** ist keine Menge aus Symbolen, sondern ein einzelnes Symbol aus der Menge der Nichtterminalsymbole P.  
 - Die **Reihenfolge der Elemente** im Viertupel **G = (V, Σ, P, S)** ist wichtig.
 
+Beispielgrammatik: 
+```
+G = (V, Σ, P, S) 
+Σ = { 'U', 'S', '1', '2', '3' }
+V = { <linie>, <U-Bahn>, <S-Bahn>, <2Ziffer>, <3Ziffer> }
+S = <linie>
+P = {
+<linie>   → <U-Bahn>,             (R1)
+<linie>   → <S-Bahn>,             (R2)
+<U-Bahn>  → 'U' <2Ziffer>,        (R3)
+<S-Bahn>  → 'S' <3Ziffer>,        (R4)
+<2Ziffer> → '1',                  (R5)
+<2Ziffer> → '2',                  (R6)
+<3Ziffer> → <2Ziffer>,            (R7)
+<3Ziffer> → '3',                  (R8)
+}
+```
+Beispiel-Linksableitung für 'U2':
+
+```
+            (R1)              (R2)                   (R4)
+ <linie>  ———————→ <U-Bahn> ———————→ 'U' <2Ziffer> ———————→ 'U' '2'           
+```
+
 Syntax ist ein Regelwerk, der bestimmt, ob ein Wort zu der Sprache gehört oder nicht. Syntaktische Fehler: Verletzen diese Regeln, sodass die Zeichenkette nicht wohlgeformt ist (z. B. fehlende Klammer).
 
 Semantik: Ordnet wohlgeformten Ausdrücken eine Bedeutung zu, z. B. mittels einer Interpretations-/Bewertungsfunktion; in Programmiersprachen beschreibt sie, was ein syntaktisch gültiges Programm bewirkt. Semantische Fehler: Treten auf, wenn ein syntaktisch korrekter Ausdruck im gegebenen Modell eine ungültige Bedeutung at (z. B.  wenn gegebene Wort nicht interpretierbar ist). 
 
+### Syntax-Diagramme  
+Syntax-Diagramme sind grafische Darstellungen von Produktionsregeln einer Sprache. Für weitere Informationen sehe diese Seite: [inf-schule.de Fachkonzept - Syntaxdiagramm
+](https://inf-schule.de/automaten-sprachen/sprachenundautomaten/sprachbeschreibung/syntaxdiagramme/konzept_syntaxdiagramm)
