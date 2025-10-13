@@ -103,7 +103,7 @@ Video: [Beilspiele Simplifikation durch boolesche Algebra](https://www.youtube.c
 
 Ein Alphabet **Σ** ist eine endliche Menge von Symbolen. Ein Alphabet **Σ** wird in geschweiften Klammern angegeben, und jedes Symbol wird in doppelte Anführungszeichen gesetzt. Zum Beispiel: **Σ = {"a", "b", "xx"}**. Dabei ist "xx", ein einzelnes Symbol.
 
-**Σ\*** (Sigma-Stern) besteht aus allen möglichen Kombinationen von Symbolen aus **Σ**, mit einer Länge von 0 oder größer. Jede dieser Symbolkombinationen wird **Wort** genannt. Auch das Wort der Länge 0 gehört dazu das **leere Wort**, bezeichnet mit **ε** (Epsilon).
+**Σ\*** (Sigma-Stern) besteht aus allen möglichen Kombinationen von Symbolen aus **Σ**, mit einer Länge von 0 oder größer. Jede dieser Symbolkombinationen wird **Wort** genannt. Auch das Wort der Länge 0 gehört dazu das **leere Wort**, bezeichnet mit **ε** (Epsilon). Bemerkung: Eine Menge, die das leere Wort enthält , ist **nicht** die leere Menge ( {ε} ≠ ∅ ). Noch eine unerwartete Eigenschaft ist das die Stern-Operation auf der leeren Menge ergibt eine Menge, die ein einziges Element enthält, nämlich das leere Wort:  **∅\*** = **{ε}**
 
 Eine **formale Sprache** **L** ist eine **Teilmengen** von **Σ\***,  für die ein Satz von **formalen Regeln** existiert, der eindeutig bestimmen kann, ob ein Wort zu **L** gehört oder nicht. (Die Bedingung der Existenz solcher **formalen Regeln** wird in vielen Quellen oft weggelassen, muss jedoch bei uns vorhanden sein.) 
 
@@ -119,3 +119,10 @@ Bemerkungen zur Grammatik:
 
 - Das **Startsymbol S** ist keine Menge aus Symbolen, sondern ein einzelnes Symbol aus der Menge der Nichtterminalsymbole P.  
 - Die **Reihenfolge der Elemente** im Viertupel **G = (V, Σ, P, S)** ist wichtig.
+
+ChatGPT said:
+
+Syntax: Legt die formalen Regeln fest, welche Zeichenketten über einem Alphabet Σ als wohlgeformte Wörter/Sätze gelten. Die Syntax entscheidet über die Form, nicht über die Bedeutung. Syntaktische Fehler: Verletzen diese Regeln, sodass die Zeichenkette nicht wohlgeformt ist (z. B. fehlende Klammer).
+
+Semantik: Ordnet wohlgeformten Ausdrücken eine Bedeutung zu, z. B. mittels einer Interpretations-/Bewertungsfunktion; in Programmiersprachen beschreibt sie, was ein syntaktisch gültiges Programm bewirkt. Semantische Fehler: Treten auf, wenn ein syntaktisch korrekter Ausdruck im gegebenen Modell eine ungültige oder unerwartete Bedeutung/Wirkung hat (z. B. Division durch 0). 
+
