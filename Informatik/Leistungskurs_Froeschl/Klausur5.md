@@ -132,7 +132,7 @@ Dabei gilt:
 
 Bemerkungen zur Grammatik:
 
-- Das **Startsymbol S** ist keine Menge aus Symbolen, sondern ein einzelnes Symbol aus der Menge der Nichtterminalsymbole P.  
+- Das **Startsymbol S** ist keine Menge aus Symbolen, sondern ein einzelnes Symbol aus der Menge der Nichtterminalsymbole V.  
 - Die **Reihenfolge der Elemente** im Viertupel **G = (V, Σ, P, S)** ist wichtig.
 
 Beispielgrammatik: 
