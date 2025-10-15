@@ -87,7 +87,7 @@ KV-Diagramm ist eine visuelle Methode mit denen man logische Ausdrücke minimier
 ### Simplifikation durch boolesche Algebra
 
 
-**Vorgehensweise:** Gesetzen gegebene Aussage umformen, bis eine Identität sichtbar wird (z. B. `A + ¬A = 1` oder `A * ¬A = 0`), dann mit identität Regeln kürzen. Die Prozedur wiederholen, bis die Aussage ausreichend simplifiziert ist.
+**Vorgehensweise:** Mit Gesetzen gegebene Aussage umformen, bis eine Identität sichtbar wird (z. B. `A + ¬A = 1` oder `A * ¬A = 0`), dann mit identität Regeln kürzen. Die Prozedur wiederholen, bis die Aussage ausreichend simplifiziert ist.
 
 Identitäten Video: [Identitäten](https://www.youtube.com/watch?v=6B-SVpM8x2w&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=31)
 | Interaktion | Addition `+` | Multiplikation `*` | XOR `⊕` |
