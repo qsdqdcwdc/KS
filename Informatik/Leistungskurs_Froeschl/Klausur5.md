@@ -115,7 +115,7 @@ Negation (De Morgan) Video: [De Morgan](https://www.youtube.com/watch?v=euW9JldG
 Video: [Beilspiele Simplifikation durch boolesche Algebra](https://www.youtube.com/watch?v=dLIfh2wj8Dk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=34)
 
 ### Addierer
-[Video](https://www.youtube.com/watch?v=ecn-8iGDRSo)
+[PlayList(3 Videos)](https://www.youtube.com/watch?v=-nAg1TFgDjQ&list=PL1C2GgOjAF-IvXYD914yG_T8hxoQmPhTF&index=1)
 
 
 # Formale Sprachen
