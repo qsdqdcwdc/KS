@@ -100,17 +100,16 @@ Identitäten Video: [Identitäten](https://www.youtube.com/watch?v=6B-SVpM8x2w&l
 
 
 
-Strukturgesetze  Video: [Strukturgesetze](https://www.youtube.com/watch?v=iE5fbKd4Ohk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=32)
+Strukturgesetze  Video: [Strukturgesetze](https://www.youtube.com/watch?v=iE5fbKd4Ohk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=32),
+(De Morgan) Video: [De Morgan](https://www.youtube.com/watch?v=euW9JldGCFk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=33)
 
 | Gesetz | ODER `+` | UND `*` |
 |---------|------------------|------------------------|
 | **Kommutativgesetz** | `A + B = B + A` | `A * B = B * A` |
 | **Assoziativgesetz** | `(A + B) + C = A + (B + C)` | `(A * B) * C = A * (B * C)` |
 | **Distributivgesetz** | `A + (B * C) = (A + B) * (A + C)` | `A * (B + C) = A*B + A*C` |
+| **De Morgan** | `¬(A + B) = ¬A * ¬B` | `¬(A * B) = ¬A + ¬B` |
   
-Negation (De Morgan) Video: [De Morgan](https://www.youtube.com/watch?v=euW9JldGCFk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=33)
-- `¬(A * B) = ¬A + ¬B`  
-- `¬(A + B) = ¬A * ¬B`
 
 Video: [Beilspiele Simplifikation durch boolesche Algebra](https://www.youtube.com/watch?v=dLIfh2wj8Dk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=34)
 
