@@ -83,7 +83,7 @@ Typische Aufwandmaße sind z. B.: möglichst wenige Operatoren/Gatter, oder mög
 ### KV-Diagramm
 KV-Diagramm ist eine visuelle Methode mit denen man logische Ausdrücke minimieren kann (Oft bildet man mit KV-Diagrammen eine minimierte disjuktive Normalform). Meistens benutzt für logische Ausdrücke mit vier oder weniger Aussagenvariablen. Für Kurze Methodenbeschreibung sehe Video: [Karnaugh Maps – Introduction](https://www.youtube.com/watch?v=3vkMgTmieZI)
 
-Dietairte BEschreibung: [Playlist Ep40-Ep45](https://www.youtube.com/watch?v=pPHxpiJfyS8&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=40)
+Detaillierte Beschreibung: [Playlist Ep40-Ep45](https://www.youtube.com/watch?v=pPHxpiJfyS8&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=40)
 
 ### Simplifikation durch boolesche Algebra
 
