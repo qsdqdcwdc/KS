@@ -17,7 +17,7 @@
 
 Inf-Schule.de: [Grundgatter](https://schuljahr.inf-schule.de/2019-20/rechner/digitaltechnik/gatter)
 
-<p align="center"><img src="Img/Gatter.png" width="1000"  title="Abb1:Gatter"></p>
+<p align="center"><img src="Img/Gatter.png" width="600"  title="Abb1:Gatter"></p>
 
 ### Mnemoniken für die Schaltplan Symbole:
 | Gatter        | Symbol                    | Mnemonik                                                      |
