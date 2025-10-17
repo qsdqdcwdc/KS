@@ -32,7 +32,7 @@ Inf-Schule.de: [Grundgatter](https://schuljahr.inf-schule.de/2019-20/rechner/dig
 
 `NICHT (¬)` vor `UND (∧)`
 
-`UND (∧)` vor `ODER (∨)` / `XOR (⊕)`
+`UND (∧)` vor `ODER (∨)`
 
 
 # Konjunktion und Disjunktion
