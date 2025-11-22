@@ -1,5 +1,4 @@
 
-
 # Deutschland nach dem Krieg 
 Seiten 14, 15
 - Noch vor dem Kriegsende wurde Deutschland in **vier Besatzungszonen** aufgeteilt (USA, UdSSR, Großbritannien, Frankreich); **Berlin** wurde in vier Sektoren geteilt.
@@ -84,3 +83,36 @@ Seiten 30, 31, 36, 38, 39, 46, 47
 - Das Ende der Ära Adenauer setzt mit dem Verlust der absoluten Mehrheit der CDU/CSU (1961) und innerparteilichen Konflikten ein; die **Spiegel-Affäre** (1962) Verhaftungen nach einem kritischen Artikel über die Verteidigungspolitik, wird als massiver Angriff auf Pressefreiheit und Grundrechte wahrgenommen, führt zum Rücktritt des Verteidigungsministers, zur Ankündigung von Adenauers Rücktritt (1963). **Ludwig Erhard (CDU)**, Wirtschaftsminister und „Vater des Wirtschaftswunders“, wird 1963 Adenauers Nachfolger als Bundeskanzler.
 
 
+
+# Deutsche Demokratische Republik (DDR)  
+Seiten 34, 35, 36, 42, 44, 50, 51  
+
+- In der **Sowjetischen Besatzungszone (SBZ)** wird nach 1945 härter gegen tatsächliche und vermeintliche NS-Kollaborateure vorgegangen als in den Westzonen: Erschießungen, Inhaftierungen und Zwangsarbeitslager; dieselben Mittel treffen auch politische Gegner des Sozialismus, Gegner des Regimes werden als „Faschisten“ bezeichnet, ein tiefgreifender Elitenwechsel in Verwaltung, Justiz, Wirtschaft und Bildung findet statt, während ehemalige Nationalsozialisten ihre Position durch demonstrative Unterstützung des neuen Systems konnen.  
+
+- Politisch werden 1945–1946 zunächst mehrere Parteien zugelassen (bürgerliche Parteien, SPD, KPD), doch die Kommunisten erhalten nur begrenzte Unterstützung; im April 1946 kommt es zum erzwungenen Zusammenschluss von SPD und KPD zur **SED** (1946), und nachdem die SED 1946 keine klare Mehrheit erreicht, werden freie Wahlen abgeschafft, **Einheitslisten** eingeführt.  
+
+- Wirtschaftlich wird in der SBZ der Aufbau einer sozialistischen Ordnung nach sowjetischem Vorbild eingeleitet: Umverteilung von Eigentum, Enteignung von etwa 7.000 Großgrundbesitzern (Bodenreform), Verstaatlichung von Banken, Großunternehmen und Schlüsselindustrien, Demontage von Industrieanlagen als Reparationsleistungen an die UdSSR, Einführung einer **Planwirtschaft** mit Zentralverwaltungsstrukturen und Verweigerung der Teilnahme am Marshallplan; stattdessen erfolgt die Einbindung in den **RGW (Rat für gegenseitige Wirtschaftshilfe)** als sozialistisches Gegenmodell zur westlichen Wirtschaftskooperation.  
+
+- Der Weg zur **DDR** verläuft über den Versuch der Sowjetunion, ihren Einfluss auf ganz Deutschland auszudehnen; als sich mit der D-Mark-Einführung in den Westzonen und der Vorbereitung der BRD (ab 1948) ein eigener westlicher Staat abzeichnet, reagiert sie mit Abgrenzung: **Berlin-Blockade** (1948/49) und westliche Luftbrücke, Volkskongresse in der SBZ mit von der SED dominierten Verfassungsentwürfen auf Basis des Prinzips des demokratischen Zentralismus; im Oktober 1949 wird die Deutsche Demokratische Republik proklamiert.  
+
+- Der **demokratische Zentralismus** wird zum Organisationsprinzip von Partei und Staat: Kandidatenlisten werden von oben erstellt, gewählt wird nur über vorgegebene Listen , Fraktionen und organisierte innerparteiliche Opposition sind verboten, sodass von Demokratie in der Praxis kaum etwas übrig bleibt.  
+
+- In der **Zentralverwaltungswirtschaft** der DDR werden Produktionsmittel verstaatlicht: Fabriken, Großbetriebe und Banken werden zu, in der Landwirtschaft entstehen große Agrarbetriebe (LPG) durch Kollektivierung, Produktion und Verteilung werden zentral geplant, Preise administrativ festgelegt und Betriebe an Planvorgaben gebunden.  
+
+- Es exsestirt hofnung dass Zentralverwaltungswirtschaft Wirtschaftskrisen verhindern wird und stabile Entwicklung zu sichert, tatsächlich bleibt das Wachstum jedoch auf Dauer schwächer als in der BRD; Ursachen sind fehlende industrielle Zentren wie das Ruhrgebiet, hohe Reparationsleistungen durch Demontagen, geringere Unterstützung durch die UdSSR im Vergleich zu westlichen Marshallplan-Hilfen sowie schlechter Zugang zu westlichen Märkten.  
+
+- Typische Probleme der Planwirtschaft sind mangelnde betriebliche Autonomie, fehlende Anreize für Innovation, Versorgungsprobleme mit Rohstoffen und Vorprodukten, Vernachlässigung der Konsumgüter zugunsten der Schwerindustrie, fehlende Konkurrenz mit geringer Qualitätsorientierung, kaum Entlassungsrisiken und damit wenig Leistungsdruck, schlechte Automatisierung; insgesamt entsteht eine **Mangelwirtschaft**, in der viele Güter des täglichen Bedarfs knapp bleiben.
+
+- Das offizielle sozialistische Ideal der DDR verspricht möglichst weitgehende Gleichheit, ähnliche Einkommen für breite Bevölkerungsteile, das **Recht auf Arbeit**, Garantie der Grundbedürfnisse (Wohnung, Gesundheitsversorgung, Bildung) und umfangreiche Sozialleistungen mit hoher sozialer Sicherheit; in der Realität führen dauerhafte Versorgungsengpässe, geringe Produktqualität und eingeschränkte Auswahl zu wachsender Unzufriedenheit, besonders im Vergleich zur wirtschaftlich erfolgreichen BRD.  
+
+- **Walter Ulbricht** ist als Leiter der **SED** und wichtigster Machtträger (1950–1971). Zentral für das Selbstbild der DDR ist: Der Kapitalismus gilt als Ursache des Faschismus, die DDR beansprucht, einen „humanen, sozialistischen“ Gegenentwurf aufzubauen.
+
+- Formal existiert ein Mehrparteiensystem mit Blockparteien im „Demokratischen Block“ bzw. in der Nationalen Front, faktisch trifft jedoch die SED-Führung alle wichtigen Entscheidungen; die anderen Parteien bestätigen nur die Vorgaben, das Konzept der **Diktatur des Proletariats** dient als Legitimation für die einseitige Herrschaft der SED, und in der neuen Verfassung (1968) wird die **führende Rolle der SED** festgeschrieben.
+
+- Mit der Ausrufung des „planmäßigen Aufbaus des Sozialismus“ (1952) orientiert sich die DDR offen am stalinistischen Modell: Aufbau von landwirtschaftlichen Produktionsgenossenschaften (LPG), zwangsweise Kollektivierung der Landwirtschaft, bis etwa 1960 weitgehend abgeschlossen, Ausbau der Schwerindustrie und Vernachlässigung der Konsumgüterproduktion, was zu Versorgungsproblemen und wachsender Unzufriedenheit führt.  
+
+- Die schlechte Versorgungslage und politische Repression führen bis Anfang der 1960er-Jahre zur massenhaften Flucht in den Westen; trotz gewisser stärkeren Orientierung auf Konsumgüter ab Mitte der 1950er-Jahre hält die Fluchtbewegung an, sodass die Führung am 12./13. August 1961 die Grenze nach West-Berlin militärisch abriegeln lässt(**Mauerbau**).  
+
+- Der **Volksaufstand vom 17. Juni 1953** wird durch die Erhöhung der Arbeitsnormen; die Demonstrierenden fordern Rücknahme der Normerhöhungen, freie Wahlen, eine neue Regierung und die Wiedervereinigung, der Aufstand greift von Ost-Berlin auf viele Städte über und wird mit sowjetischen Truppen und Panzern gewaltsam niedergeschlagen, danach werden Repressionen verschärft und der Überwachungsapparat ausgebaut.  
+
+- Das **Ministerium für Staatssicherheit (Stasi)** wird 1950 gegründet, offiziell zum Schutz der „Staatssicherheit“, „Staatgrenze“ und der „sozialistischen Errungenschaften“, wächst von etwa 1.000 hauptamtlichen Mitarbeitern (1950) auf rund 90.000 bis Ende der 1980er-Jahre, dazu kommen zehntausende inoffizielle Mitarbeiter; durch flächendeckende Überwachung, Diskriminierung und Zersetzung von Regimekritikern, Isolationshaft und Maßnahmen ohne rechtsstaatliche Grundlage entsteht eine Atmosphäre von Angst und Misstrauen, insgesamt gibt es etwa 180.000 **politische Häftlinge** in der DDR.
