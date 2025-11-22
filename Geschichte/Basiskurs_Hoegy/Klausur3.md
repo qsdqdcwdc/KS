@@ -1,3 +1,11 @@
+# Inhalt
+- [Deutschland nach dem Krieg](#deutschland-nach-dem-krieg)
+- [NS-Verbrecher und Kollaborateure](#ns-verbrecher-und-kollaborateure)
+- [Kalte Krieg 1947-1990](#kalte-krieg-1947-1990)
+- [Bundesrepublik Deutschland](#bundesrepublik-deutschland)
+- [Deutsche Demokratische Republik](#deutsche-demokratische-republik)
+
+
 
 # Deutschland nach dem Krieg 
 Seiten 14, 15
@@ -84,7 +92,7 @@ Seiten 30, 31, 36, 38, 39, 46, 47
 
 
 
-# Deutsche Demokratische Republik (DDR)  
+# Deutsche Demokratische Republik
 Seiten 34, 35, 36, 42, 44, 50, 51  
 
 - In der **Sowjetischen Besatzungszone (SBZ)** wird nach 1945 härter gegen tatsächliche und vermeintliche NS-Kollaborateure vorgegangen als in den Westzonen: Erschießungen, Inhaftierungen und Zwangsarbeitslager; dieselben Mittel treffen auch politische Gegner des Sozialismus, Gegner des Regimes werden als „Faschisten“ bezeichnet, ein tiefgreifender Elitenwechsel in Verwaltung, Justiz, Wirtschaft und Bildung findet statt, während ehemalige Nationalsozialisten ihre Position durch demonstrative Unterstützung des neuen Systems konnen.  
