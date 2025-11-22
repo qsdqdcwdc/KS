@@ -52,16 +52,35 @@ Seiten 15, 20, 21, 23, 30
   - Danach folgte eine Phase der ntspannung mit mehreren Abrüstungs- und Kooperationsabkommen.
   - Ab 1979 sowjetischer Einmarsch in Afghanistan, NATO-Doppelbeschluss spricht man von einem **zweiten Kalten Krieg**. (**NATO-Doppelbeschluss von 1979** verfolgte die NATO eine Doppelstrategie aus Nachrüstung mit Mittelstreckenraketen in Westeuropa und gleichzeitigem Angebot zu Rüstungsverhandlungen gegenüber der UdSSR.)
 
+# Bundesrepublik Deutschland
+Seiten 30, 31, 36, 38, 39, 46, 47  
 
+- In den Westzonen wird nach 1945 eine **Entnazifizierung** begonnen, bleibt aber wegen überlasteter Behörden, oberflächlicher Verfahren und Personalmangels unvollständig; viele ehemalige NSDAP-Mitglieder bleiben in Verwaltung und Justiz.  
 
+- Mit den **Kommunalwahlen** (1946) werden lokale demokratische Strukturen wieder aufgebaut; die Bundesländer in den Westzonen entstehen als föderale Einheiten eines künftigen westdeutschen Staates (ab 1946); über Re-Education-Programme wird politische Umerziehung betrieben und zentrale Parteien wie SPD, CDU/CSU und FDP werden wiedergegründet (ab 1945/46).  
 
+- Die wirtschaftliche Ordnung in den Westzonen orientiert sich an den Vorstellungen der westlichen Besatzungsmächte: Erhalt von Privateigentum an Produktionsmitteln, Fortführung einer **Marktwirtschaft**, keine umfassende Verstaatlichung der Großindustrie und keine Umverteilung von Land.  
 
+- Mit dem **Marshallplan (ERP)** als US-Hilfsprogramm zur Stabilisierung Westeuropas (ab 1948) und zur Einbindung Westdeutschlands in den Westen sowie mit der Währungsreform und Einführung der **Deutschen Mark** in den Westzonen (1948) werden entscheidende Grundlagen für den späteren wirtschaftlichen Aufschwung der BRD geschaffen.  
 
+- Der Parlamentarische Rat erarbeitet das **Grundgesetz**; am 24. Mai 1949 tritt es in Kraft und die **Bundesrepublik Deutschland (BRD)** wird gegründet (1949) zunächst als westdeutscher Teilstaat mit provisorischer Verfassung.  
 
+- In der BRD wird das Modell der **sozialen Marktwirtschaft** eingeführt (ab 1949): Der Staat garantiert wirtschaftliche Freiheit und Wettbewerb (Kartellrecht, Abbau von Monopolen), greift aber nicht in jede einzelne Unternehmensentscheidung ein; „sozial“ heißt soziale Absicherung durch Renten, Versicherungen und staatliche Unterstützung der wirtschaftlich Schwächeren.  
 
+- Die BRD entwickelt sich zum **Sozialstaat**: Etwa ein Drittel der Bevölkerung zählt als Kriegsopfer (Flüchtlinge, Vertriebene, Kriegsinvaliden, Wohnungslose); staatlicher Wohnungsbau bekämpft Wohnungsnot, die **dynamische Rente** koppelt Renten an Löhne und Preise , rund 20 % der Einkommen fließen über Steuern und Abgaben in soziale Sicherung.  
 
+- Zur Wirtschaftssteuerung setzt der Staat auf **Konjunkturpolitik** nach keynesianischen Ideen: In Rezessionen werden durch staatliche Mehrausgaben die Nachfrage gestützt, etwa über Investitionen in Infrastruktur (Straßen, Schulen, öffentliche Gebäude) und den Bau von Sozialwohnungen, um Nachfrage in der Wirtschaft zu erhöhen.  
 
+- Zwischen ca. 1950 und 1966 erlebt die BRD das **Wirtschaftswunder** Grunde dafür: Trotz Kriegsschäden bleibt ein großer Teil der industriellen Infrastruktur nutzbar, es gibt viele Fachkräfte, die Erfogreiche Wechrungs Reform, Marshallplan-Hilfen fördern Investitionen, der **„Korea-Boom“** steigert durch den Koreakrieg die weltweite Nachfrage (1950–1951), und Zuwanderung aus Europa und aus der DDR liefert zusätzliche Arbeitskräfte; Folge sind hohe Industrialisierung, sehr niedrige Arbeitslosigkeit (2 %), zugleich breitet sich eine starke Fixierung auf Konsum aus, während weite Teile der Gesellschaft politisch desinteressiert bleiben.
 
+- Aus dem Wirtschaftswunder entsteht eine **„nivellierte Mittelstandsgesellschaft“** (1950er/60er-Jahre): Die Mittelschicht wächst stark, Einkommensunterschiede werden kleiner, eine breite gesellschaftliche Mitte bildet sich; in den 1960er-Jahren verbessern sich Bildungs- und Aufstiegschancen, in den 1970er-Jahren geht die soziale Mobilität wieder zurück.  
 
+- Die **NS-Vergangenheit** wird in der BRD zunächst nur begrenzt aufgearbeitet: Viele mittlere NS-Funktionäre und Beamte bleiben im Apparat, die Mehrheit der Bevölkerung verdrängt die Vergangenheit; erst ab 1953 beginnt eine ernsthaftere Auseinandersetzung, die NS-Zeit wird in die Schulbildung einbezogen und erste Gedenkorte entstehen (1950er-Jahre); gleichzeitig herrscht geringes politisches Interesse bei starkem Antikommunismus und die Rolle der Frau bleibt traditionell und diskriminierend (Abhängigkeit von Zustimmung des Ehemanns, „3 K“: Kinder, Küche, Kirche).  
+
+- **Konrad Adenauer (CDU)** ist erster Bundeskanzler der BRD (1949–1963) und prägt die Ära Adenauer mit starker Kanzlerdemokratie und der Strategie der **Westintegration**: Ausgangspunkt ist die begrenzte Souveränität unter Kontrolle der Alliierten Hohen Kommission; mit dem Petersberger Abkommen (1949), dem Beitritt zum Europarat (1950), der Montanunion (ab 1951) und den Pariser Verträgen (1954/1955) gewinnt die BRD weitgehende Souveränität, behält aber Sonderregelungen für Berlin und gesamtdeutsche Fragen; der **NATO-Beitritt** (1955) verankert die BRD militärisch im Westen, im Gegenzug verzichtet sie auf eigene Atomwaffen und strebt offiziell nur eine friedliche Wiedervereinigung an.  
+
+- In den 1950er-Jahren verbinden sich Westintegration und Wirtschaftswunder: Flüchtlinge und Vertriebene werden in den Arbeitsmarkt integriert, bringen Qualifikationen ein und stärken Wachstum; steigender Lebensstandard und Konsumgüter wie Auto und Fernseher werden Symbole des Erfolgs und fördern das Selbstbewusstsein der Westdeutschen.  
+
+- Das Ende der Ära Adenauer setzt mit dem Verlust der absoluten Mehrheit der CDU/CSU (1961) und innerparteilichen Konflikten ein; die **Spiegel-Affäre** (1962) Verhaftungen nach einem kritischen Artikel über die Verteidigungspolitik, wird als massiver Angriff auf Pressefreiheit und Grundrechte wahrgenommen, führt zum Rücktritt des Verteidigungsministers, zur Ankündigung von Adenauers Rücktritt (1963). **Ludwig Erhard (CDU)**, Wirtschaftsminister und „Vater des Wirtschaftswunders“, wird 1963 Adenauers Nachfolger als Bundeskanzler.
 
 
