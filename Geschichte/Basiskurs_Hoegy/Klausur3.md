@@ -46,11 +46,11 @@ Seiten 15, 20, 21, 23, 30
   - **Olympische Spiele**: Beide Blöcke wollten ihre Überlegenheit durch eine möglichst hohe Zahl an Goldmedaillen demonstrieren; Olympiasiege galten als Beweis für die Stärke des eigenen Systems. Teilweise wurden die Spiele aus politischen Gründen boykottiert.
   - **Weltraumfahrt**: 1957 startete die UdSSR mit Sputnik den ersten von Menschen gebauten Satelliten. Das löste in den USA einen Schock aus, da die Sowjetunion mit derselben Raketentechnologie auch Atomwaffen bis in die USA liefern konnte. Für das Raumfahrtprogramm wurde moderne Computertechnologie entwickelt; 1969 landeten die USA auf dem Mond.
 - Im Kalten Krieg wechselten sich **Eskalations- und Entspannungsphasen** ab:
-  - Erste große Eskalation: **Koreakrieg 1950–1953**.
-  - Nächste Eskalation: **Vietnamkrieg** (v. a. 1960er/Anfang 1970er Jahre).
+  - Erste Eskalation: **Koreakrieg 1950–1953**.
+  - Nächste Eskalation: **Vietnamkrieg**
   - **Kubakrise 1962**: galt als Höhepunkt der Konfrontation.
-  - Danach folgte eine Phase der **Entspannung (Détente)** mit mehreren Abrüstungs- und Kooperationsabkommen.
-  - Ab **1979** sowjetischer Einmarsch in Afghanistan, NATO-Doppelbeschluss spricht man von einem **zweiten Kalten Krieg**. (**NATO-Doppelbeschluss von 1979** verfolgte die NATO eine Doppelstrategie aus Nachrüstung mit Mittelstreckenraketen in Westeuropa und gleichzeitigem Angebot zu Rüstungsverhandlungen gegenüber der UdSSR.)
+  - Danach folgte eine Phase der ntspannung mit mehreren Abrüstungs- und Kooperationsabkommen.
+  - Ab 1979 sowjetischer Einmarsch in Afghanistan, NATO-Doppelbeschluss spricht man von einem **zweiten Kalten Krieg**. (**NATO-Doppelbeschluss von 1979** verfolgte die NATO eine Doppelstrategie aus Nachrüstung mit Mittelstreckenraketen in Westeuropa und gleichzeitigem Angebot zu Rüstungsverhandlungen gegenüber der UdSSR.)
 
 
 
