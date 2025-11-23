@@ -20,7 +20,7 @@ Seiten 14, 15
 # NS-Verbrecher und Kollaborateure  
 Seite 16
 
-- Spontane Racheaktionen über ganz Europa gegen frühere NS-Kollaborateure und deutsche Bevölkerung (1944/1945).
+- Spontane Racheaktionen über ganz Europa gegen frühere NS-Kollaborateure und deutsche Bevölkerung.
 
 Nürnberg:
 - Die Hauptkriegsverbrecher wurden in Nürnberg  angeklagt. Anklagepunkte: Vorbereitung und Führung eines Angriffskrieges, Kriegsverbrechen, Verbrechen gegen die Menschlichkeit.  
