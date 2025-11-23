@@ -14,7 +14,7 @@ Seiten 14, 15
 - In Deutschland: Zusammenbruch der Gesellschaft, Zigaretten und Barter-Tausch als Ersatzwährung, viele Menschen ohne Wohnung, Missbrauch und Gewalt gegen die Zivilbevölkerung durch Soldaten.
 - 1945 befanden sich 8 Millionen Ausländer in Deutschland (ehemalige Zwangsarbeiter und Kriegsgefangene).
 - Auf der **Potsdamer Konferenz** (1945) wurde die Umsiedlung von Deutschen aus der Tschechoslowakei und aus Ungarn beschlossen. Insgesamt wurden etwa 14 Millionen Deutsche umgesiedelt, von denen rund 2 Millionen auf der Flucht starben. Die große Zahl an Flüchtlingen und Vertriebenen stellte eine Herausforderung für das zerstörte Deutschland dar.
-- **Westverschiebung Polens**: Polen verlor im Osten Territorien an die Sowjetunion und erhielt im Gegenzug Gebiete, die zuvor zum Deutschen Reich gehört hatten (ab 1945).
+- **Westverschiebung Polens**: Polen verlor im Osten Territorien an die Sowjetunion und erhielt im Gegenzug Gebiete, die zuvor zum Deutschen Reich gehört hatten.
 - Deutschland verlor 1/4 der Territorien.
 
 # NS-Verbrecher und Kollaborateure  
