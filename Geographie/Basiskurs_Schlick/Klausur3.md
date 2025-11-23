@@ -100,7 +100,7 @@ In den nächsten Jahrzehnten wird der Anteil der städtischen Bevölkerung deutl
 
 # Klima
 
-## $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Klimawandel
+## $${\color{darkorange}Wiederholung\ aus\ Kl2:}$$ Klimawandel
 
 [Video](https://www.youtube.com/watch?v=tMwFNMfjFuU)
 
