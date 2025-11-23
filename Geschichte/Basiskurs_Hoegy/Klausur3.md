@@ -65,8 +65,10 @@ Seiten 30, 31, 36, 38, 39, 46, 47
 
 - In den Westzonen wird nach 1945 eine **Entnazifizierung** begonnen, bleibt aber wegen überlasteter Behörden, oberflächlicher Verfahren und Personalmangels unvollständig(Man versuchte nützliche Beamten nicht entlassen); viele ehemalige NSDAP-Mitglieder bleiben in Verwaltung und Justiz.  
 
-- Mit den **Kommunalwahlen** (1946) werden lokale demokratische Strukturen wieder aufgebaut; die Bundesländer in den Westzonen entstehen als föderale Einheiten eines künftigen westdeutschen Staates (1946); zentrale Parteien wie SPD, CDU/CSU und FDP werden wiedergegründet (ab 1945/46).  
+- Mit den **Kommunalwahlen** (1946) werden lokale demokratische Strukturen wieder aufgebaut; die Bundesländer in den Westzonen entstehen als föderale Einheiten eines künftigen westdeutschen Staates (1946); zentrale Parteien wie SPD, CDU/CSU und FDP werden wiedergegründet (ab 1945/46).
 
+-  Die westlichen Besatzungsmächte vereinigten schrittweise ihre Zonen, zuerst USA und Großbritannien zur Bizone (1947), später mit der französischen Zone zur Trizone (1948).
+  
 - Die wirtschaftliche Ordnung in den Westzonen orientiert sich an den Vorstellungen der westlichen Besatzungsmächte: Erhalt von Privateigentum an Produktionsmitteln, Fortführung einer **Marktwirtschaft**, keine umfassende Verstaatlichung der Großindustrie und keine Umverteilung von Land.  
 
 - Mit dem **Marshallplan (ERP)** als US-Hilfsprogramm zur Stabilisierung Westeuropas (1948) und zur Einbindung Westdeutschlands in den Westen sowie mit der Währungsreform und Einführung der **Deutschen Mark** in den Westzonen (1948) werden entscheidende Grundlagen für den späteren wirtschaftlichen Aufschwung der BRD geschaffen.  
