@@ -44,6 +44,9 @@ Seiten 15, 20, 21, 23, 30
   - **Rüstungswettlauf**: Beide Seiten begannen, sich aufzurüsten, was als Bedrohung von der jeweils anderen Seite interpretiert wurde.
 - 1946 beschrieb Churchill die Spaltungslinie zwischen westlichen, kapitalistischen und östlich-sozialistischen Blöcken als einen **eisernen Vorhang**.
 - **Truman-Doktrin (1947)**: Neue US-Außenpolitik der Eindämmung (Containment) zur Verhinderung des Vordringens des Kommunismus; die USA erklärten sich bereit, gefährdete Staaten politisch, wirtschaftlich und militärisch zu unterstützen. Sie markierte das Ende der gemeinsamen Politik mit der UdSSR und stand im Zusammenhang mit dem European Recovery Program (ERP), auch bekannt als Marshall-Plan.
+
+- **Marshall-Plan / ERP (1948)**: US-Wirtschaftshilfeprogramm zum Wiederaufbau Westeuropas, gekoppelt an Zusammenarbeit und marktwirtschaftliche Ordnung; stärkte den westlichen Block und vertiefte die Spaltung zu den von der UdSSR kontrollierten Staaten, die auf Weisung Moskaus nicht teilnahmen.
+
 - Aufgrund des Ost-West-Konflikts kommt es zur **Blockbildung**: Die westlichen Staaten schließen sich militärisch in der **NATO** (ab 1949) und wirtschaftlich in der **OEEC** (ab 1948, Organisation for European Economic Co-operation) zusammen, während die Ostblockstaaten im **Warschauer Pakt** (ab 1955) militärisch kooperieren und mit dem **Rat für gegenseitige Wirtschaftshilfe** (ab 1949) eine gemeinsame Wirtschaftsorganisation schaffen.
 - Aus demselben Grund kam es zur **Spaltung Deutschlands**: Die westlichen Besatzungsmächte vereinigten schrittweise ihre Zonen, zuerst USA und Großbritannien zur **Bizone** (1947), später mit der französischen Zone zur **Trizone** (1948) und führten Politik westlicher wirtschaftlicher Integration. In der **sowjetischen Besatzungszone (SBZ)** verfolgte die UdSSR eine andere Politik: Demontage von Betrieben und umfangreiche **Reparationsentnahmen**.
 
