@@ -172,5 +172,10 @@ Im Kyoto-Protokoll von 1997 wurde erstmals die Reduktion von Treibhausgasen in e
 
 Am 12.12.2015 schlossen 196 Staaten einen Vertrag, um den Klimawandel zu bremsen und seine Auswirkungen zu reduzieren. Durch das Abkommen soll der globale Temperaturanstieg auf deutlich unter 2 °C im Vergleich zum vorindustriellen Niveau beschränkt werden. Jedes Land soll selbst festlegen, um wie viel Prozent es die Treibhausgasemissionen reduzieren möchte. [Video](https://www.youtube.com/watch?v=Sr2J_1J9w3A)
 
+## Hurrikan Melissa
+
+[Video](https://www.youtube.com/watch?v=aNIc3qgg8Zo)
+
+Hurrikan Melissa war ein außergewöhnlich starker Hurrikan der Kategorie 5, der Ende Oktober 2025 mit Windgeschwindigkeiten von fast 300 km/h auf Jamaika traf und dort als bislang stärkster Sturm des Landes verheerende Überschwemmungen, Erdrutsche und massive Schäden an Wohngebäuden, Straßen und Stromnetzen verursachte. In der Karibik kamen mindestens mehrere Dutzend Menschen ums Leben, Hunderttausende wurden zeitweise obdachlos, und allein in Jamaika entsprechen die Zerstörungen nach ersten Schätzungen etwa einem Drittel der jährlichen Wirtschaftsleistung, was den Wiederaufbau zu einer langfristigen ökonomischen Belastung macht. Klimaforscher bewerten Melissa als Beispiel dafür, wie der menschengemachte Klimawandel durch wärmere Ozeane die Häufigkeit und Intensität solcher Extremereignisse erhöht und damit die Verwundbarkeit ohnehin benachteiligter Regionen, etwa kleiner Inselstaaten im Globalen Süden, weiter verschärft.
 
 
