@@ -159,6 +159,8 @@ Die Bekämpfung der globalen Herausforderung Klimawandel beinhaltet zwei Strateg
 
 [Video](https://www.youtube.com/shorts/rhNvvDcIA2k)
 
+[Tagerschau](https://youtu.be/jKvpAVrmIu8?si=PCJ9XPXxuZEV9_RC&t=180)
+
 Die "Conference of the Parties" (COP) ist die jährliche Konferenz der Parteien der [UNFCCC](https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change) zur Bewertung der Fortschritte im Umgang mit dem Klimawandel sowie zur Koordination von globalen Klimaschutzmaßnahmen.  Wesentliche Ergebnisse früherer COP-Treffen umfassen das Kyoto-Protokoll und das Pariser Abkommen, welche rechtliche Rahmenbedingungen und Zielsetzungen zur Emissionsminderung festlegten. Auf der COP30 im brasilianischen Belém einigten sich die Staaten nach zähen Verhandlungen auf ein Kompromisspaket („Mutirão“-Abkommen), das unter anderem eine Verdreifachung der Finanzmittel für Klimaanpassung bis etwa 2035, einen neuen Mechanismus für eine „Just Transition“ sowie ein Set globaler Indikatoren zur Bewertung der Anpassungsfortschritte vorsieht. Zugleich scheiterte der Gipfel an einem klaren Fahrplan zum Ausstieg aus Kohle, Öl und Gas, obwohl mehr als 80 Länder eine solche Roadmap forderten, was zu scharfer Kritik von besonders verwundbaren Staaten und Umweltorganisationen führte. Überschattet wurde die Konferenz zudem von einem Brand in der von der UNO kontrollierten „Blue Zone“ des Tagungsgeländes, der zu einer kurzfristigen Evakuierung und der Behandlung mehrerer Personen wegen Rauchvergiftung führte.
 
 
