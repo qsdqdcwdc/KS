@@ -93,7 +93,7 @@ Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unte
 ### Lebenserwartung
 Lebenserwartung gibt an, wie viele Lebensjahre eine Person aufgrund aktueller Sterblichkeitsraten durchschnittlich erwarten kann. Dieser Wert wird am häufigsten als Lebenserwartung bei Geburt angegeben.
 
-## $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Städte
+## $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Urbanisierung
 In den nächsten Jahrzehnten wird der Anteil der städtischen Bevölkerung deutlich ansteigen. Die Ballung von Menschen auf begrenztem Raum kann zu weiteren sozialen Problemen und Konflikten innerhalb des Stadt raumes führen. [Video](https://www.youtube.com/watch?v=5R2TqtJEeQI&list=PLD9h3ashjTZJNZpzQ4JMq_gS0aFD6u4Oy&index=3)
 
 
