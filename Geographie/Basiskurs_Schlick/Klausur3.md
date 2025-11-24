@@ -68,6 +68,8 @@ Der **Global Gender Gap Index** (GGI), entwickelt vom World Economic Forum (WEF)
 Die Analphabetenrate, misst den Prozentsatz der erwachsenen Bevölkerung (typischerweise Personen ab 15 Jahren), der nicht in der Lage ist, einfache und kurze Sätze zu lesen und zu schreiben.
 <br><br>
 
+### Lebenserwartung
+Lebenserwartung gibt an, wie viele Lebensjahre eine Person aufgrund aktueller Sterblichkeitsraten durchschnittlich erwarten kann. Dieser Wert wird am häufigsten als Lebenserwartung bei Geburt angegeben.
 
 ## $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Klassifizierung von Ländern
 ### Erste, Zweite und Dritte Welt
@@ -92,13 +94,41 @@ Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unte
 - Entwicklungsländer: Geringer Entwicklungsstand, niedriges Pro-Kopf-Einkommen, z. B. Afghanistan, Ghana.
 
 
-### Lebenserwartung
-Lebenserwartung gibt an, wie viele Lebensjahre eine Person aufgrund aktueller Sterblichkeitsraten durchschnittlich erwarten kann. Dieser Wert wird am häufigsten als Lebenserwartung bei Geburt angegeben.
+
+
+## $${\color{darkorange}Wiederholung\ aus\ Kl2:}$$ Vergleich von Entwicklungsindikatoren nach Länderkategorie
+
+Die folgende Tabelle hebt typische Wertebereiche für jeden Indikator in industrialisierten, aufstrebenden und Entwicklungsländern hervor.
+
+| **Indikator**                  | **Industrieländer**     | **Schwellenländer**       | **Entwicklungsländer**   |
+|--------------------------------|---------------------------|------------------------|--------------------------|
+| Gini-Koeffizient               | 0,25 – 0,40               | 0,35 – 0,50            | 0,40 – 0,60              |
+| BIP pro Kopf (USD)             | 20.000 – 60.000+          | 1.100 – 20.000         | 500 – 2.000           |
+| HDI                            | 0,80 – 0,94               | 0,60 – 0,79            | 0,40 – 0,55              |
+| Beschäftigung (Landw./Ind./Dien.) | <5% / 20–30% / 65–80%      | 10–30% / 20–35% / 50–70% | 50–70% / 10–20% / 20–40%   |
+| Lebenserwartung (Jahre)        | 75 – 85                  | 65 – 75                | 55 – 65                  |
+| Globaler Hungerindex           | 0 – 5                   | 0 – 19                 | 20 – 45                  |
+| Gender Gap Index               | 0,75 – 0,91              | 0,65 – 0,75            | 0,40 – 0,65              |
+| Analphabetismusrate (%)        | 0 – 5                   | 5 – 25                 | 25 – 40                  |
+
+<details>
+  <summary>heir klicken für volle Tabelle</summary>
+
+| **Indikator**                                         | **Industrieländer**                                                                                                                                         | **Schwellenländer**                                                                                                                                                                      | **Entwicklungsländer**                                                                                                                                                      |
+|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Gini-Koeffizient** (Ungleichheit)                   | Typischerweise geringe bis mäßige Ungleichheit – Gini ca. 0,25–0,40 in den meisten fortgeschrittenen Volkswirtschaften. (OECD nach Steuern ca. 0,24–0,49; z. B. nordische Länder ca. 0,25.)                      | Mäßige bis hohe Ungleichheit – Gini häufig im Bereich von 0,35–0,50, je nach Land. Viele aufstrebende Volkswirtschaften (z. B. in Lateinamerika) weisen Gini-Werte > 0,40 auf.                                             | Oft hohe Ungleichheit – Gini meist > 0,40, teils ca. 0,50–0,60+. Einige Entwicklungsländer haben zu den weltweit höchsten Gini-Werten gezählt (z. B. Südafrika ca. 0,63 vor Umverteilung).         |
+| **BIP pro Kopf (USD)**                              | Hohe Einkommensniveaus – typischerweise zehntausende USD pro Person. Hoch einkommensstarke Nationen haben ein BNE pro Kopf von > ca. 14.000 USD (viele über 30.000 USD).                                 | Mittleres Einkommen – einige tausend bis niedrige zehntausende USD pro Kopf. Obere Mittelschichtsländer liegen etwa bei 4.500–14.000 USD pro Kopf, während untere Mittelschichtsländer ca. 1.100–4.500 USD aufweisen.  | Niedrigeinkommen – sehr geringes BIP pro Kopf (oft < 1.000–2.000 USD). Länder mit niedrigem Einkommen (WB-Definition) haben ein BNE pro Kopf von < 1.145 USD, was weitverbreitete Armut widerspiegelt. |
+| **Human Development Index (HDI)**                   | **Hohe menschliche Entwicklung** – HDI im Bereich von ca. 0,80–0,94. Die meisten industrialisierten Länder fallen in die Kategorie „Sehr hoch“ (≥ 0,800).                                               | **Mäßig bis hohe HDI** – ungefähr 0,60–0,79. Viele aufstrebende Volkswirtschaften liegen in den Bereichen Hoch (0,700–0,799) oder im oberen Mittelfeld (0,550–0,699).                                                    | **Niedrig bis mäßige HDI** – oft < 0,55 (Kategorie „Niedrig“). Am wenigsten entwickelte Nationen haben häufig HDI-Werte im Bereich 0,40–0,50, was Defizite in Gesundheit, Bildung und Einkommen signalisiert.  |
+| **Beschäftigte nach Wirtschaftssektor**<br>(Landwirtschaft / Industrie / Dienstleistungen) | Vorwiegend Dienstleistungen; minimale Landwirtschaft. In fortgeschrittenen Volkswirtschaften beschäftigt die Landwirtschaft nur wenige Prozent der Arbeitskräfte (oft < 5 %), Industrie ca. 20–30 % und Dienstleistungen typischerweise ca. 65–80 % (hohe Produktivität erlaubt einen geringen Anteil an landwirtschaftlicher Beschäftigung). | Gemischt, im Übergang befindliche Struktur. Die Landwirtschaft bleibt signifikant (etwa 10–30 % der Arbeitsplätze, wenn auch rückläufig mit der Entwicklung), Industrie ca. 20–35 % und Dienstleistungen rund 50–70 %. In Ländern mit unterem Mittelschichtseinkommen beträgt der Durchschnitt der Landwirtschaft ca. 35 % und Dienstleistungen ca. 47 % (in Ländern mit oberem Mittelschichtseinkommen höher). | Agrarische Mehrheit. Die Landwirtschaft dominiert die Beschäftigung und bindet oft über die Hälfte der Arbeitskräfte (Durchschnitt in Niedrigeinkommensländern ≈ 63 %, in einigen Fällen > 70 %). Industrie ist gering (~10–20 %) und Dienstleistungen sind aufgrund des frühen Entwicklungsstadiums begrenzt (20–40 % der Arbeitsplätze). |
+| **Lebenserwartung bei der Geburt**                          | **Hohe Langlebigkeit:** typischerweise zwischen Mitte 70 und Mitte 80 Jahren. In Hoch-Einkommensländern liegt der Durchschnitt bei ca. 80 Jahren, viele überschreiten 80 (z. B. Japan ca. 84).                                 | **Mäßige Langlebigkeit:** etwa 65–75 Jahre. In Mittlereinkommensländern liegt der Durchschnitt bei ca. 71 Jahren, wobei Länder der oberen Mittelschicht sich den Werten der Hoch-Einkommensländer annähern können, während Länder der unteren Mittelschicht oft in den 60ern verharren.     | **Niedrigere Langlebigkeit:** oft zwischen Mitte 50 und Mitte 60 Jahren. In Niedrigeinkommensländern liegt der Durchschnitt bei ca. 63 Jahren, und einige konfliktbetroffene oder besonders arme Nationen haben Lebenserwartungen in den 50ern.          |
+| **Globaler Hungerindex (GHI)**^1                      | **Niedrig (minimaler Hunger)** – GHI im „niedrigen“ Bereich (Wert < 10). Die meisten industrialisierten Länder werden im GHI nicht gelistet (vernachlässigbarer Hunger), effektiv < 5 (beste Kategorie). | **Niedriger bis mäßiger Hunger** – viele aufstrebende Länder verzeichnen niedrige Hungerwerte (z. B. Lateinamerika, Ostasien mit GHI < 10), während einige einen mäßigen Hunger (GHI ca. 10–19) aufweisen.                | **Erheblicher Hunger in vielen Fällen** – der GHI liegt häufig in der Kategorie „Ernst“ (20–34) und in schlimmsten Fällen in „Alarmierend“ (> 35). Regionen wie Subsahara-Afrika und Südasien zeigen oft GHI-Werte von ca. 35–45 (alarmierend). |
+| **Globaler Gender Gap Index (WEF)**                     | **Geringe Geschlechterkluft:** typischerweise ca. 0,75–0,85 (75–85 % Gleichstellung). Viele entwickelte Länder rangieren an der Spitze, da sie > 80 % der Geschlechterunterschiede schließen (z. B. nordische Länder ca. 0,82–0,91; Island ca. 91 %). | **Mäßige Kluft:** oft ca. 0,65–0,75 (65–75 % Gleichstellung). Aufstrebende Volkswirtschaften variieren stark – einige (z. B. in Osteuropa oder Lateinamerika) liegen bei etwa 0,70–0,78, andere näher bei 0,60. Der globale Durchschnitt liegt bei ca. 0,684 (68,4 %), was viele aufstrebende Länder im mittleren Bereich widerspiegelt. | **Größere Geschlechterkluft:** Viele Entwicklungsländer erzielen Werte von ca. 0,50–0,65, was auf erhebliche Ungleichheiten hinweist. Die am niedrigsten bewerteten Länder erreichen ca. 0,40–0,55 (z. B. Afghanistan ca. 0,405 am unteren Ende). Insgesamt weisen Frauen in Niedrigeinkommensgesellschaften deutlich geringere Teilhabe in Bildung, Gesundheit sowie wirtschaftlicher und politischer Sphäre auf. |
+| **Analphabetismusrate (Erwachsene)**                           | **Sehr geringer Analphabetismus** – praktisch universelle Alphabetisierung. Entwickelte Nationen haben Alphabetisierungsraten von ca. 96–99 %, sodass der Analphabetismus unter 5 % liegt (oft nur in kleinen älteren oder marginalisierten Gruppen). | **Mäßiger Analphabetismus** – verbessert, aber es bestehen weiterhin deutliche Lücken. Viele aufstrebende Länder weisen Alphabetisierungsraten im Bereich von 75–95 % auf, was einem Analphabetismus von ca. 5–25 % entspricht. (Beispielsweise Indien ca. 77 % alphabetisiert; China ca. 97 % alphabetisiert.) | **Hoher Analphabetismus** – ein signifikanter Anteil der Erwachsenen kann nicht lesen. Am wenigsten entwickelte Länder erreichen im Durchschnitt nur ca. 65 % Alphabetisierungsrate (≈ 35 % Analphabetismus). In einigen verarmten Ländern |
+
+</details>
 
 ## $${\color{darkorange}Wiederholung\ aus\ Kl1:}$$ Urbanisierung
 In den nächsten Jahrzehnten wird der Anteil der städtischen Bevölkerung deutlich ansteigen. Die Ballung von Menschen auf begrenztem Raum kann zu weiteren sozialen Problemen und Konflikten innerhalb des Stadt raumes führen. [Video](https://www.youtube.com/watch?v=5R2TqtJEeQI&list=PLD9h3ashjTZJNZpzQ4JMq_gS0aFD6u4Oy&index=3)
-
-
 
 # Klima
 
