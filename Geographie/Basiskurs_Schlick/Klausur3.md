@@ -1,3 +1,5 @@
+<code>Aktualisieren Sie die Seite bei jedem Aufruf, um die neueste Version dieses Dokuments zu erhalten.</code>
+
 # Städte
 
 todo
