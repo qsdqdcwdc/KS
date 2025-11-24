@@ -98,7 +98,7 @@ Die Einteilung in Industrie-, Schwellen- und Entwicklungsländer beruht auf unte
 
 ## $${\color{darkorange}Wiederholung\ aus\ Kl2:}$$ Vergleich von Entwicklungsindikatoren nach Länderkategorie
 
-Die folgende Tabelle hebt typische Wertebereiche für jeden Indikator in industrialisierten, aufstrebenden und Entwicklungsländern hervor.
+Die folgende Tabelle hebt typische Wertebereiche für jeden Indikator in Industrieländer, Schwellenländer und Entwicklungsländern hervor.
 
 | **Indikator**                  | **Industrieländer**     | **Schwellenländer**       | **Entwicklungsländer**   |
 |--------------------------------|---------------------------|------------------------|--------------------------|
