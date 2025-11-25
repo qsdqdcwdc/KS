@@ -25,8 +25,6 @@ Städte profitieren von den Ressourcen des Umlands: Freizeit- und Naherholung Ve
 
 **Hauptursachen der Verstädterung** sind Migration von Land in der Stadt(erklärt durch Push- und Pull-Faktoren), überdurchschnittliche Geburtsraten wegenjüngerer und daher mehr reproduktiv aktiven Bevölkerung, und Umklassifizierung von Sidlüngen zur Städten.
 
-**Metropolisierung** beschreibt konzentration der Bevölkerung auf Groß der Stadt.
-
 ## Push- und Pull-Faktoren der Verstädterung
 
 **Push- und Pull-Faktoren** sind die Ursachen von Wanderungsbewegungen, insbesondere der Land-Stadt-Wanderung: Push-Faktoren stoßen Menschen aus ihrem Herkunftsraum ab, Pull-Faktoren ziehen sie in Zielräume wie Städte.
@@ -46,6 +44,20 @@ Häufig bleiben die erwarteten Pull-Vorteile jedoch teilweise unerfüllt: Ein gr
 - **Verstädterungsrate**: Wachstumsrate der städtischen Bevölkerung in Prozent
 - **Index of Primacy/Metropolisierung Grad**: Verhältnis zwischen den beiden größten Städten eines Staates
 
+
+### Begrifflichkeiten:
+
+**Metropolisierung** beschreibt konzentration der Bevölkerung auf Groß der Stadt.
+
+**Shrinking City** ist eine Stadt, die infolge von Deindustrialisierung an Bevölkerung und Arbeitsplätzen verliert. Häufig liegt das an einer monostrukturierten Wirtschaft, die stark vom sekundären Sektor, also der Industrie, abhängt. Wenn Fabriken schließen oder Produktionsstandorte verlagert werden, wie etwa im Fall von Detroit in Nordamerika, bricht die wirtschaftliche Grundlage weg und die Stadt beginnt zu schrumpfen.
+
+**Global City** ist eine Stadt, mit weltweiter Bedeutung. Da befinden sich oft:
+- Hauptsitze internationaler Unternehmen, Konzentration von unternehmensbezogenen Dienstleistungen(Banken, Börsen, Versicherungen)
+- Messen mit internationaler Bedeutung
+- Sitzen von wichtigen NGOs und NGOs
+- Die Besitzen über weltweite Bedeutung im Bereich Verkehr(Flughafen und Seehafen), Medizin, Bildung und Kultur.
+
+**Fragmentierung** ist räumliche Trennung der sozialen Gruppen.
 
 
 # Disparitäten
