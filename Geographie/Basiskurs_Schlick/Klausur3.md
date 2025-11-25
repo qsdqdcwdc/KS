@@ -6,12 +6,47 @@
 Eine Stadt ist eine räumlich abgegrenzte, Siedlung relativer Größe mit hoher Bevölkerungs- und Arbeitsplatzdichte, funktionaler und sozialräumlicher Gliederung und zentralen Funktionen für ihr Umland [^1]. 
 
 Erklärung:
-- Relative Größe: Eine für alle Städte festgelegte Mindesteinwohnerzahl ist aufgrund der unterschiedlichen naturräumlichen Gegebenheiten als einziger Beschreibungsfaktor kein geeignetes Kriterium.
-- Funktionale Gliederung: Trennung in Wohn-, Arbeits-, Versorgungs-, Freizeit- und Erholungsräume. Städte gleichermaßen angewandt werden kann. So gelten in Deutschland Gemeinden ab 2.000 Einwohner als Städte, in Island dagegen bereits Siedlungen mit mehr als 200 Einwohnern.
-- Sozialräumliche Gliederung: Unterschiedliche Stadtviertel mit sozialer und ethnischer Differenzierung (z.B. teure Viertel, benachteiligte Viertel).
-- Zentralität: Stadt erfüllt Funktionen von Versorgungs-, Verwaltungs-, Bildungs-, Gesundheits-, Verkehrs- und Kulturzentrum für den Umwand.
+- Relative Größe: Eine für alle Städte festgelegte Mindesteinwohnerzahl ist aufgrund der unterschiedlichen naturräumlichen Gegebenheiten als einziger Beschreibungsfaktor kein geeignetes Kriterium, der auf Städte gleichermaßen angewandt werden kann. So gelten in Deutschland Gemeinden ab 2.000 Einwohner als Städte, in Island dagegen bereits Siedlungen mit mehr als 200 Einwohnern. 
+- Funktionale Gliederung: Ausbildung von Stadtvierteln aufgrund Lage Bodenpreise Stadtentwicklungsplanung und trennung in Wohn-, Arbeits-, Versorgungs-, Freizeit- und Erholungsräume. 
+- Zentralität: Stadt erfüllt Funktionen von Versorgungs-, Verwaltungs-, Bildungs-, Gesundheits-, Dienstleistungszentrum für den Umwand.
+- Sozialräumliche Gliederung: Unterschiedliche Stadtviertel mit sozialer und ethnischer Differenzierung (z.B. Viertel mit hoher Wohndichte → hohe Mietpreisel, benachteiligte Viertel → niedrige Mietpreise).
 
 [^1]: https://www.uni-muenster.de/Staedtegeschichte/portal/einfuehrung/Definitionen.html?utm_source=chatgpt.com#:~:text=Stadt%20ist%20eine,den%20vorherrschenden%20Kriterien
+
+**Hohe Bevölkerungsdichte** in Städten fürt zu: künstlich gestalteter Umwelt hoher Bebauungsdichte überwiegend mehrstöckigen Gebäuden
+
+Städte profitieren von den Ressourcen des Umlands: Freizeit- und Naherholung Versorgung (z.B. Trinkwasserspeicherung), Entsorgung (z.B. Müll), Bereitstellung großer Flächen (z.B. für Verkehrsknoten, Flughäfen).
+
+## Verstädterung
+
+**Urbanisierung** ist ein qualitativer Prozess (Beschrieben durch Eigenschaften und Merkmalen ohne Verwendung der Zahlen.):Es beschreibt Ausbreitung städtischer Lebens-, Wirtschafts- und Verhaltensweisen in vormals ländliche Räume.
+
+**Verstädterung** ist ein quantitativer Prozess (Beschrieben durch Messwerte):Es beschreibt zunahme der Zahl der Städte und ihrer Einwohner. Weltweit nimmt die Verstädterung zu, besonders dynamisch in Schwellenländern, während sie in Europa/Nordamerika schon mit der Industrialisierung begann. Asien und Afrika haben einen niedrigen Verstädterungsgrad, aber hohe Verstädterungsraten; Südamerika ist schon stark verstädtert, dort stagniert der verstädterungs Grad.
+
+**Hauptursachen der Verstädterung** sind Migration von Land in der Stadt(erklärt durch Push- und Pull-Faktoren), überdurchschnittliche Geburtsraten wegenjüngerer und daher mehr reproduktiv aktiven Bevölkerung, und Umklassifizierung von Sidlüngen zur Städten.
+
+**Metropolisierung** beschreibt konzentration der Bevölkerung auf Groß der Stadt.
+
+## Push- und Pull-Faktoren der Verstädterung
+
+**Push- und Pull-Faktoren** sind die Ursachen von Wanderungsbewegungen, insbesondere der Land-Stadt-Wanderung: Push-Faktoren stoßen Menschen aus ihrem Herkunftsraum ab, Pull-Faktoren ziehen sie in Zielräume wie Städte.
+
+| Kategorie       | Push Faktoren     (Land)                                                                                                                                                                                                   | Pull Faktoren        (Städte)                                                                                                                                                                               |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Industrieländer | • Abbau von Arbeitsplätzen wegen Automatisierung<br>• Geringe Ausbildungs und Aufstiegschancen im ländlichen Raum<br>• Geringe Vielfalt des Arbeitsmarktes und Abhängigkeit| • Vielfältiger Arbeitsmarkt im Dienstleistungs und Technologiesektor<br>• Dichtes Netz an Hochschulen und Weiterbildungsangeboten<br>• Bessere Infrastruktur und kulturelle Angebote |
+| Entwicklungs und Schwellenländer | • Strukturelle Armut und sehr geringe Einkommen<br>• Landknappheit, Umweltprobleme und Naturgefahren<br>• Mangelhafte Infrastruktur bei Bildung, Gesundheit und Verkehr | • Erwartung besserer Verdienstmöglichkeiten<br>• Besserer Zugang zu Schulen, Universitäten und Gesundheitsversorgung<br>• Hoffnung auf höheren Lebensstandard und sozialen Aufstieg in der Stadt |
+
+
+Häufig bleiben die erwarteten Pull-Vorteile jedoch teilweise unerfüllt: Ein großer Teil der Zuwandernden landet in informellen Siedlungen mit prekären Arbeits- und Lebensbedingungen, was die urbanen Disparitäten zusätzlich verschärft.
+
+
+## Verstädterung Messen
+
+- **Verstädterungsgrad**: Anteil der städtischen Bevölkerung an der Gesamtbevölkerung in Prozent
+- **Verstädterungsrate**: Wachstumsrate der städtischen Bevölkerung in Prozent
+- **Index of Primacy/Metropolisierung Grad**: Verhältnis zwischen den beiden größten Städten eines Staates
+
+
 
 # Disparitäten
 
