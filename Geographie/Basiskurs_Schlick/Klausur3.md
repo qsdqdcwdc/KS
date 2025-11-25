@@ -25,6 +25,19 @@ Städte profitieren von den Ressourcen des Umlands: Freizeit- und Naherholung Ve
 
 **Hauptursachen der Verstädterung** sind Migration von Land in der Stadt(erklärt durch Push- und Pull-Faktoren), überdurchschnittliche Geburtsraten wegenjüngerer und daher mehr reproduktiv aktiven Bevölkerung, und Umklassifizierung von Sidlüngen zur Städten.
 
+
+## Ökonomischer Wandel in Städten
+
+Städte waren zur Zeit der Industrialisierung vor allem Standorte des sekundären Sektors, also der Industrieproduktion. Mit der Globalisierung und dem sektoralen Strukturwandel verlagerten viele Unternehmen arbeitsintensive Produktion ins Ausland oder in günstigere Regionen. Gleichzeitig nahm die Bedeutung des Dienstleistungssektors zu (Tertiärisierung), später auch die von wissensintensiven Dienstleistungen wie Forschung, IT, Medien und Unternehmensberatung (Quartärisierung).
+
+In stark industriell geprägten Städten verstärkte sich dadurch der an anderer Stelle bereits definierte Prozess der Shrinking City mit Arbeitsplatzverlusten und sinkender Gewerbesteuerbasis. Städte mit breiter aufgestellter Wirtschaftsstruktur und hohem Anteil an Dienstleistungen und wissensintensiven Tätigkeiten konnten vom Strukturwandel profitieren.
+
+**Wirtschaftssektoren:**
+- Primärer Sektor: Urproduktion, zum Beispiel Landwirtschaft, Forstwirtschaft, Fischerei, Bergbau  
+- Sekundärer Sektor: Industrie und Handwerk, Verarbeitung von Rohstoffen zu Produkten  
+- Tertiärer Sektor: Dienstleistungen, zum Beispiel Handel, Verkehr, Bildung, Gesundheit, Verwaltung  
+- Quartärer Sektor: hoch spezialisierte wissensintensive Dienstleistungen, zum Beispiel Forschung und Entwicklung, IT, Medien, Finanz- und Versicherungsdienste  
+
 **Metropolisierung** beschreibt konzentration der Bevölkerung auf Groß der Stadt.
 
 **Shrinking City** ist eine Stadt, die infolge von Deindustrialisierung an Bevölkerung und Arbeitsplätzen verliert. Häufig liegt das an einer monostrukturierten Wirtschaft, die stark vom sekundären Sektor, also der Industrie, abhängt. Wenn Fabriken schließen oder Produktionsstandorte verlagert werden, wie etwa im Fall von Detroit in Nordamerika, bricht die wirtschaftliche Grundlage weg und die Stadt beginnt zu schrumpfen.
@@ -56,11 +69,6 @@ Häufig bleiben die erwarteten Pull-Vorteile jedoch teilweise unerfüllt: Ein gr
 - **Verstädterungsrate**: jährliche prozentuale Zunahme des Verstädterungsgrades. Beispiel für die jährliche Verstädterungsrate 2015 bis 2020: Nordamerika etwa 1,0 Prozent, Afrika 3,6 Prozent.  
 
 - **Index of Primacy / Metropolisierungsgrad**: Verhältnis zwischen der Bevölkerungszahl der größten Stadt und der zweitgrößten Stadt eines Staates. Formel: Index of Primacy = Bevölkerungszahl größter Stadt / Bevölkerungszahl zweitgrößter Stadt. Beispiel 2018: USA (New York zu Los Angeles) etwa 1,5, Nigeria (Lagos zu Kano) etwa 3,5. Ein höherer Wert bedeutet eine stärkere Dominanz der größten Stadt im nationalen Städtesystem.  
-
-
-
-
-
 
 
 ## Citybildung
@@ -135,6 +143,7 @@ Typische Merkmale dieser marginalisierten Siedlungen:
 - Kaum oder keine städtische Infrastruktur wie Wasser und Abwassersysteme, Stromversorgung oder Müllabfuhr, häufig auch fehlende Schulen und Gesundheitsstationen  
 - Hohe Verletzbarkeit gegenüber Naturgefahren, zum Beispiel Überschwemmungen Hangrutschungen oder Stürmen, da die Siedlungen oft in riskanten Lagen ohne Schutzmaßnahmen liegen  
 - Prekäre Einkommenssituation der Bewohner, viele arbeiten im informellen Sektor mit unsicheren und schlecht bezahlten Tätigkeiten  
+
 
 ## Städtisches Ökosystem Versorgung und Entsorgung
 
