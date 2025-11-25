@@ -2,7 +2,16 @@
 
 # Städte
 
-todo
+## Geographischer Stadtbegriff
+Eine Stadt ist eine räumlich abgegrenzte, Siedlung relativer Größe mit hoher Bevölkerungs- und Arbeitsplatzdichte, funktionaler und sozialräumlicher Gliederung und zentralen Funktionen für ihr Umland [^1]. 
+
+Erklärung:
+- Relative Größe: Eine für alle Städte festgelegte Mindesteinwohnerzahl ist aufgrund der unterschiedlichen naturräumlichen Gegebenheiten als einziger Beschreibungsfaktor kein geeignetes Kriterium.
+- Funktionale Gliederung: Trennung in Wohn-, Arbeits-, Versorgungs-, Freizeit- und Erholungsräume. Städte gleichermaßen angewandt werden kann. So gelten in Deutschland Gemeinden ab 2.000 Einwohner als Städte, in Island dagegen bereits Siedlungen mit mehr als 200 Einwohnern.
+- Sozialräumliche Gliederung: Unterschiedliche Stadtviertel mit sozialer und ethnischer Differenzierung (z.B. teure Viertel, benachteiligte Viertel).
+- Zentralität: Stadt erfüllt Funktionen von Versorgungs-, Verwaltungs-, Bildungs-, Gesundheits-, Verkehrs- und Kulturzentrum für den Umwand.
+
+[^1]: https://www.uni-muenster.de/Staedtegeschichte/portal/einfuehrung/Definitionen.html?utm_source=chatgpt.com#:~:text=Stadt%20ist%20eine,den%20vorherrschenden%20Kriterien
 
 # Disparitäten
 
@@ -49,7 +58,7 @@ Die Indizes dieser Bereiche werden gemittelt und auf einer Skala von 0 (niedrigs
 <br><br>
 
 ### Human Sustainable Development Index (HSDI)
-**Human Sustainable Development Index** (HSDI): ist HDI aber mit noch einem Kernbereich: den Treibhausgas-Emissionen pro Kopf (in CO2-Äquivalenten). ```(ein unglaublich wichtiger globaler Indikator, für den es nicht einmal eine englische Wikipedia-Seite gibt)```
+**Human Sustainable Development Index** (HSDI): ist HDI aber mit noch einem Kernbereich: den Treibhausgas-Emissionen pro Kopf (in CO2-Äquivalenten). ```ein unglaublich wichtiger globaler Indikator, für den es nicht einmal eine englische Wikipedia-Seite gibt(stand 2025)```
 <br><br>
 
 ### Global Hunger Index (GHI)
