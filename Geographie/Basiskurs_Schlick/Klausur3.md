@@ -38,7 +38,7 @@ Städte profitieren von den Ressourcen des Umlands: Freizeit- und Naherholung Ve
 
 ## Push- und Pull-Faktoren der Verstädterung
 
-**Push- und Pull-Faktoren** sind die Ursachen von Wanderungsbewegungen, insbesondere der Land-Stadt-Wanderung: Push-Faktoren stoßen Menschen aus ihrem Herkunftsraum ab, Pull-Faktoren ziehen sie in Zielräume wie Städte.
+**Push- und Pull-Faktoren** sind die Ursachen von der Land-Stadt-Wanderung: Push-Faktoren stoßen Menschen aus ihrem Herkunftsraum (Land) ab, Pull-Faktoren ziehen sie in Städte.
 
 | Kategorie       | Push Faktoren     (Land)                                                                                                                                                                                                   | Pull Faktoren        (Städte)                                                                                                                                                                               |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,9 +51,16 @@ Häufig bleiben die erwarteten Pull-Vorteile jedoch teilweise unerfüllt: Ein gr
 
 ## Verstädterung Messen
 
-- **Verstädterungsgrad**: Anteil der städtischen Bevölkerung an der Gesamtbevölkerung in Prozent
-- **Verstädterungsrate**: Wachstumsrate der städtischen Bevölkerung in Prozent
-- **Index of Primacy/Metropolisierung Grad**: Verhältnis zwischen den beiden größten Städten eines Staates
+- **Verstädterungsgrad**: Anteil der städtischen Bevölkerung an der Gesamtbevölkerung in Prozent. Formel: Verstädterungsgrad = Stadtbevölkerung / Gesamtbevölkerung * 100. Beispiel 2018: Nordamerika 82,2 Prozent, Afrika 42,5 Prozent.  
+
+- **Verstädterungsrate**: jährliche prozentuale Zunahme des Verstädterungsgrades. Beispiel für die jährliche Verstädterungsrate 2015 bis 2020: Nordamerika etwa 1,0 Prozent, Afrika 3,6 Prozent.  
+
+- **Index of Primacy / Metropolisierungsgrad**: Verhältnis zwischen der Bevölkerungszahl der größten Stadt und der zweitgrößten Stadt eines Staates. Formel: Index of Primacy = Bevölkerungszahl größter Stadt / Bevölkerungszahl zweitgrößter Stadt. Beispiel 2018: USA (New York zu Los Angeles) etwa 1,5, Nigeria (Lagos zu Kano) etwa 3,5. Ein höherer Wert bedeutet eine stärkere Dominanz der größten Stadt im nationalen Städtesystem.  
+
+
+
+
+
 
 
 ## Citybildung
@@ -115,7 +122,7 @@ Wichtige Gründe für Reurbanisierung:
 
 **Fragmentierung** ist räumliche Trennung der sozialen Gruppen.
 
-## Marginalisierung und informelle Siedlungen
+## Marginalisierung
 
 **Marginalisierung** beschreibt die Herausbildung informeller Siedlungen der ärmsten Bevölkerungsteile, die kaum in die formale Stadt integriert werden.
 
@@ -197,7 +204,7 @@ Warme Luft steigt auf und kühlt in der Höhe ab. Der Wasserdampf kondensiert un
 
 Luftverschmutzung entsteht vor allem durch:
 - Abgase aus der Verbrennung fossiler Energieträger in Kraftwerken Heizungen.  
-- Feinstaub aus dem Straßenverkehr zum Beispiel  Reifenabrieb  
+- Feinstaub aus dem Straßenverkehr zum Beispiel  Reifenabrieb (Feinstaub dringt tief in die Lunge und teils ins Blut ein und erhöht so das Risiko für Herz-Kreislauf-Erkrankungen und Lungenkrankheiten).
 - Gase und Dämpfe aus Lösungsmitteln und aus industriellen Prozessen  
 
 ### Maßnahmen gegen Überwärmung und hohe Verwundbarkeit
