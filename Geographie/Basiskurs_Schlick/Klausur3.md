@@ -129,6 +129,46 @@ Typische Merkmale dieser marginalisierten Siedlungen:
 - Hohe Verletzbarkeit gegenüber Naturgefahren, zum Beispiel Überschwemmungen Hangrutschungen oder Stürmen, da die Siedlungen oft in riskanten Lagen ohne Schutzmaßnahmen liegen  
 - Prekäre Einkommenssituation der Bewohner, viele arbeiten im informellen Sektor mit unsicheren und schlecht bezahlten Tätigkeiten  
 
+## Städtisches Ökosystem Versorgung und Entsorgung
+
+Städte funktionieren als **ökologische Systeme**, in denen große Mengen an Energie Wasser Rohstoffen und Gütern aus dem Umland und dem globalen Raum zufließen und in Form von Abfallstoffen Abwärme und Emissionen wieder abgegeben werden. Je stärker eine Stadt wächs.
+
+### Versorgung
+
+Unter **Versorgung** versteht man alle Inputs, die das Funktionieren der Stadt ermöglichen. Dazu gehören vor allem: Trinkwasser und Brauchwasser, Energie, Lebensmittel und Konsumgüter. Eine nachhaltige Stadtentwicklung versucht, diese Versorgungsströme zu verringern oder umweltverträglicher zu gestalten, etwa durch regionale Lebensmittelproduktion, Energie aus erneuerbaren Quellen oder wassersparende Technologien.
+
+### Outputs
+ Alle Outputs, die als Abfallprodukte aus der Stadt hinaus transportiert werden oder im Zur **Entsorgung** gehören alle Outputs, die als Abfallprodukte aus der Stadt hinaus transportiert werden oder im Stadtraum verbleiben:
+- **Abwasser**, das aus Haushalten Industrie und Gewerbe anfällt und in Kläranlagen gereinigt werden muss, bevor es in Flüsse oder Seen eingeleitet wird  
+- **Feste Abfälle**, die in Haushalten und Betrieben entstehen und je nach System verbrannt deponiert oder recycelt werden, wobei unzureichende Entsorgung vor allem in informellen Siedlungen zu massiven Umwelt und Gesundheitsproblemen führt  
+- **Abwärme und Luftschadstoffe**, die aus Heizungen Kraftwerken Verkehr und Industrie stammen und über das Stadtklima und die Luftqualität direkt auf die Lebensbedingungen der Stadtbewohner zurückwirken  
+- **Lärm und Lichtemissionen**, die zwar nicht stofflich sind, aber als Umweltbelastung das ökologische Gleichgewicht und die Gesundheit der Bevölkerung beeinträchtigen  
+
+Je schlechter die Entsorgung organisiert ist, desto stärker häufen sich Umweltprobleme wie verschmutzte Gewässer, Smog oder gesundheitliche Belastungen, was besonders in schnell wachsenden Städten des Globalen Südens sichtbar wird.
+
+### Ursachen von Wassermangel
+
+Wichtige Faktoren sind:
+- **Steigende Bevölkerungszahlen** und damit wachsender Bedarf an Trinkwasser und Brauchwasser in Haushalten Gewerbe und Industrie  
+- **Ungleich verteilte Nutzung**, bei der wohlhabende Haushalte Hotels und Freizeit Anlagen durch Pools große Gärten und Wellnessangebote deutlich mehr Wasser verbrauchen als ärmere Gruppen  
+- **Ausdehnung der Bewässerungslandwirtschaft** im Umland, die große Teile der verfügbaren Süßwasserressourcen bindet  
+- **Klimawandel**, der in vielen Regionen Dürren verstärkt und die Füllstände von Stauseen und Grundwasserreservoirs sinken lässt  
+
+
+## Wassermangel in Städten
+
+### Ursachen von Wassermangel
+
+- **Steigende Bevölkerungszahlen**
+- **Ungleich verteilte Nutzung**, bei der wohlhabende Haushalte Hotels und Freizeit Anlagen durch Pools große Gärten und Wellnessangebote deutlich mehr Wasser verbrauchen als ärmere Gruppen  
+- **Ausdehnung der Bewässerungslandwirtschaft** im Umland, die große Teile der verfügbaren Süßwasserressourcen bindet  
+- **Klimawandel**
+
+### Strategien gegen städtischen Wassermangel
+
+- Ausbau von **Wasserspartechnologien** in Haushalten und Betrieben, etwa wassersparende Armaturen, Recycling von Grauwasser.
+- Staffelung der **Wasserpreise**, die hohen Verbrauch unattraktiv macht und gleichzeitig Grundversorgung für alle bezahlbar halten muss.
+- Diversifizierung der **Wasserquellen** durch Entsalzungsanlagen, Regenwassernutzung.  
 
 
 
