@@ -8,7 +8,7 @@ Eine Stadt ist eine räumlich abgegrenzte, Siedlung relativer Größe mit hoher 
 Erklärung:
 - Relative Größe: Eine für alle Städte festgelegte Mindesteinwohnerzahl ist aufgrund der unterschiedlichen naturräumlichen Gegebenheiten als einziger Beschreibungsfaktor kein geeignetes Kriterium, der auf Städte gleichermaßen angewandt werden kann. So gelten in Deutschland Gemeinden ab 2.000 Einwohner als Städte, in Island dagegen bereits Siedlungen mit mehr als 200 Einwohnern. 
 - Funktionale Gliederung: Ausbildung von Stadtvierteln aufgrund Lage Bodenpreise Stadtentwicklungsplanung und trennung in Wohn-, Arbeits-, Versorgungs-, Freizeit- und Erholungsräume. 
-- Zentralität: Stadt erfüllt Funktionen von Versorgungs-, Verwaltungs-, Bildungs-, Gesundheits-, Dienstleistungszentrum für den Umwand.
+- Zentralität: Stadt erfüllt Funktionen von Versorgungs-, Verwaltungs-, Bildungs-, Gesundheits-, Dienstleistungszentrum für den Umland.
 - Sozialräumliche Gliederung: Unterschiedliche Stadtviertel mit sozialer und ethnischer Differenzierung (z.B. Viertel mit hoher Wohndichte → hohe Mietpreisel, benachteiligte Viertel → niedrige Mietpreise).
 
 [^1]: https://www.uni-muenster.de/Staedtegeschichte/portal/einfuehrung/Definitionen.html?utm_source=chatgpt.com#:~:text=Stadt%20ist%20eine,den%20vorherrschenden%20Kriterien
@@ -19,57 +19,50 @@ Städte profitieren von den Ressourcen des Umlands: Freizeit- und Naherholung Ve
 
 ## Verstädterung
 
-**Urbanisierung** ist ein qualitativer Prozess (Beschrieben durch Eigenschaften und Merkmalen ohne Verwendung der Zahlen.):Es beschreibt Ausbreitung städtischer Lebens-, Wirtschafts- und Verhaltensweisen in vormals ländliche Räume.
-
 **Verstädterung** ist ein quantitativer Prozess (Beschrieben durch Messwerte):Es beschreibt zunahme der Zahl der Städte und ihrer Einwohner. Weltweit nimmt die Verstädterung zu, besonders dynamisch in Schwellenländern, während sie in Europa/Nordamerika schon mit der Industrialisierung begann. Asien und Afrika haben einen niedrigen Verstädterungsgrad, aber hohe Verstädterungsraten; Südamerika ist schon stark verstädtert, dort stagniert der verstädterungs Grad.
 
 **Hauptursachen der Verstädterung** sind Migration von Land in der Stadt(erklärt durch Push- und Pull-Faktoren), überdurchschnittliche Geburtsraten wegenjüngerer und daher mehr reproduktiv aktiven Bevölkerung, und Umklassifizierung von Sidlüngen zur Städten.
 
-
-## Ökonomischer Wandel in Städten
-
-Städte waren zur Zeit der Industrialisierung vor allem Standorte des sekundären Sektors, also der Industrieproduktion. Mit der Globalisierung und dem sektoralen Strukturwandel verlagerten viele Unternehmen arbeitsintensive Produktion ins Ausland oder in günstigere Regionen. Gleichzeitig nahm die Bedeutung des Dienstleistungssektors zu (Tertiärisierung), später auch die von wissensintensiven Dienstleistungen wie Forschung, IT, Medien und Unternehmensberatung (Quartärisierung).
-
-In stark industriell geprägten Städten verstärkte sich dadurch der an anderer Stelle bereits definierte Prozess der Shrinking City mit Arbeitsplatzverlusten und sinkender Gewerbesteuerbasis. Städte mit breiter aufgestellter Wirtschaftsstruktur und hohem Anteil an Dienstleistungen und wissensintensiven Tätigkeiten konnten vom Strukturwandel profitieren.
-
-**Wirtschaftssektoren:**
-- Primärer Sektor: Urproduktion, zum Beispiel Landwirtschaft, Forstwirtschaft, Fischerei, Bergbau  
-- Sekundärer Sektor: Industrie und Handwerk, Verarbeitung von Rohstoffen zu Produkten  
-- Tertiärer Sektor: Dienstleistungen, zum Beispiel Handel, Verkehr, Bildung, Gesundheit, Verwaltung  
-- Quartärer Sektor: hoch spezialisierte wissensintensive Dienstleistungen, zum Beispiel Forschung und Entwicklung, IT, Medien, Finanz- und Versicherungsdienste  
-
-**Metropolisierung** beschreibt konzentration der Bevölkerung auf Groß der Stadt.
-
-**Shrinking City** ist eine Stadt, die infolge von Deindustrialisierung an Bevölkerung und Arbeitsplätzen verliert. Häufig liegt das an einer monostrukturierten Wirtschaft, die stark vom sekundären Sektor, also der Industrie, abhängt. Wenn Fabriken schließen oder Produktionsstandorte verlagert werden, wie etwa im Fall von Detroit in Nordamerika, bricht die wirtschaftliche Grundlage weg und die Stadt beginnt zu schrumpfen.
-
-**Global City** ist eine Stadt, mit weltweiter Bedeutung. Da befinden sich oft:
-- Hauptsitze internationaler Unternehmen, Konzentration von unternehmensbezogenen Dienstleistungen(Banken, Börsen, Versicherungen)
-- Messen mit internationaler Bedeutung
-- Sitzen von wichtigen NGOs und NGOs
-- Die Besitzen über weltweite Bedeutung im Bereich Verkehr(Flughafen und Seehafen), Medizin, Bildung und Kultur.
+Verstädterung ≠ **Urbanisierung** ist ein qualitativer Prozess (Beschrieben durch Eigenschaften und Merkmalen ohne Verwendung der Zahlen.):Es beschreibt Ausbreitung städtischer Lebens-, Wirtschafts- und Verhaltensweisen in vormals ländliche Räume.
 
 
 ## Push- und Pull-Faktoren der Verstädterung
 
 **Push- und Pull-Faktoren** sind die Ursachen von der Land-Stadt-Wanderung: Push-Faktoren stoßen Menschen aus ihrem Herkunftsraum (Land) ab, Pull-Faktoren ziehen sie in Städte.
 
-| Kategorie       | Push Faktoren     (Land)                                                                                                                                                                                                   | Pull Faktoren        (Städte)                                                                                                                                                                               |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Industrieländer | • Abbau von Arbeitsplätzen wegen Automatisierung<br>• Geringe Ausbildungs und Aufstiegschancen im ländlichen Raum<br>• Geringe Vielfalt des Arbeitsmarktes und Abhängigkeit| • Vielfältiger Arbeitsmarkt im Dienstleistungs und Technologiesektor<br>• Dichtes Netz an Hochschulen und Weiterbildungsangeboten<br>• Bessere Infrastruktur und kulturelle Angebote |
-| Entwicklungs und Schwellenländer | • Strukturelle Armut und sehr geringe Einkommen<br>• Landknappheit, Umweltprobleme und Naturgefahren<br>• Mangelhafte Infrastruktur bei Bildung, Gesundheit und Verkehr | • Erwartung besserer Verdienstmöglichkeiten<br>• Besserer Zugang zu Schulen, Universitäten und Gesundheitsversorgung<br>• Hoffnung auf höheren Lebensstandard und sozialen Aufstieg in der Stadt |
+ | Push Faktoren (Land)                                                                                   | Pull Faktoren (Städte)                                                                                           |
+ | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| • Automatisierung in Landwirtschaft und Handwerk verringert Beschäftigung<br>• Abbau von Schulen und Arztpraxen im ländlichen Raum<br>• Geringe Vielfalt an qualifizierten Jobs und Ausbildungsmöglichkeiten | • Hohe Arbeitsplatzdichte in Dienstleistungs-, Wissens- und Technologiesektoren<br>• Viele Hochschulen und Fachschulen<br>• Dichtes Angebot an Kultur, Freizeit, Konsum und öffentlichem Verkehr |
 
-
-Häufig bleiben die erwarteten Pull-Vorteile jedoch teilweise unerfüllt: Ein großer Teil der Zuwandernden landet in informellen Siedlungen mit prekären Arbeits- und Lebensbedingungen, was die urbanen Disparitäten zusätzlich verschärft.
 
 
 ## Verstädterung Messen
 
-- **Verstädterungsgrad**: Anteil der städtischen Bevölkerung an der Gesamtbevölkerung in Prozent. Formel: Verstädterungsgrad = Stadtbevölkerung / Gesamtbevölkerung * 100. Beispiel 2018: Nordamerika 82,2 Prozent, Afrika 42,5 Prozent.  
+- **Verstädterungsgrad**: Anteil der städtischen Bevölkerung an der Gesamtbevölkerung in Prozent (Stadtbevölkerung / Gesamtbevölkerung * 100). Beispiel: Nordamerika 82,2 Prozent, Afrika 42,5 Prozent.  
 
-- **Verstädterungsrate**: jährliche prozentuale Zunahme des Verstädterungsgrades. Beispiel für die jährliche Verstädterungsrate 2015 bis 2020: Nordamerika etwa 1,0 Prozent, Afrika 3,6 Prozent.  
+- **Verstädterungsrate**: jährliche prozentuale Zunahme des Verstädterungsgrades. Beispiel für die jährliche Verstädterungsrate: Nordamerika etwa 1,0 Prozent, Afrika 3,6 Prozent.  
 
-- **Index of Primacy / Metropolisierungsgrad**: Verhältnis zwischen der Bevölkerungszahl der größten Stadt und der zweitgrößten Stadt eines Staates. Formel: Index of Primacy = Bevölkerungszahl größter Stadt / Bevölkerungszahl zweitgrößter Stadt. Beispiel 2018: USA (New York zu Los Angeles) etwa 1,5, Nigeria (Lagos zu Kano) etwa 3,5. Ein höherer Wert bedeutet eine stärkere Dominanz der größten Stadt im nationalen Städtesystem.  
+- **Index of Primacy / Metropolisierungsgrad**: Verhältnis zwischen der Bevölkerungszahl der größten Stadt und der zweitgrößten Stadt eines Staates(Bevölkerungszahl größter Stadt / Bevölkerungszahl zweitgrößter Stadt). Beispiel: USA (New York zu Los Angeles) etwa 1,5, Nigeria (Lagos zu Kano) etwa 3,5. 
 
+## Ökonomischer Wandel in Städten
+
+Städte waren zur Zeit der Industrialisierung vor allem Standorte des sekundären Sektors, also der Industrieproduktion. Mit der Globalisierung und dem sektoralen Strukturwandel verlagerten viele Unternehmen arbeitsintensive Produktion ins Ausland. Gleichzeitig nahm die Bedeutung des Dienstleistungssektors zu (Tertiärisierung), später auch die von wissensintensiven Dienstleistungen wie Forschung, IT und Unternehmensberatung (Quartärisierung). In stark industriell geprägten Städten verstärkte Prozess der Arbeitsplatzverlusten und sinkender Gewerbesteuerbasis(Shrinking Cit). Städte mit breiter aufgestellter Wirtschaftsstruktur konnten vom Strukturwandel profitieren.
+
+**Wirtschaftssektoren:**
+- Primärer Sektor:  Landwirtschaft,
+- Sekundärer Sektor: Industrie und Handwerk  
+- Tertiärer Sektor: Dienstleistungen (Handel, Verkehr, Bildung) 
+- Quartärer Sektor: hoch spezialisierte wissensintensive Dienstleistungen(Forschung, IT, Medien, Finanz- und Versicherungsdienste)
+
+**Shrinking City**: Stadt mit einseitiger Industrie­struktur, die durch Deindustrialisierung Menschen und Jobs verliert.
+
+**Metropolisierung** beschreibt konzentration der Bevölkerung auf Groß der Stadt.
+
+**Global City** ist eine Stadt, mit weltweiter Bedeutung. Da befinden sich oft:
+- Hauptsitze internationaler Unternehmen, Konzentration von unternehmensbezogenen Dienstleistungen(Banken, Börsen, Versicherungen)
+- Messen mit internationaler Bedeutung
+- Sitzen von wichtigen NGOs
+- Die Besitzen über weltweite Bedeutung im Bereich Verkehr(Flughafen und Seehafen), Medizin, Bildung und Kultur.
 
 ## Citybildung
 
@@ -79,112 +72,83 @@ Typische Begleitprozesse der Citybildung sind:
 - Abwanderung oder Verdrängung der Wohnbevölkerung aus der Innenstadt, weil Wohnen mit den neuen Nutzungen nur schwer vereinbar ist  
 - Deutlicher Anstieg der Bodenpreise im Zentrum, was weitere Nutzungen mit geringer Zahlungsbereitschaft in Randlagen drängt  
 - Zunahme der Verkehrsdichte durch Pendlerverkehr, Lieferverkehr und steigende Besucherzahlen im Zentrum  
-- Verdichtung der Bebauung mit höheren Gebäuden und einer stärkeren Ausnutzung der zur Verfügung stehenden Flächen  
-- Ballung von Dienstleistungsfunktionen und wissensintensiven Tätigkeiten in Büros und Verwaltungen  
-
+- Verdichtung der Bebauung mit höheren Gebäuden und einer stärkeren Ausnutzung der zur Verfügung stehenden Flächen
 
 ## Suburbanisierung
 
-Unter **Suburbanisierung** versteht man die Verlagerung des Stadtwachstums in die sich ausbreitenden Vororte/nähere Umland der Stadt.
+Unter **Suburbanisierung** versteht man die Verlagerung des Stadtwachstums in die sich ausbreitenden Vororte.
 
 **Ursachen der Suburbanisierung** sind:
-- Gesteigerte Kaufkraft vieler Haushalte, die im Umland preisgünstigere Einfamilienhäuser und Eigentumswohnungen erwerben können  
-- Relativ preiswerte Mietwohnungen im Umland, die vor allem Familien anziehen und damit zu Wohn Suburbanisierung führen  
-- Verdrängung von Gewerbebetrieben aus der Innenstadt durch steigende Bodenpreise und Konkurrenz um Flächen, was Betriebe zur Abwanderung in den Außenbereich zwingt.
+- Gesteigerte Kaufkraft vieler Haushalte, die im Umland preisgünstigere Einfamilienhäuser erwerben können  
+- Relativ preiswerte Mietwohnungen im Umland
 
 **Folgen der Suburbanisierung**:
 - **Verstärkte sozialräumliche Segregation**, da vor allem jüngere und einkommensstärkere Familien ins Umland ziehen und im Kernraum eher ältere und einkommensschwächere Gruppen zurückbleiben.
-- **Schrumpfen der Wirtschafts und Steuerbasis der Kernstadt**, weil Unternehmen und kaufkräftige Haushalte ins Umland wechseln.
-- **Zunahme des Pendlerverkehrs** zwischen Wohnorten im Umland und Arbeitsplätzen in der Stadt, was zusätzliche Umweltbelastungen erzeugt.
+- **Zunahme des Pendlerverkehrs** zwischen Wohnorten im Umland und Arbeitsplätzen in der Stadt.
 
 ## Reurbanisierung
 
 **Reurbanisierung** bezeichnet eine Umkehr der Suburbanisierung, bei der wieder verstärkt Wanderungsbewegungen in die Kernstadt stattfinden. Nach Phasen der Abwanderung gewinnt die Innenstadt erneut an Attraktivität als Wohn und Arbeitsort.
 
-Wichtige Gründe für Reurbanisierung:
-- Deutlich gestiegene Verkehrskosten für Pendler, Wege zwischen weniger attraktiv machen  
+Gründe für Reurbanisierung:
+- Gestiegene Verkehrskosten für Pendler, Wege zwischen weniger attraktiv machen  
 - Wunsch vieler Menschen nach einer kompakten Stadt mit kurzen Wegen zu Arbeitsplätzen, Kulturangeboten und Versorgungseinrichtungen
 - Bewusste stadtplanerische Aufwertung der Kernstadt.
 
-## Gentrifizierung
-
-**Gentrifizierung** ist ein Prozess der innerstädtischen Aufwertung, bei dem alteingesessene Bewohnerinnen und Bewohner der Mittel und Unterschicht nach und nach durch wohlhabendere, einkommensstarke Gruppen ersetzt werden.
-
-**Typische Phasen der Gentrifizierung**:
-
-**I. Pionierphase:** Pioniere wie Studierende, Kunstschaffende und andere ziehen wegen niedriger Mieten und der oft zentralen Lage in Viertel ein.
-
-**II. Konsolidierung und Modernisierung:** Erste Modernisierungsmaßnahmen, das Image des Viertels verbessert sich weiter. Investoren werden auf das Gebiet aufmerksam, weil Wertsteigerungen zu erwarten sind. 
-
-**III. Aufwertung und Reurbanisierung des Viertels:** Das Viertel wird durch neue Dienstleistungsangebote(Cafés, Bars, Szene Clubs) zu einem attraktiven Ort. Wohlhabende Arbeitskräfte aus dem tertiären und quartären Sektor, ziehen in größerer Zahl zu.
-
-**IV. Endphase mit Verdrängung:** Die Mieten und Immobilienpreise steigen so stark, dass die ursprüngliche Bewohnerschaft das Viertel nicht mehr bezahlen kann und wegziehen muss. Ehemaliger Leerstand und einfache Wohnungen werden in hochwertig sanierte Apartments und Lofts umgewandelt, die sich nur noch zahlungskräftige Haushalte leisten können.
-
-**Folge der Gentrifizierung** ist eine weitere sozioökonomische Segregation innerhalb der Stadt.
-
 ## Segregation
 
-**Segregation** bezeichnet die räumliche Trennung von Bevölkerungsgruppen innerhalb einer Stadt. Diese Trennung kann nach Einkommen und Wohlstand oder nach ethnischer Zugehörigkeit erfolgen und führt zu deutlich unterscheidbaren Wohngebieten mit unterschiedlichen Lebensbedingungen.
+**Segregation**/**Fragmentierung** bezeichnet die räumliche Trennung von Bevölkerungsgruppen innerhalb einer Stadt.
  
-**Gated Communities**, also durch Gitter Zäune und Schranken von der übrigen Stadt abgeschottete Wohngebiete für wohlhabende Gruppen(Villenviertel am Stadtrand, Exklusive Hochhauskomplexe in der Innenstadt). Gated Communities verstärken räumliche und soziale Spaltung.
-
-**Fragmentierung** ist räumliche Trennung der sozialen Gruppen.
+**Gated Communities**, also durch Gitter Zäune und Schranken von der übrigen Stadt abgeschottete Wohngebiete für wohlhabende Gruppen(Villenviertel am Stadtrand, Exklusive Hochhauskomplexe in der Innenstadt). Gated Communities verstärken Fragmentierung.
 
 ## Marginalisierung
 
-**Marginalisierung** beschreibt die Herausbildung informeller Siedlungen der ärmsten Bevölkerungsteile, die kaum in die formale Stadt integriert werden.
+Marginalisierung: Verdrängung armer Menschen in Slums und informelle Randsiedlungen.
 
-Man unterscheidet vor allem:
-- **Slums in innenstadtnahen Bereichen**: heruntergekommene Wohnviertel und Hüttenansiedlungen in Baulücken oder auf Restflächen mit sehr dichter Bebauung, illegaler oder unsicherer Besitzlage und fehlender Instandhaltung  
-- **Marginalsiedlungen am Stadtrand**: informelle Ansiedlungen auf nicht oder nur teilweise erschlossenen Flächen.
+- **Slums in innenstadtnahen Bereichen**: heruntergekommene Wohnviertel und Hüttenansiedlungen in Baulücken oder auf Restflächen mit sehr dichter Bebauung
+- **Marginalsiedlungen am Stadtrand**: informelle Ansiedlungen auf nicht erschlossenen Flächen.
 
 Typische Merkmale dieser marginalisierten Siedlungen:
 - Sehr hohe Bevölkerungsdichte und enge Bebauung mit provisorischen Bauten aus einfachsten Materialien  
-- Kaum oder keine städtische Infrastruktur wie Wasser und Abwassersysteme, Stromversorgung oder Müllabfuhr, häufig auch fehlende Schulen und Gesundheitsstationen  
-- Hohe Verletzbarkeit gegenüber Naturgefahren, zum Beispiel Überschwemmungen Hangrutschungen oder Stürmen, da die Siedlungen oft in riskanten Lagen ohne Schutzmaßnahmen liegen  
-- Prekäre Einkommenssituation der Bewohner, viele arbeiten im informellen Sektor mit unsicheren und schlecht bezahlten Tätigkeiten  
+- Kaum städtische Infrastruktur.
+- Hohe Verletzbarkeit gegenüber Naturgefahren
+- Prekäre Einkommenssituation der Bewohner
 
+## Gentrifizierung
+
+**Gentrifizierung** ist ein Prozess der innerstädtischen Aufwertung, bei dem alteingesessene Bewohnerinnen und Bewohner der Mittel und Unterschicht nach und nach durch wohlhabendere Gruppen ersetzt werden.
+
+**Typische Phasen der Gentrifizierung**:
+
+**I. Pionierphase:** Pioniere wie Studierende und Kunstschaffende ziehen wegen niedriger Mieten in Viertel ein.
+
+**II. Konsolidierung und Modernisierung:** Erste Modernisierungsmaßnahmen. Investoren werden auf das Gebiet aufmerksam, weil Wertsteigerungen zu erwarten sind. 
+
+**III. Aufwertung und Reurbanisierung des Viertels:** Das Viertel wird durch neue Dienstleistungsangebote(Cafés, Bars) zu einem attraktiven Ort. Wohlhabende Arbeitskräfte aus dem tertiären und quartären Sektor, ziehen in größerer Zahl zu.
+
+**IV. Endphase mit Verdrängung:** Die Mieten und Immobilienpreise steigen so stark, dass die ursprüngliche Bewohnerschaft das Viertel nicht mehr bezahlen kann und wegziehen muss.
+
+**Folge der Gentrifizierung** ist eine weitere *Fragmentierung innerhalb der Stadt.
 
 ## Städtisches Ökosystem Versorgung und Entsorgung
 
 Städte funktionieren als **ökologische Systeme**, in denen große Mengen an Energie Wasser Rohstoffen und Gütern aus dem Umland und dem globalen Raum zufließen und in Form von Abfallstoffen Abwärme und Emissionen wieder abgegeben werden. Je stärker eine Stadt wächs.
-
-### Versorgung
-
-Unter **Versorgung** versteht man alle Inputs, die das Funktionieren der Stadt ermöglichen. Dazu gehören vor allem: Trinkwasser und Brauchwasser, Energie, Lebensmittel und Konsumgüter. Eine nachhaltige Stadtentwicklung versucht, diese Versorgungsströme zu verringern oder umweltverträglicher zu gestalten, etwa durch regionale Lebensmittelproduktion, Energie aus erneuerbaren Quellen oder wassersparende Technologien.
-
-### Outputs
- Alle Outputs, die als Abfallprodukte aus der Stadt hinaus transportiert werden oder im Zur **Entsorgung** gehören alle Outputs, die als Abfallprodukte aus der Stadt hinaus transportiert werden oder im Stadtraum verbleiben:
-- **Abwasser**, das aus Haushalten Industrie und Gewerbe anfällt und in Kläranlagen gereinigt werden muss, bevor es in Flüsse oder Seen eingeleitet wird  
-- **Feste Abfälle**, die in Haushalten und Betrieben entstehen und je nach System verbrannt deponiert oder recycelt werden, wobei unzureichende Entsorgung vor allem in informellen Siedlungen zu massiven Umwelt und Gesundheitsproblemen führt  
-- **Abwärme und Luftschadstoffe**, die aus Heizungen Kraftwerken Verkehr und Industrie stammen und über das Stadtklima und die Luftqualität direkt auf die Lebensbedingungen der Stadtbewohner zurückwirken  
-- **Lärm und Lichtemissionen**, die zwar nicht stofflich sind, aber als Umweltbelastung das ökologische Gleichgewicht und die Gesundheit der Bevölkerung beeinträchtigen  
-
-Je schlechter die Entsorgung organisiert ist, desto stärker häufen sich Umweltprobleme wie verschmutzte Gewässer, Smog oder gesundheitliche Belastungen, was besonders in schnell wachsenden Städten des Globalen Südens sichtbar wird.
-
-### Ursachen von Wassermangel
-
-Wichtige Faktoren sind:
-- **Steigende Bevölkerungszahlen** und damit wachsender Bedarf an Trinkwasser und Brauchwasser in Haushalten Gewerbe und Industrie  
-- **Ungleich verteilte Nutzung**, bei der wohlhabende Haushalte Hotels und Freizeit Anlagen durch Pools große Gärten und Wellnessangebote deutlich mehr Wasser verbrauchen als ärmere Gruppen  
-- **Ausdehnung der Bewässerungslandwirtschaft** im Umland, die große Teile der verfügbaren Süßwasserressourcen bindet  
-- **Klimawandel**, der in vielen Regionen Dürren verstärkt und die Füllstände von Stauseen und Grundwasserreservoirs sinken lässt  
 
 
 ## Wassermangel in Städten
 
 ### Ursachen von Wassermangel
 
-- **Steigende Bevölkerungszahlen**
-- **Ungleich verteilte Nutzung**, bei der wohlhabende Haushalte Hotels und Freizeit Anlagen durch Pools große Gärten und Wellnessangebote deutlich mehr Wasser verbrauchen als ärmere Gruppen  
-- **Ausdehnung der Bewässerungslandwirtschaft** im Umland, die große Teile der verfügbaren Süßwasserressourcen bindet  
-- **Klimawandel**
+- Steigende Bevölkerungszahlen
+- Große Wassernutzung bei der wohlhabende Haushalte Hotels und Freizeit Anlagen durch Pools und große Gärten. 
+- Ausdehnung der Bewässerungslandwirtschaft im Umland, die große Teile der verfügbaren Süßwasserressourcen bindet  
+- Klimawandel
 
 ### Strategien gegen städtischen Wassermangel
 
-- Ausbau von **Wasserspartechnologien** in Haushalten und Betrieben, etwa wassersparende Armaturen, Recycling von Grauwasser.
-- Staffelung der **Wasserpreise**, die hohen Verbrauch unattraktiv macht und gleichzeitig Grundversorgung für alle bezahlbar halten muss.
-- Diversifizierung der **Wasserquellen** durch Entsalzungsanlagen, Regenwassernutzung.  
+- Ausbau von Wasserspartechnologien in Haushalten und Betrieben, etwa wassersparende Armaturen, Recycling von Grauwasser.
+- Staffelung der Wasserpreise, die hohen Verbrauch unattraktiv macht und gleichzeitig Grundversorgung für alle bezahlbar halten muss.
+- Diversifizierung der Wasserquellen durch Entsalzungsanlagen, Regenwassernutzung.  
 
 
 
@@ -192,41 +156,42 @@ Wichtige Faktoren sind:
 
 ### Versiegelung
 
-Versiegelung: Je mehr Flächen bebaut werden und je mehr Straßen und Parkplätze entstehen, desto stärker wird der Boden versiegelt. Regenwasser kann dann kaum noch in den Boden einsickern und das Grundwasser füllt sich langsamer. Der Grundwasserspiegel sinkt nach und nach und ein größerer Teil des Wassers fließt schnell über die Kanalisation in Bäche und Flüsse. Dadurch steigt die Gefahr von Hochwasser und Überschwemmungen nach Starkregen.
+Versiegelung: Je mehr Flächen bebaut werden und je mehr Straßen und Parkplätze entstehen, desto stärker wird der Boden versiegelt. Regenwasser kann dann kaum in den Boden einsickern und das Grundwasser füllt sich langsamer. Ein größerer Teil des Wassers fließt schnell über die Kanalisation in Bäche und Flüsse. Dadurch steigt die Gefahr von Überschwemmungen nach Starkregen.
 
 
 ### Städtisches Wärmeinsel
-In einer unbeauten Umgebung kühlen Pflanzen durch Verdunstung und Winde sorgen für einen ständigen Austausch der Luftmassen. Viele Städte sind mehrere Grad wärmer als das Umland. Dieses Effekt nennt man **städtisches Wärmeinsel**.
+
+**Städtische Wärmeinsel** ist ein Gebiet, in dem die Lufttemperatur in der Stadt dauerhaft höher ist als im Umland.
 
 Gründe dafür:
 - Hohe und dichte Bebauung bremst Frischluftzufuhr und Luftaustausch  
 - Gebäude und Straßen reflektieren Sonnenlicht immer wieder und speichern einen Teil der Energie als Wärme  
 - Heizungen Industrieanlagen und Verkehr geben zusätzlich Prozesswärme und Abwärme ab  
-- Wenig Vegetation bedeutet wenig Verdunstung dadurch wird weniger Energie in Wasserdampf umgewandelt und die Luft bleibt wärmer  
+- Wenig Vegetation bedeutet wenig Verdunstung dadurch wird weniger Energie in Wasserdampf umgewandelt
 
+<!--
 ### Städtischer Treibhauseffekt
 Die höhere Temperatur und die Emissionen in der Stadt führen zu einer Anreicherung von Schadgasen Wasserdampf und Feinstaub. Über der Stadt bildet sich eine Art Dunstglocke die langwellige Wärmestrahlung zurückhält. Dieser städtische Treibhauseffekt verstärkt die Erwärmung weiter.
+-->
 
-Warme Luft steigt auf und kühlt in der Höhe ab. Der Wasserdampf kondensiert und es kommt häufiger zu Niederschlägen Gewittern und Nebel. Durch den Temperaturunterschied zum Umland entstehen Ausgleichswinde die kühlere Luft vom Land in die Stadt transportieren. Man spricht dabei auch von Flurwind.
+Flurwind: Durch den Temperaturunterschied zum Umland entstehen Ausgleichswinde die kühlere Luft vom Land in die Stadt transportieren.
 
 ### Luftverschmutzung
 
-Luftverschmutzung entsteht vor allem durch:
+entsteht durch:
 - Abgase aus der Verbrennung fossiler Energieträger in Kraftwerken Heizungen.  
-- Feinstaub aus dem Straßenverkehr zum Beispiel  Reifenabrieb (Feinstaub dringt tief in die Lunge und teils ins Blut ein und erhöht so das Risiko für Herz-Kreislauf-Erkrankungen und Lungenkrankheiten).
-- Gase und Dämpfe aus Lösungsmitteln und aus industriellen Prozessen  
+- Feinstaub aus dem Straßenverkehr zum Beispiel  Reifenabrieb (Feinstaub dringt tief in die Lunge und teils ins Blut ein und erhöht so das Risiko für Herz-Kreislauf-Erkrankungen).
+- Gase aus industriellen Prozessen  
 
 ### Maßnahmen gegen Überwärmung und hohe Verwundbarkeit
 
 Um Städte an den Klimawandel anzupassen und sie weniger verwundbar zu machen gibt es verschiedene stadtplanerische Maßnahmen:
 
 - Gebäude und Straßen so anordnen dass Windschneisen entstehen und Frischluft in die Stadt gelangen kann.
-- Versiegelte Flächen wieder öffnen Bebauungsdichte senken und mehr Grünflächen schaffen damit Wasser versickern kann und die Verdunstung die Luft abkühlt  
-- Dächer und Fassaden begrünen um Staub zu binden die Luftqualität zu verbessern und zusätzliche Verdunstungskühle zu erzeugen  
-- Individualverkehr verringern öffentlichen Verkehr ausbauen und Umweltzonen einrichten um Emissionen von Abgasen zu senken  
-- Effiziente und umweltschonende Heiz und Klimaanlagen nutzen Solarenergie und Wärmetauscher einsetzen und Gebäude besser abdichten um Abwärme zu reduzieren.
-
-
+- Versiegelte Flächen wieder öffnen Bebauungsdichte senken und mehr Grünflächen schaffen
+- Dächer und Fassaden begrünen um Staub zu binden
+- Individualverkehr verringern öffentlichen Verkehr ausbauen und Umweltzonen einrichten
+- Effiziente Heiz und Klimaanlagen nutzen 
 
 # Disparitäten
 
