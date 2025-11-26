@@ -56,7 +56,7 @@ Städte waren zur Zeit der Industrialisierung vor allem Standorte des sekundäre
 
 **Shrinking City**: Stadt mit einseitiger Industrie­struktur, die durch Deindustrialisierung Menschen und Jobs verliert.
 
-**Metropolisierung** beschreibt konzentration der Bevölkerung auf Groß der Stadt.
+**Metropolisierung** beschreibt konzentration der Bevölkerung auf großte Stadt.
 
 **Global City** ist eine Stadt, mit weltweiter Bedeutung. Da befinden sich oft:
 - Hauptsitze internationaler Unternehmen, Konzentration von unternehmensbezogenen Dienstleistungen(Banken, Börsen, Versicherungen)
