@@ -46,7 +46,7 @@ Verstädterung ≠ **Urbanisierung** ist ein qualitativer Prozess (Beschrieben d
 
 ## Ökonomischer Wandel in Städten
 
-Städte waren zur Zeit der Industrialisierung vor allem Standorte des sekundären Sektors, also der Industrieproduktion. Mit der Globalisierung und dem sektoralen Strukturwandel verlagerten viele Unternehmen arbeitsintensive Produktion ins Ausland. Gleichzeitig nahm die Bedeutung des Dienstleistungssektors zu (Tertiärisierung), später auch die von wissensintensiven Dienstleistungen wie Forschung, IT und Unternehmensberatung (Quartärisierung). In stark industriell geprägten Städten verstärkte Prozess der Arbeitsplatzverlusten und sinkender Gewerbesteuerbasis(Shrinking Citz). Städte mit breiter aufgestellter Wirtschaftsstruktur konnten vom Strukturwandel profitieren.
+Städte waren zur Zeit der Industrialisierung vor allem Standorte des sekundären Sektors, also der Industrieproduktion. Mit der Globalisierung und dem sektoralen Strukturwandel verlagerten viele Unternehmen arbeitsintensive Produktion ins Ausland. Gleichzeitig nahm die Bedeutung des Dienstleistungssektors zu (Tertiärisierung), später auch die von wissensintensiven Dienstleistungen wie Forschung, IT und Unternehmensberatung (Quartärisierung). In stark industriell geprägten Städten verstärkte Prozess der Arbeitsplatzverlusten und sinkender Gewerbesteuerbasis(Shrinking City). Städte mit breiter aufgestellter Wirtschaftsstruktur konnten vom Strukturwandel profitieren.
 
 **Wirtschaftssektoren:**
 - Primärer Sektor:  Landwirtschaft,
