@@ -50,7 +50,7 @@ Städte waren zur Zeit der Industrialisierung vor allem Standorte des sekundäre
 
 **Wirtschaftssektoren:**
 - Primärer Sektor:  Landwirtschaft,
-- Sekundärer Sektor: Industrie und Handwerk  
+- Sekundärer Sektor: Industrie 
 - Tertiärer Sektor: Dienstleistungen (Handel, Verkehr, Bildung) 
 - Quartärer Sektor: hoch spezialisierte wissensintensive Dienstleistungen(Forschung, IT, Medien, Finanz- und Versicherungsdienste)
 
