@@ -1,3 +1,6 @@
+
+<!--
+
 - [Stoizism 3 min Zusamenfasung](https://www.youtube.com/watch?v=Rxzx5x7TY5M&t=1s)
 - [Stanford Encyclopedia of Philosophy: Stoicism](https://plato.stanford.edu/archIves/spr2016/entries/stoicism/)
 - [Internet Encyclopedia of Philosophy](https://iep.utm.edu/stoiceth/)
@@ -7,3 +10,5 @@ Die Stoiker sehen die Welt als ein vernünftig geordnetes Ganzes (Logos). Der Me
 Wer sich dagegen ausschließlich an Wünschen, Lust, Status oder Erfolg orientiert, macht sein Glück von Dingen abhängig, die nicht in seiner Macht liegen. Solche äußeren Dinge gelten den Stoikern als „bevorzugte Indifferenzen“ (Def: sie haben Wert und dürfen vernünftig vorgezogen werden, entscheiden aber nicht über Glück oder Unglück. Z.B. Gesundheit, Besitz, Ansehen). Bindet man sein Wohl an sie, entsteht Unzufriedenheit, weil äußere Umstände sich ändern und nicht kontrollierbar sind.
 
 Ein echtes und beständiges Glück (Eudaimonia = gelingende Lebensführung) entsteht aus der Übung der Tugend und dem vernünftigen Umgang mit allen Situationen. Das bedeutet: tatkräftig das in unserer Macht Stehende tun und die Ergebnisse gelassen annehmen. Ziel ist nicht Gefühllosigkeit; vielmehr sollen Gefühle geordnet und vernünftig werden (etwa beständige Freude an der Tugend statt leidenschaftlicher Aufwallungen). So entstehen innere Ruhe, Freiheit, Freude und Gelassenheit, als Folge eines tugendhaften Lebens, unabhängig davon, ob das Schicksal günstig oder ungünstig ist. Und auch wenn die Welt kausal geordnet ist, liegt unsere Freiheit in vernünftiger Zustimmung und Entscheidung.
+
+-->
