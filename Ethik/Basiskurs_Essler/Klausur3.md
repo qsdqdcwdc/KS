@@ -42,7 +42,7 @@ Zuerst grenzt Aristoteles **falsche Kandidaten** für dieses Endziel ab:
 - Reichtum ist nur Mittel zu anderem.
 - Ehre hängt von der Meinung anderer ab und ist daher nicht selbstgenügsam. 
 
-**Höchste Gut** muss dagegen dauerhaft, selbstgenügsam und um seiner selbst willen begehrenswert sein.
+**Höchste Gut** muss um seiner selbst willen begehrenswert und in jeger Situation gut sein.
 
 ### Ergon-Argument
 
