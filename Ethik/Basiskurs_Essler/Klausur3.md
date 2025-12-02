@@ -29,7 +29,7 @@ Ein echtes und beständiges Glück (Eudaimonia = gelingende Lebensführung) ents
 
 In der Pflichtethik bei Kant und in der Folgenethik (Utilitarismus) steht vor allem die Frage im Mittelpunkt welche Handlungen richtig oder falsch sind und nach welchen Regeln wir uns richten sollen. Die Tugendethik von Aristoteles stellt dagegen die Frage was für ein Mensch wir sein sollen. Sie interessiert sich für Charaktereigenschaften und fragt welche Haltungen einen guten Menschen ausmachen.
 
-In dem Buch „Nikomachische Ethik“ kommt er nach ein paar Argumentationsschritten, die folgend beschrieben werden, zu dem Ergebnis dass das letzte Ziel aller menschlichen Handlungen die Glückseligkeit ist ein gelungenes Leben das er Eudaimonia nennt. Dieses Ziel erreichen Menschen indem sie ihre Fähigkeit zur Vernunft entfalten bzw. Tugenden ausüben.
+In dem Buch „Nikomachische Ethik“ kommt Aristoteles nach ein paar Argumentationsschritten, die folgend beschrieben werden, zu dem Ergebnis dass das letzte Ziel aller menschlichen Handlungen die Glückseligkeit ist ein gelungenes Leben das er Eudaimonia nennt. Dieses Ziel erreichen Menschen indem sie ihre Fähigkeit zur Vernunft entfalten bzw. Tugenden ausüben.
 
 ###  Teleologie, Fehlziele und höchste Gut
 
