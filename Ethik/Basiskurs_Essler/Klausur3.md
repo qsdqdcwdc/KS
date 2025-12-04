@@ -31,36 +31,36 @@ In der Pflichtethik bei Kant und in der Folgenethik (Utilitarismus) steht vor al
 
 In dem Buch „Nikomachische Ethik“ kommt Aristoteles nach ein paar Argumentationsschritten, die folgend beschrieben werden, zu dem Ergebnis dass das letzte Ziel aller menschlichen Handlungen die Glückseligkeit ist ein gelungenes Leben das er Eudaimonia nennt. Dieses Ziel erreichen Menschen indem sie ihre Fähigkeit zur Vernunft entfalten bzw. Tugenden ausüben.
 
-###  Teleologie, Fehlziele und höchste Gut
+###   Fehlziele und höchste Gut
 
-**Teleologie** ist in der Philosophie die Auffassung, dass Dinge durch ihre Zwecke/Ziele verstanden werden sollen, also danach, wofür sie da sind. 
+Nach Aristoteles basiert unser Handeln auf Zielketten (z. B. Ich will für die nächste Klausur lernen → um eine gute Note zu erzielen → ein gutes Abiturzeugnis → um den gewünschten Studienplatz zu bekommen → Traumberuf → ...). Wenn aber alles nur um eines weiteren Zieles angestrebt wird und es kein letztes Ziel gibt, wäre Streben nie vollendet. Damit wäre das Streben leer. Daher soll es ein Enziel/höchste Gut geben. <code>(Mano auf was ist ein Mensch bereit, wenn er nicht bestehen will, das Anstreben nach Zielen, leer ist)</code>
 
-Diese Sichtweise wird von Aristoteles auch auf Menschen angewendet. Auch unser Handeln bildet Zielketten (z. B. Lernen → Note → Abschluss → Beruf → …), und damit diese Kette nicht ins Unendliche weitergeht (bzw. unser Handeln nicht sinnlos ist), muss es ein letztes Endziel geben, das wir um seiner selbst willen wollen.
+Also daraus folgt, dass der höchste Gut existiert. Wenn der existiert, soll er nach Aristoteles folgende Eigenschaften haben: **hoechste Gut** ist das, was:
+- man nur um seiner selbst willen will und nicht, weil es zu etwas anderem führt.
+- **vollendet** ist, das heißt: Es gibt nichts, was noch besser wäre (denn ein „höchstes“ Gut, für das es noch etwas Besseres gibt, wäre nicht wirklich das höchste Gut),
+- **selbstgenügsam** ist, also für sich allein ausreicht, damit ein Leben gut und gelungen ist (denn wenn man das höchste Gut erreicht und das Leben trotzdem nicht gelungen ist, dann war es nicht das höchste Gut).
 
-Zuerst grenzt Aristoteles **falsche Kandidaten** für dieses Endziel ab:
-- Lust ist wechselhaft und „tierisch“.
-- Reichtum ist nur Mittel zu anderem.
-- Ehre hängt von der Meinung anderer ab und ist daher nicht selbstgenügsam. 
-
-**Höchste Gut** muss um seiner selbst willen begehrenswert und in jeger Situation gut sein.
+Aristoteles grenzt **falsche Kandidaten** für dieses höchste Gut ab:
+- **Lust** passt nicht, weil ein nur auf Lust ausgerichtetes Leben eher einem tierischen Leben entspricht und dem Menschen als vernunftbegabtem Wesen nicht angemessen ist. Lust kann das gute Leben begleiten, ist aber nicht sein letztes Ziel.
+- **Reichtum** ist nur Mittel zu anderem und daher kein letztes Ziel.
+- **Ehre** hängt von der Meinung anderer ab und ist daher nicht selbstgenügsam.
 
 ### Ergon-Argument
 
-Um zu bestimmen, worin Höchste Gut besteht, verwendet Aristoteles das Ergon-Argument:
+Aristoteles versucht nun zu klären, was dieses höchste Gut (das alle „Glück“ nennen) inhaltlich ist. Dafür benutzt er das sogenannte Ergon-Argument.
 
-- Alles, was einen spezifischen „Funktionstyp“ hat (ergon), ist gut, wenn es diese Funktion gut erfüllt (guter Flötenspieler = gut Flöte spielen). 
-- Beim Menschen können bloßes Leben und Empfindung nicht das Spezifische sein, das teilen wir mit Pflanzen und Tieren.
-- Das Spezifische des Menschen ist die vernünftige Tätigkeit der Seele, also Handeln gemäß logos (Vernunft). 
-- Das menschliche Gut ist eine Tätigkeit der Seele gemäß Vernunft und gemäß Tugend, ausgeübt über ein ganzes Leben hinweg.
+Ergon bedeutet spezifische Funktion oder Aufgabe eines Objekts.
+- Das Ergon eines Messers ist schneiden.
+- Das Ergon eines Auges ist sehen.
+- Das Ergon eines Flötenspielers ist Flöte spielen.
 
-### Tugenden, Mesotes-Lehre und Eudaimonia
+Dann überträgt Aristoteles diese Logik auf den Menschen und fragt nach seiner besonderen Funktion. Leben und Wachsen können es nicht sein, denn das gilt auch für Pflanzen. Lust und Schmerz reichen ebenfalls nicht, da auch Tiere sie empfinden. Daher sieht Aristoteles Ausübung der Vernunft als spezifisch menschliche Funktion. Also: 
 
-Wenn das menschliche Gut eine Tätigkeit der Seele gemäß Vernunft über ein ganzes Leben hinweg ist, stellt sich als nächstes die Frage welche Haltungen diese Lebensform überhaupt möglich machen.
+Das **Ergon des Menschen** ist eine Tätigkeit der Seele gemäß der Vernunft.
 
-**Tugenden** sind bei Aristoteles feste Haltungen des Charakters. Sie entstehen nicht automatisch aus der Natur, sondern durch Einübung und Gewöhnung im Handeln. Ethische Tugenden wie Mut, Besonnenheit oder Gerechtigkeit ordnen die Gefühle und Begierden so, dass der vernünftige Teil der Seele die Führung übernehmen kann. Dianoetische Tugenden wie Einsicht, Wissen und besonders Klugheit betreffen direkt den Gebrauch der Vernunft. 
+Ein Messer erfüllt seine Funktion gut, wenn es gut schneidet. Ein Mensch erfüllt seine Funktion gut, wenn er seine Vernunft gut und tugendhaft gebraucht. 
 
-**Mesotes-Lehre**beschreibt die Struktur dieser ethischen Tugenden. Aristoteles versteht jede Charaktertugend als eine „Mitte“ (mesotes) zwischen zwei Extremen: einem Übermaß und einem Mangel. Mut liegt zum Beispiel zwischen Tollkühnheit (zu viel Risiko) und Feigheit (zu wenig Risiko). Freigebigkeit liegt zwischen Verschwendung und Geiz. Diese Mitte ist keine starre rechnerische Mitte, sondern die jeweils angemessene Mitte „für uns“, also abhängig von Person und Situation. Bestimmt wird sie durch Klugheit, die im Einzelfall prüft was hier das richtige Maß ist. 
-
-**Eudaimonia (Glückseligkeit)** ist die Tätigkeit der Seele in Übereinstimmung mit Tugend in einem vollständigen Leben. 
+Damit definiert Aristoteles das höchste Gut(also Glück, Eudaimonia oder Glückseligkeit) so:
+Glück ist eine Tätigkeit der Seele gemäß der Tugend
 
 
