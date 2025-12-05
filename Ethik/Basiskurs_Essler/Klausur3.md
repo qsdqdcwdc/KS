@@ -40,6 +40,8 @@ Also daraus folgt, dass der höchste Gut existiert. Wenn der existiert, soll er 
 - **vollendet** ist, das heißt: Es gibt nichts, was noch besser wäre (denn ein „höchstes“ Gut, für das es noch etwas Besseres gibt, wäre nicht wirklich das höchste Gut),
 - **selbstgenügsam** ist, also für sich allein ausreicht, damit ein Leben gut und gelungen ist (denn wenn man das höchste Gut erreicht und das Leben trotzdem nicht gelungen ist, dann war es nicht das höchste Gut).
 
+(Aristoteles sagt, dass die Menschen dieses höchste Gut ‚Glück‘ nennen. Damit meint er jedoch nichts Konkretes, sondern verwendet den Begriff ‚Glück‘ eher als ein Platzhalter für das höchste Gut, ohne damit bereits etwas Bestimmtes über das Glück selbst auszusagen.)
+
 Aristoteles grenzt **falsche Kandidaten** für dieses höchste Gut ab:
 - **Lust** passt nicht, weil ein nur auf Lust ausgerichtetes Leben eher einem tierischen Leben entspricht und dem Menschen als vernunftbegabtem Wesen nicht angemessen ist. Lust kann das gute Leben begleiten, ist aber nicht sein letztes Ziel.
 - **Reichtum** ist nur Mittel zu anderem und daher kein letztes Ziel.
@@ -47,7 +49,7 @@ Aristoteles grenzt **falsche Kandidaten** für dieses höchste Gut ab:
 
 ### Ergon-Argument
 
-Aristoteles versucht nun zu klären, was dieses höchste Gut (das alle „Glück“ nennen) inhaltlich ist. Dafür benutzt er das sogenannte Ergon-Argument.
+Aristoteles versucht nun zu klären, was dieses höchste Gut (das alle „Glück“ nennen) inhaltlich ist. Dafür benutzt er das sogenannte Ergon-Argument. 
 
 Ergon bedeutet spezifische Funktion oder Aufgabe eines Objekts.
 - Das Ergon eines Messers ist schneiden.
@@ -58,9 +60,15 @@ Dann überträgt Aristoteles diese Logik auf den Menschen und fragt nach seiner 
 
 Das **Ergon des Menschen** ist eine Tätigkeit der Seele gemäß der Vernunft.
 
-Ein Messer erfüllt seine Funktion gut, wenn es gut schneidet. Ein Mensch erfüllt seine Funktion gut, wenn er seine Vernunft gut und tugendhaft gebraucht. 
+Ein Messer erfüllt seine Funktion gut, wenn es gut schneidet. Ein Mensch erfüllt seine Funktion gut, wenn er seine Vernunft gut (also tugendhaft) gebraucht. 
 
 Damit definiert Aristoteles das höchste Gut(also Glück, Eudaimonia oder Glückseligkeit) so:
-Glück ist eine Tätigkeit der Seele gemäß der Tugend
+Glück ist eine Tätigkeit der Seele gemäß der Tugend (über ganzes Leben hinweg).
+
+### Tugende und Mesotes-Lehre
+Dacher soll es geklert werden wass „gute“ nutzung der Vernunft. 
+
+
+
 
 
