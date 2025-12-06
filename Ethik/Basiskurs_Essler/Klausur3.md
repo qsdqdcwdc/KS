@@ -149,6 +149,8 @@ https://www.youtube.com/watch?v=CXUHy7gFyAs
 
 # Verantwortungsethik nach Hans Jonas
 
+[Video](https://youtu.be/CXUHy7gFyAs?si=bRPKYw8ABPwPf0u9&t=225)
+
 Jonas geht davon aus, moderne Wissenschaft und Technik eine so grundsätzlich neue und existenziell bedrohliche Situation für die gesamte Menschheit gebracht hätten, dass traditionelle Ethiken nicht mehr ausreichten, um die heute notwendigen moralischen Pflichten zu formulieren und zu begründen. Eine Ethik der Wissenschaften müsse heute eine ganz anderen Raum-, Zeit- und Personenhorizont in den Blick nehmen als traditionelle Ethiken. Die Kategorien des **„Risikos“, der „Folgenabschätzung“, der „Nebenwirkung“ und „Langzeitfolgen“** gewinnen ethische Bedeutung. Dacher formuliert Jonas einen **neuen kategorischen Imperativ**:
 
 > Handle so, dass die Wirkungen deiner Handlung verträglich sind mit der Permanenz echten menschlichen Lebens auf Erden.
@@ -167,4 +169,10 @@ potenziell schädliche Auswirkungen haben könnte.
 
 - Die unkritische technische Fortschrittsgläubigkeit sollte, so Jonas, durch eine neue Haltung ersetzt
 werden, die erkennt. Man darf nicht alles, was man kann.
+
+### Umsetzung der Verantwortungsethik
+
+- Jonas diskutiert eine Begrenzung der wissenschaftlichen Freiheit überall dort, wo Forschung die Würde und Integrität von Mensch und Natur ernsthaft gefährden kann, da seiner Ansicht nach der Fortschritt unumkehrbar ist und eine einmal erfundene, gefährliche Technologie nicht mehr „zurückzu­erfinden“ ist.
+
+- In extremen Notlagen erwägt er sogar zeitweilige Einschränkungen demokratischer Verfahren zugunsten des Selbsterhalts der Menschheit, ohne aber konkrete politische Handlungskonzepte auszuarbeiten.
 
