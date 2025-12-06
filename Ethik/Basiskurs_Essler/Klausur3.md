@@ -151,7 +151,12 @@ https://www.youtube.com/watch?v=CXUHy7gFyAs
 
 [Video](https://youtu.be/CXUHy7gFyAs?si=bRPKYw8ABPwPf0u9&t=225)
 
-Jonas geht davon aus, moderne Wissenschaft und Technik eine so grundsätzlich neue und existenziell bedrohliche Situation für die gesamte Menschheit gebracht hätten, dass traditionelle Ethiken nicht mehr ausreichten, um die heute notwendigen moralischen Pflichten zu formulieren und zu begründen. Eine Ethik der Wissenschaften müsse heute eine ganz anderen Raum-, Zeit- und Personenhorizont in den Blick nehmen als traditionelle Ethiken. Die Kategorien des **„Risikos“, der „Folgenabschätzung“, der „Nebenwirkung“ und „Langzeitfolgen“** gewinnen ethische Bedeutung. Dacher formuliert Jonas einen **neuen kategorischen Imperativ**:
+<!--
+Jonas begründet seine Verantwortungsethikmit einer evolutionsbasierten „philosophischen Biologie“. Danach bilden alle Lebewesen ein Kontinuum der Entwicklung, es gibt nur Unterschiede im Grad, nicht im Wesen zwischen Mensch, Tier und Pflanze. Im Gegensatz zur Naturwissenschaft, die den Menschen zum bloß hochentwickelten Tier herabstuft, „adelt“ Jonas die übrige Natur und spricht auch Tieren und sogar Pflanzen in abgestufter Form Freiheit, Würde, Bewusstsein und Gefühle zu. Entscheidend ist für ihn, dass alles Lebendige um sein eigenes Dasein bangt und nach Selbsterhaltung strebt, weshalb die gesamte Natur Eigenwert und Würde besitzt. Daraus leitet Jonas einen moralischen Anspruch der Natur auf Unversehrtheit ab sowie die Pflicht des Menschen, sie respektvoll und sorgsam zu behandeln.
+-->
+
+
+Jonas geht davon aus, moderne Wissenschaft und Technik eine so grundsätzlich neue und existenziell bedrohliche Situation für die gesamte Menschheit gebracht hätten, dass traditionelle Ethiken nicht mehr ausreichten, um die heute notwendigen moralischen Pflichten zu formulieren und zu begründen. Eine Ethik der Wissenschaften müsse heute eine ganz anderen Raum-, Zeit- und Personenhorizont in den Blick nehmen als traditionelle Ethiken (globaler und langfristiger Horizont). Die Kategorien des **„Risikos“, der „Folgenabschätzung“, der „Nebenwirkung“ und „Langzeitfolgen“** gewinnen ethische Bedeutung. Dacher formuliert Jonas einen **neuen kategorischen Imperativ**:
 
 > Handle so, dass die Wirkungen deiner Handlung verträglich sind mit der Permanenz echten menschlichen Lebens auf Erden.
 
