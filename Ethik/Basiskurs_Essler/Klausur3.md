@@ -143,3 +143,28 @@ Positive Verantwortung heißt: Ich bin dafür zuständig, in der Zukunft für gu
 Negative Verantwortung heißt: Ich werde im Nachhinein für bereits eingetretene Folgen meines Handelns oder Unterlassens zur Rechenschaft gezogen (Schuld-, Haftungs- oder Zurechnungsverantwortung).
 
 
+
+https://www.youtube.com/watch?v=CXUHy7gFyAs
+
+
+# Verantwortungsethik nach Hans Jonas
+
+Jonas geht davon aus, moderne Wissenschaft und Technik eine so grundsätzlich neue und existenziell bedrohliche Situation für die gesamte Menschheit gebracht hätten, dass traditionelle Ethiken nicht mehr ausreichten, um die heute notwendigen moralischen Pflichten zu formulieren und zu begründen. Eine Ethik der Wissenschaften müsse heute eine ganz anderen Raum-, Zeit- und Personenhorizont in den Blick nehmen als traditionelle Ethiken. Die Kategorien des **„Risikos“, der „Folgenabschätzung“, der „Nebenwirkung“ und „Langzeitfolgen“** gewinnen ethische Bedeutung. Dacher formuliert Jonas einen **neuen kategorischen Imperativ**:
+
+> Handle so, dass die Wirkungen deiner Handlung verträglich sind mit der Permanenz echten menschlichen Lebens auf Erden.
+
+- **Zukünftigkeitsethik**: Jonas nennt seine neue Ethik „Zukünftigkeitsethik“. Sie richtet sich nicht primär an die heutigen Mitmenschen, sondern an die Nachgeborenen/zukünftige Menschheit.
+- **Echte menschliche Leben**(aus dem neuen kategorischen Imperativ): Verantwortliches Handeln muss davon ausgehen, dass spätere Menschen ein Recht auf „echtes menschliches Leben“ haben also auf:
+	- den Fortbestand der Menschheit: unser Handeln darf die Menschheit als Ganze nicht auslöschen.
+	- den Erhalt menschlichen Lebens: einzelne Menschen und ihre grundlegenden Lebensbedingungen (z. B. Nahrung, Wasser, 	Gesundheit, bewohnbare Umwelt)
+	- die Vermeidung permanenter Schäden: es dürfen keine irreversiblen Zerstörungen (etwa an Natur, Klima, genetischem Erbe) verursacht werden, die künftige Generationen ihrer Lebensmöglichkeiten berauben.
+
+d.h: Mensch soll sich entfalten können und nicht nur überleben müssen.
+
+- **Heuristik der Furcht** ist ein Vorsorgeprinzip nachdem soll man vom „worst case scenario“ ausgehen/auch
+Angst vor dem dystopischem Szenario haben. D.h. Im Zweifelsfall Handlung unterlassen, wenn sie
+potenziell schädliche Auswirkungen haben könnte.
+
+- Die unkritische technische Fortschrittsgläubigkeit sollte, so Jonas, durch eine neue Haltung ersetzt
+werden, die erkennt. Man darf nicht alles, was man kann.
+
