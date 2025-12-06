@@ -180,4 +180,5 @@ werden, die erkennt. Man darf nicht alles, was man kann.
 - In extremen Notlagen erwägt er sogar zeitweilige Einschränkungen demokratischer Verfahren zugunsten des Selbsterhalts der Menschheit, ohne aber konkrete politische Handlungskonzepte auszuarbeiten.
 
 ### Sein-Sollen-Vorfällsschluss
-Kritiker werfen Jonas vor, er begehe einen Sein-Sollen-Fehlschluss: Aus der bloßen Tatsache, dass alles Lebendige nach Selbsterhaltung strebt und einen Eigenwert habe, lasse sich logisch keine Pflicht ableiten, dieses Leben zu erhalten. Befürworter halten dagegen, dass bei Jonas „Sein“ bereits als innerlich normativ verstanden wird.
+
+Kritiker halten Jonas Zurückweisung des Sein-Sollen-Vor­schlusses für unzureichend, weil er den logischen Punkt Humes verfehlt: Aus rein deskriptiven Aussagen folgt ohne mindestens eine schon normative Prämisse kein Sollen. Aus der bloßen Tatsache, dass alles Lebendige nach Selbsterhaltung strebt und einen Eigenwert habe, lasse sich logisch keine Pflicht ableiten, dieses Leben zu erhalten. Wenn Jonas vom „Ruf des Seienden“ spricht, schleust er nach diesem Einwand genau solche Wertungen verdeckt in die Beschreibung ein.
