@@ -197,14 +197,15 @@ werden, die erkennt. Man darf nicht alles, was man kann.
 Kritiker halten Jonas Zurückweisung des Sein-Sollen-Vor­schlusses für unzureichend, weil er den logischen Punkt Humes verfehlt: Aus rein deskriptiven Aussagen folgt ohne mindestens eine schon normative Prämisse kein Sollen. Aus der bloßen Tatsache, dass alles Lebendige nach Selbsterhaltung strebt und einen Eigenwert habe, lasse sich logisch keine Pflicht ableiten, dieses Leben zu erhalten. Wenn Jonas vom „Ruf des Seienden“ spricht, schleust er nach diesem Einwand genau solche Wertungen verdeckt in die Beschreibung ein.
 
 
-# Intergenerationeller Nutzensummenutilitarismus
+# Birnbacher
+### Intergenerationeller Nutzensummenutilitarismus
 Grundnorm/Zukunftsnorm: Maximierung des in der gesamten zukünftigen Welt zu vewvirklichenden Guten
 
 Begründung:
 - Gut ist, was die größtmögliche Summe an Nutzen hervorbringt.
 - wen Uberchaupt Wir sind dazu verpflichtet, von zwei möglichen Zukünften, die verwirklicht werden können, die bessere zu verwirklichen als die schlechtere.
 
-Praxisnormen:
+### Praxisnormen:
 Praxisnormen sollen uns auch dann eine klare Orientierung geben, wenn wir nur begrenztes Wissen, begrenzte Einsichts­fähigkeit oder nur begrenzt guten Willen haben. Sie sollen dafür sorgen, dass wir unter realistischen Bedingungen die moralischen Regeln so gut wie möglich einhalten.
 
 -  **kollektive Selbsterhaltung**: Wir dürfen nichts tun, was das Fortbestehen der Menschheit und der höheren Tierarten als Ganzes ernsthaft bedroht.
