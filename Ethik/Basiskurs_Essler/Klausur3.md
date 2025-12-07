@@ -93,7 +93,6 @@ Tugend entwickelt, dann ist die Klugheit für das richtige Handeln nicht mehr n�
 | Dauerhaftigkeit des Glücks      | Kurzfristig, vergänglich                                                                         | Abhängig von der Meinung anderer, daher unsicher                               | Dauerhaftes, stabiles Glück                                                            |
 | Abhängigkeit                    | Stark abhängig von äußeren Reizen und körperlichen Genüssen                                     | Abhängig von Urteil und Anerkennung anderer Menschen                           | Möglichst unabhängig von anderen, weitgehend autark                                    |
 | Bewertung durch Aristoteles     | Keine eigentliche, menschenwürdige Lebensform                                                    | Besser als reine Lustorientierung, aber nicht das höchste Leben                | Beste Lebensform nach Aristoteles                                                      |
-| Begründung der Bewertung        | Kein selbstbestimmtes, vernunftgeleitetes Leben                                                 | Gut, weil tugendhaft, aber Ehre liegt nicht in der eigenen Macht und ist vergänglich | Vernunft ist das Eigentliche des Menschen; ihre Tätigkeit ist rein, dauerhaft und mühelos |
 
 
 ### Kritik der aristotelischen Tugendethik
