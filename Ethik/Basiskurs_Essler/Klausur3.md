@@ -58,7 +58,50 @@ Damit definiert Aristoteles das höchste Gut(also Glück, Eudaimonia oder Glück
 Glück ist eine Tätigkeit der Seele gemäß der Tugend (über ganzes Leben hinweg).
 
 ### Tugende und Mesotes-Lehre
-Dacher soll es geklert werden wass „gute“ nutzung der Vernunft. 
+Wenn das höchste Gut darin besteht, die Vernunft gut zu gebrauchen, muss geklärt werden, was „guter“ Vernunftgebrauch ist. Dafür führt Aristoteles den Begriff der Tugend (gr. aretē, Bestzustand) ein: Tugend ist für ihn der mittlere Zustand zwischen zwei Extremen (z.B. zwischen Feigheit und Tollkühnheit).
+
+Aristoteles definiert Tugend als den von einem vernünftigen Menschen gewählten, mittleren Zustand,
+der die "nach uns bemessene Mitte (Mesotes) hält" zwischen Extremen des Mangels und des
+Übermaßes. Die "rechte Mitte" in unseren Haltungen und Fähigkeiten zu finden, ist eine Frage der
+Übung, des Suchens, Strebens und Korrigierens. 
+
+| Extrem des Mangels | Rechte, tugendhafte Mitte | Extrem des Übermaßes      |
+|--------------------|---------------------------|----------------------------|
+| Feigheit           | Tapferkeit / Mut          | Tollkühnheit               |
+| Geiz               | Freigebigkeit             | Verschwendungssucht       |
+| Streitsucht        | Freundlichkeit            | Schmeichelei              |
+| Schamlosigkeit     | Schamhaftigkeit           | Verschämtheit             |
+| Diskriminierung    | Gerechtigkeit             | Privilegierung            |
+
+Tugendhaftigkeit hat aber auch einen Selbstzweck insofern, als sie uns unmittelbar glücklich machen
+kann.
+
+Die dianoethische Tugend "Klugheit" (phronesis) spielt eine ganz besondere Rolle bei der Ausbildung
+der ethischen Tugenden, denn die Klugheit kann die menschliche Affekte (Liebe, Hass) beeinflussen
+und damit Einfluss auf das eigentlich vernunftlose sinnlich-begehrende Strebevermögen nehmen.
+benutzt Mensch die reine Vernunft, so entwickelt er diedie Verstandestugenden(dianoethischen Tugenden), hat sich der Mensch an das richtige Handeln gewöhnt, also eine ethische
+Tugend entwickelt, dann ist die Klugheit für das richtige Handeln nicht mehr nötig.
+
+
+### Die drei Lebensformen
+| Aspekt                          | Das hedonistische Leben („Lust“)                                                                 | Das politische Leben                                                           | Das theoretische / philosophische Leben                                                |
+|---------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Grundcharakter                  | Orientierung an Lust, Spaß und unmittelbarer Bedürfnisbefriedigung                              | Leben in der Gemeinschaft und im Staat                                         | Leben der geistigen Tätigkeit und des Denkens                                         |
+| Wer wählt diese Lebensform?     | Die meisten Menschen; besonders primitive oder unreflektierte Menschen                          | Manche Menschen, die nach Anerkennung streben                                  | Nur wenige, philosophisch orientierte Menschen                                        |
+| Ziel / Lebensziel               | Glück durch Genuss und Befriedigung körperlicher Bedürfnisse                                    | Ehre, Anerkennung und Macht                                                    | Erkenntnis, Wahrheit und Weisheit; das höchste Gut finden                             |
+| Verhältnis zur Menschlichkeit   | Mensch unterscheidet sich kaum vom Tier, da er nur Trieben folgt                                | Entfaltung von Tugenden im Zusammenleben                                      | Entfaltung des spezifisch Menschlichen: Vernunft („Tätigkeit der Seele im eigentl. Sinn“) |
+| Dauerhaftigkeit des Glücks      | Kurzfristig, vergänglich                                                                         | Abhängig von der Meinung anderer, daher unsicher                               | Dauerhaftes, stabiles Glück                                                            |
+| Abhängigkeit                    | Stark abhängig von äußeren Reizen und körperlichen Genüssen                                     | Abhängig von Urteil und Anerkennung anderer Menschen                           | Möglichst unabhängig von anderen, weitgehend autark                                    |
+| Bewertung durch Aristoteles     | Keine eigentliche, menschenwürdige Lebensform                                                    | Besser als reine Lustorientierung, aber nicht das höchste Leben                | Beste Lebensform nach Aristoteles                                                      |
+| Begründung der Bewertung        | Kein selbstbestimmtes, vernunftgeleitetes Leben                                                 | Gut, weil tugendhaft, aber Ehre liegt nicht in der eigenen Macht und ist vergänglich | Vernunft ist das Eigentliche des Menschen; ihre Tätigkeit ist rein, dauerhaft und mühelos |
+
+
+### Kritik der aristotelischen Tugendethik
+
+-  Menschliches Handeln ist kaum mit dauerhaften Charaktereigenschaften erklärbar. Wir handeln nicht aus bewusster Übereinstimmung mit unseren Tugenden, vielmehr aus situationsbedingten, unbewussten oder uneingestandenen Ursachen.
+- Da Tugendhaftigkeit als Mittel gilt, um einen außermoralischen Zweck, das Glück, zu erreichen, wird sie überflüssig, wenn sich der Zweck auch auf andere Weise erreichen lässt.
+- Aristoteles kann keine objektiven Maßstäbe angeben, nach denen die "rechte Mitte" zwischen den
+Lastern des Übermaßes und des Mangels für den Einzelnen ermittelbar ist.
 
 # Stoa
 
