@@ -76,8 +76,6 @@ Die **ethischen Tugenden** entstehen durch Gewöhnung an richtiges Handeln.
 Nach Aristoteles gibt es keine voll ausgebildete ethische Tugend ohne Klugheit und keine 
 eigentliche Klugheit ohne Tugend. Beide bedingen sich wechselseitig.Gewöhnung allein reicht also nicht.
 
-
-
 ### Seelenlehre
 Für Aristoteles ist der Mensch nur verständlich, wenn man seine Seele (psychē) betrachtet. Die Seele ist dabei nicht ein „Geist im Körper“, sondern das Lebensprinzip des Körpers, das seine Funktionen erklärt. Aristoteles unterscheidet verschiedene Seelenteile:
 
@@ -91,14 +89,6 @@ Die **vernünftige Seele** gliedert Aristoteles nochmals in zwei Bereiche:
 Damit verknüpft Aristoteles direkt seine Tugendethik mit der Seelenlehre:
 - Die **ethischen Tugenden** betreffen vor allem den begehrenden, praktisch-vernünftigen Teil der Seele (z.B. Mut, Besonnenheit, Gerechtigkeit).
 - Die **dianoetischen Tugenden** (Verstandestugenden) betreffen den theoretischen Teil der Vernunft (z.B. Weisheit, Einsicht, Kunstfertigkeit).
-
-
-Damit verknüpft Aristoteles direkt seine Tugendethik mit der Seelenlehre:
-
-- Die **ethischen Tugenden** betreffen vor allem den begehrenden, praktisch-vernünftigen Teil der Seele (z. B. Mut, Besonnenheit, Gerechtigkeit).
-- Die **dianoetischen Tugenden** (Verstandestugenden) betreffen vor allem den theoretischen Bereich der Vernunft (z. B. Weisheit, Einsicht, Kunstfertigkeit).
-- Die **Klugheit (phronesis)** steht an der Schnittstelle: Sie gehört zur praktischen Vernunft und steuert den vernünftigen Umgang mit Trieben und Affekten.
-
 
 ### Die drei Lebensformen
 | Aspekt                          | Das hedonistische Leben („Lust“)                                                                 | Das politische Leben                                                           | Das theoretische / philosophische Leben                                                |
