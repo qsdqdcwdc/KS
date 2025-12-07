@@ -79,7 +79,7 @@ eigentliche Klugheit ohne Tugend. Beide bedingen sich wechselseitig.Gewöhnung a
 ### Seelenlehre
 Für Aristoteles ist der Mensch nur verständlich, wenn man seine Seele (psychē) betrachtet. Die Seele ist dabei nicht ein „Geist im Körper“, sondern das Lebensprinzip des Körpers, das seine Funktionen erklärt. Aristoteles unterscheidet verschiedene Seelenteile:
 
-- **aologischer Teil **: umfasst alle lebensnotwendigen und sinnlichen Funktionen wie Ernährung, Wachstum, Fortpflanzung, Wahrnehmung, Empfindung, Lust/Unlust, Triebe und Affekte. Diese Ebene teilen wir mit Pflanzen (rein vegetative Funktionen) und Tieren (sinnliche Wahrnehmung und Bewegung).  
+- **a-ologischer Teil**: umfasst alle lebensnotwendigen und sinnlichen Funktionen wie Ernährung, Wachstum, Fortpflanzung, Wahrnehmung, Empfindung, Lust/Unlust, Triebe und Affekte. Diese Ebene teilen wir mit Pflanzen (rein vegetative Funktionen) und Tieren (sinnliche Wahrnehmung und Bewegung).  
 - **logischer Teil (vernünftige Seele)**: ist spezifisch menschlich und befähigt zum Denken, Urteilen und begründeten Entscheiden.
 
 Die **vernünftige Seele** gliedert Aristoteles nochmals in zwei Bereiche:
@@ -206,7 +206,7 @@ Jonas begründet seine Verantwortungsethikmit einer evolutionsbasierten „philo
 -->
 
 
-Jonas geht davon aus, moderne Technik eine so grundsätzlich neue Situation für die gesamte Menschheit gebracht hätten, dass traditionelle Ethiken nicht mehr ausreichten, um die heute notwendigen moralischen Normen zu formulieren. Dafür gibt er drei Gründe:
+Jonas geht davon aus, dass Unsere Welt sich so stark verändert hat, dass traditionelle Ethiken nicht mehr ausreichten, um die heute notwendigen moralischen Normen zu formulieren. Dafür gibt er drei Gründe:
 
 1. **technische Fortschrit:** Der technische Fortschritt hat die Macht des Menschen enorm gesteigert: Handlungen können ganze Ökosysteme zerstören, Wirkungen reichen weit in die Zukunft, und die fortdauernde Existenz der Menschheit ist nicht mehr selbstverständlich.
 
