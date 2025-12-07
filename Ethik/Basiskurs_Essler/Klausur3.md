@@ -61,10 +61,21 @@ der die "nach uns bemessene Mitte (Mesotes) hält" zwischen Extremen des Mangels
 | Schamlosigkeit     | Schamhaftigkeit           | Verschämtheit             |
 | Diskriminierung    | Gerechtigkeit             | Privilegierung            |
 
-Die dianoethische Tugend "Klugheit" (phronesis) spielt eine ganz besondere Rolle bei der Ausbildung
-der ethischen Tugenden, denn die Klugheit kann die menschliche Affekte (Liebe, Hass) beeinflussen
-und damit Einfluss auf das eigentlich vernunftlose sinnlich-begehrende Strebevermögen nehmen.
-benutzt Mensch die reine Vernunft, so entwickelt er diedie Verstandestugenden(dianoethischen Tugenden), hat sich der Mensch an das richtige Handeln gewöhnt, also eine Sittliche/ethische Tugenden entwickelt, dann ist die Klugheit für das richtige Handeln nicht mehr nötig.
+Es gibt nach Aristoteles auch Handlungen, die **niemals** eine Mitte besitzen (z. B. Mord, Ehebruch). Hier gibt es kein angemessenes „Mehr“ oder „Weniger“
+
+### Die Rolle der Klugheit (phronesis)
+
+Die dianoetische Tugend **„Klugheit“ (phronesis)** spielt eine besondere Rolle bei der Ausbildung der ethischen Tugenden:
+
+- Klugheit gehört zur **praktischen Vernunft**(sehe unten) und ist das Vermögen, in konkreten Situationen das Richtige zu erkennen und zu wählen.
+- Sie ordnet die menschlichen Affekte (z. B. Liebe, Hass).
+
+Die **Verstandestugenden** (dianoetische Tugenden) entstehen durch Unterricht und Übung des Denkens.  
+Die **ethischen Tugenden** entstehen durch Gewöhnung an richtiges Handeln.
+
+Nach Aristoteles gibt es keine voll ausgebildete ethische Tugend ohne Klugheit und keine 
+eigentliche Klugheit ohne Tugend. Beide bedingen sich wechselseitig.Gewöhnung allein reicht also nicht.
+
 
 
 ### Seelenlehre
@@ -82,9 +93,12 @@ Damit verknüpft Aristoteles direkt seine Tugendethik mit der Seelenlehre:
 - Die **dianoetischen Tugenden** (Verstandestugenden) betreffen den theoretischen Teil der Vernunft (z.B. Weisheit, Einsicht, Kunstfertigkeit).
 
 
-<!--
-Die Tugend „Klugheit“ (phronesis) steht an der Schnittstelle: Sie gehört zur praktischen Vernunft und steuert, wie wir mit unseren Trieben und Affekten umgehen.
--->
+Damit verknüpft Aristoteles direkt seine Tugendethik mit der Seelenlehre:
+
+- Die **ethischen Tugenden** betreffen vor allem den begehrenden, praktisch-vernünftigen Teil der Seele (z. B. Mut, Besonnenheit, Gerechtigkeit).
+- Die **dianoetischen Tugenden** (Verstandestugenden) betreffen vor allem den theoretischen Bereich der Vernunft (z. B. Weisheit, Einsicht, Kunstfertigkeit).
+- Die **Klugheit (phronesis)** steht an der Schnittstelle: Sie gehört zur praktischen Vernunft und steuert den vernünftigen Umgang mit Trieben und Affekten.
+
 
 ### Die drei Lebensformen
 | Aspekt                          | Das hedonistische Leben („Lust“)                                                                 | Das politische Leben                                                           | Das theoretische / philosophische Leben                                                |
