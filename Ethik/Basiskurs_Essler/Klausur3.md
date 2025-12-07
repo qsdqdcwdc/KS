@@ -79,10 +79,7 @@ Ein echtes und beständiges Glück (Eudaimonia = gelingende Lebensführung) ents
 **Gesinnungsethik**: Handlungen werden nach der Absicht und der Realisierung eigener Grundüberzeugungen, Werten oder Prinzipien bewertet z.B. Flüchtlingkrise Christliche Gesinnungsethikerin: „Allen helfen!“ Anderer Gesinnungsethiker: „Aufnehmen moralisch
 falsch!“ In der Gesinnungsethik kommt es also immer auf die Gesinnung an. Sie achten nicht auf die Handlungsfolgen, sondern handeln allein aus Prinzip.
 
-**Verantwortungsethik** nach Weber: Handlungen werden gemäß der Verantwortbarkeit der Ergebnisse und der Folgen des 
-
-Handelns bewertet.
-https://www.youtube.com/watch?v=aR8HG2SybX8
+**Verantwortungsethik** nach Weber: Handlungen werden gemäß der Verantwortbarkeit der Ergebnisse und der Folgen des Handelns bewertet 
 
 # Dimensionen der Verantwortung
 
