@@ -151,14 +151,24 @@ https://www.youtube.com/watch?v=CXUHy7gFyAs
 
 [Video](https://youtu.be/CXUHy7gFyAs?si=bRPKYw8ABPwPf0u9&t=225)
 
-
+<!--
 Jonas begründet seine Verantwortungsethikmit einer evolutionsbasierten „philosophischen Biologie“. Danach bilden alle Lebewesen ein Kontinuum der Entwicklung, es gibt nur Unterschiede im Grad, nicht im Wesen zwischen Mensch, Tier und Pflanze. Im Gegensatz zur Naturwissenschaft, die den Menschen zum bloß hochentwickelten Tier herabstuft, „adelt“ Jonas die übrige Natur und spricht auch Tieren und sogar Pflanzen in abgestufter Form Freiheit, Würde, Bewusstsein und Gefühle zu. Entscheidend ist für ihn, dass alles Lebendige um sein eigenes Dasein bangt und nach Selbsterhaltung strebt, weshalb die gesamte Natur Eigenwert und Würde besitzt. Daraus leitet Jonas einen moralischen Anspruch der Natur auf Unversehrtheit ab sowie die Pflicht des Menschen, sie respektvoll und sorgsam zu behandeln.
+-->
 
-Jonas geht davon aus, moderne Wissenschaft und Technik eine so grundsätzlich neue und existenziell bedrohliche Situation für die gesamte Menschheit gebracht hätten, dass traditionelle Ethiken nicht mehr ausreichten, um die heute notwendigen moralischen Pflichten zu formulieren und zu begründen. Eine Ethik der Wissenschaften müsse heute eine ganz anderen Raum-, Zeit- und Personenhorizont in den Blick nehmen als traditionelle Ethiken (globaler und langfristiger Horizont). Die Kategorien des **„Risikos“, der „Folgenabschätzung“, der „Nebenwirkung“ und „Langzeitfolgen“** gewinnen ethische Bedeutung. Dacher formuliert Jonas einen **neuen kategorischen Imperativ**:
+
+Jonas geht davon aus, moderne Technik eine so grundsätzlich neue Situation für die gesamte Menschheit gebracht hätten, dass traditionelle Ethiken nicht mehr ausreichten, um die heute notwendigen moralischen Normen zu formulieren. Dafür gibt er drei Gründe:
+
+1. **technische Fortschritts:** Der technische Fortschritt hat die Macht des Menschen enorm gesteigert: Handlungen können ganze Ökosysteme zerstören, Wirkungen reichen weit in die Zukunft, und die fortdauernde Existenz der Menschheit ist nicht mehr selbstverständlich.
+
+2. **Verlust gemeinsamer Weltbilder:** Früher stützten sich Normen auf Religion, gemeinsame Kultur und Tradition. Heute sind Gesellschaften pluralistisch; diese traditionellen Weltbilder taugen nicht mehr als allgemein verbindliche Grundlage der Ethik.
+
+3. **Globalisierung:** Durch Globalisierung erfasst unser Handeln die ganze Welt. Klassische Ethiken sind darauf nicht ausgelegt und geben kaum Orientierung bei Entscheidungen, die Menschen auf der anderen Seite des Planeten betreffen.
+
+Eine Ethik der Wissenschaften müsse heute eine ganz anderen Raum-, Zeit- und Personenhorizont in den Blick nehmen als traditionelle Ethiken (globaler und langfristiger Horizont). Die Kategorien des **„Risikos“, der „Folgenabschätzung“, der „Nebenwirkung“ und „Langzeitfolgen“** gewinnen ethische Bedeutung. Dacher formuliert Jonas einen **neuen kategorischen Imperativ**:
 
 > Handle so, dass die Wirkungen deiner Handlung verträglich sind mit der Permanenz echten menschlichen Lebens auf Erden.
 
-- **Zukünftigkeitsethik**: Jonas nennt seine neue Ethik „Zukünftigkeitsethik“. Sie richtet sich nicht primär an die heutigen Mitmenschen, sondern an die Nachgeborenen/zukünftige Menschheit.
+- **Zukünftigkeitsethik**: Jonas nennt seine neue Ethik „Zukünftigkeitsethik“. Sie richtet sich nicht primär an die Nachgeborenen/zukünftige Menschheit.
 - **Echte menschliche Leben**(aus dem neuen kategorischen Imperativ): Verantwortliches Handeln muss davon ausgehen, dass spätere Menschen ein Recht auf „echtes menschliches Leben“ haben also auf:
 	- den Fortbestand der Menschheit: unser Handeln darf die Menschheit als Ganze nicht auslöschen.
 	- den Erhalt menschlichen Lebens: einzelne Menschen und ihre grundlegenden Lebensbedingungen (z. B. Nahrung, Wasser, 	Gesundheit, bewohnbare Umwelt)
