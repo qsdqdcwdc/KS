@@ -252,7 +252,7 @@ Kritiker halten Jonas Zurückweisung des Sein-Sollen-Fehlschluss für unzureiche
 Grundnorm/Zukunftsnorm: Maximierung des in der gesamten zukünftigen Welt zu vewvirklichenden Guten
 
 Begründung:
-- wen Uberchaupt Wir sind dazu verpflichtet, von zwei möglichen Zukünften, die verwirklicht werden können, die bessere zu verwirklichen als die schlechtere.
+- Wenn überhaupt, sind wir dazu verpflichtet, von zwei möglichen Zukünften, die verwirklicht werden können, die bessere zu verwirklichen statt der schlechteren.
 
 ### Praxisnormen:
 Praxisnormen sollen uns auch dann eine klare Orientierung geben, wenn wir nur begrenztes Wissen, begrenzte Einsichts­fähigkeit oder nur begrenzt guten Willen haben. Sie sollen dafür sorgen, dass wir unter realistischen Bedingungen die moralischen Regeln so gut wie möglich einhalten.
