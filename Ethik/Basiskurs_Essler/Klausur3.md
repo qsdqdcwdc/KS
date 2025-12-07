@@ -201,7 +201,12 @@ Kritiker halten Jonas Zurückweisung des Sein-Sollen-Vor­schlusses für unzurei
 Grundnorm/Zukunftsnorm: Maximierung des in der gesamten zukünftigen Welt zu vewvirklichenden Guten
 
 Begründung:
--  „das Gut“ ist, was die größtmögliche Summe an Nutzen hervorbringt.
--  Wir sind dazu verpflichtet, von zwei möglichen Zukünften, die verwirklicht werden können, die bessere zu verwirklichen als die schlechtere.
+- Gut ist, was die größtmögliche Summe an Nutzen hervorbringt.
+- wen Uberchaupt Wir sind dazu verpflichtet, von zwei möglichen Zukünften, die verwirklicht werden können, die bessere zu verwirklichen als die schlechtere.
 
+Praxisnormen:
+Praxisnormen sollen uns auch dann eine klare Orientierung geben, wenn wir nur begrenztes Wissen, begrenzte Einsichts­fähigkeit oder nur begrenzt guten Willen haben. Sie sollen dafür sorgen, dass wir unter realistischen Bedingungen die moralischen Regeln so gut wie möglich einhalten.
 
+-  **kollektive Selbsterhaltung**: Wir dürfen nichts tun, was das Fortbestehen der Menschheit und der höheren Tierarten als Ganzes ernsthaft bedroht.
+- **Keine Gefährdung einer zukünftigen menschenwürdigen Existen** Unsere Entscheidungen müssen so sein, dass zukünftige Menschen noch ein Leben in Würde führen können. Also mit gesicherten Lebensgrundlagen und mit Freiheit.
+- **Wachsamkeit** Wir sollen neue, unumkehrbare Risiken für die Zukunft möglichst vermeiden. Vorsicht bei der Weitergabe von Risiken an nachfolgende Generationen Zukünftige Präferenzen sollten bedacht werden.
