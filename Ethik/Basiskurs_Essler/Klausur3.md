@@ -71,21 +71,28 @@ Wer sich dagegen ausschließlich an Wünschen, Lust, Status oder Erfolg orientie
 
 Ein echtes und beständiges Glück (Eudaimonia = gelingende Lebensführung) entsteht aus der Übung der Tugend und dem vernünftigen Umgang mit allen Situationen. Das bedeutet: tatkräftig das in unserer Macht Stehende tun und die Ergebnisse gelassen annehmen. Ziel ist nicht Gefühllosigkeit; vielmehr sollen Gefühle geordnet und vernünftig werden (etwa beständige Freude an der Tugend statt leidenschaftlicher Aufwallungen). So entstehen innere Ruhe, Freiheit, Freude und Gelassenheit, als Folge eines tugendhaften Lebens, unabhängig davon, ob das Schicksal günstig oder ungünstig ist. Und auch wenn die Welt kausal geordnet ist, liegt unsere Freiheit in vernünftiger Zustimmung und Entscheidung.
 
-Gesinnungsethik vs Verantwortungsethik
-Gesinnungsethik - Handlungen werden nach der Absicht und der
-Realisierung eigener Wege und Prinzipien bewertet,
+# Gesinnungsethik vs Verantwortungsethik
 
- ### Dimensionen der Verantwortung
+[Video](https://youtu.be/uH7gnyU4d_k?si=BRDnX5wON3YrmfAA)
 
+**Gesinnungsethik**: Handlungen werden nach der Absicht und der Realisierung eigener Grundüberzeugungen, Werten oder Prinzipien bewertet z.B. Flüchtlingkrise Christliche Gesinnungsethikerin: „Allen helfen!“ Anderer Gesinnungsethiker: „Aufnehmen moralisch
+falsch!“ In der Gesinnungsethik kommt es also immer auf die Gesinnung an. Sie achten nicht auf die Handlungsfolgen, sondern handeln allein aus Prinzip.
+
+**Verantwortungsethik** nach Weber: Handlungen werden gemäß der Verantwortbarkeit der Ergebnisse und der Folgen des 
+
+Handelns bewertet.
 https://www.youtube.com/watch?v=aR8HG2SybX8
 
-!Wann? - Zeitdimension 
-Wie? - prospektiv(wann ist unverantwortliches Handeln strafwürdig)/retrospektiv(sich verantwortlich fühlen)
-!Wer? - Akteur
-!Was? -  Handlung
-!Wofür? - Folgen
-!Wovor? - Instanz
-Weswegen? - Gründe/Motive
+# Dimensionen der Verantwortung
+
+[video](https://youtu.be/aR8HG2SybX8?si=tRT6oXvAIs0il-4D)
+
+- Wann? - Zeitdimension: prospektiv(Präventives oder Vorsorgeverantwortung)/retrospektiv(zur Verantwortung gezogen werden oder nach der Handlung sich verantwortlich fühlen.)
+- Wer? - Akteur: unbekannte Anzahl, alle Menschen, einer, mehrere
+- Was? -  Handlung/Unterlassung einer Handlung
+- Wofür? - Folgen
+- Wovor? - Instanz: Einem höheren Wesen, vor einem selbst, vor anderen Menschen, Staat, Natur
+- Weswegen? - Gründe/Motive: Schutz anderer, Lösung eines Problems
 <!--
 Wann?
 Passiv, retrospektiv: im Sinne von „verantwortlich gemacht werden für“,
@@ -132,16 +139,12 @@ als Teil des identitätsbildenden Selbst-Bewusstseins im Angesicht des anderen. 
 Lévinas
 -->
 
-Kausalhandlungsverantwortung: Hier ist man für sein eigenes Handeln und die daraus folgenden Ergebnisse verantwortlich bzw. mitverantwortlich. Lenk verdeutlicht dies mit einem Ingenieur, der einen Damm plant. Dieser ist für das Ergebnis seines Entwurfs und seiner Berechnungen verantwortlich. Verantwortung tritt hier besonders in Erscheinung, wenn es zu negativen Vorfällen, wie beispielsweise der Bruch eines Damms aufgrund von falschen Berechnungen, kommt. Dementsprechend wichtig ist hierbei die Sorgfalt bei unseren Handlungen.
+# Arten von Verantwortung nach Lenk
+**Kausalhandlungsverantwortung**: Hier ist man für sein eigenes Handeln und die daraus folgenden Ergebnisse verantwortlich bzw. mitverantwortlich. Lenk verdeutlicht dies mit einem Ingenieur, der einen Damm plant. Dieser ist für das Ergebnis seines Entwurfs und seiner Berechnungen verantwortlich. Verantwortung tritt hier besonders in Erscheinung, wenn es zu negativen Vorfällen, wie beispielsweise der Bruch eines Damms aufgrund von falschen Berechnungen, kommt. Dementsprechend wichtig ist hierbei die Sorgfalt bei unseren Handlungen.
 
-Präventionsverantwortung: Lenk beschreibt diese auch als eine „aktive Verhinderungsverantwortung“. Beispielsweise muss ein Kontrollingenieur aktiv und systematisch nach Schwachstellen im System suchen, um Unfälle oder Störungen zu verhindern sowie einen reibungslosen Ablauf zu gewährleisten.
+**Präventionsverantwortung**: Lenk beschreibt diese auch als eine „aktive Verhinderungsverantwortung“. Beispielsweise muss ein Kontrollingenieur aktiv und systematisch nach Schwachstellen im System suchen, um Unfälle oder Störungen zu verhindern sowie einen reibungslosen Ablauf zu gewährleisten.
 
-Führungs-, Veranlassungs- oder Befehlsverantwortung: Dieser Verantwortungstyp besteht in Organisationen mit hierarchischer Struktur. Jede berufliche Rolle umfasst einen bestimmten Aufgabenbereich und demzufolge auch eine entsprechende Aufgaben- und Rollenverantwortung. Lenk verdeutlicht dies damit: Jeder Techniker ist seinem Vorgesetzten, der Firmenleitung oder höheren Vorgesetzten im Sinne der Rollenerwartung, Stellenbeschreibung
-
-Positive Verantwortung heißt: Ich bin dafür zuständig, in der Zukunft für gute bzw. vertretbare Folgen zu sorgen und mögliche Schäden zu verhindern (Vorsorge- und Gestaltungsauftrag).
-
-Negative Verantwortung heißt: Ich werde im Nachhinein für bereits eingetretene Folgen meines Handelns oder Unterlassens zur Rechenschaft gezogen (Schuld-, Haftungs- oder Zurechnungsverantwortung).
-
+**Führungs-, Veranlassungs- oder Befehlsverantwortung**: Dieser Verantwortungstyp besteht in Organisationen mit hierarchischer Struktur. Jede berufliche Rolle umfasst einen bestimmten Aufgabenbereich und demzufolge auch eine entsprechende Aufgaben- und Rollenverantwortung. Lenk verdeutlicht dies damit: Jeder Techniker ist seinem Vorgesetzten, der Firmenleitung oder höheren Vorgesetzten im Sinne der Rollenerwartung, Stellenbeschreibung
 
 
 https://www.youtube.com/watch?v=CXUHy7gFyAs
@@ -158,7 +161,7 @@ Jonas begründet seine Verantwortungsethikmit einer evolutionsbasierten „philo
 
 Jonas geht davon aus, moderne Technik eine so grundsätzlich neue Situation für die gesamte Menschheit gebracht hätten, dass traditionelle Ethiken nicht mehr ausreichten, um die heute notwendigen moralischen Normen zu formulieren. Dafür gibt er drei Gründe:
 
-1. **technische Fortschritts:** Der technische Fortschritt hat die Macht des Menschen enorm gesteigert: Handlungen können ganze Ökosysteme zerstören, Wirkungen reichen weit in die Zukunft, und die fortdauernde Existenz der Menschheit ist nicht mehr selbstverständlich.
+1. **technische Fortschrit:** Der technische Fortschritt hat die Macht des Menschen enorm gesteigert: Handlungen können ganze Ökosysteme zerstören, Wirkungen reichen weit in die Zukunft, und die fortdauernde Existenz der Menschheit ist nicht mehr selbstverständlich.
 
 2. **Verlust gemeinsamer Weltbilder:** Früher stützten sich Normen auf Religion, gemeinsame Kultur und Tradition. Heute sind Gesellschaften pluralistisch; diese traditionellen Weltbilder taugen nicht mehr als allgemein verbindliche Grundlage der Ethik.
 
@@ -192,3 +195,13 @@ werden, die erkennt. Man darf nicht alles, was man kann.
 ### Sein-Sollen-Vorfällsschluss
 
 Kritiker halten Jonas Zurückweisung des Sein-Sollen-Vor­schlusses für unzureichend, weil er den logischen Punkt Humes verfehlt: Aus rein deskriptiven Aussagen folgt ohne mindestens eine schon normative Prämisse kein Sollen. Aus der bloßen Tatsache, dass alles Lebendige nach Selbsterhaltung strebt und einen Eigenwert habe, lasse sich logisch keine Pflicht ableiten, dieses Leben zu erhalten. Wenn Jonas vom „Ruf des Seienden“ spricht, schleust er nach diesem Einwand genau solche Wertungen verdeckt in die Beschreibung ein.
+
+
+# Intergenerationeller Nutzensummenutilitarismus
+Grundnorm/Zukunftsnorm: Maximierung des in der gesamten zukünftigen Welt zu vewvirklichenden Guten
+
+Begründung:
+-  „das Gut“ ist, was die größtmögliche Summe an Nutzen hervorbringt.
+-  Wir sind dazu verpflichtet, von zwei möglichen Zukünften, die verwirklicht werden können, die bessere zu verwirklichen als die schlechtere.
+
+
