@@ -17,7 +17,7 @@
 
 
 # Tugendethik
-
+Aristoteles entwickelt eine Tugendethik, deren Grundlage die Teleologie bildet: Alles strebt nach einem Ziel (telos), und jede einzelne Handlung strebt ein Gut an.
 
 In der Pflichtethik bei Kant und in der Folgenethik (Utilitarismus) steht vor allem die Frage im Mittelpunkt welche Handlungen richtig oder falsch sind und nach welchen Regeln wir uns richten sollen. Die Tugendethik von Aristoteles stellt dagegen die Frage was für ein Mensch wir sein sollen. Sie interessiert sich für Charaktereigenschaften und fragt welche Haltungen einen guten Menschen ausmachen.
 
@@ -73,14 +73,10 @@ der die "nach uns bemessene Mitte (Mesotes) hält" zwischen Extremen des Mangels
 | Schamlosigkeit     | Schamhaftigkeit           | Verschämtheit             |
 | Diskriminierung    | Gerechtigkeit             | Privilegierung            |
 
-Tugendhaftigkeit hat aber auch einen Selbstzweck insofern, als sie uns unmittelbar glücklich machen
-kann.
-
 Die dianoethische Tugend "Klugheit" (phronesis) spielt eine ganz besondere Rolle bei der Ausbildung
 der ethischen Tugenden, denn die Klugheit kann die menschliche Affekte (Liebe, Hass) beeinflussen
 und damit Einfluss auf das eigentlich vernunftlose sinnlich-begehrende Strebevermögen nehmen.
-benutzt Mensch die reine Vernunft, so entwickelt er diedie Verstandestugenden(dianoethischen Tugenden), hat sich der Mensch an das richtige Handeln gewöhnt, also eine ethische
-Tugend entwickelt, dann ist die Klugheit für das richtige Handeln nicht mehr nötig.
+benutzt Mensch die reine Vernunft, so entwickelt er diedie Verstandestugenden(dianoethischen Tugenden), hat sich der Mensch an das richtige Handeln gewöhnt, also eine Sittliche/ethische Tugenden entwickelt, dann ist die Klugheit für das richtige Handeln nicht mehr nötig.
 
 
 ### Die drei Lebensformen
