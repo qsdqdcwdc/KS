@@ -194,8 +194,6 @@ Lévinas
 **Führungs-, Veranlassungs- oder Befehlsverantwortung**: Dieser Verantwortungstyp besteht in Organisationen mit hierarchischer Struktur. Jede berufliche Rolle umfasst einen bestimmten Aufgabenbereich und demzufolge auch eine entsprechende Aufgaben- und Rollenverantwortung. Lenk verdeutlicht dies damit: Jeder Techniker ist seinem Vorgesetzten, der Firmenleitung oder höheren Vorgesetzten im Sinne der Rollenerwartung, Stellenbeschreibung
 
 
-https://www.youtube.com/watch?v=CXUHy7gFyAs
-
 
 # Verantwortungsethik nach Hans Jonas
 
