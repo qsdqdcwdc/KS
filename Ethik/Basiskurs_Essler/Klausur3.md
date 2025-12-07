@@ -5,6 +5,9 @@
 
 
 # Tugendethik
+<p align="center"><img src="Img/k3_b1.png" width="600"  title="Abb2"></p>
+
+
 Aristoteles entwickelt eine Tugendethik, deren Grundlage die **Teleologie** bildet: Alles strebt nach einem Ziel (telos).
 
 In der Pflichtethik bei Kant und in der Folgenethik (Utilitarismus) steht vor allem die Frage im Mittelpunkt welche Handlungen richtig oder falsch sind und nach welchen Regeln wir uns richten sollen. Die Tugendethik von Aristoteles stellt dagegen die Frage was für ein Mensch wir sein sollen.
