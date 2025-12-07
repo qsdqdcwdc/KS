@@ -78,6 +78,7 @@ der ethischen Tugenden, denn die Klugheit kann die menschliche Affekte (Liebe, H
 und damit Einfluss auf das eigentlich vernunftlose sinnlich-begehrende Strebevermögen nehmen.
 benutzt Mensch die reine Vernunft, so entwickelt er diedie Verstandestugenden(dianoethischen Tugenden), hat sich der Mensch an das richtige Handeln gewöhnt, also eine Sittliche/ethische Tugenden entwickelt, dann ist die Klugheit für das richtige Handeln nicht mehr nötig.
 
+### Mensch = vernunftbegabtes Gemeinschaftswesen, dessen Glück in der vernünftigen, tugendhaften Tätigkeit seiner Seele liegt. Die Seele hat einen irrational-vegetativen Teil (Bedürfnisse, Triebe) und einen rational-vernünftigen Teil (Erkennen, Urteilen), der den ganzen Menschen leiten soll.
 
 ### Die drei Lebensformen
 | Aspekt                          | Das hedonistische Leben („Lust“)                                                                 | Das politische Leben                                                           | Das theoretische / philosophische Leben                                                |
