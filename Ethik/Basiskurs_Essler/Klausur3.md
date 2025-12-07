@@ -1,25 +1,13 @@
 
-<!--
-
-
-
--->
-
-<p align="center">
-	<img src="Img/qr_ethik_klas3.png" width="250"  title="qr code">
-	<br>
-	<em>QR Code scannen um dieses Dokument auf dem iPad zu öffnen</em>
-</p>
 
 1. <code>Kritik und Korrekturen zu diesem Dokument sind erwünscht. Ich versuche Ergänzungen zeitnah zu übernehmen.</code>
-
-# Inhalt
+2. <code>Aktualisieren Sie die Seite bei jedem Aufruf, um die neueste Version dieses Dokuments zu erhalten.</code>
 
 
 # Tugendethik
-Aristoteles entwickelt eine Tugendethik, deren Grundlage die Teleologie bildet: Alles strebt nach einem Ziel (telos), und jede einzelne Handlung strebt ein Gut an.
+Aristoteles entwickelt eine Tugendethik, deren Grundlage die **Teleologie** bildet: Alles strebt nach einem Ziel (telos).
 
-In der Pflichtethik bei Kant und in der Folgenethik (Utilitarismus) steht vor allem die Frage im Mittelpunkt welche Handlungen richtig oder falsch sind und nach welchen Regeln wir uns richten sollen. Die Tugendethik von Aristoteles stellt dagegen die Frage was für ein Mensch wir sein sollen. Sie interessiert sich für Charaktereigenschaften und fragt welche Haltungen einen guten Menschen ausmachen.
+In der Pflichtethik bei Kant und in der Folgenethik (Utilitarismus) steht vor allem die Frage im Mittelpunkt welche Handlungen richtig oder falsch sind und nach welchen Regeln wir uns richten sollen. Die Tugendethik von Aristoteles stellt dagegen die Frage was für ein Mensch wir sein sollen.
 
 In dem Buch „Nikomachische Ethik“ kommt Aristoteles nach ein paar Argumentationsschritten, die folgend beschrieben werden, zu dem Ergebnis dass das letzte Ziel aller menschlichen Handlungen die Glückseligkeit ist ein gelungenes Leben das er Eudaimonia nennt. Dieses Ziel erreichen Menschen indem sie ihre Fähigkeit zur Vernunft entfalten bzw. Tugenden ausüben.
 
@@ -78,7 +66,25 @@ der ethischen Tugenden, denn die Klugheit kann die menschliche Affekte (Liebe, H
 und damit Einfluss auf das eigentlich vernunftlose sinnlich-begehrende Strebevermögen nehmen.
 benutzt Mensch die reine Vernunft, so entwickelt er diedie Verstandestugenden(dianoethischen Tugenden), hat sich der Mensch an das richtige Handeln gewöhnt, also eine Sittliche/ethische Tugenden entwickelt, dann ist die Klugheit für das richtige Handeln nicht mehr nötig.
 
-### Mensch = vernunftbegabtes Gemeinschaftswesen, dessen Glück in der vernünftigen, tugendhaften Tätigkeit seiner Seele liegt. Die Seele hat einen irrational-vegetativen Teil (Bedürfnisse, Triebe) und einen rational-vernünftigen Teil (Erkennen, Urteilen), der den ganzen Menschen leiten soll.
+
+### Seelenlehre
+Für Aristoteles ist der Mensch nur verständlich, wenn man seine Seele (psychē) betrachtet. Die Seele ist dabei nicht ein „Geist im Körper“, sondern das Lebensprinzip des Körpers, das seine Funktionen erklärt. Aristoteles unterscheidet verschiedene Seelenteile:
+
+- **aologischer Teil **: umfasst alle lebensnotwendigen und sinnlichen Funktionen wie Ernährung, Wachstum, Fortpflanzung, Wahrnehmung, Empfindung, Lust/Unlust, Triebe und Affekte. Diese Ebene teilen wir mit Pflanzen (rein vegetative Funktionen) und Tieren (sinnliche Wahrnehmung und Bewegung).  
+- **logischer Teil (vernünftige Seele)**: ist spezifisch menschlich und befähigt zum Denken, Urteilen und begründeten Entscheiden.
+
+Die **vernünftige Seele** gliedert Aristoteles nochmals in zwei Bereiche:
+- einen **theoretischen Teil**, der auf Erkenntnis der Wahrheit gerichtet ist (Wissen, Einsicht),
+- einen **praktischen Teil**, der auf Handeln gerichtet ist und das begehrende Strebevermögen ordnet.
+
+Damit verknüpft Aristoteles direkt seine Tugendethik mit der Seelenlehre:
+- Die **ethischen Tugenden** betreffen vor allem den begehrenden, praktisch-vernünftigen Teil der Seele (z.B. Mut, Besonnenheit, Gerechtigkeit).
+- Die **dianoetischen Tugenden** (Verstandestugenden) betreffen den theoretischen Teil der Vernunft (z.B. Weisheit, Einsicht, Kunstfertigkeit).
+
+
+<!--
+Die Tugend „Klugheit“ (phronesis) steht an der Schnittstelle: Sie gehört zur praktischen Vernunft und steuert, wie wir mit unseren Trieben und Affekten umgehen.
+-->
 
 ### Die drei Lebensformen
 | Aspekt                          | Das hedonistische Leben („Lust“)                                                                 | Das politische Leben                                                           | Das theoretische / philosophische Leben                                                |
@@ -208,11 +214,13 @@ Eine Ethik der Wissenschaften müsse heute eine ganz anderen Raum-, Zeit- und Pe
 
 > Handle so, dass die Wirkungen deiner Handlung verträglich sind mit der Permanenz echten menschlichen Lebens auf Erden.
 
-- **Zukünftigkeitsethik**: Jonas nennt seine neue Ethik „Zukünftigkeitsethik“. Sie richtet sich nicht primär an die Nachgeborenen/zukünftige Menschheit.
+<!--
+- **Zukünftigkeitsethik**: Jonas nennt seine neue Ethik „Zukünftigkeitsethik“. Sie richtet sich primär an die Nachgeborenen/zukünftige Menschheit.
 - **Echte menschliche Leben**(aus dem neuen kategorischen Imperativ): Verantwortliches Handeln muss davon ausgehen, dass spätere Menschen ein Recht auf „echtes menschliches Leben“ haben also auf:
 	- den Fortbestand der Menschheit: unser Handeln darf die Menschheit als Ganze nicht auslöschen.
 	- den Erhalt menschlichen Lebens: einzelne Menschen und ihre grundlegenden Lebensbedingungen (z. B. Nahrung, Wasser, 	Gesundheit, bewohnbare Umwelt)
 	- die Vermeidung permanenter Schäden: es dürfen keine irreversiblen Zerstörungen (etwa an Natur, Klima, genetischem Erbe) verursacht werden, die künftige Generationen ihrer Lebensmöglichkeiten berauben.
+-->
 
 d.h: Mensch soll sich entfalten können und nicht nur überleben müssen.
 
@@ -229,9 +237,9 @@ werden, die erkennt. Man darf nicht alles, was man kann.
 
 - In extremen Notlagen erwägt er sogar zeitweilige Einschränkungen demokratischer Verfahren zugunsten des Selbsterhalts der Menschheit, ohne aber konkrete politische Handlungskonzepte auszuarbeiten.
 
-### Sein-Sollen-Vorfällsschluss
+### Sein-Sollen-Fehlschluss
 
-Kritiker halten Jonas Zurückweisung des Sein-Sollen-Vor­schlusses für unzureichend, weil er den logischen Punkt Humes verfehlt: Aus rein deskriptiven Aussagen folgt ohne mindestens eine schon normative Prämisse kein Sollen. Aus der bloßen Tatsache, dass alles Lebendige nach Selbsterhaltung strebt und einen Eigenwert habe, lasse sich logisch keine Pflicht ableiten, dieses Leben zu erhalten. Wenn Jonas vom „Ruf des Seienden“ spricht, schleust er nach diesem Einwand genau solche Wertungen verdeckt in die Beschreibung ein.
+Kritiker halten Jonas Zurückweisung des Sein-Sollen-Fehlschluss für unzureichend, weil er den logischen Punkt Humes verfehlt: Aus rein deskriptiven Aussagen folgt ohne mindestens eine schon normative Prämisse kein Sollen. Aus der bloßen Tatsache, dass alles Lebendige nach Selbsterhaltung strebt und einen Eigenwert habe, lasse sich logisch keine Pflicht ableiten, dieses Leben zu erhalten. Wenn Jonas vom „Ruf des Seienden“ spricht, schleust er nach diesem Einwand genau solche Wertungen verdeckt in die Beschreibung ein.
 
 
 # Birnbacher
@@ -239,7 +247,6 @@ Kritiker halten Jonas Zurückweisung des Sein-Sollen-Vor­schlusses für unzurei
 Grundnorm/Zukunftsnorm: Maximierung des in der gesamten zukünftigen Welt zu vewvirklichenden Guten
 
 Begründung:
-- Gut ist, was die größtmögliche Summe an Nutzen hervorbringt.
 - wen Uberchaupt Wir sind dazu verpflichtet, von zwei möglichen Zukünften, die verwirklicht werden können, die bessere zu verwirklichen als die schlechtere.
 
 ### Praxisnormen:
