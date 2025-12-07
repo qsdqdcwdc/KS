@@ -60,6 +60,7 @@ Glück ist eine Tätigkeit der Seele gemäß der Tugend (über ganzes Leben hinw
 ### Tugende und Mesotes-Lehre
 Dacher soll es geklert werden wass „gute“ nutzung der Vernunft. 
 
+# Stoa
 
 - [Stoizism 3 min Zusamenfasung](https://www.youtube.com/watch?v=Rxzx5x7TY5M&t=1s)
 - [Stanford Encyclopedia of Philosophy: Stoicism](https://plato.stanford.edu/archIves/spr2016/entries/stoicism/)
