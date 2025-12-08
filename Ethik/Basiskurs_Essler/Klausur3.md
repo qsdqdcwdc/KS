@@ -5,7 +5,7 @@
 
 
 # Tugendethik
-<p align="center"><img src="_Img/k3_b1.png" width="600"  title="Abb2"></p>
+<p align="center"><img src="_Img/k3_b1.png" width="600"  title="Abb1"></p>
 
 
 Aristoteles entwickelt eine Tugendethik, deren Grundlage die **Teleologie** bildet: Alles strebt nach einem Ziel (telos).
