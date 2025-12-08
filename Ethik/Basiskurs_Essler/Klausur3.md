@@ -73,7 +73,7 @@ Die dianoetische Tugend **„Klugheit“ (phronesis)** spielt eine besondere Rol
 - Klugheit gehört zur **praktischen Vernunft**(sehe unten) und ist das Vermögen, in konkreten Situationen das Richtige zu erkennen und zu wählen.
 - Sie ordnet die menschlichen Affekte (z. B. Liebe, Hass).
 
-Die **Verstandestugenden** (dianoetische Tugenden) entstehen durch Unterricht und Übung des Denkens.  
+Die **Verstandestugenden** (dianoetische Tugenden) entstehen durch Unterricht und Übung des Denkens. (Z.b Wissenschaft, Verstand, Weisheit, Kunst und Klugheit)  
 Die **ethischen Tugenden** entstehen durch Gewöhnung an richtiges Handeln.
 
 Nach Aristoteles gibt es keine voll ausgebildete ethische Tugend ohne Klugheit und keine 
@@ -91,7 +91,7 @@ Die **vernünftige Seele** gliedert Aristoteles nochmals in zwei Bereiche:
 
 Damit verknüpft Aristoteles direkt seine Tugendethik mit der Seelenlehre:
 - Die **ethischen Tugenden** betreffen vor allem den begehrenden, praktisch-vernünftigen Teil der Seele (z.B. Mut, Besonnenheit, Gerechtigkeit).
-- Die **dianoetischen Tugenden** (Verstandestugenden) betreffen den theoretischen Teil der Vernunft (z.B. Weisheit, Einsicht, Kunstfertigkeit).
+- Die **dianoetischen Tugenden** (Verstandestugenden) betreffen den theoretischen Teil der Vernunft (Wissenschaft, Verstand, Weisheit, Kunst und Klugheit).
 
 ### Die drei Lebensformen
 | Aspekt                          | Das hedonistische Leben („Lust“)                                                                 | Das politische Leben                                                           | Das theoretische / philosophische Leben                                                |
