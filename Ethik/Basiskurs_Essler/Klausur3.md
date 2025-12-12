@@ -143,6 +143,7 @@ falsch!“ In der Gesinnungsethik kommt es also immer auf die Gesinnung an. Sie 
 - Wofür? - Folgen
 - Wovor? - Instanz: Einem höheren Wesen, vor einem selbst, vor anderen Menschen, Staat, Natur
 - Weswegen? - Gründe/Motive: Schutz anderer, Lösung eines Problems
+- Wie?
 <!--
 Wann?
 Passiv, retrospektiv: im Sinne von „verantwortlich gemacht werden für“,
