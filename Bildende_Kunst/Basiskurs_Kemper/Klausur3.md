@@ -13,7 +13,7 @@ Le Corbusiers Architekturstil entstand in der frühen Moderne. Er reagierte auf 
 
 ### Umbau von Paris: „Plan Voisin“
 
-Mit dem „Plan Voisin“ entwarf Le Corbusier 1925 ein radikales Sanierungs- und Neubauprogramm für das Zentrum von Paris: große Teile der bestehenden Bebauung sollten verschwinden und durch eine „vertikale“ Innenstadt mit gläsernen Büro-Hochhäusern ersetzt werden. Der Plan Voisin wurde nie realisiert.
+Mit dem „Plan Voisin“ entwarf Le Corbusier 1925 ein radikales  Umbauprogramm für das Zentrum von Paris: große Teile der bestehenden Bebauung sollten verschwinden und durch eine „vertikale“ Innenstadt mit gläsernen Büro-Hochhäusern ersetzt werden. Der Plan Voisin wurde nie realisiert.
 
 #### Ideen
 
