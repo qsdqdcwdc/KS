@@ -6,6 +6,7 @@ Le Corbusiers Architekturstil entstand in der frühen Moderne. Er reagierte auf 
 - 1887: Geboren in der Schweiz unter dem Namen Charles-Édouard Jeanneret-Gris.
 - 1917: Umzug nach Paris.
 - 1920: Annahme des Pseudonyms „Le Corbusier“.
+- 1925: „Plan Voisin“ vorschlag für Umbau von Paris.
 - 1927: Formulierung der „Fünf Punkte“.
 - 1928–1931: Villa Savoye.
 - 1947–1952: Großprojekte und Nachkriegswerk (Unité d’Habitation, Marseille).
