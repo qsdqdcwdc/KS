@@ -49,8 +49,9 @@ Le Corbusier formulierte **1926/27** die **fünf Punkte einer neuen Architektur*
 
 Diese Prinzipien sind an der **Villa Savoye** besonders gut ablesbar: der Bau auf Pilotis, der offene Grundriss im Raster, Fensterbänder in der nichttragenden Fassade und der Dachgarten.
 
+# Archtektur
 - **Architekturskizze**: schnelle, oft perspektivische Skizze zur Ideenfindung/Überprüfung, ohne Anspruch auf vollständige Norm-/Plan-Konventionen.
-- **Entwurfszeichnung** ist eine architektonische Zeichnung, die den gestalterischen Entwurf eines Bauwerks in einer konkretisierten, aber noch nicht ausführungstechnisch vollständigen Form darstellt und der Weiterentwicklung zur technischen Bauzeichnung dient.
+- **Entwurfszeichnung** ist eine Zeichnung, die den gestalterischen Entwurf eines Bauwerks in einer konkretisierten, aber noch nicht ausführungstechnisch vollständigen Form darstellt und der Weiterentwicklung zur technischen Bauzeichnung dient.
 - **Grundriss**: Ansicht von oben als gedachter waagerechter Schnitt, zeigt Raumaufteilung, Wände und Öffnungen wie Türen und Fenster.
 - **Ansicht (Aufriss)**: Ansicht von außen, gerade von vorne oder von der Seite, zeigt die Außenfläche.
 - **Schnitt**: Darstellung eines Bauwerks entlang einer gedachten Schnittebene zeigt Innenaufbau.
