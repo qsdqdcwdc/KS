@@ -29,3 +29,24 @@ Mit dem „Plan Voisin“ entwarf Le Corbusier 1925 ein radikales  Umbauprogramm
 - Großformen und Raster wirken auf viele unmenschlich.
 - Soziale Folgen: Top-down-Planung ignoriert soziale Durchmischung; ähnliche Ideen führten später zu urbanen Ghettos.
 
+### Die Fünf Punkte einer neuen Architektur
+
+Le Corbusier formulierte **1926/27** die **fünf Punkte einer neuen Architektur**:
+
+1. **Pilotis**
+   Ein Stützenraster trägt Decken und Dach; tragende Innen- und Außenwände werden entbehrlich. Das Erdgeschoss wird angehoben und als durchlässige Ebene für Zugang, Licht und Freiraum genutzt.
+
+2. **Dachgarten**
+   Das Flachdach wird als Terrasse und Garten genutzt – als Ausgleich für die überbaute Fläche. Zugleich soll die Begrünung den Stahlbeton durch gleichmäßigere Feuchte und geringere Temperaturwechsel schützen.
+
+3. **Freier Grundriss**
+   Da die Lasten über das Stützensystem abgetragen werden, können Innenwände frei als leichte Trennwände gesetzt und Grundrisse offener organisiert oder verändert werden.
+
+4. **Langfenster**
+   Horizontale Langfenster zwischen den Stützen liefern breite, gleichmäßigere Belichtung und betonen die horizontale Ordnung der Fassade.
+
+5. **Freie Fassade**
+   Weil die Fassade nicht mehr trägt, wird sie zur gestaltbaren Hülle: Öffnungen, Proportionen und Fensterlängen folgen Licht.
+
+Diese Prinzipien sind an der **Villa Savoye** besonders gut ablesbar: der Bau auf Pilotis, der offene Grundriss im Raster, Fensterbänder in der nichttragenden Fassade und der Dachgarten.
+
