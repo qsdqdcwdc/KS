@@ -1,6 +1,6 @@
 # Le Corbusier
 
-Le Corbusiers Architekturstil entstand in der frühen Moderne. Er reagierte auf das Maschinenzeitalter mit Funktionalität, Standardisierung und nutzte die Möglichkeiten neuer Bauweisen wie Stahlbeton. Er orientierte sich an Ingenieuren und ließ sich von technischen Vorbildern wie Ozeandampfern, Automobilen und Flugzeugen inspirieren. Einerseits zielte er damit auf eine funktionale Architektur, andererseits ist sein Stil stark von Ordnung, Proportion und ästhetischem Anspruch geprägt.
+Le Corbusiers Architekturstil entstand in der frühen Moderne. Er reagierte auf das Maschinenzeitalter mit Funktionalismus, Standardisierung und nutzte die Möglichkeiten neuer Bauweisen wie Stahlbeton. Er orientierte sich an Ingenieuren und ließ sich von technischen Vorbildern wie Ozeandampfern, Automobilen und Flugzeugen inspirieren. Einerseits zielte er damit auf eine funktionale Architektur, andererseits ist sein Stil stark von Ordnung, Proportion und ästhetischem Anspruch geprägt.
 
 ### Biografie
 - 1887: Geboren in der Schweiz unter dem Namen Charles-Édouard Jeanneret-Gris.
