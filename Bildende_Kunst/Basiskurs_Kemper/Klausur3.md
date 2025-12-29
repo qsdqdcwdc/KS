@@ -27,3 +27,4 @@ Mit dem „Plan Voisin“ entwarf Le Corbusier 1925 ein radikales  Umbauprogramm
 - Der Plan hätte das historische Stadtgefüge ausgelöscht.
 - Großformen und Raster wirken auf viele unmenschlich.
 - Soziale Folgen: Top-down-Planung ignoriert soziale Durchmischung; ähnliche Ideen führten später zu urbanen Ghettos.
+
