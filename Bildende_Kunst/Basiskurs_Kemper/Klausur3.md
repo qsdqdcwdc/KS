@@ -3,16 +3,16 @@
 Le Corbusiers Architekturstil entstand in der frühen Moderne (ca. 1920). Er reagierte auf das Maschinenzeitalter mit Funktionalismus, Standardisierung und nutzte die Möglichkeiten neuer Bauweisen wie Stahlbeton. Er orientierte sich an Ingenieuren und ließ sich von technischen Vorbildern wie Ozeandampfern, Automobilen und Flugzeugen inspirieren. Einerseits zielte er damit auf eine funktionale Architektur, andererseits ist sein Stil stark von Ordnung, Proportion und ästhetischem Anspruch geprägt.
 
 ### Biografie
-- 1887: Geboren in der Schweiz unter dem Namen Charles-Édouard Jeanneret-Gris.
-- 1917: Umzug nach Paris.
-- 1920: Annahme des Pseudonyms „Le Corbusier“.
-- 1925: „Plan Voisin“ vorschlag für Umbau von Paris.
-- 1927: Formulierung der „Fünf Punkte“.
-- 1928–1931: Villa Savoye.
-- 1947–1952: Großprojekte und Nachkriegswerk (Unité d’Habitation, Marseille).
-- 1965: Gestorben in Frankreich (Roquebrune-Cap-Martin).
+- 1887: wurde in der Schweiz unter dem Namen Charles-Édouard Jeanneret-Gris geboren.
+- 1917:  zog nach Paris um.
+- 1920: nahm das Pseudonym „Le Corbusier“ an.
+- 1925: stellte mit dem „Plan Voisin“ einen Vorschlag für den Umbau von Paris vor.
+- 1927: formulierte die „Fünf Punkte einer neuen Architektur“.
+- 1928–1931: diesem Zeitraum entstand die Villa Savoye.
+- 1947–1952: dieser Phase realisierte er Großprojekte und sein Nachkriegswerk, darunter die Unité d’Habitation in Marseille.
+- 1965: Er starb in Frankreich (Roquebrune-Cap-Martin).
 
-### Umbau von Paris: „Plan Voisin“
+### Plan für Umbau von Paris: „Plan Voisin“
 
 Mit dem „Plan Voisin“ entwarf Le Corbusier 1925 ein radikales  Umbauprogramm für das Zentrum von Paris: große Teile der bestehenden Bebauung sollten verschwinden und durch eine „vertikale“ Innenstadt mit gläsernen Büro-Hochhäusern ersetzt werden. Der Plan Voisin wurde nie realisiert.
 
