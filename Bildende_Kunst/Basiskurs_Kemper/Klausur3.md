@@ -1,6 +1,6 @@
 # Le Corbusier
 
-Le Corbusiers Architekturstil entstand in der frühen Moderne. Er reagierte auf das Maschinenzeitalter mit Funktionalismus, Standardisierung und nutzte die Möglichkeiten neuer Bauweisen wie Stahlbeton. Er orientierte sich an Ingenieuren und ließ sich von technischen Vorbildern wie Ozeandampfern, Automobilen und Flugzeugen inspirieren. Einerseits zielte er damit auf eine funktionale Architektur, andererseits ist sein Stil stark von Ordnung, Proportion und ästhetischem Anspruch geprägt.
+Le Corbusiers Architekturstil entstand in der frühen Moderne (ca. 1920). Er reagierte auf das Maschinenzeitalter mit Funktionalismus, Standardisierung und nutzte die Möglichkeiten neuer Bauweisen wie Stahlbeton. Er orientierte sich an Ingenieuren und ließ sich von technischen Vorbildern wie Ozeandampfern, Automobilen und Flugzeugen inspirieren. Einerseits zielte er damit auf eine funktionale Architektur, andererseits ist sein Stil stark von Ordnung, Proportion und ästhetischem Anspruch geprägt.
 
 ### Biografie
 - 1887: Geboren in der Schweiz unter dem Namen Charles-Édouard Jeanneret-Gris.
@@ -57,6 +57,8 @@ Diese Prinzipien sind an der **Villa Savoye** besonders gut ablesbar: der Bau au
 - **Schnitt**: Darstellung eines Bauwerks entlang einer gedachten Schnittebene zeigt Innenaufbau.
 
 # Bjarke Ingels
+Bjarke Ingels prägt seit den 2000er Jahren eine zeitgenössische Architektur. Seine Schwerpunkte liegen auf technischer Innovation sowie auf ökologischen und sozialen Aspekten. In seinem Büro BIG beschreibt er Architektur als Verbindung pragmatischer Lösungen mit utopischen Möglichkeiten.
+
 ### Biografie
 - 1974: Geboren am 02.10.1974 in Kopenhagen; aufgewachsen nördlich von Kopenhagen in einem eingeschossigen Flachdachhaus
 - 1993-1998: Architekturstudium an der Royal Danish Academy of Fine Arts (Kopenhagen); Austauschjahr 1996 in Barcelona
@@ -66,5 +68,5 @@ Diese Prinzipien sind an der **Villa Savoye** besonders gut ablesbar: der Bau au
 - 2006: Gründung von BIG in Kopenhagen; frühe Schlüsselprojekte: Mountain Dwellings (2008) und später 8 House (2010); Buch „Yes Is More“ (2009) mit dem Leitbild des „pragmatic utopianism“.
 - ab 2010: Ausbau zu internationaler Praxis; heute 6 Studio-Standorte (u. a. Kopenhagen, New York, London, Barcelona) und 700+ Mitarbeitende.
 - 2012-2019: Superkilen (2012), Danish Maritime Museum, Helsingør (2013), CopenHill/Amager Bakke (2019), The Twist (2019), MÉCA (2019).
-
+- 2025: BIG gewinnt das Qualifizierungsverfahren für den Neubau der Staatsoper Hamburg am Baakenhöft.
 
