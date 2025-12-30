@@ -31,7 +31,7 @@ Mit dem „Plan Voisin“ entwarf Le Corbusier 1925 ein radikales  Umbauprogramm
 
 ### Die Fünf Punkte einer neuen Architektur
 
-Le Corbusier formulierte **1926/27** die **fünf Punkte einer neuen Architektur**:
+Le Corbusier formulierte 1926 die fünf Punkte einer neuen Architektur:
 
 1. **Die Pfosten (Pilotis)**: Ein Raster von Betonstützen ersetzt die tragenden Mauern. Das Erdgeschoss wird angehoben und als Freiraum genutzt.
 
@@ -55,4 +55,16 @@ Diese Prinzipien sind an der **Villa Savoye** besonders gut ablesbar: der Bau au
 - **Grundriss**: Ansicht von oben als gedachter waagerechter Schnitt, zeigt Raumaufteilung, Wände und Öffnungen wie Türen und Fenster.
 - **Ansicht (Aufriss)**: Ansicht von außen, gerade von vorne oder von der Seite, zeigt die Außenfläche.
 - **Schnitt**: Darstellung eines Bauwerks entlang einer gedachten Schnittebene zeigt Innenaufbau.
+
+# Bjarke Ingels
+### Biografie
+- 1974: Geboren am 02.10.1974 in Kopenhagen; aufgewachsen nördlich von Kopenhagen in einem eingeschossigen Flachdachhaus
+- 1993-1998: Architekturstudium an der Royal Danish Academy of Fine Arts (Kopenhagen); Austauschjahr 1996 in Barcelona
+- 1998-2001: Arbeit bei Office for Metropolitan Architecture (OMA) in Rotterdam unter Rem Koolhaas.
+- 2001-2005: Mitgründer von PLOT (mit Julien De Smedt), Wohnprojekte im Viertel Orestad als Karriere Initialzündung.
+- 2004: Fertigstellung des Maritime Youth House in Kopenhagen (PLOT).
+- 2006: Gründung von BIG in Kopenhagen; frühe Schlüsselprojekte: Mountain Dwellings (2008) und später 8 House (2010); Buch „Yes Is More“ (2009) mit dem Leitbild des „pragmatic utopianism“.
+- ab 2010: Ausbau zu internationaler Praxis; heute 6 Studio-Standorte (u. a. Kopenhagen, New York, London, Barcelona) und 700+ Mitarbeitende.
+- 2012-2019: Superkilen (2012), Danish Maritime Museum, Helsingør (2013), CopenHill/Amager Bakke (2019), The Twist (2019), MÉCA (2019).
+
 
