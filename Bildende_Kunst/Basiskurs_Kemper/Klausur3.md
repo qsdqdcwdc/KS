@@ -45,7 +45,7 @@ Le Corbusier formulierte 1926 die fünf Punkte einer neuen Architektur:
    Horizontale Langfenster zwischen den Stützen liefern breite, gleichmäßigere Belichtung und betonen die horizontale Ordnung der Fassade.
 
 5. **Freie Fassade**
-   Weil die Fassade nicht mehr trägt, wird sie zur gestaltbaren Hülle: Öffnungen, Proportionen und Fensterlängen folgen Licht und .
+   Weil die Fassade nicht mehr trägt, wird sie zur gestaltbaren Hülle: Öffnungen, Proportionen und Fensterlängen folgen Licht.
 
 Diese Prinzipien sind an der **Villa Savoye** besonders gut ablesbar: der Bau auf Pilotis, der offene Grundriss im Raster, Fensterbänder in der nichttragenden Fassade und der Dachgarten.
 
