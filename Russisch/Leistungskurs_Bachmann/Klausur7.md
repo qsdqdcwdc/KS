@@ -12,7 +12,7 @@
 
 # Тамань (1840) 
 
-Coole Analyse zum Glügscheißen: https://cyberleninka.ru/article/n/taman-lermontova-prostranstvo-personazhi-syuzhet
+Coole Analyse zum Klugscheißen: https://cyberleninka.ru/article/n/taman-lermontova-prostranstvo-personazhi-syuzhet
 
 Voller Text von dem Werk: https://ilibrary.ru/text/12/p.5/index.html
 
