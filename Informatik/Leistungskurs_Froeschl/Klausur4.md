@@ -185,12 +185,12 @@ public static void addNumbers(List<? super Integer> list) {
 
 # Rekursion
 
-[Video](https://www.youtube.com/watch?v=k-7jJP7QFEM)[
+[Video](https://www.youtube.com/watch?v=k-7jJP7QFEM)
 
 
 **Definition**: Rekursive Funktionen zeichnen sich dadurch aus, dass sie sich in ihrem Verlauf selbst aufrufen können. Bei einem rekursiven Aufruf (**Rekursionsschritt**) wird das zu lösende Problem (d.h. die Parameter des Aufrufs) typischerweise verkleinert, bis die Problemgröße irgendwann so gering ist, dass das Problem direkt gelöst werden kann (**Rekursionsbasis**).
 
-Der **Rekursionsbasisfall** einer rekursiven Funktion $R(p)$ mit einem oder mehreren Parametern $p$ beschreibt jene Werte von $p$, für die $R(p)$ ohne weitere direkte oder indirekte Selbstaufrufe ausgeführt wird. z.B für eine rekursive Funktion der fibonacci Reihe $Fib(n)$ sind $Fib(0)$ und $Fib(1)$ die Basisfälle, weil die einfach nach Definition gleich 0 und gleich 1 sind. 
+Der **Rekursionsbasisfall** einer rekursiven Funktion $R(p)$ mit einem oder mehreren Parametern $p$ beschreibt jene Werte von $p$, für die $R(p)$ ohne weitere direkte oder indirekte Selbstaufrufe ausgeführt wird. z.B für eine rekursive Funktion der fibonacci Reihe $Fib(n)$ sind $Fib(0)$ und $Fib(1)$ die Basisfälle, weil die nach Definition gleich 1 sind. 
 
 Man kann garantieren dass eine rekursive Funktion  $R(p)$  für irgendeine spezifischen parametenwert $p$  terminieren wird, nur dann wenn man zeigt dass alle Rekursionszweige die bei Aufrufen von $R(p)$ entstehen in einem Basisfall enden. Daher lohnt es sich, beim Entwurf einer rekursiven Funktion darauf zu achten, dass jeder rekursive Aufruf mit einem kleineren Parameterwert erfolgt und der Basisfall dem kleinsten möglichen Wert entspricht, mit dem die Funktion aufgerufen werden kann. So lässt sich die Termination der Rekursion zuverlässig garantieren. 
 
