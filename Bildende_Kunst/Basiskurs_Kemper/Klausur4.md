@@ -49,6 +49,7 @@ Die Architektur von BIG ist weniger durch eine einheitliche Formensprache als du
 - Innen skandinavische minimalistische Stil mit viel Holzboden und farbintensiven Fluren.
 - Verwendung von Terrassen, Balkonen, Flachdächer mit Ausblick auf Landschaft.
 - Für Verstärkung von sozialen Miteinander und Gemeinschaftsgefühl werden zahlreiche öffentliche Räume erstellt wie Innenhöfe, Gärten, Grillstellen, Dachterrassen, Schwimmbäder etc.
+- Mischfunktion: Wohngebäude besitzen oft über andere Funktionen wie Parkhaus, Kindergarten und weiteres.
 
 
 
