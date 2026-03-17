@@ -18,3 +18,8 @@
 | konvex                           | nach außen gewölbt                                                                                                                                                                                                          |
 | das Areal                        | die Bodenfläche / der Baugrund                                                                                                                                                                                              |
 | der Lageplan                     | Plan der Lage und Umgebung eines Gebäudes                                                                                                                                                                                   |
+
+
+**Wohnkonzept** ist eine durchdachte Gestaltung von Wohnräumen oder Wohnanlagen, die funktionale, ästhetische und soziale Aspekte berücksichtigt.
+
+
