@@ -20,6 +20,22 @@
 | der Lageplan                     | Plan der Lage und Umgebung eines Gebäudes                                                                                                                                                                                   |
 
 
-**Wohnkonzept** ist eine durchdachte Gestaltung von Wohnräumen oder Wohnanlagen, die funktionale, ästhetische und soziale Aspekte berücksichtigt.
 
+
+
+
+
+## Architekturale Merkmale von BIG
+
+Die Architektur von BIG ist weniger durch eine einheitliche Formensprache als durch wiederkehrende räumliche und konzeptionelle Strategien geprägt:
+
+- Stapelung, Anordnung, Schichtung von modularen Elementen.
+- Ferdrejung von Baukorpern.
+- komplexe 3D Grundrisse
+- Manchmal Balkone und Innenhof.
+- Nutzung von Flachdächern für öffentliche Räume.
+- Gebaut pragmatisch mit Sensibilität für soziale Fragen und Gesellschaft.
+
+
+**Wohnkonzept** ist eine durchdachte Gestaltung von Wohnräumen oder Wohnanlagen, die funktionale, ästhetische und soziale Aspekte berücksichtigt.
 
