@@ -37,5 +37,19 @@ Die Architektur von BIG ist weniger durch eine einheitliche Formensprache als du
 - Gebaut pragmatisch mit Sensibilität für soziale Fragen und Gesellschaft.
 
 
+
+### Wohnkonzept von Big
+
 **Wohnkonzept** ist eine durchdachte Gestaltung von Wohnräumen oder Wohnanlagen, die funktionale, ästhetische und soziale Aspekte berücksichtigt.
+
+- Bodentiefe Fenster für maximale Tageslichtversorgung.
+- Verschiedene Geschosshöhen.
+- Fließende Raumkontinuität aus Wohnen, Essen und Kochen, kaum Zwischenwände.
+- Einbauküchen und Stehschränke, angepasst an digitale Nomaden mit wenig Möbeln.
+- Innen skandinavische minimalistische Stil mit viel Holzboden und farbintensiven Fluren.
+- Verwendung von Terrassen, Balkonen, Flachdächer mit Ausblick auf Landschaft.
+- Für Verstärkung von sozialen Miteinander und Gemeinschaftsgefühl werden zahlreiche öffentliche Räume erstellt wie Innenhöfe, Gärten, Grillstellen, Dachterrassen, Schwimmbäder etc.
+
+
+
 
