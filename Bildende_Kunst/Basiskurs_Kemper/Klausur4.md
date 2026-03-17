@@ -50,6 +50,7 @@ Die Architektur von BIG ist weniger durch eine einheitliche Formensprache als du
 - Verwendung von Terrassen, Balkonen, Flachdächer mit Ausblick auf Landschaft.
 - Für Verstärkung von sozialen Miteinander und Gemeinschaftsgefühl werden zahlreiche öffentliche Räume erstellt wie Innenhöfe, Gärten, Grillstellen, Dachterrassen, Schwimmbäder etc.
 - Mischfunktion: Wohngebäude besitzen oft über andere Funktionen wie Parkhaus, Kindergarten und weiteres.
+- Die Wohnungen werden gemütlich gestaltet durch Pflanzen und Kissen, nach dem Idee von Hygge.
 
 
 
