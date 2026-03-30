@@ -1,0 +1,1 @@
+Ein **Abstrakter Datentyp (ADT)** ist zunächst einmal ein Verbund von Objekten. Er verrät nichts über seinen inneren Aufbau, sondern erlaubt den Zugriff auf die enthaltenen Objekte ausschließlich mittels seiner Methoden. Diese Methoden sind über ihre Signatur definiert
