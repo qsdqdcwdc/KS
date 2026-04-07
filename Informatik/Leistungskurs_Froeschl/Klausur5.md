@@ -90,7 +90,9 @@ Detaillierte Beschreibung: [Playlist Ep40-Ep45](https://www.youtube.com/watch?v=
 
 **Vorgehensweise:** Gegebene Aussage mit  Strukturgesetzen umformen, bis eine Identität sichtbar wird (z. B. `A + ¬A = 1` oder `A * ¬A = 0`), dann mit identität Regeln kürzen. Die Prozedur wiederholen, bis die Aussage ausreichend simplifiziert ist.
 
-Strukturgesetze  Video: [Strukturgesetze](https://www.youtube.com/watch?v=iE5fbKd4Ohk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=32),
+**Strukturgesetze**
+
+Video: [Strukturgesetze](https://www.youtube.com/watch?v=iE5fbKd4Ohk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=32),
 (De Morgan) Video: [De Morgan](https://www.youtube.com/watch?v=euW9JldGCFk&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=33)
 
 | Gesetz | ODER `+` | UND `*` |
@@ -100,7 +102,9 @@ Strukturgesetze  Video: [Strukturgesetze](https://www.youtube.com/watch?v=iE5fbK
 | **Distributivgesetz** | `A + (B * C) = (A + B) * (A + C)` | `A * (B + C) = A*B + A*C` |
 | **De Morgan** | `¬(A + B) = ¬A * ¬B` | `¬(A * B) = ¬A + ¬B` |
 
-Identitäten Video: [Identitäten](https://www.youtube.com/watch?v=6B-SVpM8x2w&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=31)
+**Identitäten**
+
+Video: [Identitäten](https://www.youtube.com/watch?v=6B-SVpM8x2w&list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF&index=31)
 | Interaktion | Addition `+` | Multiplikation `*` | XOR `⊕` |
 |--------------|---------------|--------------------|----------|
 | **Mit sich selbst** | `A + A = A` | `A * A = A` | `A ⊕ A = 0` |
