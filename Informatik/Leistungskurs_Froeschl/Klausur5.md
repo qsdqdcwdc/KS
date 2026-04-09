@@ -171,3 +171,9 @@ Semantik: Ordnet wohlgeformten Ausdrücken eine Bedeutung zu, z. B. mittels eine
 ### Syntax-Diagramme  
 Syntax-Diagramme sind grafische Darstellungen von Produktionsregeln einer Sprache. Für weitere Informationen sehe diese Seite: [inf-schule.de Fachkonzept - Syntaxdiagramm
 ](https://inf-schule.de/automaten-sprachen/sprachenundautomaten/sprachbeschreibung/syntaxdiagramme/konzept_syntaxdiagramm)
+
+<!--
+<p align="center"><img src="Img/Syntax_Diagramm_Regeln.jpg" width="600"  title="Abb2:Syntax-Diagramme"></p>
+-->
+### Chomsky-Hierarchie
+
