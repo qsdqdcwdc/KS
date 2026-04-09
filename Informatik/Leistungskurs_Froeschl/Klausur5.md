@@ -176,4 +176,29 @@ Syntax-Diagramme sind grafische Darstellungen von Produktionsregeln einer Sprach
 <p align="center"><img src="Img/Syntax_Diagramm_Regeln.jpg" width="600"  title="Abb2:Syntax-Diagramme"></p>
 -->
 ### Chomsky-Hierarchie
+Chomsky Hierarchie
+Die Chomsky Hierarchie ordnet formale Grammatiken nach der Form ihrer Produktionsregeln in vier Klassen(Typ 0, Typ 1, Typ 2, Typ 3). Dabei gilt: Jede Grammatik im Sinne von beschrieben obenen Viertupel **G = (V, Σ, P, S)** ist Typ-0 Grammatik. Dabei ist Typ 1 eine Spezialisierung von Typ 0, Typ 2 eine Spezialisierung von Typ 1 und Typ 3 eine Spezialisierung von Typ 2.
+
+- Typ 0: Rekursiv aufzählbare Grammatiken. Es gibt keine Einschränkung an die Produktionsregeln. Damit ist jede Grammatik automatisch auch eine Grammatik vom Typ 0.
+- Typ 1: Kontextsensitive Grammatiken. Bei einer Ableitung darf ein Ausdruck nicht kürzer werden.
+- Typ 2: Es gelten alle Einschränkungen wie für Typ 1 plus: Die linke Seite jeder Produktionsregel besteht genau aus einem einzelnen Nichtterminalsymbol.
+- Typ 3: Es gelten alle Einschränkungen wie für Typ 2 plus: Die rechte Seite einer Produktionsregel besteht aus genau einem Terminalsymbol oder aus einem Terminalsymbol gefolgt von einem Nichtterminalsymbol.
+
+Da Typ 1, Typ 2 und Typ 3 im Allgemeinen nicht verkürzend sind, können sie das leere Wort nicht direkt erzeugen.
+Deshalb lässt man als Ausnahme die Regel S→ε zu. Dies ist nur erlaubt, wenn das Startsymbol S in keiner rechten Regelseite vorkommt.
+
+### Deterministischer endlicher Automat (DEA)
+
+DEAs sind Repräsentationen von Grammatiken, die für eine beliebige Eingabe eines Wortes entscheiden, ob diese der entsprechenden Grammatik folgt oder nicht. Man sagt dann: Der Automat akzeptiert bzw. erkennt das Wort oder eben nicht.
+
+Ein DEA ist ein 5 Tupel **M = (Z, Σ, δ, z₀, E)**. Dabei gilt:
+
+- **Z** Menge aller Zustände.
+- **Σ** Eingabealphabet.
+- **z₀ ∈ Z** Startzustand.
+- **E ⊆ Z** Menge der Endzustände.
+- **δ : Z × Σ → Z** Übergangsfunktion.
+
+
+
 
