@@ -195,9 +195,9 @@ Ein DEA ist ein 5 Tupel **M = (Z, Σ, δ, z₀, E)**. Dabei gilt:
 
 - **Z** Menge aller Zustände.
 - **Σ** Eingabealphabet.
+- **δ : Z × Σ → Z** Übergangsfunktion.
 - **z₀ ∈ Z** Startzustand.
 - **E ⊆ Z** Menge der Endzustände.
-- **δ : Z × Σ → Z** Übergangsfunktion.
 
 
 
