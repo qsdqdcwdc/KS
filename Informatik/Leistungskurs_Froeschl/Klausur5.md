@@ -130,7 +130,7 @@ Eine **formale Sprache** **L** ist eine **Teilmengen** von **Σ\***,  für die e
 Eine formale Sprache kann durch eine Grammatik definiert werden. In unserem Fall verwenden wir Typ 2 Grammatik oder Kontextfreie Grammatik. Eine **kontextfreie Grammatik (KFG)** ist ein **Viertupel** (also eine geordnete Menge der Form): **G = (V, Σ, P, S)**
 Dabei gilt:
 
-- **V** ist die endliche Menge der **Nichtterminalsymbole**.  
+- **V** ist die endliche Menge der **Nichtterminalsymbole** (auch gennant Variable).  
 - **Σ** ist die endliche Menge der **Terminalsymbole** (das Alphabet).  
 - **P** ist die Menge der **Produktionsregeln**.  
 - **S ∈ V** ist das **Startsymbol**.
