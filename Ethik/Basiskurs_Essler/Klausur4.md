@@ -36,6 +36,8 @@ Wichtige Punkte des Genfer Gelöbnisses:
 - Medizinisches Wissen nicht zur Verletzung von Menschenrechten oder bürgerlichen Freiheiten einsetzen
 
 
+
+
 ### SKIP-Argumente
 
 Gutes Video: https://youtu.be/Y_xUGozo8rI?si=qeOIdzjrpzv7_ODO
