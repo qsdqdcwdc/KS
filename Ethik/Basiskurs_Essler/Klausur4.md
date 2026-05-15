@@ -1,6 +1,9 @@
 # Medizinethik
 
-[Medizinethik Youtube Playlist](https://www.youtube.com/playlist?list=PLeL4GHcX1Xq0DiXdA1s8Lt1bUM-B2QooO) 
+Ressourcen:
+- [Medizinethik Youtube Playlist](https://www.youtube.com/playlist?list=PLeL4GHcX1Xq0DiXdA1s8Lt1bUM-B2QooO)
+- [www.schule-bw.de Medizinethik](https://www.schule-bw.de/faecher-und-schularten/gesellschaftswissenschaftliche-und-philosophische-faecher/ethik/unterricht-materialien-und-medien/ethik_11_12/angewandte-ethik/medizinethik)
+
 
 Die **Medizinethik** ist ein angewandter Bereich der **Normativen Ethik**(Ethik, die ein bestimmtes Handeln
 vorschreibt), der die Praxis der **klinischen Medizin**(die unmittelbare Untersuchung, Diagnose und Behandlung von Patienten) und der damit verbundenen wissenschaftlichen Forschung analysiert.[^3]
@@ -8,7 +11,7 @@ vorschreibt), der die Praxis der **klinischen Medizin**(die unmittelbare Untersu
 ### Hippokratischer Eid
 [Video](https://youtu.be/Bh0YQHr8Y3c?si=36VzUh3-9EjJBvuG)
 
-Der **Hippokratische Eid** ist ein ärztlicher Ethik-Eid (4. Jahrhundert v. Chr.), der Ärzten moralische Grundsätze für ihr Handeln vorgibt. Er gilt als Grundlage der modernen Medizinethik, auch wenn heute meist modernisierte Versionen verwendet werden. 
+Der **Hippokratische Eid** ist ein ärztlicher Ethik-Eid (4. Jahrhundert v. Chr.), der Ärzten moralische Grundsätze für ihr Handeln vorgibt. Er gilt als Grundlage der modernen Medizinethik, auch wenn heute meist modernisierte Versionen wie das Genfer Gelöbnis verwendet werden.
 
 Wichtige Punkte von Hippokratischen Eid: 
 - Patienten nutzen und nicht schaden
