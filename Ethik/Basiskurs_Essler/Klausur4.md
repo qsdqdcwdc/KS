@@ -9,7 +9,7 @@ Die **Medizinethik** ist ein angewandter Bereich der **Normativen Ethik**(Ethik,
 vorschreibt), der die Praxis der **klinischen Medizin**(die unmittelbare Untersuchung, Diagnose und Behandlung von Patienten) und der damit verbundenen wissenschaftlichen Forschung analysiert.[^3]
 
 ### Hippokratischer Eid
-[Video](https://youtu.be/Bh0YQHr8Y3c?si=36VzUh3-9EjJBvuG)
+[Video](https://youtu.be/Bh0YQHr8Y3c?si=36VzUh3-9EjJBvuG), [Video 2](https://www.youtube.com/watch?v=dZhU0wS5aiY)
 
 Der **Hippokratische Eid** ist ein ärztlicher Ethik-Eid (4. Jahrhundert v. Chr.), der Ärzten moralische Grundsätze für ihr Handeln vorgibt. Er gilt als Grundlage der modernen Medizinethik, auch wenn heute meist modernisierte Versionen wie das Genfer Gelöbnis verwendet werden.
 
@@ -20,6 +20,20 @@ Wichtige Punkte von Hippokratischen Eid:
 - Ärztliche Schweigepflicht
 - Verbot von Schwangerschaftsabbrüchen 
 - Verbot von aktiver Sterbehilfe (durch das Verabreichen von Gift)
+
+### Genfer Gelöbnis
+[Video](https://www.youtube.com/watch?v=glmeFk5TX80&t=36s), [Text](https://flexikon.doccheck.com/de/Genfer_%C3%84rztegel%C3%B6bnis#:~:text=3.%20Deutsche,bei%20meiner%20Ehre.)
+
+Das **Genfer Gelöbnis** ist ein modernes ärztliches Gelöbnis des Weltärztebundes, das 1948 verabschiedet würde(wurde Seitdem mehrmals überarbeitet). Es legt zentrale ethische Pflichten von Ärztinnen und Ärzten fest.
+
+Wichtige Punkte des Genfer Gelöbnisses:
+- Gesundheit und Wohlergehen des Patienten als oberstes Anliegen betrachten
+- Autonomie und Würde des Patienten respektieren
+- Keine Diskriminierung von Patienten zulassen
+- Ärztliche Schweigepflicht, auch nach dem Tod des Patienten
+- Beruf mit Gewissen, Würde und nach guter medizinischer Praxis ausüben
+- Medizinisches Wissen zum Wohl der Patienten und zur Förderung der Gesundheitsversorgung teilen
+- Medizinisches Wissen nicht zur Verletzung von Menschenrechten oder bürgerlichen Freiheiten einsetzen
 
 
 ### SKIP-Argumente
