@@ -66,6 +66,12 @@ _(Ein **menschlicher Embryo** ist das frühe Entwicklungsstadium eines Menschen 
 [^2]: https://de.wikipedia.org/wiki/SKIP-Argumente
 [^3]: https://en.wikipedia.org/wiki/Medical_ethics
 
+# Modelle der Arzt-Patient-Beziehung
+- **Paternalistisches Modell**/ Eltern- oder Priestermodell: Der Arzt weiß, was medizinisch am besten ist, und trifft die Entscheidung weitgehend selbst. 
+- **Informatives Modell**wissenschaftliches/technisches/ Konsumentenmodell: Es wird angenommen Patient hat feste Wertvorstellungen. Der Arzt liefert nur Fakten, Möglichkeiten und Risiken. Der Patient entscheidet allein anhand seiner eigenen Werte. **Patientenautonomie** bedeutet hier Kontrolle des Patienten über den medizinischen Entscheidungsprozess.
+- **Deliberatives Modell**: Arzt und Patient sprechen gemeinsam über Ziele, Werte und Behandlungsmöglichkeiten. Der Arzt berät, welche Option seiner Meinung nach besser ist. **Patientenautonomie** bedeutet hier, dass der Patient durch Aufklärung und gemeinsames Nachdenken mit dem Arzt zu einer reflektierten und selbstbestimmten Entscheidung befähigt wird.
+
+
 # Natur / Umweltethik
 Ressourcen:
  [Umweltethik Youtube Playlist](https://www.youtube.com/watch?v=5ODGMtBZpLo&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc)
