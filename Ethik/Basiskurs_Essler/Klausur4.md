@@ -1,12 +1,9 @@
 # Medizinethik
 
-Ressourcen:
-- [Medizinethik Youtube Playlist](https://www.youtube.com/playlist?list=PLeL4GHcX1Xq0DiXdA1s8Lt1bUM-B2QooO)
-- [www.schule-bw.de Medizinethik](https://www.schule-bw.de/faecher-und-schularten/gesellschaftswissenschaftliche-und-philosophische-faecher/ethik/unterricht-materialien-und-medien/ethik_11_12/angewandte-ethik/medizinethik)
+Ressourcen: [Medizinethik Youtube Playlist](https://www.youtube.com/playlist?list=PLeL4GHcX1Xq0DiXdA1s8Lt1bUM-B2QooO), [www.schule-bw.de Medizinethik](https://www.schule-bw.de/faecher-und-schularten/gesellschaftswissenschaftliche-und-philosophische-faecher/ethik/unterricht-materialien-und-medien/ethik_11_12/angewandte-ethik/medizinethik)
 
 
-Die **Medizinethik** ist ein angewandter Bereich der **Normativen Ethik**(Ethik, die ein bestimmtes Handeln
-vorschreibt), der die Praxis der **klinischen Medizin**(die unmittelbare Untersuchung, Diagnose und Behandlung von Patienten) und der damit verbundenen wissenschaftlichen Forschung analysiert.[^3]
+Die **Medizinethik** ist ein angewandter Bereich der Ethik, der die Praxis der **klinischen Medizin**(die unmittelbare Untersuchung, Diagnose und Behandlung von Patienten) und der damit verbundenen wissenschaftlichen Forschung analysiert.[^3]
 
 ### Hippokratischer Eid
 [Video](https://youtu.be/Bh0YQHr8Y3c?si=36VzUh3-9EjJBvuG), [Video 2](https://www.youtube.com/watch?v=dZhU0wS5aiY)
@@ -40,7 +37,14 @@ Wichtige Punkte des Genfer Gelöbnisses:
 
 [Video](https://www.youtube.com/watch?v=-86N4JOX4NE&list=PLeL4GHcX1Xq0DiXdA1s8Lt1bUM-B2QooO&index=3)
 
-Das Vier-Prinzipien-Modell ist ein Ansatz der medizinischen Ethik. Es dient dazu, ethische Konflikte in der Medizin systematisch zu beurteilen, zum Beispiel bei schwierigen Entscheidungen über Behandlungen, Patientenwillen oder die Verteilung knapper medizinischer Ressourcen. Statt sich auf eine einzige große ethische Theorie wie Utilitarismus oder Pflichtethik zu stützen, arbeitet das Modell mit vier allgemein anerkannten moralischen Leitprinzipien. Diese Prinzipien geben keine fertigen Lösungen vor, sondern helfen dabei, medizinische Dilemmata zu strukturieren und verschiedene Interessen abzuwägen.
+Das Vier-Prinzipien-Modell ist ein Ansatz der medizinischen Ethik. Es dient dazu, ethische Konflikte in der Medizin systematisch zu beurteilen(z.B. bei schwierigen Entscheidungen über Behandlungen, Patientenwillen oder die Verteilung knapper medizinischer Ressourcen). Statt sich auf eine einzige große ethische Theorie wie Utilitarismus oder Pflichtethik zu stützen, arbeitet das Modell mit vier allgemein anerkannten moralischen Leitprinzipien. Diese Prinzipien geben keine fertigen Lösungen vor, sondern helfen dabei, medizinische Dilemmata zu strukturieren und verschiedene Interessen abzuwägen.
+
+Vier Prinzipien: 
+
+1. **Autonomie**: Der Arzt darf keine Behandlung durchführen, die der Patient nicht möchte. Der Patient soll frei von Zwang oder Manipulation entscheiden können.
+2. **Nicht-Schaden**: Der Arzt soll **Schmerzen, Behinderungen, unnötige Risiken oder den Tod zu vermeiden**. Trotzdem kann eine Behandlung kurzfristig schaden, wenn sie langfristig Leben rettet, zum Beispiel eine Amputation.
+3. **Wohltun / Fürsorge**: **Krankheiten behandeln oder verhindern, Beschwerden lindern und die Lebensqualität verbessern**. Dabei ist problematisch, dass Menschen unterschiedliche Vorstellungen davon haben, was ein gutes Leben oder gute Lebensqualität bedeutet.
+4. **Gerechtigkeit**: **begrenzte Ressourcen wie Organe, teure Behandlungen oder medizinische Versorgung gerecht zu verteilen**. Gleiche Fälle sollen gleich behandelt werden, ungleiche Fälle nur dann unterschiedlich, wenn es dafür moralisch relevante Gründe gibt.
 
 
 ### SKIP-Argumente
