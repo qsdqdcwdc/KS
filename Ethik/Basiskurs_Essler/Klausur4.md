@@ -62,15 +62,25 @@ Im Kontext der SKIP-Argumente wird die Frage nach einem unabwägbaren Recht auf 
 
 _(Ein **menschlicher Embryo** ist das frühe Entwicklungsstadium eines Menschen vom Zeitpunkt der Befruchtung der Eizelle bis zum Ende der achten Entwicklungswoche.)_
 
+# Arzt-Patient-Beziehung
+
+Unter der Arzt-Patient-Beziehung versteht man die soziale Interaktion (Beziehung) zwischen einem Arzt und dem Patienten, der sich vom Arzt beraten oder behandeln lässt. Die Regeln für die Arzt-Patient-Beziehung sind auch im Eid des Hippokrates, in der Genfer Deklaration des Weltärztebundes und in berufsethischen oder standesrechtlichen Richtlinien festgehalten.[^4]
+
+**Beziehungsmodelle**: Insgesamt gibt es drei grundlegende Hauptmodelle der Arzt-Patient-Beziehung, wobei die tatsächliche vorgefundene Beziehung auch eine Mischung aus Anteilen der verschiedenen Modelle sein kann: [^4]
+
+- **Paternalistisches Modell**/ Eltern- oder Priestermodell: traditionell, in der Medizin bis in die 80er-Jahre führend. Autorität und alleinige Entscheidung liegt beim Arzt, Behandler. Diagnosen werden gestellt, sogenannte „nicht notwendige Informationen“dem Patienten vorenthalten.Der Arzt entscheidet alleine über „die beste Behandlung“. Der Arzt redet mit dem Patienten „wie ein guter Vater“. [^5]
+- **Informatives Modell**wissenschaftliches/technisches/ Konsumentenmodell: Der Arzt hat für die umfassenden Informationen über Diagnostik und
+Behandlung den Patienten lediglich zu informieren. Grundannahme: Nur der Betroffene selbst kann die „beste“ Entscheidung treffen. Der Arzt hält sich raus aus Abwägungen und Entscheidungen des Patienten. Maximum an Selbstmanagement des Betroffenen. **Patientenautonomie** bedeutet hier Kontrolle des Patienten über den medizinischen Entscheidungsprozess. [^5]
+- **Deliberatives Modell**/Shared-Decision-Modell(SDM): Arzt und Patient sprechen gemeinsam über Ziele, Werte und Behandlungsmöglichkeiten. Entscheidungen bestehen meist aus vielen Optionen. Der Arzt kann beraten, welche Option seiner Meinung nach besser ist. **Patientenautonomie** bedeutet hier, dass der Patient durch Aufklärung und gemeinsames Nachdenken mit dem Arzt zu einer reflektierten und selbstbestimmten Entscheidung befähigt wird. [^5]
+
+
+
+
 [^1]: https://de.wikipedia.org/wiki/Menschenw%C3%BCrde
 [^2]: https://de.wikipedia.org/wiki/SKIP-Argumente
 [^3]: https://en.wikipedia.org/wiki/Medical_ethics
-
-# Modelle der Arzt-Patient-Beziehung
-- **Paternalistisches Modell**/ Eltern- oder Priestermodell: Der Arzt weiß, was medizinisch am besten ist, und trifft die Entscheidung weitgehend selbst. 
-- **Informatives Modell**wissenschaftliches/technisches/ Konsumentenmodell: Es wird angenommen Patient hat feste Wertvorstellungen. Der Arzt liefert nur Fakten, Möglichkeiten und Risiken. Der Patient entscheidet allein anhand seiner eigenen Werte. **Patientenautonomie** bedeutet hier Kontrolle des Patienten über den medizinischen Entscheidungsprozess.
-- **Deliberatives Modell**: Arzt und Patient sprechen gemeinsam über Ziele, Werte und Behandlungsmöglichkeiten. Der Arzt berät, welche Option seiner Meinung nach besser ist. **Patientenautonomie** bedeutet hier, dass der Patient durch Aufklärung und gemeinsames Nachdenken mit dem Arzt zu einer reflektierten und selbstbestimmten Entscheidung befähigt wird.
-
+[^4]: https://flexikon.doccheck.com/de/Arzt-Patient-Beziehung
+[^5]: https://dgbs.de/fileadmin/cust/jahrestagung/2014/DGBS_F_Mueller-Siecheneder_Kommunikationsformen.pdf
 
 # Natur / Umweltethik
 Ressourcen:
