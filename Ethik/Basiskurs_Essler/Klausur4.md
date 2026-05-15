@@ -41,10 +41,10 @@ Das Vier-Prinzipien-Modell ist ein Ansatz der medizinischen Ethik. Es dient dazu
 
 Vier Prinzipien: 
 
-1. **Autonomie**: Der Arzt darf keine Behandlung durchführen, die der Patient nicht möchte. Der Patient soll frei von Zwang oder Manipulation entscheiden können.
-2. **Nicht-Schaden**: Der Arzt soll **Schmerzen, Behinderungen, unnötige Risiken oder den Tod zu vermeiden**. Trotzdem kann eine Behandlung kurzfristig schaden, wenn sie langfristig Leben rettet, zum Beispiel eine Amputation.
-3. **Wohltun / Fürsorge**: **Krankheiten behandeln oder verhindern, Beschwerden lindern und die Lebensqualität verbessern**. Dabei ist problematisch, dass Menschen unterschiedliche Vorstellungen davon haben, was ein gutes Leben oder gute Lebensqualität bedeutet.
-4. **Gerechtigkeit**: **begrenzte Ressourcen wie Organe, teure Behandlungen oder medizinische Versorgung gerecht zu verteilen**. Gleiche Fälle sollen gleich behandelt werden, ungleiche Fälle nur dann unterschiedlich, wenn es dafür moralisch relevante Gründe gibt.
+1. **Prinzip er Autonomie**: Der Arzt darf keine Behandlung durchführen, die der Patient nicht möchte. Der Patient soll frei von Zwang oder Manipulation entscheiden können.
+2. **Prinzip des Nicht-Schadens**: Der Arzt soll unnötigen oder unverhältnismäßigen **Schmerzen, Behinderungen, unnötige Risiken oder den Tod von Pazienten vermeiden**. Trotzdem kann eine Behandlung kurzfristig schaden, wenn sie langfristig Leben rettet, zum Beispiel eine Amputation.
+3. **Prinzip des Wohltuns**: **Krankheiten behandeln oder verhindern, Beschwerden lindern und die Lebensqualität verbessern**. Dabei ist problematisch, dass Menschen unterschiedliche Vorstellungen davon haben, was ein gutes Leben oder gute Lebensqualität bedeutet.
+4. **Prinzip der Gerechtigkeit**: **begrenzte Ressourcen wie Organe, teure Behandlungen oder medizinische Versorgung gerecht zu verteilen**. Gleiche Fälle sollen gleich behandelt werden, ungleiche Fälle nur dann unterschiedlich, wenn es dafür moralisch relevante Gründe gibt.
 
 
 ### SKIP-Argumente
