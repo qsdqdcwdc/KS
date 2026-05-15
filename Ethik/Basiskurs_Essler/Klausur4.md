@@ -24,7 +24,7 @@ Wichtige Punkte von Hippokratischen Eid:
 ### Genfer Gelöbnis
 [Video](https://www.youtube.com/watch?v=glmeFk5TX80&t=36s), [Text](https://flexikon.doccheck.com/de/Genfer_%C3%84rztegel%C3%B6bnis#:~:text=3.%20Deutsche,bei%20meiner%20Ehre.)
 
-Das **Genfer Gelöbnis** ist ein modernes ärztliches Gelöbnis des Weltärztebundes, das 1948 verabschiedet würde(wurde Seitdem mehrmals überarbeitet). Es legt zentrale ethische Pflichten von Ärztinnen und Ärzten fest.
+Das **Genfer Gelöbnis** ist ein modernes ärztliches Gelöbnis des Weltärztebundes, das 1948 verabschiedet würde(und Seitdem mehrmals überarbeitet). Es legt zentrale ethische Pflichten von Ärztinnen und Ärzten fest.
 
 Wichtige Punkte des Genfer Gelöbnisses:
 - Gesundheit und Wohlergehen des Patienten als oberstes Anliegen betrachten
@@ -36,11 +36,16 @@ Wichtige Punkte des Genfer Gelöbnisses:
 - Medizinisches Wissen nicht zur Verletzung von Menschenrechten oder bürgerlichen Freiheiten einsetzen
 
 
+### Vier medizinethische Prinzipen
+
+[Video](https://www.youtube.com/watch?v=-86N4JOX4NE&list=PLeL4GHcX1Xq0DiXdA1s8Lt1bUM-B2QooO&index=3)
+
+Das Vier-Prinzipien-Modell ist ein Ansatz der medizinischen Ethik. Es dient dazu, ethische Konflikte in der Medizin systematisch zu beurteilen, zum Beispiel bei schwierigen Entscheidungen über Behandlungen, Patientenwillen oder die Verteilung knapper medizinischer Ressourcen. Statt sich auf eine einzige große ethische Theorie wie Utilitarismus oder Pflichtethik zu stützen, arbeitet das Modell mit vier allgemein anerkannten moralischen Leitprinzipien. Diese Prinzipien geben keine fertigen Lösungen vor, sondern helfen dabei, medizinische Dilemmata zu strukturieren und verschiedene Interessen abzuwägen.
 
 
 ### SKIP-Argumente
 
-Gutes Video: https://youtu.be/Y_xUGozo8rI?si=qeOIdzjrpzv7_ODO
+[Gutes Video](https://youtu.be/Y_xUGozo8rI?si=qeOIdzjrpzv7_ODO)
 
 Die **Menschenwürde** ist nach moderner Auffassung zum einen der Wert, der allen Menschen gleichermaßen und unabhängig von ihren Unterscheidungsmerkmalen zugeschrieben wird, und zum anderen der Wert, mit dem sich der Mensch als Art über alle anderen Lebewesen und Dinge stellt.[^1]
 
@@ -56,6 +61,10 @@ _(Ein **menschlicher Embryo** ist das frühe Entwicklungsstadium eines Menschen 
 [^1]: https://de.wikipedia.org/wiki/Menschenw%C3%BCrde
 [^2]: https://de.wikipedia.org/wiki/SKIP-Argumente
 [^3]: https://en.wikipedia.org/wiki/Medical_ethics
+
+# Natur / Umweltethik
+Ressourcen:
+ [Umweltethik Youtube Playlist](https://www.youtube.com/watch?v=5ODGMtBZpLo&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc)
 
 
 
