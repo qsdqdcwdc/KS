@@ -164,20 +164,18 @@ bios gr.= Leben
 
 **Begründet** wird dies damit, dass der Mensch Teil der Natur ist und nicht über ihr steht. Alles Lebendige ist in komplexe ökologische Zusammenhänge eingebunden. Der Wert der Natur hängt deshalb nicht allein davon ab, ob sie dem Menschen nützt.
 
-**Naturschutz-Begründung**: Wir schützen die Umwelt nicht nur wegen ihres Nutzens für den Menschen, sondern weil Ökosysteme, Arten und natürliche Prozesse selbst moralisch bedeutsam sind. Dazu gehören unter anderem:
-
-- **Eigenwert-Argument**: Natur hat einen Wert an sich, unabhängig davon, ob sie dem Menschen nützt.
-- **Ganzheitsargument**: Nicht nur einzelne Lebewesen, sondern ganze Ökosysteme, Arten und Lebensgemeinschaften sind moralisch relevant.
-- **Abhängigkeitsargument**: Der Mensch ist Teil ökologischer Systeme und kann langfristig nur überleben, wenn diese Systeme intakt bleiben.
+**Naturschutz-Begründung**: Wir schützen die Umwelt nicht nur wegen ihres Nutzens für den Menschen, sondern weil Ökosysteme, Arten und natürliche Prozesse selbst moralisch bedeutsam sind. Dazu gehören unter anderem: Natur hat einen Wert an sich, unabhängig davon, ob sie dem Menschen nützt. Nicht nur einzelne Lebewesen, sondern ganze Ökosysteme, Arten und Lebensgemeinschaften sind moralisch relevant.
 
 **Wichtige Vertreter** von Ökozentrismus: Aldo Leopold
 
 **Kritik**: Es ist schwer zu bestimmen, wie weit der moralische Wert der Natur reicht. Unklar ist auch, ob einzelne Lebewesen dem Wohl eines ganzen Ökosystems geopfert werden dürfen. Außerdem kann Ökozentrismus in Konflikt mit menschlichen Interessen geraten, etwa bei Wirtschaft, Landwirtschaft oder Infrastruktur. Kritiker meinen, dass der Ansatz den Menschen moralisch zu stark zurückstellt.
 
 
+
 ### **Holismus**
 
-https://www.youtube.com/watch?v=HbSIi7Fzjfw&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc&index=6
+
+[Video](https://www.youtube.com/watch?v=HbSIi7Fzjfw&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc&index=6)
 
  holos gr. = ganz/vollständig
  
