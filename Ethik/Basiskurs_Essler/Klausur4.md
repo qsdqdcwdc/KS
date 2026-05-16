@@ -181,9 +181,11 @@ oikos (gr.) = Haushalt
 
 **Argumentation**: Der universale Charakter der Moral verbietet es, irgendwelche Objekte aus der Moralgemeinschaft auszuschließen. 
 
-**Kritik**: Es ist kontraintuitiv, alles in der Natur Existierende direkt moralisch zu berücksichtigen. Ein moralisches Kriterium, welches auf allem Existierendem basiert, ist so umfassend, dass es praktisch nichts mehr aus der Moralgemeinschaft ausschließt. **Konvergenzhypothese**: Jedes wichtige Naturschutzziel lässt sich auch anthropozentrisch begründen (Diese Kritik punkt gilt auch für alle anderen nicht antropozentrischen Ansatzen). 
-
 **Gleichheitsgrundsatz**: Gleiches ist gemäß seiner Gleichheit gleich zu behandeln, Verschiedenes je nach Art
 der Verschiedenheit verschieden.
 
 **Oberste Moralprinzip der holistischen Ethik** Gorkes besagt: „Instrumentalisiere andere Wesen und Gesamtsysteme so wenig und schonend wie möglich!"
+
+**Kritik**: Es ist kontraintuitiv, alles in der Natur Existierende direkt moralisch zu berücksichtigen. Ein moralisches Kriterium, welches auf allem Existierendem basiert, ist so umfassend, dass es praktisch nichts mehr aus der Moralgemeinschaft ausschließt. **Konvergenzhypothese**: Jedes wichtige Naturschutzziel lässt sich auch anthropozentrisch begründen (Diese Kritik punkt gilt auch für alle anderen nicht antropozentrischen Ansatzen). 
+
+
