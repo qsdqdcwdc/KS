@@ -189,3 +189,58 @@ der Verschiedenheit verschieden.
 **Kritik**: Es ist kontraintuitiv, alles in der Natur Existierende direkt moralisch zu berücksichtigen. Ein moralisches Kriterium, welches auf allem Existierendem basiert, ist so umfassend, dass es praktisch nichts mehr aus der Moralgemeinschaft ausschließt. **Konvergenzhypothese**: Jedes wichtige Naturschutzziel lässt sich auch anthropozentrisch begründen (Diese Kritik punkt gilt auch für alle anderen nicht antropozentrischen Ansatzen). 
 
 
+# Fallanalyse
+
+1) Situationsbeschreibung  
+• Welches Problem liegt vor?  
+Feststellung der äußeren Fakten  
+• Wer ist in den Fall direkt oder indirekt verwickelt  
+(Einzelpersonen, Gruppen, Institutionen)?  
+⇨ Fertige eine Skizze an, in der alle Einzelheiten anschaulich festgehalten werden.
+
+2) Interessenanalyse  
+• Welche Interessen verfolgen die Einzelpersonen / Institutionen?  
+(subjektive Interessen, Wünsche, Vorlieben)  
+• Welche Rollenerwartungen bestehen?  
+• Welche Interessenkonflikte treten auf?  
+⇨ Trage dies in die Skizze ein.
+
+3) Abwägen der Verhaltensalternativen  
+• Kalkulation wahrscheinlicher Handlungsfolgen – kurz- und langfristig  
+• Feststellung der vorhandenen Mittel, ihre Anwendbarkeit und Verhältnismäßigkeit
+
+4) Normenanalyse und moraltheoretische Analyse  
+
+a) Normenanalyse:  
+Prüfung, ob hinter den subjektiven Interessen allgemeine Normen / Werte stehen.  
+(Rechte und Pflichten) – Reflexion der Wertmaßstäbe  
+• Feststellung der relevanten Werte und Normen, Gewichtung der Normen  
+• Frage der Verallgemeinerbarkeit und Situationsgerechtigkeit  
+• Welche Normenkonflikte treten auf?  
+⇨ Kennzeichne dies mit ● / △ / ⚡ oder ähnlichem in der Skizze kennzeichnen
+
+b) Moraltheoretische Analyse  
+Analyse des Falls aus der Sicht ethischer Positionen  
+(z. B. Kantianer, Utilitarist, Gefühlsethiker, Verantwortungsethiker...)
+
+| Utilitarist | Kantianer |
+|---|---|
+| Abwägung Freude vs Leid | Formuliere die Maximen/Motive |
+| ⇨ Folgen, Nutzen, Interessenabwägung | Prüfe mit dem kategorischen Imperativ in allen Formen |
+| ⇨ Tipp: Regel- vs Handlungsutilitarismus | Grundformen |
+|  | Naturgesetz-Formel |
+|  | Menschheits-Zweck-Formel |
+
+teleologisch, Folgen ↔ Motive, deontologisch
+
+⇨ Formuliere Widersprüche zwischen den Positionen und innerhalb.
+
+5) Güterabwägung  
+Welche Gründe bzw. Argumente sind gewichtiger, wiegen schwerer?  
+Was wiegt auf der Seite der Pflichten schwerer?  
+⇨ Unterstreiche diese in der Skizze.
+
+6) Urteil  
+Formuliere dein abschließendes Urteil in Textform.
+
+
