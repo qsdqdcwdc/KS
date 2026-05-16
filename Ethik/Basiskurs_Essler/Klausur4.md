@@ -150,39 +150,42 @@ bios gr.= Leben
 
 **Kernthese**: Alles, was lebt, hat einen moralischen Eigenwert. Egal ob Mensch, Tier, Pflanze oder Mikrobe.
 
-**Argumentation**: Jedes Lebewesen hat einen „Willen zum Leben“ oder ist ein „teleologisches (zielgerichtetes) Zentrum des Lebens“. Wachstum und Selbsterhaltung sind schützenswert.
-
-**Konsequenz**: Auch das Zertreten einer Blume oder das unnötige Fällen eines Baumes bedarf einer moralischen Rechtfertigung.
+**Begründung**: Jedes Lebewesen hat einen „Willen zum Leben“ oder ist ein „teleologisches (zielgerichtetes) Zentrum des Lebens“. Wachstum und Selbsterhaltung sind schützenswert. Auch das Zertreten einer Blume oder das unnötige Fällen eines Baumes bedarf einer moralischen Rechtfertigung.
 
 **Wichtige Vertreter**: Albert Schweitzer („Ehrfurcht vor dem Leben“).
+
+**Egalitärer Biozentrismus**: Keine Werthierarchie von Lebewesen
+
+**Kritik**: Es wird behauptet, dass Biozentrismus nicht gut genug erklärt, warum Lebewesen sich Eigenwert hat. Eine Ethik, die jedes einzelne Lebewesen direkt moralisch berücksichtigt, ist sehr schwer umsetzbar und widerspricht unserer moralischen Intuition.
 
 ### Ökozentrismus
 
 [Video](https://www.youtube.com/watch?v=YAL_Kq6SdAw&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc&index=5)
 
-**Kernthese**: Nicht nur der Mensch, sondern die gesamte Natur bzw. Ökosysteme haben einen moralischen Eigenwert. Tiere, Pflanzen, Landschaften und ökologische Zusammenhänge sind nicht nur nützlich für den Menschen, sondern um ihrer selbst willen schützenswert.
+oikos (gr.) = Haushalt
+**Ökosystem**: Lebensgemeinschaft von Organismen mehrerer Arten und ihrer unbelebten Umwelt Ganzheit
 
-**Begründet** wird dies damit, dass der Mensch Teil der Natur ist und nicht über ihr steht. Alles Lebendige ist in komplexe ökologische Zusammenhänge eingebunden. Der Wert der Natur hängt deshalb nicht allein davon ab, ob sie dem Menschen nützt.
+**Kernthese**: Ökosysteme  besitzen einen Eigenwert, der über dem Wert ihrer Bestandteile liegt. Das Wohl einzelner Organismen ist dem Wohl der Ganzheit untergeordnet. 
 
-**Naturschutz-Begründung**: Wir schützen die Umwelt nicht nur wegen ihres Nutzens für den Menschen, sondern weil Ökosysteme, Arten und natürliche Prozesse selbst moralisch bedeutsam sind. Dazu gehören unter anderem: Natur hat einen Wert an sich, unabhängig davon, ob sie dem Menschen nützt. Nicht nur einzelne Lebewesen, sondern ganze Ökosysteme, Arten und Lebensgemeinschaften sind moralisch relevant.
+**Begründet** wird dies mit der Vorstellung, dass alle Bestandteile der Natur miteinander verbunden sind und nur als Ganzes funktionieren. Menschen sind nicht Herrscher über die Natur, sondern nur Mitglieder einer biotischen Gemeinschaft.
 
-**Wichtige Vertreter** von Ökozentrismus: Aldo Leopold
-
-**Kritik**: Es ist schwer zu bestimmen, wie weit der moralische Wert der Natur reicht. Unklar ist auch, ob einzelne Lebewesen dem Wohl eines ganzen Ökosystems geopfert werden dürfen. Außerdem kann Ökozentrismus in Konflikt mit menschlichen Interessen geraten, etwa bei Wirtschaft, Landwirtschaft oder Infrastruktur. Kritiker meinen, dass der Ansatz den Menschen moralisch zu stark zurückstellt.
-
-
+**Kritik**: Es ist unklar, was genau ein Ökosystem ist und wo es beginnt oder endet. Ein Wald, ein See, ein Ozean oder sogar ein verrottender Baumstamm können als Ökosystem bezeichnet werden. Deshalb ist es schwierig, einem bestimmten Ökosystem einen klaren Eigenwert zuzuschreiben. Außerdem wird kritisiert, dass der Ökozentrismus vom Sein auf ein Sollen schließt: Nur weil Ökosysteme existieren, folgt daraus nicht automatisch, dass sie moralischen Eigenwert haben. Die stärkste Kritik lautet: Wenn Ganzheiten wichtiger sind als Einzelwesen, könnten Menschen oder Tiere geopfert werden, um ein Ökosystem zu schützen. Das kann zu menschenfeindlichen oder „ökofaschistischen“ Konsequenzen führen. Auch bedrohte Arten wären nicht automatisch schützenswert, wenn ihr Verschwinden dem Ökosystem kaum schadet.
 
 ### **Holismus**
 
-
 [Video](https://www.youtube.com/watch?v=HbSIi7Fzjfw&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc&index=6)
 
- holos gr. = ganz/vollständig
+ holos (gr.) = ganz, vollständig
  
-**Kernthese**: Nicht nur Individuen, sondern das gesamte Ökosystem, Arten und die unbelebte Natur (Berge, Flüsse, die Erde als Ganzes) haben einen Eigenwert.
+**Kernthese**: Individuen und das gesamte Ökosystem, Arten und die unbelebte Natur (Berge, Flüsse, die Erde als Ganzes) haben einen Eigenwert. Alles Existierende muss direkt moralisch berücksichtigt werden. Zwischen den unterschiedlichen Wesen muss es Differenzierungen/Untärschiede geben, was die Stärke den Gebote und Verbote anbelangt.
 
-**Argumentation**: Die Natur ist ein vernetztes System. Die Ganzheit steht über dem Einzelteil.
-
-**Konsequenz**: Radikaler Naturschutz. Ein Individuum darf geopfert werden, wenn es dem Erhalt der Art oder des Ökosystems dient. => Echter Gegensatz zum Anthropozentrismus.
+**Argumentation**: Der universale Charakter der Moral verbietet es, irgendwelche Objekte aus der Moralgemeinschaft auszuschließen. 
 
 **Wichtige Vertreter**: Paul Taylor
+
+**Kritik**: Es ist kontraintuitiv, alles in der Natur Existierende direkt moralisch zu berücksichtigen. Ein moralisches Kriterium, welches auf allem Existierendem basiert, ist so umfassend, dass es praktisch nichts mehr aus der Moralgemeinschaft ausschließt. **Konvergenzhypothese**: Jedes wichtige Naturschutzziel lässt sich auch anthropozentrisch begründen (Diese Kritik punkt gilt auch für alle anderen antropozentrischen Ansatzen). 
+
+**Gleichheitsgrundsatz**: Gleiches ist gemäß seiner Gleichheit gleich zu behandeln, Verschiedenes je nach Art
+der Verschiedenheit verschieden.
+
+**Oberste Moralprinzip der holistischen Ethik** Gorkes besagt: „Instrumentalisiere andere Wesen und Gesamtsysteme so wenig und schonend wie möglich!"
