@@ -104,6 +104,8 @@ Ressourcen:
 
 ### Antropozetrismus
 
+[Video](https://www.youtube.com/watch?v=spNMl4F86PQ&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc&index=2)
+
 anthropos (gr.) = Mensch
 
 **Kernthese**: Nur der Mensch hat einen moralischen Eigenwert und bestimmt, was für ihn von Wert ist. Die Natur hat lediglich einen instrumentellen Wert (Nutzen für den Menschen). Daraus folgt, dass moralische Pflichten nur gegenüber Menschen bestehen.
@@ -120,5 +122,69 @@ anthropos (gr.) = Mensch
 **Kritik**: Es wird bezweifelt, dass der Mensch sich wesentlich von dem Tier unterscheidet. Bevorzugung von Artgenossen wird auch als **Speziesismus** von Peter Singer kritisiert, ähnlich zu dem Rassismus und Sexismus. Anthropozentrismus wurde Ausbeutung von Tieren, Pflanzen und ganzen Ökosystemen erlauben, solange diese Ausbeutung dem Menschen nicht schadet. Ein solcher Umgang mit der Natur widerspricht dem moralischen Intuition vieler Menschen.
 
 
+### **Pathozentrismus**
+
+[Video](https://www.youtube.com/watch?v=NsSOLDeXtjg&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc&index=3)
+
+pathos (gr.) = Leid/Gefühl
+
+**Kernthese**: Alle empfindungsfähigen Wesen haben einen moralischen Eigenwert. Höhere Tiere (Wirbeltiere) rücken in den Fokus. Vegetarismus oder das Verbot von Tierversuchen sind klassische Forderungen.
+
+**Begründung**: Die Grenze der Moral verläuft nicht an der Vernunft, sondern an der Fähigkeit, Schmerz zu empfinden. Wer leiden kann, dessen Interessen müssen berücksichtigt werden.
+
+**Wichtige Vertreter**: Peter Singer (Präferenzutilitarismus), Jeremy Bentham („Können sie leiden?“).
+
+Kriterien für die Zuschreibung von **Schmerzempfindungen**:
+- Ausdrucksverhalten und Lautbildung
+- Veränderung der Verhaltensroutinen
+- Beschleunigung der Herz- und Atemfrequenz
+- Morphologische/ neurophysiologische
+Bedingungen (Nozizeptoren/ bestimmte
+Hirnareale) zur Verarbeitung schädigender Reize
+
+### **Biozentrismus**
+
+[Video](https://www.youtube.com/watch?v=7YdJOqPJhgs&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc&index=4)
+
+bios gr.= Leben
+
+**Kernthese**: Alles, was lebt, hat einen moralischen Eigenwert. Egal ob Mensch, Tier, Pflanze oder Mikrobe.
+
+**Argumentation**: Jedes Lebewesen hat einen „Willen zum Leben“ oder ist ein „teleologisches (zielgerichtetes) Zentrum des Lebens“. Wachstum und Selbsterhaltung sind schützenswert.
+
+**Konsequenz**: Auch das Zertreten einer Blume oder das unnötige Fällen eines Baumes bedarf einer moralischen Rechtfertigung.
+
+**Wichtige Vertreter**: Albert Schweitzer („Ehrfurcht vor dem Leben“).
+
+### Ökozentrismus
+
+[Video](https://www.youtube.com/watch?v=YAL_Kq6SdAw&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc&index=5)
+
+**Kernthese**: Nicht nur der Mensch, sondern die gesamte Natur bzw. Ökosysteme haben einen moralischen Eigenwert. Tiere, Pflanzen, Landschaften und ökologische Zusammenhänge sind nicht nur nützlich für den Menschen, sondern um ihrer selbst willen schützenswert.
+
+**Begründet** wird dies damit, dass der Mensch Teil der Natur ist und nicht über ihr steht. Alles Lebendige ist in komplexe ökologische Zusammenhänge eingebunden. Der Wert der Natur hängt deshalb nicht allein davon ab, ob sie dem Menschen nützt.
+
+**Naturschutz-Begründung**: Wir schützen die Umwelt nicht nur wegen ihres Nutzens für den Menschen, sondern weil Ökosysteme, Arten und natürliche Prozesse selbst moralisch bedeutsam sind. Dazu gehören unter anderem:
+
+- **Eigenwert-Argument**: Natur hat einen Wert an sich, unabhängig davon, ob sie dem Menschen nützt.
+- **Ganzheitsargument**: Nicht nur einzelne Lebewesen, sondern ganze Ökosysteme, Arten und Lebensgemeinschaften sind moralisch relevant.
+- **Abhängigkeitsargument**: Der Mensch ist Teil ökologischer Systeme und kann langfristig nur überleben, wenn diese Systeme intakt bleiben.
+
+**Wichtige Vertreter** von Ökozentrismus: Aldo Leopold
+
+**Kritik**: Es ist schwer zu bestimmen, wie weit der moralische Wert der Natur reicht. Unklar ist auch, ob einzelne Lebewesen dem Wohl eines ganzen Ökosystems geopfert werden dürfen. Außerdem kann Ökozentrismus in Konflikt mit menschlichen Interessen geraten, etwa bei Wirtschaft, Landwirtschaft oder Infrastruktur. Kritiker meinen, dass der Ansatz den Menschen moralisch zu stark zurückstellt.
 
 
+### **Holismus**
+
+https://www.youtube.com/watch?v=HbSIi7Fzjfw&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc&index=6
+
+ holos gr. = ganz/vollständig
+ 
+**Kernthese**: Nicht nur Individuen, sondern das gesamte Ökosystem, Arten und die unbelebte Natur (Berge, Flüsse, die Erde als Ganzes) haben einen Eigenwert.
+
+**Argumentation**: Die Natur ist ein vernetztes System. Die Ganzheit steht über dem Einzelteil.
+
+**Konsequenz**: Radikaler Naturschutz. Ein Individuum darf geopfert werden, wenn es dem Erhalt der Art oder des Ökosystems dient. => Echter Gegensatz zum Anthropozentrismus.
+
+**Wichtige Vertreter**: Paul Taylor
