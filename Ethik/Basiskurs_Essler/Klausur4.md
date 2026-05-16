@@ -3,7 +3,7 @@
 Ressourcen: [Medizinethik Youtube Playlist](https://www.youtube.com/playlist?list=PLeL4GHcX1Xq0DiXdA1s8Lt1bUM-B2QooO), [www.schule-bw.de Medizinethik](https://www.schule-bw.de/faecher-und-schularten/gesellschaftswissenschaftliche-und-philosophische-faecher/ethik/unterricht-materialien-und-medien/ethik_11_12/angewandte-ethik/medizinethik)
 
 
-Die **Medizinethik** ist ein angewandter Bereich der Ethik, der die Praxis der **klinischen Medizin**(die unmittelbare Untersuchung, Diagnose und Behandlung von Patienten) und der damit verbundenen wissenschaftlichen Forschung analysiert.[^3]
+Die **Medizinethik** ist ein angewandter Bereich der angewandte Ethik, der die Praxis der **klinischen Medizin**(die unmittelbare Untersuchung, Diagnose und Behandlung von Patienten) und der damit verbundenen wissenschaftlichen Forschung analysiert.[^3]
 
 ### Hippokratischer Eid
 [Video](https://youtu.be/Bh0YQHr8Y3c?si=36VzUh3-9EjJBvuG), [Video 2](https://www.youtube.com/watch?v=dZhU0wS5aiY)
@@ -84,7 +84,41 @@ Behandlung den Patienten lediglich zu informieren. Grundannahme: Nur der Betroff
 
 # Natur / Umweltethik
 Ressourcen:
- [Umweltethik Youtube Playlist](https://www.youtube.com/watch?v=5ODGMtBZpLo&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc)
+ [Umweltethik Youtube Playlist](https://www.youtube.com/watch?v=5ODGMtBZpLo&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc), [www.schule-bw.de Naturethik](https://www.schule-bw.de/faecher-und-schularten/gesellschaftswissenschaftliche-und-philosophische-faecher/ethik/unterricht-materialien-und-medien/ethik_11_12/angewandte-ethik/naturethik/naturethik-klasse-11-13-biologie)
+
+
+### Grundbegriffe
+
+[Video](https://www.youtube.com/watch?v=5ODGMtBZpLo&list=PLeL4GHcX1Xq3MJRuoG_ycnsnn4oDGWwIc&index=1)
+
+- **Natur**: Etwas, was nicht von Menschen geschaffen wurde. Es ist umstritten, ob Menschen zur Natur gehören. Wenn man sagen will, dass Menschen Teil der Natur sind, aber trotzdem nur die Natur ohne Menschen meint, sagt man **außermenschliche Natur**.
+- **Umwelt** ist das außermenschliche Natur. Falls unter Natur sowieso Menschen nicht verstanden wurden, dann ist Natur und Umwelt Synonym.
+- **Ökologie** ist die wissenschaftliche Lehre von den Beziehungen zwischen Lebewesen und zu ihrer unbelebten Umwelt. Etwas ist **ökologisch**, wenn es schönend mit Umweltressourcen umgeht.
+- **Umwelteethik** ist ein Bereich der angewandten Ethik, der sich mit „Natur“ beschäftigt.
+- **Artefakt**: Etwas physisches, was von Menschen geschaffen wurde.
+- **Kulurt**: Alles, was von Menschen geschaffen wurde. (Gesamtheit und der geistlichen und künstlerischen Erschaffungen und alle Artefakte).
+
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/8d121bb2-b11f-4456-baf9-1b75ded52169" />
+
+
+### Antropozetrismus
+
+anthropos (gr.) = Mensch
+
+**Kernthese**: Nur der Mensch hat einen moralischen Eigenwert und bestimmt, was für ihn von Wert ist. Die Natur hat lediglich einen instrumentellen Wert (Nutzen für den Menschen). Daraus folgt, dass moralische Pflichten nur gegenüber Menschen bestehen.
+ 
+**Begründet** wird dies mit der Überlegenheit des Menschen, da anscheinend nur er über Vernunft und Sprache verfügt. Im Kontext mancher Religionen gilt der Mensch zudem als Ebenbild Gottes und Krone der Schöpfung, deshalb wird allein ihm moralischer Wert zugeschrieben. 
+
+**Naturschutz-Begründung**: Wir schützen die Umwelt nicht um ihrer selbst willen, sondern weil die Natur für den Menschen nützlich ist. Dazu gehören unter anderem:
+- **Basic-Need-Argument**: Die Natur sichert unsere Lebensgrundlagen, etwa sauberes Wasser, reine Luft und ein stabiles Klima.
+- **Ästhetisches Argument**: Natur kann Quelle angenehmer körperlicher und seelischer Empfindungen sein.
+- **Pädagogisches Argument / Verrohungsargument**: Ein grausamer oder respektvoller Umgang mit der Natur wirkt sich negativ bzw. positiv auf den Umgang mit anderen Menschen aus.
+
+**Wichtige Vertreter** von Antropozetrismus: Immanuel Kant
+
+**Kritik**: Es wird bezweifelt, dass der Mensch sich wesentlich von dem Tier unterscheidet. Bevorzugung von Artgenossen wird auch als **Speziesismus** von Peter Singer kritisiert, ähnlich zu dem Rassismus und Sexismus. Anthropozentrismus wurde Ausbeutung von Tieren, Pflanzen und ganzen Ökosystemen erlauben, solange diese Ausbeutung dem Menschen nicht schadet. Ein solcher Umgang mit der Natur widerspricht dem moralischen Intuition vieler Menschen.
+
 
 
 
